@@ -1213,6 +1213,124 @@ main {
   }
 }
 
+.section-benefit {
+  padding: 90px 16px;
+  background: #EAF0FD;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+
+  @media only screen and (max-width: 768px) {
+    padding: 37px 16px;
+  }
+
+  .section-benefit-content {
+    max-width: 1235px;
+    width: 100%;
+    margin: 0 auto;
+    background: $white;
+    border-radius: 50px;
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 95px;
+    align-items: flex-start;
+    justify-content: space-between;
+
+    @media only screen and (max-width: 991px) {
+      flex-direction: column;
+      padding: 50px 50px 50px 50px;
+      border-radius: 50px;
+      gap: 0;
+    }
+
+    @media only screen and (max-width: 768px) {
+      padding: 50px 50px 50px 50px;
+      border-radius: 50px;
+    }
+  }
+
+  .section-benefit-title {
+    font-family: "Barlow", sans-serif;
+    font-weight: 700;
+    font-size: 37.5px;
+    line-height: 1.3;
+    color: $text;
+    margin: 0;
+    max-width: 234px;
+    width: 100%;
+
+    @media only screen and (max-width: 991px) {
+      max-width: 100%;
+      margin-bottom: 40px;
+    }
+
+    @media only screen and (max-width: 768px) {
+      margin-bottom: 24px;
+    }
+  }
+
+  .benefit-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+    max-width: 752px;
+    width: 100%;
+
+    @media only screen and (max-width: 991px) {
+      max-width: 100%;
+      gap: 24px;
+    }
+  }
+
+  .benefit-list {
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+
+    @media only screen and (max-width: 768px) {
+      gap: 29px;
+    }
+  }
+
+  .benefit-icon {
+    width: 87px;
+    height: 87px;
+    flex-shrink: 0;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
+    }
+  }
+
+  .benefit-text {
+    font-family: "Noto Serif", serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.584;
+    color: $text;
+    margin: 0;
+  }
+
+  .benefit-footer-text {
+    font-family: "Noto Serif", serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.267;
+    color: $text;
+    text-align: right;
+    margin: 0;
+    margin-top: 10px;
+
+    @media only screen and (max-width: 991px) {
+      margin-top: 0;
+    }
+  }
+}
+
 .testimonials-section {
   padding: 80px 0;
   background: $main-gray;
