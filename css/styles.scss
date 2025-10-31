@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 /*colors*/
 $red: #FF0000;
 $red-hover: #FF0000D6;
@@ -14,10 +14,12 @@ $background-gray: #282828;
 $brand-color: #cd2a2a;
 
 $gray: #c8c8c7;
-$brand-color: #cd2a2a;
+$brand-color: #2b6cef;
 $main-gray: #363636;
 $white: #fff;
 $light-grey: #ebebeb;
+$text: #020a1a;
+$title: #020202;
 
 
 * {
@@ -25,14 +27,14 @@ $light-grey: #ebebeb;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
+  font-family: "Montserrat", sans-serif;
   list-style: none;
   text-decoration: none;
   //outline: 1px solid red;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Barlow", sans-serif;
   color: $background-gray;
 }
 
@@ -203,7 +205,7 @@ body {
 
 header {
   backdrop-filter: blur(24px);
-  background: $main-gray;
+  background: $white;
   position: relative;
   z-index: 99;
 
@@ -214,16 +216,16 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 16px 16px 16px 16px;
+    padding: 14px 16px 14px 16px;
 
     @media only screen and (max-width: 991px) {
       justify-content: flex-start;
     }
 
     .left-content {
-      max-width: 1440px;
+      max-width: 721px;
       width: 100%;
-      margin: 0 auto;
+      //margin: 0 auto;
       display: flex;
       justify-content: flex-end;
       align-items: center;
@@ -234,25 +236,26 @@ header {
     }
 
     .logo {
-      height: 46px;
+      height: 24px;
 
       @media only screen and (max-width: 991px) {
-        height: 36px;
+        height: 24px;
+
       }
 
       a {
         display: block;
-        height: 46px;
+        height: 24px;
 
         @media only screen and (max-width: 991px) {
-          height: 36px;
+          height: 24px;
         }
 
         img {
-          height: 46px;
+          height: 24px;
 
           @media only screen and (max-width: 991px) {
-            height: 36px;
+            height: 24px;
           }
         }
       }
@@ -280,24 +283,28 @@ header {
             width: 100%;
 
             @media only screen and (max-width: 991px) {
-            display: none;
+              display: none;
             }
           }
 
           .nav-btn {
+            padding-left: 20px;
+            border-left: 3px solid rgba(179, 203, 249, 0.5);
             .button-survey {
               a {
                 color: $white;
                 //max-width: 121px;
                 //width: 121px;
                 //height: 28px;
-                border-radius: 99px;
+                border-radius: 30px;
                 display: flex;
                 align-items: center;
                 justify-content: center;
                 padding: 12px 16px;
                 text-decoration: none;
-                font-size: 12px;
+                font-weight: 700;
+                font-size: 16px;
+                line-height: 183%;
 
                 &:hover {
                   text-decoration: underline;
@@ -309,6 +316,7 @@ header {
                 }
               }
             }
+
           }
 
           .li {
@@ -316,6 +324,7 @@ header {
             text-align: center;
             position: relative;
             padding: 0;
+
 
             &:last-child {
               padding: 0;
@@ -328,10 +337,12 @@ header {
             }
 
             a {
-              font-weight: 400;
-              font-size: 16px;
-              line-height: 100%;
-              color: $white;
+              font-weight: 500;
+              font-size: 12px;
+              line-height: 120%;
+              letter-spacing: 0.02em;
+              text-transform: uppercase;
+              color: $text;
               padding: 6px 12px;
               white-space: nowrap;
 
@@ -467,13 +478,13 @@ header {
 
 
     h1 {
-      max-width: 386px;
-      margin-bottom: 24px;
+      max-width: 649px;
+      margin-bottom: 15px;
       width: 100%;
       font-weight: 700;
-      font-size: 36px;
-      line-height: 100%;
-      color: $background-gray;
+      font-size: 45px;
+      line-height: 130%;
+      color: $text;
 
       @media only screen and (max-width: 991px) {
         font-weight: 700;
@@ -530,12 +541,12 @@ header {
 
     p {
       font-weight: 400;
-      font-size: 22px;
-      line-height: 118%;
-      margin-bottom: 100px;
-      max-width: 487px;
+      font-size: 19px;
+      line-height: 155%;
+      margin-bottom: 40px;
+      max-width: 649px;
       width: 100%;
-      color: #fff;
+      color: $text;
 
       @media only screen and (max-width: 768px) {
         font-size: 22px;
@@ -553,23 +564,20 @@ header {
       }
 
       a {
-        border-radius: 8px;
+        border-radius: 30px;
         display: flex;
         align-items: center;
         justify-content: center;
         background: $brand-color;
         text-decoration: none;
-
-        line-height: 100%;
-
-
-        font-weight: 400;
-        font-size: 16px;
         letter-spacing: -0.01em;
         color: $white;
-        max-width: 282px;
         width: 100%;
-        padding: 6.5px 8px;
+        padding: 0 12px;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 183%;
+        height: 40px;
 
         &:hover {
           //background: $red-hover;
@@ -1286,17 +1294,17 @@ main {
         justify-content: center;
         flex-shrink: 0;
         width: 141px !important;
-        
+
         @media only screen and (max-width: 480px) {
           width: 93.36px !important;
         }
-        
+
         img {
           width: 141px;
           height: 141px;
           object-fit: cover;
           display: block;
-          
+
           @media only screen and (max-width: 480px) {
             width: 93.36px;
             height: 93.36px;
@@ -1380,7 +1388,7 @@ main {
     font-weight: 700;
     font-size: 16px;
     gap: 8px;
-    
+
     @media only screen and (max-width: 768px) {
       height: 32px;
     }
@@ -3571,7 +3579,7 @@ main {
   align-items: center;
   justify-content: space-between;
   gap: 55px;
-  padding:46px 16px;
+  padding: 46px 16px;
   max-width: 1232px;
   margin: 0 auto;
   background: $background-gray;
