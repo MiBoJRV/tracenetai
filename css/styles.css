@@ -294,13 +294,18 @@ header .content .button-survey a:hover {
 .banner .banner-image {
   width: 100%;
   height: auto;
-  max-width: 690px;
+  max-width: 462px;
+  overflow: hidden;
 }
 @media only screen and (max-width: 991px) {
   .banner .banner-image {
     max-height: 1172px;
     top: 0;
   }
+}
+.banner .banner-image video {
+  height: 462px;
+  width: auto;
 }
 .banner .banner-image img {
   width: 100%;
@@ -344,7 +349,7 @@ header .content .button-survey a:hover {
   }
 }
 .banner-content .banner-text {
-  max-width: 510px;
+  max-width: 648px;
   min-width: 386px;
 }
 @media only screen and (max-width: 991px) {
@@ -557,6 +562,7 @@ header .content .button-survey a:hover {
   padding: 0 16px;
   margin: 0 auto;
   overflow: hidden;
+  background: #f7f8fb;
   /* for testing purposes to ensure the animation lined up correctly */
 }
 .banner .logo-slider .logo-slider-wrap {
