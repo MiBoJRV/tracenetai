@@ -239,6 +239,13 @@ function initContactForm() {
 
     // Show error message
     function showError(field, message) {
+        // Don't show error if field hasn't been touched by user
+        const fieldId = field.id;
+        const fieldName = Object.keys(fields).find(key => fields[key] === field);
+        if (fieldName && !fieldTouched[fieldName]) {
+            return;
+        }
+        
         const formGroup = field.closest('.form-group');
         const errorDiv = formGroup ? formGroup.querySelector('.error-message') : null;
             
@@ -324,25 +331,42 @@ function initContactForm() {
     // Add event listeners for phone field with intlTelInput
     // Use a flag to track if initialization events are complete
     let phoneInitEventsProcessed = false;
+    let initialPhoneValue = phoneInput ? phoneInput.value : '';
+    
     setTimeout(() => {
         phoneInitEventsProcessed = true;
-    }, 300);
+        // Store the initial value after init is complete
+        initialPhoneValue = phoneInput ? phoneInput.value : '';
+    }, 500);
     
     if (phoneInput) {
+        // Track if user has actually typed (not just init events)
+        let userHasTyped = false;
+        
         phoneInput.addEventListener('input', function() {
-            // Only validate after initialization events are processed and user actually types
-            if (phoneInitEventsProcessed && this.value.trim()) {
+            // Check if this is actual user input (value changed from initial or user started typing)
+            const currentValue = this.value.trim();
+            const isUserInput = phoneInitEventsProcessed && (
+                currentValue !== initialPhoneValue || 
+                userHasTyped ||
+                (currentValue.length > 0 && initialPhoneValue.length === 0)
+            );
+            
+            if (isUserInput) {
+                userHasTyped = true;
                 fieldTouched['phone'] = true;
                 validateField('phone', this.value);
-            } else if (phoneInitEventsProcessed && !this.value.trim() && fieldTouched['phone']) {
-                // If user cleared the field, still validate
+            } else if (phoneInitEventsProcessed && fieldTouched['phone']) {
+                // If field was touched but user cleared it
                 validateField('phone', this.value);
             }
             updateButtonState();
         });
+        
         phoneInput.addEventListener('blur', function() {
-            // Only mark as touched if user actually entered something
-            if (this.value.trim()) {
+            // Only mark as touched and validate if user actually entered something
+            if (this.value.trim() && phoneInitEventsProcessed) {
+                userHasTyped = true;
                 fieldTouched['phone'] = true;
                 validateField('phone', this.value);
             } else if (fieldTouched['phone']) {
@@ -351,6 +375,7 @@ function initContactForm() {
             }
             updateButtonState();
         });
+        
         phoneInput.addEventListener('countrychange', function() {
             // Only validate if field was already touched by user (not during init)
             if (phoneInitEventsProcessed && fieldTouched['phone']) {
