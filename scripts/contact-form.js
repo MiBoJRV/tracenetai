@@ -91,6 +91,10 @@ function initContactForm() {
         return;
     }
 
+    // Initially disable button
+    submitButton.disabled = true;
+    submitButton.classList.add('disabled');
+
     // Initialize phone input
     const phoneInput = document.getElementById('phone');
     let iti = null;
@@ -99,6 +103,9 @@ function initContactForm() {
         if (!phoneInput) return;
         if (window.intlTelInput) {
             if (phoneInput.classList.contains('iti-initialized')) return;
+            
+            // Find or create the phone input wrapper
+            const phoneInputWrapper = phoneInput.closest('.phone-input-wrapper') || phoneInput.parentElement;
             
             iti = window.intlTelInput(phoneInput, {
                 loadUtils: () => import("https://cdn.jsdelivr.net/npm/intl-tel-input@25.3.2/build/js/utils.js"),
@@ -111,6 +118,7 @@ function initContactForm() {
                 },
                 strictMode: true,
                 separateDialCode: true,
+                utilsScript: "https://cdn.jsdelivr.net/npm/intl-tel-input@25.3.2/build/js/utils.js"
             });
             phoneInput.classList.add('iti-initialized');
         } else {
@@ -121,75 +129,58 @@ function initContactForm() {
 
     const fields = {
         firstName: form.querySelector('input[name="first_name"]'),
+        lastName: form.querySelector('input[name="last_name"]'),
         email: form.querySelector('input[name="email"]'),
         phone: phoneInput,
-        privacyPolicy: form.querySelector('input[name="privacy_policy"]')
+        message: form.querySelector('textarea[name="message"]')
     };
 
-    // Verify all fields are found
-    const missingFields = Object.entries(fields).filter(([name, element]) => !element);
+    // Verify all required fields are found
+    const requiredFields = ['firstName', 'lastName', 'email', 'phone'];
+    const missingFields = requiredFields.filter(fieldName => !fields[fieldName]);
     if (missingFields.length > 0) {
-        console.error('Missing form fields:', missingFields.map(([name]) => name));
+        console.error('Missing form fields:', missingFields);
         return;
     }
 
     // Create error message elements for each field
     Object.keys(fields).forEach(fieldName => {
         const field = fields[fieldName];
-        if (field && fieldName !== 'privacyPolicy') {
+        if (field && fieldName !== 'message') {
             if (fieldName === 'phone') {
                 // For phone field, add error div to the form-group
                 const formGroup = field.closest('.form-group');
                 if (formGroup && !formGroup.querySelector('.error-message')) {
                     const errorDiv = document.createElement('div');
                     errorDiv.className = 'error-message';
-                    errorDiv.style.cssText = `
-                        color: white;
-                        background-color: #eb162b;
-                        font-size: 12px;
-                        margin-top: 5px;
-                        display: none;
-                        text-align: left;
-                        width: 100%;
-                        position: absolute;
-                        bottom: -16px;
-                        z-index: 9;
-                        padding: 4px 8px;
-                        border-radius: 4px;
-                    `;
                     formGroup.style.position = 'relative';
                     formGroup.appendChild(errorDiv);
                 }
+            } else if (fieldName === 'firstName' || fieldName === 'lastName') {
+                // For firstName and lastName fields with position: static
+                const formGroup = field.closest('.form-group');
+                const formRow = field.closest('.form-row');
+                if (formGroup && !formGroup.querySelector('.error-message')) {
+                    const errorDiv = document.createElement('div');
+                    errorDiv.className = 'error-message';
+                    // Don't set position: relative on form-group, use form-row if available
+                    if (formRow) {
+                        // Form-row already has position: relative in CSS
+                        formGroup.appendChild(errorDiv);
+                    } else {
+                        formGroup.style.position = 'relative';
+                        formGroup.appendChild(errorDiv);
+                    }
+                }
             } else {
-                // For other fields, create wrapper
-                const fieldWrapper = document.createElement('div');
-                fieldWrapper.style.cssText = `
-                    width: 100%;
-                    position: relative;
-                `;
-
-                // Перемістити поле вводу у wrapper
-                field.parentNode.insertBefore(fieldWrapper, field);
-                fieldWrapper.appendChild(field);
-
-                // Створити div для повідомлення про помилку
-                const errorDiv = document.createElement('div');
-                errorDiv.className = 'error-message';
-                errorDiv.style.cssText = `
-                    color: white;
-                    background-color: #eb162b;
-                    font-size: 12px;
-                    margin-top: 5px;
-                    display: none;
-                    text-align: left;
-                    width: 100%;
-                    position: absolute;
-                    bottom: -16px;
-                    z-index: 9;
-                    padding: 4px 8px;
-                    border-radius: 4px;
-                `;
-                fieldWrapper.appendChild(errorDiv);
+                // For other fields, add error div to the form-group
+                const formGroup = field.closest('.form-group');
+                if (formGroup && !formGroup.querySelector('.error-message')) {
+                    const errorDiv = document.createElement('div');
+                    errorDiv.className = 'error-message';
+                    formGroup.style.position = 'relative';
+                    formGroup.appendChild(errorDiv);
+                }
             }
         }
     });
@@ -198,8 +189,14 @@ function initContactForm() {
     const validators = {
         firstName: (value) => {
             const trimmed = value.trim();
+            if (!trimmed) return 'First name is required';
             if (trimmed.length < 2) return 'Must be at least 2 characters long';
-            if (!trimmed.includes(' ')) return 'Please enter both first and last name';
+            return '';
+        },
+        lastName: (value) => {
+            const trimmed = value.trim();
+            if (!trimmed) return 'Last name is required';
+            if (trimmed.length < 2) return 'Must be at least 2 characters long';
             return '';
         },
         email: (value) => {
@@ -211,17 +208,16 @@ function initContactForm() {
             if (!value || value.trim() === '') return 'Phone number is required';
             return iti.isValidNumber() ? '' : 'Please enter a valid phone number';
         },
-        privacyPolicy: (checked) => {
-            return checked ? '' : 'You must agree to the Privacy Policy';
+        message: (value) => {
+            // Message is optional, no validation needed
+            return '';
         }
     };
 
     // Show error message
     function showError(field, message) {
-        // For phone field, look in the wrapper or parent
-        const errorDiv = field.id === 'phone' 
-            ? field.closest('.form-group').querySelector('.error-message')
-            : field.parentNode.querySelector('.error-message');
+        const formGroup = field.closest('.form-group');
+        const errorDiv = formGroup ? formGroup.querySelector('.error-message') : null;
             
         if (errorDiv) {
             errorDiv.textContent = message;
@@ -232,10 +228,8 @@ function initContactForm() {
 
     // Clear error message
     function clearError(field) {
-        // For phone field, look in the wrapper or parent
-        const errorDiv = field.id === 'phone' 
-            ? field.closest('.form-group').querySelector('.error-message')
-            : field.parentNode.querySelector('.error-message');
+        const formGroup = field.closest('.form-group');
+        const errorDiv = formGroup ? formGroup.querySelector('.error-message') : null;
             
         if (errorDiv) {
             errorDiv.textContent = '';
@@ -258,26 +252,14 @@ function initContactForm() {
         return true;
     }
 
-    // Add input event listeners for real-time validation
-    Object.keys(fields).forEach(fieldName => {
-        const field = fields[fieldName];
-        if (field) {
-            field.addEventListener('input', function() {
-                validateField(fieldName, this.value);
-            });
-            field.addEventListener('change', function() {
-                validateField(fieldName, this.value);
-            });
-        }
-    });
-
     // Check if form is valid
     function isFormValid() {
         let valid = true;
         Object.keys(fields).forEach(fieldName => {
             const field = fields[fieldName];
-            const value = field.type === 'checkbox' ? field.checked : field.value;
-            if (validators[fieldName](value) !== '') valid = false;
+            if (!field) return;
+            const value = field.tagName === 'TEXTAREA' ? field.value : (field.type === 'checkbox' ? field.checked : field.value);
+            if (validators[fieldName] && validators[fieldName](value) !== '') valid = false;
         });
         return valid;
     }
@@ -292,17 +274,43 @@ function initContactForm() {
         }
     }
 
-    // Add listeners to all fields and checkbox
+    // Add input event listeners for real-time validation
     Object.keys(fields).forEach(fieldName => {
         const field = fields[fieldName];
         if (field) {
-            field.addEventListener('input', updateButtonState);
-            field.addEventListener('change', updateButtonState);
+            field.addEventListener('input', function() {
+                validateField(fieldName, this.value);
+                updateButtonState();
+            });
+            field.addEventListener('change', function() {
+                validateField(fieldName, this.value);
+                updateButtonState();
+            });
         }
     });
 
-    // Check on page load
+    // Add event listeners for phone field with intlTelInput
+    if (phoneInput) {
+        phoneInput.addEventListener('input', function() {
+            updateButtonState();
+        });
+        phoneInput.addEventListener('blur', function() {
+            validateField('phone', this.value);
+            updateButtonState();
+        });
+        phoneInput.addEventListener('countrychange', function() {
+            validateField('phone', this.value);
+            updateButtonState();
+        });
+    }
+
+    // Check on page load and after phone input initialization
     updateButtonState();
+    
+    // Update button state after phone input is fully initialized
+    setTimeout(() => {
+        updateButtonState();
+    }, 200);
 
     // Form submission handler
     form.addEventListener('submit', function(event) {
@@ -319,7 +327,7 @@ function initContactForm() {
         // Validate all fields
         Object.keys(fields).forEach(fieldName => {
             const field = fields[fieldName];
-            const value = field.type === 'checkbox' ? field.checked : field.value;
+            const value = field.tagName === 'TEXTAREA' ? field.value : (field.type === 'checkbox' ? field.checked : field.value);
             if (!validateField(fieldName, value)) {
                 isValid = false;
             }
@@ -329,25 +337,29 @@ function initContactForm() {
             // Get the full international phone number
             const fullNumber = iti ? iti.getNumber() : fields.phone.value;
 
+            // Use separate first and last name fields
+            const firstName = fields.firstName.value.trim();
+            const lastName = fields.lastName ? fields.lastName.value.trim() : '';
+            const messageText = fields.message ? fields.message.value.trim() : '';
+            
+            // Build description with message
+            let description = 'Contact form submission';
+            if (messageText) {
+                description += '\nMessage: ' + messageText;
+            }
+
             // Prepare data for submission
             const data = {
                 ApiKey: 'TVRRNE9ETmZOelkyWHpFME9EZ3pYdz09',
                 ApiPassword: 'D3l069fwxV',
                 CampaignID: '19654',
-                FirstName: fields.firstName.value.trim(),
-                LastName: '', // Will be extracted from firstName
+                FirstName: firstName,
+                LastName: lastName,
                 Email: fields.email.value.trim(),
                 PhoneNumber: fullNumber.trim().replace(/\s+/g, ''),
                 Page: 'ICO-CA',
-                Description: 'Contact form submission'
+                Description: description
             };
-
-            // Extract first and last name
-            const nameParts = fields.firstName.value.trim().split(' ');
-            if (nameParts.length >= 2) {
-                data.FirstName = nameParts[0];
-                data.LastName = nameParts.slice(1).join(' ');
-            }
 
             const requestBody = Object.entries(data)
                 .map(([key, value]) => `${key}=${encodeURIComponent(value)}`)

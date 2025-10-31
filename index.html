@@ -320,76 +320,56 @@
 
         <section class="contact-section" id="contact-form-section">
             <div class="contact-section-container">
-                <h2 class="contact-section-title">
-                    Not sure if your case is under our jurisdiction or already handled by another organization?
-                </h2>
+                <div class="contact-section-wrapper">
+                    <div class="contact-section-text">
+                        <h2 class="contact-section-title">
+                            Technology That Strengthens Financial Integrity
+                        </h2>
+                        <p class="contact-section-subtitle">
+                            Built on Google Gemini. Designed to make the global financial ecosystem more transparent, intelligent, and accountable.
+                        </p>
+                    </div>
 
-                <div class="contact-section-content">
                     <div class="contact-form-wrapper">
                         <div class="contact-form-header">
-                            <h3>Get a free assessment of your case or a second opinion from CORI</h3>
+                            <h3>Fill in your details below</h3>
                         </div>
 
                         <form class="contact-form" id="contactForm" novalidate>
+                            <div class="form-row">
+                                <div class="form-group" style="position: static!important;">
+                                    <label for="first_name">First Name*</label>
+                                    <input id="first_name" name="first_name" placeholder="" required type="text">
+                                </div>
+                                <div class="form-group" style="position: static!important;">
+                                    <label for="last_name">Last Name*</label>
+                                    <input id="last_name" name="last_name" placeholder="" required type="text">
+                                </div>
+                            </div>
+
                             <div class="form-group">
-                                <input name="first_name" placeholder="First name and Last name*" required type="text">
+                                <label for="email">Email*</label>
+                                <input id="email" name="email" placeholder="" required type="email">
                             </div>
 
                             <div class="form-group phone-group">
-                                <input id="phone" name="phone" placeholder="xx xxx xxxx*" required type="tel">
+                                <label for="phone">Phone*</label>
+                                <div class="phone-input-wrapper">
+                                    <input id="phone" name="phone" placeholder="" required type="tel">
+                                </div>
                             </div>
 
                             <div class="form-group">
-                                <input name="email" placeholder="Email*" required type="email">
+                                <label for="message">Anything we should know before our call?</label>
+                                <textarea id="message" name="message" placeholder="" rows="4"></textarea>
                             </div>
 
-                            <div class="form-group checkbox-group">
-                                <input id="privacy_policy" name="privacy_policy" required type="checkbox">
-                                <label for="privacy_policy">
-                                    I have read and agree to the <a href="policy.html#privacy">Privacy
-                                    Policy</a>.
-                                </label>
-                            </div>
+                            <p class="privacy-text">
+                                By submitting this form I accept the <a href="policy.html#privacy">privacy policy terms</a>
+                            </p>
 
-                            <button class="submit-btn" type="submit">Submit</button>
+                            <button class="submit-btn" type="submit">Explore the Architecture</button>
                         </form>
-                    </div>
-
-                    <div class="contact-map">
-                        <div class="map-card">
-
-                            <div class="map-location">
-                                <div class="location-icon">
-                                    <svg fill="none" height="24" viewBox="0 0 24 24" width="24"
-                                         xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M12 2C8.13 2 5 5.13 5 9C5 14.25 12 22 12 22S19 14.25 19 9C19 5.13 15.87 2 12 2ZM12 11.5C10.62 11.5 9.5 10.38 9.5 9S10.62 6.5 12 6.5S14.5 7.62 14.5 9S13.38 11.5 12 11.5Z"
-                                              fill="white"/>
-                                    </svg>
-                                </div>
-                                <p>Toronto-Dominion Centre - 66 Wellington Street West, Toronto, ON M5K 1A2, Canada.
-                                    td.com</p>
-                            </div>
-                            <div class="map-image">
-                                <img alt="Toronto Office Map" src="images/map-toronto.png">
-                            </div>
-                        </div>
-
-                        <div class="map-card">
-
-                            <div class="map-location">
-                                <div class="location-icon">
-                                    <svg fill="none" height="24" viewBox="0 0 24 24" width="24"
-                                         xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M12 2C8.13 2 5 5.13 5 9C5 14.25 12 22 12 22S19 14.25 19 9C19 5.13 15.87 2 12 2ZM12 11.5C10.62 11.5 9.5 10.38 9.5 9S10.62 6.5 12 6.5S14.5 7.62 14.5 9S13.38 11.5 12 11.5Z"
-                                              fill="white"/>
-                                    </svg>
-                                </div>
-                                <p>Bentall Centre - 505 Burrard St, Vancouver, BC V7X 1M5</p>
-                            </div>
-                            <div class="map-image">
-                                <img alt="Vancouver Office Map" src="images/map-vancouver.png">
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>

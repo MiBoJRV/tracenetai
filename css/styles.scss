@@ -2951,10 +2951,10 @@ main {
 
 .contact-section {
   padding: 80px 0;
+  background: linear-gradient(0deg, rgba(217, 228, 252, 1) 0%, rgba(234, 240, 253, 1) 100%);
 
   @media only screen and (max-width: 768px) {
     padding: 56px 0;
-    background: transparent;
   }
 
   .contact-section .form-group.phone-group .iti {
@@ -2972,8 +2972,11 @@ main {
     left: 0px;
     position: relative;
     background: #fff;
-    padding: 10px;
-    border-radius: 16px;
+    padding: 0 10px;
+    border: 2px solid #B3CBF9;
+    background: rgba(179, 203, 249, 0.1);
+    border-radius: 10px;
+    height: 40.33px;
   }
 
   .contact-section-container {
@@ -2983,18 +2986,54 @@ main {
     padding: 0 16px;
   }
 
+  .contact-section-wrapper {
+    display: flex;
+    gap: 45px;
+    align-items: flex-start;
+
+    @media only screen and (max-width: 991px) {
+      flex-direction: column;
+      gap: 30px;
+    }
+  }
+
+  .contact-section-text {
+    flex: 1;
+    max-width: 525px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+
+    @media only screen and (max-width: 991px) {
+      max-width: 100%;
+    }
+  }
+
   .contact-section-title {
+    font-family: "Barlow", sans-serif;
     font-weight: 700;
-    font-size: 40px;
-    line-height: 1.17;
-    color: $background-gray;
-    text-align: center;
-    margin: 0 auto 56px;
-    max-width: 846px;
+    font-size: 45px;
+    line-height: 1.1em;
+    color: $text;
+    text-align: left;
+    margin: 0;
 
     @media only screen and (max-width: 768px) {
       font-size: 30px;
-      margin-bottom: 40px;
+      line-height: 1.2em;
+    }
+  }
+
+  .contact-section-subtitle {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 19.5px;
+    line-height: 1.55em;
+    color: $text;
+    margin: 0;
+
+    @media only screen and (max-width: 768px) {
+      font-size: 16px;
     }
   }
 
@@ -3009,23 +3048,23 @@ main {
   }
 
   .contact-form-wrapper {
-    background: $main-gray;
-    border-radius: 16px;
-    padding: 38.5px 16px;
-    flex: 0 0 384px;
-    min-height: 444px;
-    //height: -webkit-fill-available;
-
+    background: $white;
+    border-radius: 24px;
+    padding: 32px;
+    flex: 0 0 375px;
+    box-shadow: 9px 17px 35px 0px rgba(0, 0, 0, 0.1);
 
     @media only screen and (max-width: 991px) {
       flex: none;
       width: 100%;
-      min-height: auto;
+      max-width: 375px;
+      margin: 0 auto;
     }
 
     @media only screen and (max-width: 768px) {
-      padding: 28px 14px;
-      border-radius: 14px;
+      padding: 32px;
+      border-radius: 24px;
+      max-width: 100%;
     }
   }
 
@@ -3033,17 +3072,17 @@ main {
     margin-bottom: 24px;
 
     h3 {
-      font-family: Roboto, sans-serif;
-      font-weight: 700;
-      font-size: 18px;
-      line-height: 1.17;
-      color: $white;
+      font-family: "Noto Serif", serif;
+      font-weight: 500;
+      font-size: 16.6px;
+      line-height: 1.527em;
+      color: $text;
       text-align: center;
-      text-transform: uppercase;
       margin: 0;
 
       @media only screen and (max-width: 768px) {
         font-size: 16px;
+        text-align: left;
       }
     }
   }
@@ -3051,214 +3090,282 @@ main {
   .contact-form {
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 24px;
     width: 100%;
 
     @media only screen and (max-width: 768px) {
-      gap: 14px;
+      gap: 24px;
+    }
+  }
+
+  .form-row {
+    display: flex;
+    gap: 18px;
+    position: relative;
+
+    @media only screen and (max-width: 768px) {
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    .form-group {
+      flex: 1;
     }
   }
 
   .form-group {
-    position: relative;
+    //position: relative;
+
+    display: flex;
+    flex-direction: column;
+    gap: 8.3px;
+
+    label {
+      font-family: "Montserrat", sans-serif;
+      font-weight: 500;
+      font-size: 12px;
+      line-height: 1.2em;
+      color: $text;
+      margin: 0;
+    }
 
     input[type="text"],
     input[type="email"],
-    input[type="tel"] {
+    input[type="tel"],
+    textarea {
       width: 100%;
-      padding: 16px;
-      border: none;
-      border-radius: 16px;
-      background: $white;
-      font-family: Roboto, sans-serif;
+      padding: 2px 15px;
+      border: 2px solid #B3CBF9;
+      border-radius: 10px;
+      background: rgba(179, 203, 249, 0.1);
+      font-family: "Inter", sans-serif;
       font-weight: 400;
-      font-size: 16px;
-      line-height: 1.17;
-      color: $background-gray;
+      font-size: 11.8px;
+      line-height: 2.74em;
+      letter-spacing: 5.42%;
+      color: $black;
       outline: none;
+      box-sizing: border-box;
 
       @media only screen and (max-width: 768px) {
-        padding: 14px;
-        border-radius: 14px;
-        font-size: 14px;
+        padding: 10px 15px;
+        border-radius: 10px;
+        font-size: 11.8px;
       }
 
       &::placeholder {
-        color: $background-gray;
+        color: rgba(0, 0, 0, 0.5);
       }
 
       &:focus {
-        box-shadow: 0 0 0 2px $brand-color;
+        border-color: $brand-color;
+        background: rgba(179, 203, 249, 0.15);
       }
+
+      &.error {
+        border-color: #eb162b;
+        background: rgba(235, 22, 43, 0.05);
+      }
+    }
+
+    .error-message {
+      color: white;
+      background-color: #eb162b;
+      font-size: 12px;
+      margin-top: 5px;
+      display: none;
+      text-align: left;
+      width: 100%;
+      position: absolute;
+      bottom: -22px;
+      left: 0;
+      z-index: 9;
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-family: "Montserrat", sans-serif;
+      font-weight: 400;
+
+      @media only screen and (max-width: 768px) {
+        font-size: 11px;
+        padding: 3px 6px;
+        bottom: -18px;
+      }
+    }
+
+    textarea {
+      min-height: 72px;
+      resize: vertical;
+      font-family: "Inter", sans-serif;
+      font-weight: 400;
+      font-size: 11.8px;
+      line-height: 1.5em;
+      letter-spacing: normal;
+      padding: 10px 15px;
     }
 
     &.phone-group {
       display: flex;
-      gap: 8px;
+      flex-direction: column;
+      gap: 8.3px;
+
+      label {
+        font-family: "Montserrat", sans-serif;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 1.2em;
+        color: $text;
+        margin: 0;
+      }
+
+      .phone-input-wrapper {
+        display: flex;
+        gap: 6.23px;
+        width: 100%;
+      }
 
       .iti {
-        //flex: 0 0 131px;
         display: flex;
-        gap: 8px;
+        gap: 6.23px;
         width: 100%;
 
         .iti__flag-container {
-          background: $white;
-          border-radius: 16px;
+          background: rgba(179, 203, 249, 0.1);
+          border-radius: 10px;
+          border: 2px solid #B3CBF9;
           display: flex;
           align-items: center;
-          width: 100%;
-          border: 1px solid transparent;
+          width: 93.3px;
+          flex-shrink: 0;
 
           @media only screen and (max-width: 768px) {
-            border-radius: 14px;
+            border-radius: 10px;
           }
 
           &:hover {
-            border-color: rgba(205, 42, 42, 0.3);
+            border-color: $brand-color;
           }
 
           &:focus-within {
             border-color: $brand-color;
-            box-shadow: 0 0 0 2px rgba(205, 42, 42, 0.2);
+            background: rgba(179, 203, 249, 0.15);
           }
         }
 
         .iti__selected-flag {
-          padding: 16px;
+          padding: 10px 15px;
           display: flex;
           align-items: center;
           gap: 8px;
           width: 100%;
+          border-radius: 10px;
 
           @media only screen and (max-width: 768px) {
-            padding: 14px;
+            padding: 10px 15px;
           }
         }
 
         .iti__country-list {
-          border-radius: 8px;
+          border-radius: 10px;
           box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
           max-height: 200px;
           overflow-y: auto;
+          border: 2px solid #B3CBF9;
         }
 
         .iti__country-name {
-          font-family: Roboto, sans-serif;
-          font-size: 14px;
-          color: $background-gray;
+          font-family: "Inter", sans-serif;
+          font-size: 11.8px;
+          color: $black;
         }
 
         .iti__dial-code {
-          font-family: Roboto, sans-serif;
-          font-size: 14px;
-          color: $background-gray;
+          font-family: "Inter", sans-serif;
+          font-size: 11.8px;
+          color: $black;
         }
       }
 
       input[type="tel"] {
         flex: 1;
-        border-radius: 16px;
+        border-radius: 10px;
+        padding: 2px 15px;
+        border: 2px solid #B3CBF9;
+        background: rgba(179, 203, 249, 0.1);
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        font-size: 11.8px;
+        line-height: 2.74em;
+        color: $black;
+        height: 40.33px;
 
         @media only screen and (max-width: 768px) {
-          border-radius: 14px;
+          border-radius: 10px;
         }
       }
     }
 
-    &.checkbox-group {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      margin-top: 8px;
+  }
 
-      input[type="checkbox"] {
-        width: 20px;
-        height: 20px;
-        border: 1px solid #C8C8C7;
-        border-radius: 4px;
-        background: #FFFFFF;
-        cursor: pointer;
-        appearance: none;
-        -webkit-appearance: none;
-        position: relative;
-        display: inline-block;
-        vertical-align: middle;
-        transition: all 0.2s ease;
+  .privacy-text {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.55em;
+    color: $black;
+    margin: 0 ;
+    text-align: left;
 
-        &:focus {
-          outline: none;
-          box-shadow: 0 0 0 2px rgba(25, 187, 49, 0.2);
-        }
+    @media only screen and (max-width: 768px) {
+      font-size: 12px;
+      margin-bottom: 20px;
+    }
 
-        &:checked {
-          background-color: #19BB31;
-          border-color: #19BB31;
-          background-image: url("data:image/svg+xml,%3Csvg width='16' height='12' viewBox='0 0 16 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 6L6 11L15 1' stroke='%23FFFFFF' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
-          background-repeat: no-repeat;
-          background-position: center;
-          background-size: 14px 14px;
-        }
+    a {
+      color: #0000EE;
+      text-decoration: none;
 
-        @media only screen and (max-width: 768px) {
-          width: 18px;
-          height: 18px;
-        }
-      }
-
-      label {
-        font-family: Roboto, sans-serif;
-        font-weight: 400;
-        font-size: 14px;
-        line-height: 1.17;
-        color: $white;
-        cursor: pointer;
-
-        @media only screen and (max-width: 768px) {
-          font-size: 12px;
-        }
-
-        a {
-          color: $white;
-          text-decoration: underline;
-
-          &:hover {
-            color: $brand-color;
-          }
-        }
+      &:hover {
+        text-decoration: underline;
       }
     }
   }
 
   .submit-btn {
-    margin: 8px auto 0;
+    margin: 0;
     width: 100%;
-    max-width: 87px;
-    height: 48px;
+    height: auto;
+    padding: 8px 24px;
     background: $brand-color;
     color: $white;
     border: none;
-    border-radius: 99px;
-    font-family: Inter, sans-serif;
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 1.21;
+    border-radius: 50px;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 15.1px;
+    line-height: 2.26em;
+    letter-spacing: 4.24%;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 
     @media only screen and (max-width: 768px) {
-      height: 32px;
-      font-size: 14px;
-      border-radius: 88px;
+      padding: 8px 24px;
+      font-size: 15.1px;
+      border-radius: 50px;
     }
 
     &:hover {
-      background: $red-hover;
+      background: darken($brand-color, 10%);
+      transform: translateY(-1px);
     }
 
     &:disabled {
       opacity: 0.6;
       cursor: not-allowed;
+      transform: none;
     }
   }
 
