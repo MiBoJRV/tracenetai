@@ -2585,8 +2585,36 @@ main {
 }
 
 .contact-section {
-  padding: 80px 0;
+  position: relative;
+  padding: 60px;
   background: linear-gradient(0deg, rgb(217, 228, 252) 0%, rgb(234, 240, 253) 100%);
+  margin: 0 auto;
+  max-width: 1065px;
+  border-radius: 50px;
+}
+.contact-section .form-star {
+  position: absolute;
+  z-index: 0;
+  pointer-events: none;
+  user-select: none;
+}
+.contact-section .form-star.form-star-top-right {
+  top: -19px;
+  right: 16px;
+  width: 38px;
+  height: 38px;
+}
+.contact-section .form-star.form-star-top-right-b {
+  top: 0;
+  right: -19px;
+  width: 53px;
+  height: 53px;
+}
+.contact-section .form-star.form-star-bottom-left {
+  top: 65px;
+  left: -26.5px;
+  width: 53px;
+  height: 53px;
 }
 @media only screen and (max-width: 768px) {
   .contact-section {
@@ -2684,6 +2712,8 @@ main {
   padding: 32px;
   flex: 0 0 375px;
   box-shadow: 9px 17px 35px 0px rgba(0, 0, 0, 0.1);
+  position: relative;
+  overflow: visible;
 }
 @media only screen and (max-width: 991px) {
   .contact-section .contact-form-wrapper {
@@ -2699,6 +2729,11 @@ main {
     border-radius: 24px;
     max-width: 100%;
   }
+}
+.contact-section .contact-form-wrapper .contact-form-header,
+.contact-section .contact-form-wrapper .contact-form {
+  position: relative;
+  z-index: 1;
 }
 .contact-section .contact-form-header {
   margin-bottom: 24px;
