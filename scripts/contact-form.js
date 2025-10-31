@@ -121,6 +121,12 @@ function initContactForm() {
                 utilsScript: "https://cdn.jsdelivr.net/npm/intl-tel-input@25.3.2/build/js/utils.js"
             });
             phoneInput.classList.add('iti-initialized');
+            
+            // Ensure phone field is not marked as touched after initialization
+            // Clear any potential error states
+            setTimeout(() => {
+                clearError(phoneInput);
+            }, 100);
         } else {
             setTimeout(initPhoneInputWhenReady, 100);
         }
@@ -147,41 +153,58 @@ function initContactForm() {
     Object.keys(fields).forEach(fieldName => {
         const field = fields[fieldName];
         if (field && fieldName !== 'message') {
+            let errorDiv = null;
             if (fieldName === 'phone') {
                 // For phone field, add error div to the form-group
                 const formGroup = field.closest('.form-group');
-                if (formGroup && !formGroup.querySelector('.error-message')) {
-                    const errorDiv = document.createElement('div');
-                    errorDiv.className = 'error-message';
-                    formGroup.style.position = 'relative';
-                    formGroup.appendChild(errorDiv);
+                if (formGroup) {
+                    errorDiv = formGroup.querySelector('.error-message');
+                    if (!errorDiv) {
+                        errorDiv = document.createElement('div');
+                        errorDiv.className = 'error-message';
+                        formGroup.style.position = 'relative';
+                        formGroup.appendChild(errorDiv);
+                    }
                 }
             } else if (fieldName === 'firstName' || fieldName === 'lastName') {
                 // For firstName and lastName fields with position: static
                 const formGroup = field.closest('.form-group');
                 const formRow = field.closest('.form-row');
-                if (formGroup && !formGroup.querySelector('.error-message')) {
-                    const errorDiv = document.createElement('div');
-                    errorDiv.className = 'error-message';
-                    // Don't set position: relative on form-group, use form-row if available
-                    if (formRow) {
-                        // Form-row already has position: relative in CSS
-                        formGroup.appendChild(errorDiv);
-                    } else {
-                        formGroup.style.position = 'relative';
-                        formGroup.appendChild(errorDiv);
+                if (formGroup) {
+                    errorDiv = formGroup.querySelector('.error-message');
+                    if (!errorDiv) {
+                        errorDiv = document.createElement('div');
+                        errorDiv.className = 'error-message';
+                        // Don't set position: relative on form-group, use form-row if available
+                        if (formRow) {
+                            // Form-row already has position: relative in CSS
+                            formGroup.appendChild(errorDiv);
+                        } else {
+                            formGroup.style.position = 'relative';
+                            formGroup.appendChild(errorDiv);
+                        }
                     }
                 }
             } else {
                 // For other fields, add error div to the form-group
                 const formGroup = field.closest('.form-group');
-                if (formGroup && !formGroup.querySelector('.error-message')) {
-                    const errorDiv = document.createElement('div');
-                    errorDiv.className = 'error-message';
-                    formGroup.style.position = 'relative';
-                    formGroup.appendChild(errorDiv);
+                if (formGroup) {
+                    errorDiv = formGroup.querySelector('.error-message');
+                    if (!errorDiv) {
+                        errorDiv = document.createElement('div');
+                        errorDiv.className = 'error-message';
+                        formGroup.style.position = 'relative';
+                        formGroup.appendChild(errorDiv);
+                    }
                 }
             }
+            // Ensure error div is hidden by default
+            if (errorDiv) {
+                errorDiv.style.display = 'none';
+                errorDiv.textContent = '';
+            }
+            // Clear any existing error state on field
+            field.classList.remove('error');
         }
     });
 
@@ -238,17 +261,24 @@ function initContactForm() {
         }
     }
 
+    // Track if user has interacted with fields
+    const fieldTouched = {};
+
     // Validate single field
-    function validateField(fieldName, value) {
+    function validateField(fieldName, value, showErrors = true) {
         const field = fields[fieldName];
         if (!field) return false;
 
         const error = validators[fieldName](value);
         if (error) {
-            showError(field, error);
+            if (showErrors && fieldTouched[fieldName]) {
+                showError(field, error);
+            }
             return false;
         }
-        clearError(field);
+        if (showErrors) {
+            clearError(field);
+        }
         return true;
     }
 
@@ -279,10 +309,12 @@ function initContactForm() {
         const field = fields[fieldName];
         if (field) {
             field.addEventListener('input', function() {
+                fieldTouched[fieldName] = true;
                 validateField(fieldName, this.value);
                 updateButtonState();
             });
             field.addEventListener('change', function() {
+                fieldTouched[fieldName] = true;
                 validateField(fieldName, this.value);
                 updateButtonState();
             });
@@ -290,27 +322,62 @@ function initContactForm() {
     });
 
     // Add event listeners for phone field with intlTelInput
+    // Use a flag to track if initialization events are complete
+    let phoneInitEventsProcessed = false;
+    setTimeout(() => {
+        phoneInitEventsProcessed = true;
+    }, 300);
+    
     if (phoneInput) {
         phoneInput.addEventListener('input', function() {
+            // Only validate after initialization events are processed and user actually types
+            if (phoneInitEventsProcessed && this.value.trim()) {
+                fieldTouched['phone'] = true;
+                validateField('phone', this.value);
+            } else if (phoneInitEventsProcessed && !this.value.trim() && fieldTouched['phone']) {
+                // If user cleared the field, still validate
+                validateField('phone', this.value);
+            }
             updateButtonState();
         });
         phoneInput.addEventListener('blur', function() {
-            validateField('phone', this.value);
+            // Only mark as touched if user actually entered something
+            if (this.value.trim()) {
+                fieldTouched['phone'] = true;
+                validateField('phone', this.value);
+            } else if (fieldTouched['phone']) {
+                // If field was touched but now empty, validate
+                validateField('phone', this.value);
+            }
             updateButtonState();
         });
         phoneInput.addEventListener('countrychange', function() {
-            validateField('phone', this.value);
+            // Only validate if field was already touched by user (not during init)
+            if (phoneInitEventsProcessed && fieldTouched['phone']) {
+                validateField('phone', this.value);
+            }
             updateButtonState();
         });
     }
 
+    // Clear all errors on page load
+    Object.keys(fields).forEach(fieldName => {
+        const field = fields[fieldName];
+        if (field && fieldName !== 'message') {
+            clearError(field);
+        }
+    });
+    
     // Check on page load and after phone input initialization
     updateButtonState();
     
-    // Update button state after phone input is fully initialized
+    // Update button state after phone input is fully initialized and clear any errors
     setTimeout(() => {
+        if (phoneInput) {
+            clearError(phoneInput);
+        }
         updateButtonState();
-    }, 200);
+    }, 400);
 
     // Form submission handler
     form.addEventListener('submit', function(event) {
@@ -321,6 +388,11 @@ function initContactForm() {
         if (existingError) {
             existingError.remove();
         }
+        
+        // Mark all fields as touched before validation
+        Object.keys(fields).forEach(fieldName => {
+            fieldTouched[fieldName] = true;
+        });
         
         let isValid = true;
 
