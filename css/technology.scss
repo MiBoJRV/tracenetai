@@ -29,6 +29,7 @@ $title: #020202;
   gap: 10px;
   padding: 0 98px;
   background-color: #F7F8FB;
+  margin-bottom: 50px;
   
   @media only screen and (max-width: 768px) {
     padding: 0 14px;
@@ -352,10 +353,12 @@ $title: #020202;
   flex-direction: row;
   gap: 20px;
   align-items: stretch;
+  padding: 0 15px;
   
   @media only screen and (max-width: 991px) {
     flex-direction: column;
     align-items: center;
+    padding: 0;
   }
 
   //@media only screen and (max-width: 768px) {
@@ -433,6 +436,314 @@ $title: #020202;
   p {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
+    font-size: 16px;
+    line-height: 1.55em;
+    text-align: left;
+    color: #000000;
+    margin: 0;
+  }
+}
+
+/* Section Gemini Risk Engine Styles */
+.section-gemini-risk-engine {
+  padding: 40px 16px 40px 16px;
+  background: $white;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+
+  @media only screen and (max-width: 768px) {
+    padding: 37px 15px;
+  }
+}
+
+.section-gemini-risk-container {
+  max-width: 1258px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+
+  @media only screen and (max-width: 768px) {
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 0;
+  }
+}
+
+.section-gemini-risk-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  margin-bottom: 50px;
+  width: 100%;
+
+  @media only screen and (max-width: 768px) {
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 0;
+    align-self: stretch;
+  }
+}
+
+.section-gemini-risk-title {
+  font-family: 'Barlow', sans-serif;
+  font-weight: 700;
+  font-size: 32.256px;
+  line-height: 1.3em;
+  text-align: center;
+  color: #000000;
+  margin: 0 0 36px 0;
+
+  @media only screen and (max-width: 768px) {
+    margin: 0;
+    width: 100%;
+  }
+}
+
+.section-gemini-risk-description {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16.5024px;
+  line-height: 1.55em;
+  text-align: center;
+  color: #21272A;
+  margin: 0;
+  max-width: 884px;
+
+  @media only screen and (max-width: 768px) {
+    max-width: 400px;
+    width: 100%;
+  }
+}
+
+.section-gemini-risk-content {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: stretch;
+  padding: 0 15px;
+  
+  @media only screen and (max-width: 991px) {
+    flex-direction: column-reverse;
+    align-items: center;
+    padding: 0;
+  }
+}
+
+.gemini-risk-image-container {
+  max-width: 604px;
+  width: 100%;
+  background: #F8F8F8;
+  border-radius: 30px;
+  overflow: hidden;
+  padding: 18px 12px;
+  box-sizing: border-box;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    border-radius: 30px;
+  }
+}
+
+.gemini-risk-accordion {
+  max-width: 604px;
+  width: 100%;
+  display: flex;
+}
+
+.accordion-item-risk {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 25px 32px;
+  background: #F8F8F8;
+  border-radius: 30px;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+
+  @media only screen and (max-width: 768px) {
+    gap: 12px;
+    padding: 16px 32px;
+    height: auto;
+  }
+}
+
+.accordion-header-risk {
+  font-family: 'Noto Serif', serif;
+  font-weight: 500;
+  font-size: 24.6px;
+  line-height: 1.522em;
+  text-align: left;
+  color: #000000;
+  margin: 0;
+}
+
+.accordion-content-risk {
+  p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.55em;
+    text-align: left;
+    color: #000000;
+    margin: 0;
+  }
+}
+
+/* Section Intelligent Action Framework Styles */
+.section-intelligent-action {
+  padding: 40px 16px 40px 16px;
+  background: $white;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+
+  @media only screen and (max-width: 768px) {
+    padding: 37px 15px;
+  }
+}
+
+.section-intelligent-action-container {
+  max-width: 1258px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+
+  @media only screen and (max-width: 768px) {
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 0;
+  }
+}
+
+.section-intelligent-action-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  margin-bottom: 50px;
+  width: 100%;
+
+  @media only screen and (max-width: 768px) {
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 0;
+    align-self: stretch;
+  }
+}
+
+.section-intelligent-action-title {
+  font-family: 'Barlow', sans-serif;
+  font-weight: 700;
+  font-size: 32.256px;
+  line-height: 1.3em;
+  text-align: center;
+  color: #000000;
+  margin: 0 0 36px 0;
+
+  @media only screen and (max-width: 768px) {
+    margin: 0;
+    width: 100%;
+  }
+}
+
+.section-intelligent-action-description {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16.5024px;
+  line-height: 1.55em;
+  text-align: center;
+  color: #21272A;
+  margin: 0;
+  max-width: 884px;
+
+  @media only screen and (max-width: 768px) {
+    max-width: 400px;
+    width: 100%;
+  }
+}
+
+.section-intelligent-action-content {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: stretch;
+  padding: 0 15px;
+  
+  @media only screen and (max-width: 991px) {
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+  }
+}
+
+.intelligent-action-image-container {
+  max-width: 604px;
+  width: 100%;
+  background: #ACDBFD;
+  border-radius: 30px;
+  overflow: hidden;
+  padding: 18px 12px;
+  box-sizing: border-box;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    border-radius: 30px;
+  }
+}
+
+.intelligent-action-accordion {
+  max-width: 604px;
+  width: 100%;
+  display: flex;
+}
+
+.accordion-item-action {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 25px 32px;
+  background: #ACDBFD;
+  border-radius: 30px;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+
+  @media only screen and (max-width: 768px) {
+    gap: 12px;
+    padding: 16px 32px;
+    height: auto;
+  }
+}
+
+.accordion-header-action {
+  font-family: 'Noto Serif', serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.362em;
+  text-align: left;
+  color: #000000;
+  margin: 0;
+}
+
+.accordion-content-action {
+  p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.55em;
     text-align: left;
