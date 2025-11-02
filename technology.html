@@ -33,7 +33,7 @@
                             </div>
                             <div class="nav-btn">
                                 <div class="button-survey li">
-                                    <a href="index.html#contact-form-section">Contact us</a>
+                                    <a href="#contact-form-section">Contact us</a>
                                 </div>
                             </div>
                         </div>
@@ -67,7 +67,7 @@
                 </div>
             </div>
             <div class="button-survey">
-                <a href="index.html#contact-form-section">Contact us</a>
+                <a href="#contact-form-section">Contact us</a>
             </div>
         </div>
     </header>
@@ -321,6 +321,71 @@
                 </div>
             </div>
         </section>
+
+        <div class="p">
+            <section class="contact-section" id="contact-form-section">
+                <!-- Decorative stars -->
+                <img alt="" aria-hidden="true" class="form-star form-star-top-right" src="images/star-s.svg">
+                <img alt="" aria-hidden="true" class="form-star form-star-bottom-left" src="images/star-b.svg">
+                <img alt="" aria-hidden="true" class="form-star form-star-top-right-b" src="images/star-b.svg">
+                <div class="contact-section-container">
+                    <div class="contact-section-wrapper">
+                        <div class="contact-section-text">
+                            <h2 class="contact-section-title">
+                                Technology That Strengthens Financial Integrity
+                            </h2>
+                            <p class="contact-section-subtitle">
+                                Built on Google Gemini. Designed to make the global financial ecosystem more
+                                transparent, intelligent, and accountable.
+                            </p>
+                        </div>
+
+                        <div class="contact-form-wrapper">
+                            <div class="contact-form-header">
+                                <h3>Fill in your details below</h3>
+                            </div>
+
+                            <form class="contact-form" id="contactForm" novalidate>
+                                <div class="form-row">
+                                    <div class="form-group" style="position: static!important;">
+                                        <label for="first_name">First Name*</label>
+                                        <input id="first_name" name="first_name" placeholder="" required type="text">
+                                    </div>
+                                    <div class="form-group" style="position: static!important;">
+                                        <label for="last_name">Last Name*</label>
+                                        <input id="last_name" name="last_name" placeholder="" required type="text">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="email">Email*</label>
+                                    <input id="email" name="email" placeholder="" required type="email">
+                                </div>
+
+                                <div class="form-group phone-group">
+                                    <label for="phone">Phone*</label>
+                                    <div class="phone-input-wrapper">
+                                        <input id="phone" name="phone" placeholder="" required type="tel">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="message">Anything we should know before our call?</label>
+                                    <textarea id="message" name="message" placeholder="" rows="4"></textarea>
+                                </div>
+
+                                <p class="privacy-text">
+                                    By submitting this form I accept the <a href="privacy-policy.html">privacy
+                                    policy</a> terms
+                                </p>
+
+                                <button class="submit-btn" type="submit">Explore the Architecture</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
     </main>
 
     <footer class="site-footer">
@@ -334,7 +399,7 @@
                         Built on Google Gemini.<br>
                         Designed to make the global financial ecosystem more transparent, intelligent, and accountable.
                     </p>
-                    <a href="index.html#contact-form-section" class="footer-contact-btn">Contact Us</a>
+                    <a href="#contact-form-section" class="footer-contact-btn">Contact Us</a>
                 </div>
                 <div class="footer-menu">
                     <nav class="footer-nav">
@@ -378,6 +443,10 @@
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script src="scripts/main.js"></script>
+
+<link href="https://cdn.jsdelivr.net/npm/intl-tel-input@25.3.2/build/css/intlTelInput.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/intl-tel-input@25.3.2/build/js/intlTelInput.min.js"></script>
+<script src="scripts/contact-form.js"></script>
 
 </body>
 </html>

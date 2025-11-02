@@ -660,7 +660,6 @@ header .content .button-survey a:hover {
 }
 
 main {
-  max-width: 1440px;
   margin: 0 auto;
 }
 
@@ -1003,7 +1002,6 @@ main {
 .section-benefit {
   padding: 90px 16px;
   background: #EAF0FD;
-  max-width: 1440px;
   width: 100%;
   margin: 0 auto;
 }
