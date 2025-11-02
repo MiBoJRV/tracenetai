@@ -751,3 +751,157 @@ $title: #020202;
     margin: 0;
   }
 }
+
+/* Section Explainable and Auditable AI Styles */
+.section-explainable-ai {
+  padding: 40px 16px 40px 16px;
+  background: $white;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+
+  @media only screen and (max-width: 768px) {
+    padding: 37px 15px;
+  }
+}
+
+.section-explainable-ai-container {
+  max-width: 1258px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+
+  @media only screen and (max-width: 768px) {
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 0;
+  }
+}
+
+.section-explainable-ai-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  margin-bottom: 50px;
+  width: 100%;
+
+  @media only screen and (max-width: 768px) {
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 0;
+    align-self: stretch;
+  }
+}
+
+.section-explainable-ai-title {
+  font-family: 'Barlow', sans-serif;
+  font-weight: 700;
+  font-size: 32.256px;
+  line-height: 1.3em;
+  text-align: center;
+  color: #000000;
+  margin: 0 0 36px 0;
+
+  @media only screen and (max-width: 768px) {
+    margin: 0;
+    width: 100%;
+  }
+}
+
+.section-explainable-ai-description {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16.5024px;
+  line-height: 1.55em;
+  text-align: center;
+  color: #21272A;
+  margin: 0;
+  max-width: 884px;
+
+  @media only screen and (max-width: 768px) {
+    max-width: 400px;
+    width: 100%;
+  }
+}
+
+.section-explainable-ai-content {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: stretch;
+  padding: 0 15px;
+  
+  @media only screen and (max-width: 991px) {
+    flex-direction: column-reverse;
+    align-items: center;
+    padding: 0;
+  }
+}
+
+.explainable-ai-accordion {
+  max-width: 604px;
+  width: 100%;
+  display: flex;
+}
+
+.accordion-item-explainable {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 25px 32px;
+  background: #F8F8F8;
+  border-radius: 30px;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+
+  @media only screen and (max-width: 768px) {
+    gap: 12px;
+    padding: 16px 32px;
+    height: auto;
+  }
+}
+
+.accordion-header-explainable {
+  font-family: 'Noto Serif', serif;
+  font-weight: 500;
+  font-size: 24.6px;
+  line-height: 1.522em;
+  text-align: left;
+  color: #000000;
+  margin: 0;
+}
+
+.accordion-content-explainable {
+  p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.55em;
+    text-align: left;
+    color: #000000;
+    margin: 0;
+  }
+}
+
+.explainable-ai-image-container {
+  max-width: 604px;
+  width: 100%;
+  background: #F8F8F8;
+  border-radius: 30px;
+  overflow: hidden;
+  padding: 18px 12px;
+  box-sizing: border-box;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    border-radius: 30px;
+  }
+}
