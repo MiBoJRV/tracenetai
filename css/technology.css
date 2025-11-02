@@ -103,4 +103,147 @@
   }
 }
 
+/* Section System Architecture Styles */
+.section-system-architecture {
+  padding: 90px 16px;
+  background: #EAF0FD;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+}
+@media only screen and (max-width: 768px) {
+  .section-system-architecture {
+    padding: 37px 16px;
+  }
+}
+.section-system-architecture .section-system-architecture-content {
+  max-width: 1235px;
+  width: 100%;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 50px;
+  padding: 50px;
+  display: flex;
+  flex-direction: row;
+  gap: 95px;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+@media only screen and (max-width: 991px) {
+  .section-system-architecture .section-system-architecture-content {
+    flex-direction: column;
+    padding: 50px 50px 50px 50px;
+    border-radius: 50px;
+    gap: 0;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .section-system-architecture .section-system-architecture-content {
+    padding: 50px 50px 50px 50px;
+    border-radius: 50px;
+  }
+}
+.section-system-architecture .section-system-architecture-content .frame-1000000948 {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  max-width: 301px;
+  width: 100%;
+}
+@media only screen and (max-width: 991px) {
+  .section-system-architecture .section-system-architecture-content .frame-1000000948 {
+    max-width: 100%;
+    margin-bottom: 40px;
+  }
+}
+.section-system-architecture .section-system-architecture-content .section-system-architecture-title {
+  font-family: "Barlow", sans-serif;
+  font-weight: 700;
+  font-size: 37.5px;
+  line-height: 1.3em;
+  color: #020a1a;
+  margin-bottom: 50px;
+}
+@media only screen and (max-width: 991px) {
+  .section-system-architecture .section-system-architecture-content .section-system-architecture-title {
+    margin-bottom: 16px;
+    margin-left: 0;
+    max-width: 100%;
+  }
+}
+.section-system-architecture .section-system-architecture-content .section-system-architecture-description {
+  font-family: "Noto Serif", serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.267em;
+  color: #020a1a;
+  margin: 0;
+  max-width: 282px;
+}
+@media only screen and (max-width: 991px) {
+  .section-system-architecture .section-system-architecture-content .section-system-architecture-description {
+    max-width: 100%;
+  }
+}
+.section-system-architecture .benefit-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 16px;
+  max-width: 752px;
+  width: 100%;
+}
+@media only screen and (max-width: 991px) {
+  .section-system-architecture .benefit-wrapper {
+    align-items: flex-start;
+    max-width: 100%;
+    gap: 16px;
+  }
+}
+.section-system-architecture .benefit-list {
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  align-self: stretch;
+  padding-bottom: 10px;
+}
+@media only screen and (max-width: 768px) {
+  .section-system-architecture .benefit-list {
+    gap: 29px;
+  }
+}
+.section-system-architecture .benefit-list .benefit-content {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 752px;
+}
+.section-system-architecture .benefit-list .benefit-title {
+  font-family: "Noto Serif", serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.056em;
+  color: #020a1a;
+  margin: 0;
+}
+.section-system-architecture .benefit-list .benefit-text {
+  font-family: "Noto Serif", serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.584em;
+  color: #020a1a;
+  margin: 0;
+}
+.section-system-architecture .benefit-icon {
+  width: 87px;
+  height: 87px;
+  flex-shrink: 0;
+}
+.section-system-architecture .benefit-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
 /*# sourceMappingURL=technology.css.map */
