@@ -399,7 +399,7 @@ header {
 }
 
 .banner {
-  max-width: 1440px;
+  //max-width: 1440px;
   width: 100%;
   margin: 0 auto;
   position: relative;
@@ -741,7 +741,7 @@ header {
     //height: 83px;
     display: flex;
     align-items: center;
-    max-width: 1408px;
+    max-width: 1920px;
     padding: 0 16px;
     margin: 0 auto;
     overflow: hidden;
@@ -753,6 +753,7 @@ header {
 
     .logo-slider-wrap {
       position: relative;
+      margin: 0 auto;
       //margin-top: 240px;
       //
       //@media only screen and (max-width: 991px) {
@@ -859,7 +860,7 @@ header {
 }
 
 main {
-  //max-width: 1440px;
+  max-width: 1440px;
   margin: 0 auto;
   //padding: 0 30px;
 
