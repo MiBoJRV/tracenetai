@@ -1,0 +1,498 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+/*colors*/
+$red: #FF0000;
+$red-hover: #FF0000D6;
+$black: #000;
+$white: #FFF;
+$blue: #004570;
+//$red-hover: rgba(0, 69, 112, 0.84);
+//$red-hover: rgba(0, 69, 112, 0.84);
+//$red-hover: rgba(254, 190, 16, 0.84);
+//$red: #003da5;
+$green: #016D7C;
+$background-gray: #282828;
+$brand-color: #cd2a2a;
+
+$gray: #c8c8c7;
+$brand-color: #2b6cef;
+$main-gray: #363636;
+$white: #fff;
+$light-grey: #ebebeb;
+$text: #020a1a;
+$title: #020202;
+
+main {
+  max-width: none;
+  margin: 0 auto;
+}
+
+/* Section Video Styles */
+.section-video {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 0 16px;
+  background-color: #F7F8FB;
+  margin-bottom: 50px;
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: stretch;
+    gap: 10px;
+    padding: 89px 0;
+    max-width: 1440px;
+    margin: 0 auto;
+
+    .flex-7 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      align-self: stretch;
+      gap: 60px;
+      max-width: 1229px;
+
+      @media only screen and (max-width: 768px) {
+        gap: 10px;
+      }
+
+      .frame-1000000946 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-end;
+        align-self: stretch;
+        gap: 24px;
+
+        @media only screen and (max-width: 768px) {
+          align-items: center;
+        }
+
+        .frame-1000000947 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          align-self: stretch;
+          gap: 24px;
+
+          .title-gemini {
+            font-family: 'Barlow', sans-serif;
+            font-weight: 700;
+            font-size: 45px;
+            line-height: 1.3em;
+            text-align: center;
+            color: #21272A;
+            max-width: 938px;
+            width: 100%;
+            margin: 0;
+
+            @media only screen and (max-width: 768px) {
+              width: 100%;
+            }
+          }
+
+          .description-gemini {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 400;
+            font-size: 19.4976px;
+            line-height: 1.55em;
+            text-align: center;
+            color: #21272A;
+            width: 100%;
+            margin: 0;
+
+            @media only screen and (max-width: 768px) {
+              width: 100%;
+              height: auto;
+            }
+          }
+        }
+
+        .summary-gemini {
+          font-family: 'Montserrat', sans-serif;
+          font-weight: 500;
+          font-size: 19.4976px;
+          line-height: 1.55em;
+          text-align: right;
+          color: #21272A;
+          width: 609px;
+          height: 59px;
+          margin: 0;
+
+          @media only screen and (max-width: 768px) {
+            width: 100%;
+            height: auto;
+          }
+        }
+      }
+    }
+  }
+}
+
+/* Section System Architecture Styles */
+.section-secure-data-handling {
+  padding: 10px 16px 0 16px;
+  background: $white;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+
+  @media only screen and (max-width: 768px) {
+    padding: 37px 15px;
+  }
+
+  .section-secure-data-container {
+    max-width: 1258px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+
+    @media only screen and (max-width: 768px) {
+      flex-direction: column;
+      align-items: center;
+      gap: 40px;
+      padding: 0;
+    }
+  }
+
+  .section-secure-data-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+    margin-bottom: 50px;
+    width: 100%;
+
+    @media only screen and (max-width: 768px) {
+      align-items: center;
+      gap: 15px;
+      margin-bottom: 0;
+      align-self: stretch;
+    }
+  }
+
+  .section-secure-data-title {
+    font-family: 'Barlow', sans-serif;
+    font-weight: 700;
+    font-size: 32.256px;
+    line-height: 1.3em;
+    text-align: center;
+    color: #000000;
+    margin: 0 0 36px 0;
+
+    @media only screen and (max-width: 768px) {
+      margin: 0;
+      width: 100%;
+    }
+  }
+
+  .section-secure-data-description {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16.5024px;
+    line-height: 1.55em;
+    text-align: center;
+    color: #21272A;
+    margin: 0;
+    max-width: 884px;
+
+    @media only screen and (max-width: 768px) {
+      max-width: 400px;
+      width: 100%;
+    }
+  }
+
+  .section-secure-data-content {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: stretch;
+    padding: 0 15px;
+
+    @media only screen and (max-width: 991px) {
+      flex-direction: column;
+      align-items: center;
+      padding: 0;
+    }
+
+    //@media only screen and (max-width: 768px) {
+    //  flex-direction: column;
+    //  gap: 20px;
+    //  align-items: stretch;
+    //  width: 100%;
+    //}
+  }
+
+  .secure-data-image-container {
+    max-width: 604px;
+    width: 100%;
+    background: #EAF0FD;
+    border-radius: 30px;
+    overflow: hidden;
+    padding: 18px 12px;
+    box-sizing: border-box;
+
+    //@media only screen and (max-width: 768px) {
+    //  width: 100%;
+    //  max-width: 400px;
+    //}
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      border-radius: 30px;
+    }
+  }
+
+  .secure-data-accordion {
+    max-width: 604px;
+    width: 100%;
+    display: flex;
+
+    //@media only screen and (max-width: 768px) {
+    //  width: 100%;
+    //  max-width: 400px;
+    //  height: auto;
+    //}
+  }
+
+  .accordion-item {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 25px 32px;
+    background: #EAF0FD;
+    border-radius: 30px;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+
+    @media only screen and (max-width: 768px) {
+      gap: 12px;
+      padding: 16px 32px;
+      height: auto;
+    }
+  }
+
+  .accordion-header {
+    font-family: 'Noto Serif', serif;
+    font-weight: 500;
+    font-size: 24.6px;
+    line-height: 1.522em;
+    text-align: left;
+    color: #000000;
+    margin: 0;
+  }
+
+  .accordion-content {
+    p {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 1.55em;
+      text-align: left;
+      color: #000000;
+      margin: 0;
+    }
+  }
+
+  .text-italic {
+    font-style: italic;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 155%;
+    text-align: center;
+    color: #21272a;
+    max-width: 584px;
+    width: 100%;;
+    margin: 38px auto 0;
+  }
+}
+
+/* Section Gemini Risk Engine Styles */
+.section-gemini-risk-engine {
+  padding: 40px 16px 40px 16px;
+  background: $white;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+
+  @media only screen and (max-width: 768px) {
+    padding: 37px 15px;
+  }
+
+  .section-gemini-risk-engine {
+    padding: 40px 16px 40px 16px;
+    background: $white;
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+
+    @media only screen and (max-width: 768px) {
+      padding: 37px 15px;
+    }
+  }
+
+  .section-gemini-risk-container {
+    max-width: 1258px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+
+    @media only screen and (max-width: 768px) {
+      flex-direction: column;
+      align-items: center;
+      gap: 40px;
+      padding: 0;
+    }
+  }
+
+  .section-gemini-risk-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+    margin-bottom: 50px;
+    width: 100%;
+
+    @media only screen and (max-width: 768px) {
+      align-items: center;
+      gap: 15px;
+      margin-bottom: 0;
+      align-self: stretch;
+    }
+  }
+
+  .section-gemini-risk-title {
+    font-family: 'Barlow', sans-serif;
+    font-weight: 700;
+    font-size: 32.256px;
+    line-height: 1.3em;
+    text-align: center;
+    color: #000000;
+    margin: 0 0 36px 0;
+
+    @media only screen and (max-width: 768px) {
+      margin: 0;
+      width: 100%;
+    }
+  }
+
+  .section-gemini-risk-description {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16.5024px;
+    line-height: 1.55em;
+    text-align: center;
+    color: #21272A;
+    margin: 0;
+    max-width: 884px;
+
+    @media only screen and (max-width: 768px) {
+      max-width: 400px;
+      width: 100%;
+    }
+  }
+
+  .section-gemini-risk-content {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: stretch;
+    padding: 0 15px;
+
+    @media only screen and (max-width: 991px) {
+      flex-direction: column-reverse;
+      align-items: center;
+      padding: 0;
+    }
+  }
+
+  .gemini-risk-image-container {
+    max-width: 604px;
+    width: 100%;
+    background: #F8F8F8;
+    border-radius: 30px;
+    overflow: hidden;
+    padding: 18px 12px;
+    box-sizing: border-box;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      border-radius: 30px;
+    }
+  }
+
+  .gemini-risk-accordion {
+    max-width: 604px;
+    width: 100%;
+    display: flex;
+  }
+
+  .accordion-item-risk {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 25px 32px;
+    background: #F8F8F8;
+    border-radius: 30px;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+
+    @media only screen and (max-width: 768px) {
+      gap: 12px;
+      padding: 16px 32px;
+      height: auto;
+    }
+  }
+
+  .accordion-header-risk {
+    font-family: 'Noto Serif', serif;
+    font-weight: 500;
+    font-size: 24.6px;
+    line-height: 1.522em;
+    text-align: left;
+    color: #000000;
+    margin: 0;
+  }
+
+  .accordion-content-risk {
+    p {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 1.55em;
+      text-align: left;
+      color: #000000;
+      margin: 0;
+    }
+  }
+
+  .text-italic {
+    font-style: italic;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 155%;
+    text-align: center;
+    color: #21272a;
+    max-width: 584px;
+    width: 100%;;
+    margin: 38px auto 0;
+  }
+}
+
+.p {
+  margin: 125px auto 165px auto;
+}

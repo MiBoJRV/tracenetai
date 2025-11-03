@@ -11,14 +11,9 @@ main {
   flex-direction: column;
   align-items: center;
   gap: 10px;
-  padding: 0 98px;
+  padding: 0 16px;
   background-color: #F7F8FB;
   margin-bottom: 50px;
-}
-@media only screen and (max-width: 768px) {
-  .section-video {
-    padding: 0 14px;
-  }
 }
 .section-video .content {
   display: flex;
@@ -70,7 +65,8 @@ main {
   line-height: 1.3em;
   text-align: center;
   color: #21272A;
-  width: 938px;
+  max-width: 938px;
+  width: 100%;
   margin: 0;
 }
 @media only screen and (max-width: 768px) {
