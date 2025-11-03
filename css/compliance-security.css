@@ -438,4 +438,143 @@ main {
   margin: 38px auto 0;
 }
 
+/* Identity Verification & Authorization (Access procedure) */
+.section-identity-access {
+  padding: 40px 16px 40px 16px;
+  background: #fff;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+}
+@media only screen and (max-width: 768px) {
+  .section-identity-access {
+    padding: 37px 15px;
+  }
+}
+.section-identity-access .section-identity-access-container {
+  max-width: 1258px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.section-identity-access .section-identity-access-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 12px;
+  width: 100%;
+}
+.section-identity-access .section-identity-access-title {
+  font-family: "Barlow", sans-serif;
+  font-weight: 700;
+  font-size: 32.256px;
+  line-height: 1.3em;
+  text-align: center;
+  color: #000000;
+  margin: 0;
+}
+.section-identity-access .section-identity-access-description {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 16.5024px;
+  line-height: 1.55em;
+  text-align: center;
+  color: #21272A;
+  margin: 0;
+  max-width: 884px;
+}
+@media only screen and (max-width: 768px) {
+  .section-identity-access .section-identity-access-description {
+    max-width: 400px;
+    width: 100%;
+  }
+}
+.section-identity-access .section-identity-access-content {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-end;
+  padding: 0 15px;
+}
+@media only screen and (max-width: 991px) {
+  .section-identity-access .section-identity-access-content {
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+  }
+}
+.section-identity-access .identity-access-block {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 100%;
+}
+@media only screen and (max-width: 768px) {
+  .section-identity-access .identity-access-block {
+    align-items: center;
+  }
+}
+.section-identity-access .identity-access-heading {
+  font-family: "Barlow", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.7472em;
+  text-align: left;
+  color: #000000;
+  margin: 0;
+}
+.section-identity-access .identity-access-cards {
+  gap: 20px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+@media only screen and (max-width: 1250px) {
+  .section-identity-access .identity-access-cards {
+    justify-content: center;
+  }
+}
+.section-identity-access .identity-access-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  padding: 15px;
+  background: #ACDBFD;
+  border-radius: 20px;
+  max-width: 273px;
+  min-width: 273px;
+  height: 241px;
+}
+.section-identity-access .identity-access-card-counter {
+  font-family: "Noto Serif", serif;
+  font-weight: 500;
+  font-size: 65.9px;
+  line-height: 1.332em;
+  color: #000000;
+  margin: 0 0 6px 0;
+}
+.section-identity-access .identity-access-card-text {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.219em;
+  color: #000000;
+  margin: 0;
+}
+.section-identity-access .text-italic {
+  font-style: italic;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 155%;
+  text-align: right;
+  color: #21272a;
+  max-width: 584px;
+  width: 100%;
+  margin: 38px 0 0 auto;
+  padding: 0 16px;
+}
+
 /*# sourceMappingURL=compliance-security.css.map */
