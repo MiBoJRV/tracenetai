@@ -1,0 +1,441 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap");
+/*colors*/
+main {
+  max-width: none;
+  margin: 0 auto;
+}
+
+/* Section Video Styles */
+.section-video {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 0 16px;
+  background-color: #F7F8FB;
+  margin-bottom: 50px;
+}
+.section-video .content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  gap: 10px;
+  padding: 89px 0;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.section-video .content .flex-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  gap: 60px;
+  max-width: 1229px;
+}
+@media only screen and (max-width: 768px) {
+  .section-video .content .flex-7 {
+    gap: 10px;
+  }
+}
+.section-video .content .flex-7 .frame-1000000946 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  align-self: stretch;
+  gap: 24px;
+}
+@media only screen and (max-width: 768px) {
+  .section-video .content .flex-7 .frame-1000000946 {
+    align-items: center;
+  }
+}
+.section-video .content .flex-7 .frame-1000000946 .frame-1000000947 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  gap: 24px;
+}
+.section-video .content .flex-7 .frame-1000000946 .frame-1000000947 .title-gemini {
+  font-family: "Barlow", sans-serif;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 1.3em;
+  text-align: center;
+  color: #21272A;
+  max-width: 938px;
+  width: 100%;
+  margin: 0;
+}
+@media only screen and (max-width: 768px) {
+  .section-video .content .flex-7 .frame-1000000946 .frame-1000000947 .title-gemini {
+    width: 100%;
+  }
+}
+.section-video .content .flex-7 .frame-1000000946 .frame-1000000947 .description-gemini {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 19.4976px;
+  line-height: 1.55em;
+  text-align: center;
+  color: #21272A;
+  width: 100%;
+  margin: 0;
+}
+@media only screen and (max-width: 768px) {
+  .section-video .content .flex-7 .frame-1000000946 .frame-1000000947 .description-gemini {
+    width: 100%;
+    height: auto;
+  }
+}
+.section-video .content .flex-7 .frame-1000000946 .summary-gemini {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 19.4976px;
+  line-height: 1.55em;
+  text-align: right;
+  color: #21272A;
+  width: 609px;
+  height: 59px;
+  margin: 0;
+}
+@media only screen and (max-width: 768px) {
+  .section-video .content .flex-7 .frame-1000000946 .summary-gemini {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Section System Architecture Styles */
+.section-secure-data-handling {
+  padding: 10px 16px 0 16px;
+  background: #fff;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+}
+@media only screen and (max-width: 768px) {
+  .section-secure-data-handling {
+    padding: 37px 15px;
+  }
+}
+.section-secure-data-handling .section-secure-data-container {
+  max-width: 1258px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+@media only screen and (max-width: 768px) {
+  .section-secure-data-handling .section-secure-data-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 0;
+  }
+}
+.section-secure-data-handling .section-secure-data-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  margin-bottom: 50px;
+  width: 100%;
+}
+@media only screen and (max-width: 768px) {
+  .section-secure-data-handling .section-secure-data-header {
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 0;
+    align-self: stretch;
+  }
+}
+.section-secure-data-handling .section-secure-data-title {
+  font-family: "Barlow", sans-serif;
+  font-weight: 700;
+  font-size: 32.256px;
+  line-height: 1.3em;
+  text-align: center;
+  color: #000000;
+  margin: 0 0 36px 0;
+}
+@media only screen and (max-width: 768px) {
+  .section-secure-data-handling .section-secure-data-title {
+    margin: 0;
+    width: 100%;
+  }
+}
+.section-secure-data-handling .section-secure-data-description {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 16.5024px;
+  line-height: 1.55em;
+  text-align: center;
+  color: #21272A;
+  margin: 0;
+  max-width: 884px;
+}
+@media only screen and (max-width: 768px) {
+  .section-secure-data-handling .section-secure-data-description {
+    max-width: 400px;
+    width: 100%;
+  }
+}
+.section-secure-data-handling .section-secure-data-content {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: stretch;
+  padding: 0 15px;
+}
+@media only screen and (max-width: 991px) {
+  .section-secure-data-handling .section-secure-data-content {
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+  }
+}
+.section-secure-data-handling .secure-data-image-container {
+  max-width: 604px;
+  width: 100%;
+  background: #EAF0FD;
+  border-radius: 30px;
+  overflow: hidden;
+  padding: 18px 12px;
+  box-sizing: border-box;
+}
+.section-secure-data-handling .secure-data-image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 30px;
+}
+.section-secure-data-handling .secure-data-accordion {
+  max-width: 604px;
+  width: 100%;
+  display: flex;
+}
+.section-secure-data-handling .accordion-item {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 25px 32px;
+  background: #EAF0FD;
+  border-radius: 30px;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+@media only screen and (max-width: 768px) {
+  .section-secure-data-handling .accordion-item {
+    gap: 12px;
+    padding: 16px 32px;
+    height: auto;
+  }
+}
+.section-secure-data-handling .accordion-header {
+  font-family: "Noto Serif", serif;
+  font-weight: 500;
+  font-size: 24.6px;
+  line-height: 1.522em;
+  text-align: left;
+  color: #000000;
+  margin: 0;
+}
+.section-secure-data-handling .accordion-content p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.55em;
+  text-align: left;
+  color: #000000;
+  margin: 0;
+}
+.section-secure-data-handling .text-italic {
+  font-style: italic;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 155%;
+  text-align: center;
+  color: #21272a;
+  max-width: 584px;
+  width: 100%;
+  margin: 38px auto 0;
+}
+
+/* Section Gemini Risk Engine Styles */
+.section-gemini-risk-engine {
+  padding: 40px 16px 40px 16px;
+  background: #fff;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+}
+@media only screen and (max-width: 768px) {
+  .section-gemini-risk-engine {
+    padding: 37px 15px;
+  }
+}
+.section-gemini-risk-engine .section-gemini-risk-engine {
+  padding: 40px 16px 40px 16px;
+  background: #fff;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+}
+@media only screen and (max-width: 768px) {
+  .section-gemini-risk-engine .section-gemini-risk-engine {
+    padding: 37px 15px;
+  }
+}
+.section-gemini-risk-engine .section-gemini-risk-container {
+  max-width: 1258px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+@media only screen and (max-width: 768px) {
+  .section-gemini-risk-engine .section-gemini-risk-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 0;
+  }
+}
+.section-gemini-risk-engine .section-gemini-risk-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  margin-bottom: 50px;
+  width: 100%;
+}
+@media only screen and (max-width: 768px) {
+  .section-gemini-risk-engine .section-gemini-risk-header {
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 0;
+    align-self: stretch;
+  }
+}
+.section-gemini-risk-engine .section-gemini-risk-title {
+  font-family: "Barlow", sans-serif;
+  font-weight: 700;
+  font-size: 32.256px;
+  line-height: 1.3em;
+  text-align: center;
+  color: #000000;
+  margin: 0 0 36px 0;
+}
+@media only screen and (max-width: 768px) {
+  .section-gemini-risk-engine .section-gemini-risk-title {
+    margin: 0;
+    width: 100%;
+  }
+}
+.section-gemini-risk-engine .section-gemini-risk-description {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 16.5024px;
+  line-height: 1.55em;
+  text-align: center;
+  color: #21272A;
+  margin: 0;
+  max-width: 884px;
+}
+@media only screen and (max-width: 768px) {
+  .section-gemini-risk-engine .section-gemini-risk-description {
+    max-width: 400px;
+    width: 100%;
+  }
+}
+.section-gemini-risk-engine .section-gemini-risk-content {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: stretch;
+  padding: 0 15px;
+}
+@media only screen and (max-width: 991px) {
+  .section-gemini-risk-engine .section-gemini-risk-content {
+    flex-direction: column-reverse;
+    align-items: center;
+    padding: 0;
+  }
+}
+.section-gemini-risk-engine .gemini-risk-image-container {
+  max-width: 604px;
+  width: 100%;
+  background: #F8F8F8;
+  border-radius: 30px;
+  overflow: hidden;
+  padding: 18px 12px;
+  box-sizing: border-box;
+}
+.section-gemini-risk-engine .gemini-risk-image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 30px;
+}
+.section-gemini-risk-engine .gemini-risk-accordion {
+  max-width: 604px;
+  width: 100%;
+  display: flex;
+}
+.section-gemini-risk-engine .accordion-item-risk {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 25px 32px;
+  background: #F8F8F8;
+  border-radius: 30px;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+@media only screen and (max-width: 768px) {
+  .section-gemini-risk-engine .accordion-item-risk {
+    gap: 12px;
+    padding: 16px 32px;
+    height: auto;
+  }
+}
+.section-gemini-risk-engine .accordion-header-risk {
+  font-family: "Noto Serif", serif;
+  font-weight: 500;
+  font-size: 24.6px;
+  line-height: 1.522em;
+  text-align: left;
+  color: #000000;
+  margin: 0;
+}
+.section-gemini-risk-engine .accordion-content-risk p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.55em;
+  text-align: left;
+  color: #000000;
+  margin: 0;
+}
+.section-gemini-risk-engine .text-italic {
+  font-style: italic;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 155%;
+  text-align: center;
+  color: #21272a;
+  max-width: 584px;
+  width: 100%;
+  margin: 38px auto 0;
+}
+
+/*# sourceMappingURL=compliance-security.css.map */
