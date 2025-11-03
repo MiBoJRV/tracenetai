@@ -167,7 +167,6 @@ main {
   align-items: center;
   gap: 10px;
   padding: 0 16px;
-  margin-bottom: 50px;
 
   .content {
     display: flex;
@@ -175,7 +174,7 @@ main {
     align-items: center;
     align-self: stretch;
     gap: 10px;
-    padding: 50px 0;
+    padding: 50px 0 0;
     max-width: 1440px;
     margin: 0 auto;
 
@@ -637,11 +636,12 @@ main {
     z-index: 0;
 
     @media only screen and (max-width: 768px) {
-      top: -100px;
+      top: -145px;
     }
 
     @media only screen and (max-width: 480px) {
-      top: -100px;
+      top: -180px;
+      left: -15px;
     }
 
     img {
@@ -733,12 +733,12 @@ main {
     .paragraph-2 {
       font-size: 15px;
       line-height: 1.705;
-      max-width: 445px;
       text-align: left;
 
       border-radius: 20px;
       padding: 15px 15px 10px;
-      width: 448px;
+      max-width: 448px;
+      width: 100%;
       height: 200px;
       background: #acdbfd;
 
@@ -758,6 +758,164 @@ main {
 
       @media only screen and (max-width: 768px) {
         font-size: 14px;
+      }
+    }
+  }
+}
+
+
+.section-contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 0 16px;
+  background-color: #F7F8FB;
+  margin-top: 100px;
+  
+  @media only screen and (max-width: 768px) {
+    margin-top: 20px;
+  }
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: stretch;
+    gap: 10px;
+    padding: 24px 0;
+    max-width: 1440px;
+    margin: 0 auto;
+
+    .frame-cta {
+      display: flex;
+      flex-direction: column;
+      align-self: stretch;
+      gap: 24px;
+      max-width: 1149px;
+      width: 100%;
+
+      .title-gemini {
+        font-family: 'Barlow', sans-serif;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 1.828em;
+        text-align: center;
+        color: #21272A;
+        margin: 0;
+      }
+
+      .description-gemini {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 1.511em;
+        text-align: left;
+        color: #21272A;
+        max-width: 1149px;
+        width: 100%;
+        margin: 0;
+
+        .email-link {
+          display: flex;
+          align-items: center;
+
+          a {
+            font-weight: 400;
+            font-size: 20px;
+            color: #21272a;
+            margin-left: 10px;
+          }
+        }
+      }
+
+      .summary-gemini {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 400;
+        font-size: 19.4976px;
+        line-height: 1.55em;
+        text-align: left;
+        color: #21272A;
+        max-width: 537px;
+        width: 100%;
+        margin: 0;
+
+        &.text-italic {
+          font-style: italic;
+        }
+      }
+
+
+    }
+
+  }
+
+  @media only screen and (max-width: 768px) {
+    .content {
+      padding: 23px 0;
+
+      .frame-cta {
+        //max-width: 400px;
+
+        .title-gemini {
+          font-size: 32px;
+        }
+
+        .description-gemini {
+          //max-width: 400px;
+          width: 100%;
+          height: auto;
+        }
+
+        .summary-gemini {
+          //max-width: 400px;
+          width: 100%;
+          height: auto;
+        }
+      }
+    }
+  }
+}
+
+.cta {
+  padding: 55px 16px;
+
+  .cta-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    width: 100%;
+
+    
+    @media only screen and (max-width: 768px) {
+
+        flex-direction: column;
+        gap: 40px;
+
+    }
+
+    .cta-button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      padding: 8px 24px;
+      background-color: #2B6CEF;
+      color: #FFFFFF;
+      border-radius: 50px;
+      text-decoration: none;
+      font-family: 'Inter', sans-serif;
+      font-weight: 700;
+      font-size: 15.1px;
+      line-height: 2.261em;
+      letter-spacing: 0.042em; // ~4.238%
+      transition: opacity 0.2s ease-in-out;
+      min-width: 243px;
+
+      &:hover {
+        text-decoration: underline;
       }
     }
   }
