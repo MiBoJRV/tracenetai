@@ -13,7 +13,7 @@ main {
   gap: 10px;
   padding: 0 16px;
   background-color: #F7F8FB;
-  margin-bottom: 50px;
+  margin-bottom: 0;
 }
 .section-video .content {
   display: flex;
@@ -130,6 +130,91 @@ main {
   .section-video .content .flex-7 .frame-1000000946 .summary-gemini {
     width: 100%;
     height: auto;
+  }
+}
+
+/* Section Mission Styles */
+.section-mission {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 0 16px;
+  margin-bottom: 50px;
+}
+.section-mission .content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  gap: 10px;
+  padding: 50px 0;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.section-mission .content .mission-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: stretch;
+  max-width: 1229px;
+  width: 100%;
+}
+.section-mission .content .mission-container .mission-title {
+  font-family: "Barlow", sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 1.3em;
+  text-align: center;
+  color: #000000;
+  margin: 0 0 20px 0;
+}
+.section-mission .content .mission-container .mission-description {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 16.5px;
+  line-height: 1.55em;
+  text-align: center;
+  color: #21272A;
+  max-width: 685px;
+  width: 100%;
+  margin: 0 0 40px 0;
+}
+.section-mission .content .mission-container .mission-highlight {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 10px 32px;
+  background: #EAF0FD;
+  border-radius: 30px;
+  max-width: 573px;
+}
+.section-mission .content .mission-container .mission-highlight p {
+  font-family: "Noto Serif", serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.56em;
+  text-align: center;
+  color: #000000;
+  margin: 0;
+}
+@media only screen and (max-width: 768px) {
+  .section-mission .content .mission-container {
+    gap: 20px;
+  }
+  .section-mission .content .mission-container .mission-title {
+    font-size: 32px;
+  }
+  .section-mission .content .mission-container .mission-description {
+    max-width: 100%;
+  }
+  .section-mission .content .mission-container .mission-highlight {
+    max-width: 100%;
+  }
+  .section-mission .content .mission-container .mission-highlight p {
+    font-size: 20px;
+    line-height: 1.362em;
   }
 }
 

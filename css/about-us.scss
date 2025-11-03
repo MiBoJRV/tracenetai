@@ -34,7 +34,7 @@ main {
   gap: 10px;
   padding: 0 16px;
   background-color: #F7F8FB;
-  margin-bottom: 50px;
+  margin-bottom: 0;
 
   .content {
     display: flex;
@@ -153,6 +153,100 @@ main {
           @media only screen and (max-width: 768px) {
             width: 100%;
             height: auto;
+          }
+        }
+      }
+    }
+  }
+}
+
+/* Section Mission Styles */
+.section-mission {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 0 16px;
+  margin-bottom: 50px;
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: stretch;
+    gap: 10px;
+    padding: 50px 0;
+    max-width: 1440px;
+    margin: 0 auto;
+
+    .mission-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      align-self: stretch;
+      max-width: 1229px;
+      width: 100%;
+
+      .mission-title {
+        font-family: 'Barlow', sans-serif;
+        font-weight: 700;
+        font-size: 32px; // figma ~32.256px
+        line-height: 1.3em;
+        text-align: center;
+        color: #000000;
+        margin: 0 0 20px 0;
+      }
+
+      .mission-description {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 400;
+        font-size: 16.5px;
+        line-height: 1.55em;
+        text-align: center;
+        color: #21272A;
+        max-width: 685px;
+        width: 100%;
+        margin: 0 0 40px 0;
+      }
+
+      .mission-highlight {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        padding: 10px 32px;
+        background: #EAF0FD;
+        border-radius: 30px;
+        max-width: 573px;
+
+        p {
+          font-family: 'Noto Serif', serif;
+          font-weight: 500;
+          font-size: 24px; // desktop figma
+          line-height: 1.56em;
+          text-align: center;
+          color: #000000;
+          margin: 0;
+        }
+      }
+
+      @media only screen and (max-width: 768px) {
+        gap: 20px;
+
+        .mission-title {
+          font-size: 32px; // same as figma mobile
+        }
+
+        .mission-description {
+          max-width: 100%;
+        }
+
+        .mission-highlight {
+          max-width: 100%;
+
+          p {
+            font-size: 20px; // figma mobile
+            line-height: 1.362em;
           }
         }
       }
