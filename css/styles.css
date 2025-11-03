@@ -89,10 +89,12 @@ body {
   transition: max-height 0.8s ease;
   flex-direction: column;
   height: 100vh;
+  height: 100dvh;
   position: fixed;
   width: 100%;
   top: 0;
   display: none;
+  justify-content: space-between;
 }
 .mobile-content.open {
   display: flex;
@@ -123,7 +125,6 @@ body {
 .mobile-content .button-survey {
   display: flex;
   justify-content: center;
-  margin-top: auto;
 }
 .mobile-content .button-survey a {
   border-radius: 99px;

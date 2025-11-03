@@ -132,10 +132,12 @@ body {
 
   flex-direction: column;
   height: 100vh;
+  height: 100dvh;
   position: fixed;
   width: 100%;
   top: 0;
   display: none;
+  justify-content: space-between;
 
   &.open {
     display: flex;
@@ -178,7 +180,7 @@ body {
   .button-survey {
     display: flex;
     justify-content: center;
-    margin-top: auto;
+    //margin-top: auto;
 
     a {
       border-radius: 99px;
