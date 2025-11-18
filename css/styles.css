@@ -152,7 +152,7 @@ body {
 .language-switcher.mobile {
   display: block;
   margin: 32px auto 0;
-  max-width: 220px;
+  max-width: 95px;
   width: 100%;
 }
 
@@ -211,12 +211,22 @@ body {
   overflow-y: auto;
   scrollbar-width: thin;
   scrollbar-color: rgba(15, 23, 42, 0.3) transparent;
-  max-height: 250px;
+  max-height: 232px;
 }
 @media only screen and (max-width: 768px) {
   .language-switcher-menu {
     max-height: 150px;
   }
+}
+.language-switcher-menu::-webkit-scrollbar {
+  width: 6px;
+}
+.language-switcher-menu::-webkit-scrollbar-track {
+  background: transparent;
+}
+.language-switcher-menu::-webkit-scrollbar-thumb {
+  background: rgba(15, 23, 42, 0.25);
+  border-radius: 999px;
 }
 .language-switcher.mobile .language-switcher-menu {
   width: 100%;
@@ -233,11 +243,14 @@ body {
   background: transparent;
   color: #0B0F11;
   font-size: 14px;
-  padding: 5px 12px;
+  padding: 6px 12px;
   border-radius: 8px;
   text-align: left;
   cursor: pointer;
   transition: background 0.15s ease, color 0.15s ease;
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 .language-option:hover {
   background: rgba(43, 108, 239, 0.07);
@@ -245,6 +258,15 @@ body {
 .language-option.active {
   background: rgba(43, 108, 239, 0.12);
   color: #2b6cef;
+}
+
+.language-flag {
+  font-size: 17px;
+  line-height: 1;
+}
+
+.language-label {
+  flex: 1;
 }
 
 header {

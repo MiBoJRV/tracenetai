@@ -14,6 +14,20 @@ document.addEventListener('DOMContentLoaded', function () {
         tr: 'TR',
         el: 'EL'
     };
+    const languageFlags = {
+        en: '🇬🇧',
+        fr: '🇫🇷',
+        es: '🇪🇸',
+        pl: '🇵🇱',
+        hr: '🇭🇷',
+        cz: '🇨🇿',
+        it: '🇮🇹',
+        pt: '🇵🇹',
+        de: '🇩🇪',
+        ru: '🇷🇺',
+        tr: '🇹🇷',
+        el: '🇬🇷'
+    };
     const defaultLanguage = 'en';
     const storageKey = 'siteLanguage';
     const translationsCache = {};
@@ -113,6 +127,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function updateLanguageButtons(language) {
         const label = languageLabels[language] || language.toUpperCase();
+        const flag = languageFlags[language] || '';
         const buttons = document.querySelectorAll('[data-lang-option]');
         buttons.forEach((button) => {
             const isActive = button.getAttribute('data-lang-option') === language;
@@ -123,6 +138,10 @@ document.addEventListener('DOMContentLoaded', function () {
         const currentLabels = document.querySelectorAll('[data-current-language]');
         currentLabels.forEach((node) => {
             node.textContent = label;
+        });
+        const currentFlags = document.querySelectorAll('[data-current-flag]');
+        currentFlags.forEach((node) => {
+            node.textContent = flag;
         });
     }
 
