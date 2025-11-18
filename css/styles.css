@@ -208,6 +208,15 @@ body {
   transform: translateY(-6px);
   transition: opacity 0.2s ease, transform 0.2s ease;
   z-index: 10;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(15, 23, 42, 0.3) transparent;
+  max-height: 250px;
+}
+@media only screen and (max-width: 768px) {
+  .language-switcher-menu {
+    max-height: 150px;
+  }
 }
 .language-switcher.mobile .language-switcher-menu {
   width: 100%;
@@ -224,7 +233,7 @@ body {
   background: transparent;
   color: #0B0F11;
   font-size: 14px;
-  padding: 10px 12px;
+  padding: 5px 12px;
   border-radius: 8px;
   text-align: left;
   cursor: pointer;
