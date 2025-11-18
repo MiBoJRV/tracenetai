@@ -324,6 +324,131 @@
       "regulatory": "Coordination réglementaire"
     }
   },
+  "privacy": {
+    "lastUpdated": "Dernière mise à jour : octobre 2025",
+    "intro1": "La présente Politique de confidentialité explique comment TraceNet Systems Ltd. (« TraceNet », « nous » ou « l’Entreprise ») collecte, utilise, protège et divulgue les données personnelles et financières traitées via notre plateforme et nos services associés.",
+    "intro2": "Notre mission est de favoriser la transparence et la sécurité financières grâce à l’intelligence des données pilotée par l’IA, tout en respectant strictement les lois internationales sur la protection des données et la conformité financière.",
+    "sections": {
+      "scope": {
+        "title": "1. Champ d’application",
+        "description1": "Cette politique s’applique à tous les utilisateurs de la plateforme TraceNet — particuliers, entreprises et partenaires institutionnels — et couvre les données traitées via :",
+        "list1": "Nos sites web et applications en ligne ;",
+        "list2": "Les intégrations API avec banques, prestataires de paiement et plateformes crypto ;",
+        "list3": "Les canaux d’assistance client, d’onboarding et de communication.",
+        "description2": "Elle concerne également les employés, sous-traitants et affiliés agissant pour le compte de TraceNet lors du traitement des données utilisateurs."
+      },
+      "data": {
+        "title": "2. Données collectées",
+        "description": "Nous collectons uniquement les données nécessaires pour faire fonctionner nos services, assurer la conformité et améliorer les performances du système.",
+        "userData": {
+          "title": "2.1 Données fournies par les utilisateurs",
+          "list1": "Informations d’identité et de contact fournies lors de l’onboarding conformité (nom complet, e-mail, institution, documents de vérification).",
+          "list2": "Métadonnées de connexion aux comptes (clés API, identifiants d’institution — tokenisés et chiffrés).",
+          "list3": "Registres de consentement utilisateur et déclarations de conformité."
+        },
+        "autoData": {
+          "title": "2.2 Données collectées automatiquement",
+          "list1": "Informations techniques (adresse IP, type d’appareil, configuration du navigateur, durée de session).",
+          "list2": "Métadonnées des appels API et journaux de performance du système.",
+          "list3": "Données financières anonymisées récupérées via des connexions en lecture seule."
+        },
+        "sensitive": {
+          "title": "2.3 Données financières sensibles",
+          "text1": "Lors des connexions avec des banques ou plateformes d’échange, TraceNet ne récupère que des données transactionnelles en lecture seule.",
+          "text2": "Nous ne stockons jamais d’identifiants d’authentification, mots de passe ou instruments de paiement."
+        }
+      },
+      "usage": {
+        "title": "3. Utilisation des données",
+        "description": "Les données collectées servent à :",
+        "list1": "Exploiter, maintenir et améliorer la plateforme ;",
+        "list2": "Analyser l’activité transactionnelle et détecter les fraudes ou irrégularités potentielles ;",
+        "list3": "Générer des rapports analytiques et de conformité anonymisés ;",
+        "list4": "Communiquer avec les utilisateurs et fournir une assistance technique ou réglementaire ;",
+        "list5": "Respecter les obligations légales et anti-blanchiment (AML) ;",
+        "list6": "Améliorer la précision de nos modèles analytiques basés sur l’IA.",
+        "note": "TraceNet ne vend ni ne partage de données à des fins marketing ou publicitaires."
+      },
+      "legalBasis": {
+        "title": "4. Bases juridiques du traitement",
+        "description": "Les données sont traitées sur la base d’un ou plusieurs fondements légaux :",
+        "list1": "Consentement de l’utilisateur — autorisation explicite pour connecter des comptes financiers ou soumettre des données de vérification ;",
+        "list2": "Intérêt légitime — détection de fraude, sécurité des données, amélioration du service ;",
+        "list3": "Obligation légale — conformité aux lois AML/KYC et exigences de conservation des données ;",
+        "list4": "Nécessité contractuelle — permettre l’accès utilisateur et le fonctionnement de la plateforme."
+      },
+      "retention": {
+        "title": "5. Conservation des données",
+        "description": "Les données sont conservées uniquement pendant la durée nécessaire pour :",
+        "list1": "Fournir les fonctionnalités et services de la plateforme ;",
+        "list2": "Respecter les réglementations financières applicables ;",
+        "list3": "Résoudre les litiges ou appliquer les obligations contractuelles.",
+        "note": "Une fois devenues inutiles, les données sont supprimées de façon sécurisée ou anonymisées de manière irréversible."
+      },
+      "security": {
+        "title": "6. Sécurité des données",
+        "description": "Nous appliquons des mesures de sécurité avancées pour protéger toutes les informations utilisateurs :",
+        "list1": "Chiffrement AES-256 et TLS 1.3 pour les données au repos et en transit ;",
+        "list2": "Hébergement multi-régions avec contrôles d’accès restreints ;",
+        "list3": "Tests d’intrusion et surveillance des vulnérabilités en continu ;",
+        "list4": "Journaux d’audit immuables pour tout accès et opération sur les données.",
+        "note": "Toutes les intégrations sont en lecture seule et conformes aux normes ISO 27001, SOC 2 Type II et Open Banking PSD2."
+      },
+      "sharing": {
+        "title": "7. Partage et divulgation des données",
+        "description": "Nous partageons les données uniquement lorsque cela est strictement nécessaire et dans un cadre sécurisé et réglementé :",
+        "list1": "Institutions financières et plateformes d’échange — pour traiter les demandes analytiques ou de rappel/litige autorisées.",
+        "list2": "Autorités réglementaires — lorsque la loi l’exige pour la conformité AML, KYC ou les obligations de supervision.",
+        "list3": "Prestataires d’infrastructure — pour l’hébergement, le suivi de conformité ou l’audit, sous clauses de confidentialité.",
+        "note": "TraceNet ne divulgue jamais de données utilisateurs à des fins commerciales, de profilage comportemental ou publicitaires."
+      },
+      "transfers": {
+        "title": "8. Transferts internationaux de données",
+        "description": "En cas de transfert international, TraceNet applique des garanties appropriées, notamment :",
+        "list1": "Clauses contractuelles types (CCT) conformément au RGPD ;",
+        "list2": "Stockage régional pour les utilisateurs UE, Royaume-Uni et Canada ;",
+        "list3": "Chiffrement et pseudonymisation avant tout transfert.",
+        "note": "Nos principaux centres de traitement des données se situent dans l’Union européenne, au Royaume-Uni, au Canada et en Israël."
+      },
+      "rights": {
+        "title": "9. Droits des utilisateurs",
+        "description": "Selon les réglementations applicables (RGPD, UK DPA 2018, etc.), les utilisateurs peuvent :",
+        "list1": "Accéder à leurs données personnelles ;",
+        "list2": "Demander la rectification ou la suppression ;",
+        "list3": "Limiter ou s’opposer au traitement ;",
+        "list4": "Demander la portabilité des données ;",
+        "list5": "Retirer leur consentement à tout moment sans affecter le traitement antérieur.",
+        "note": "Les demandes peuvent être envoyées à privacy@tracenetsystems.com ; TraceNet répond sous 30 jours après vérification."
+      },
+      "cookies": {
+        "title": "10. Cookies et suivi",
+        "description1": "Notre site n’utilise que des cookies essentiels au fonctionnement et à l’analyse.",
+        "description2": "Des informations détaillées sur les cookies et la gestion du consentement figurent dans notre Politique de cookies."
+      },
+      "dpo": {
+        "title": "11. Délégué à la protection des données (DPO)",
+        "description": "TraceNet a nommé un DPO chargé de superviser les pratiques de confidentialité et la conformité.",
+        "contact": "📧 Contact DPO : dpo@tracenetsystems.com",
+        "address": "📍 Adresse : TraceNet Systems Ltd., 14 HaGefen St., Ramat Gan, Israël"
+      },
+      "updates": {
+        "title": "12. Mises à jour de cette politique",
+        "description1": "Cette politique peut être actualisée périodiquement pour refléter les évolutions réglementaires, technologiques ou organisationnelles.",
+        "description2": "Les révisions seront publiées sur cette page avec la date « Dernière mise à jour ».",
+        "description3": "Pour les modifications importantes, une notification sera envoyée par e-mail ou via la plateforme."
+      },
+      "contact": {
+        "title": "13. Contact",
+        "description": "Pour toute question, préoccupation relative à la confidentialité ou correspondance réglementaire :",
+        "email": "📧 privacy@tracenetsystems.com",
+        "company": "📍 TraceNet Systems Ltd.",
+        "address": "14 HaGefen Street, Ramat Gan, 5252174, Israël",
+        "separator": "⸻",
+        "compliantLabel": "✅ Conforme à :",
+        "compliantList": "RGPD (2016/679), UK DPA 2018, CCPA, AMLD6, ISO 27001, SOC 2 Type II, PCI DSS, Open Banking PSD2."
+      }
+    }
+  },
   "contact": {
     "title": "Une technologie qui renforce l'intégrité financière",
     "subtitle": "Propulsée par Google Gemini. Conçue pour rendre l'écosystème financier mondial plus transparent, intelligent et responsable.",
