@@ -1,727 +1,727 @@
 {
   "nav": {
-    "technology": "TECHNOLOGY",
-    "solutions": "SOLUTIONS",
-    "compliance": "COMPLIANCE & SECURITY",
-    "about": "ABOUT US",
-    "contact": "Contact us"
+    "technology": "ТЕХНОЛОГИЯ",
+    "solutions": "РЕШЕНИЯ",
+    "compliance": "СОБЛЮДЕНИЕ НОРМ & БЕЗОПАСНОСТЬ",
+    "about": "О НАС",
+    "contact": "Связаться с нами"
   },
   "banner": {
-    "title": "AI Infrastructure for Global Transaction Transparency",
-    "description": "Powered by Google Gemini technology and integrated with banks and crypto platforms worldwide, our system provides real-time visibility into fund movements, risk scoring, and automated compliance actions.",
-    "cta": "Explore the Technology"
+    "title": "Инфраструктура ИИ для глобальной прозрачности транзакций",
+    "description": "Наша система, разработанная на базе технологии Google Gemini и интегрированная с банками и криптоплатформами по всему миру, обеспечивает видимость движения средств в режиме реального времени, оценку рисков и автоматизированные действия по соблюдению нормативных требований.",
+    "cta": "Узнать о технологии"
   },
   "about": {
-    "title": "Understanding the Platform",
-    "paragraph1": "The system combines large-scale financial data modeling, behavioral analytics, and regulatory intelligence to interpret the flow of money across connected accounts and digital assets.",
-    "paragraph2": "It operates as a neutral analytical layer — securely connected to financial institutions through verified APIs, providing structured insight into every transaction chain and its associated risk."
+    "title": "Обзор платформы",
+    "paragraph1": "Система объединяет крупномасштабное моделирование финансовых данных, поведенческую аналитику и регуляторные знания для интерпретации движения денег по подключенным счетам и цифровым активам.",
+    "paragraph2": "Она функционирует как нейтральный аналитический уровень — безопасно подключенный к финансовым учреждениям через верифицированные API, предоставляя структурированную информацию о каждой цепочке транзакций и связанных с ней рисках."
   },
   "features": {
     "connectivity": {
-      "title": "Connectivity",
-      "text": "Direct API integrations with regulated banks and major crypto exchanges."
+      "title": "Связь",
+      "text": "Прямая интеграция по API с регулируемыми банками и крупными криптобиржами."
     },
     "intelligence": {
-      "title": "Intelligence",
-      "text": "Gemini-based models optimized for real-time financial reasoning."
+      "title": "Интеллект",
+      "text": "Модели на основе Gemini, оптимизированные для финансового анализа в реальном времени."
     },
     "integrity": {
-      "title": "Integrity",
-      "text": "Fully compliant with GDPR, AMLD6, and open-banking frameworks."
+      "title": "Целостность",
+      "text": "Полностью соответствует требованиям GDPR, AMLD6 и принципам открытого банкинга."
     }
   },
   "layers": {
-    "title": "Core Functional Layers",
+    "title": "Основные функциональные уровни",
     "analysis": {
-      "title": "Analysis",
-      "text": "Processes multi-channel financial data and identifies irregular activity using Gemini's contextual understanding."
+      "title": "Анализ",
+      "text": "Обрабатывает многоканальные финансовые данные и выявляет нерегулярную активность, используя контекстное понимание Gemini."
     },
     "risk": {
-      "title": "Risk Evaluation",
-      "text": "Applies AI-driven scoring and behavioral clustering to determine exposure to fraud, unauthorized use, or compliance breach."
+      "title": "Оценка рисков",
+      "text": "Применяет оценку на основе ИИ и поведенческую кластеризацию для определения подверженности мошенничеству, несанкционированному использованию или нарушению нормативных требований."
     },
     "response": {
-      "title": "Automated Response",
-      "text": "When risk thresholds are reached, the system can initiate authorized procedures — including chargeback, recall, or dispute actions — directly through institutional APIs."
+      "title": "Автоматизированное реагирование",
+      "text": "При достижении пороговых значений риска система может инициировать санкционированные процедуры — включая возвратный платеж (chargeback), отзыв (recall) или оспаривание транзакции — напрямую через институциональные API."
     }
   },
   "benefit": {
-    "title": "Access and Regulatory Framework",
-    "item1": "Because the platform interacts with live financial networks, access is granted only after completion of a short compliance onboarding required by global regulators.",
-    "item2": "This ensures lawful data exchange, verified identity, and full accountability of every operation executed through the AI infrastructure.",
-    "footer": "Compliance is not an add-on — it's an integral part of the system design."
+    "title": "Доступ и нормативная база",
+    "item1": "Поскольку платформа взаимодействует с действующими финансовыми сетями, доступ предоставляется только после завершения короткого процесса регистрации в соответствии с требованиями глобальных регуляторов.",
+    "item2": "Это обеспечивает законный обмен данными, верифицированную личность и полную подотчетность за каждую операцию, выполненную через инфраструктуру ИИ.",
+    "footer": "Соблюдение норм — это не дополнение, а неотъемлемая часть архитектуры системы."
   },
   "transparency": {
-    "title": "Designed for Transparency, Built for Trust",
-    "text1": "The platform helps institutions and individuals detect irregular financial behavior, reduce exposure to fraud, and maintain full visibility over both fiat and digital transactions.",
-    "text2": "It functions as a permanent monitoring layer that ensures each movement of value is traceable, explainable, and compliant.",
-    "box1": "Real-time transaction interpretation across financial networks",
-    "box2": "Automated compliance checks and incident reporting",
-    "box3": "Secure, read-only API connections",
-    "box4": "Structured traceability for regulators and users alike"
+    "title": "Разработано для прозрачности, создано для доверия",
+    "text1": "Платформа помогает учреждениям и частным лицам выявлять нерегулярное финансовое поведение, снижать подверженность мошенничеству и поддерживать полную видимость как фиатных, так и цифровых транзакций.",
+    "text2": "Она функционирует как постоянный уровень мониторинга, который гарантирует, что каждое движение ценности является отслеживаемым, объяснимым и соответствующим нормативным требованиям.",
+    "box1": "Интерпретация транзакций в финансовых сетях в реальном времени",
+    "box2": "Автоматизированные проверки соответствия и отчетность об инцидентах",
+    "box3": "Безопасные, доступные только для чтения, API-соединения",
+    "box4": "Структурированная прослеживаемость как для регуляторов, так и для пользователей"
   },
   "technology": {
     "hero": {
-      "title": "Gemini-Powered Financial Intelligence Architecture",
-      "description": "The system is powered by Google Gemini's multimodal AI framework — an infrastructure capable of analyzing structured and unstructured financial data at scale. Combined with proprietary risk and compliance logic, it enables continuous monitoring, contextual reasoning, and secure interaction with financial institutions and blockchain ecosystems.",
-      "summary": "At its core, the platform transforms complex transaction data into transparent, regulator-ready insights."
+      "title": "Архитектура финансового интеллекта на базе Gemini",
+      "description": "Система построена на основе мультимодального фреймворка ИИ Google Gemini — инфраструктуры, способной анализировать структурированные и неструктурированные финансовые данные в масштабе. В сочетании с проприетарной логикой рисков и комплаенса она обеспечивает непрерывный мониторинг, контекстуальный анализ и безопасное взаимодействие с финансовыми учреждениями и блокчейн-экосистемами.",
+      "summary": "По сути, платформа преобразует сложные транзакционные данные в прозрачные, готовые для регулятора сведения."
     },
     "architecture": {
-      "title": "System Architecture",
-      "description": "The technology stack is organized into five interconnected layers, each dedicated to a specific stage of financial data processing — from secure ingestion to regulatory action.",
+      "title": "Архитектура системы",
+      "description": "Технологический стек организован в пять взаимосвязанных уровней, каждый из которых предназначен для определенной стадии обработки финансовых данных — от безопасного ввода до регуляторных действий.",
       "layers": {
         "data": {
-          "title": "Data Sources",
-          "text": "Read-only access to banks, payment processors, and crypto exchanges via verified APIs. Supports Open Banking, ISO 20022, and blockchain data streams."
+          "title": "Источники данных",
+          "text": "Доступ к банкам, платежным системам и криптобиржам только для чтения через верифицированные API. Поддерживает Open Banking, ISO 20022 и потоки данных блокчейна."
         },
         "gemini": {
-          "title": "Gemini AI Core",
-          "text": "Processes high-volume financial data using Gemini's multimodal reasoning capabilities. Performs natural-language interpretation of metadata, behavioral clustering, and entity correlation across accounts."
+          "title": "Ядро ИИ Gemini",
+          "text": "Обрабатывает большие объемы финансовых данных, используя возможности мультимодального анализа Gemini. Выполняет интерпретацию метаданных на естественном языке, поведенческую кластеризацию и корреляцию сущностей между счетами."
         },
         "risk": {
-          "title": "Risk Engine",
-          "text": "Executes machine learning–based scoring logic that identifies anomalies, duplicate transfers, hidden subscriptions, and unauthorized activity. Each chain of transactions receives a dynamic risk profile updated in real time."
+          "title": "Движок рисков",
+          "text": "Исполняет логику скоринга на основе машинного обучения, которая выявляет аномалии, дублирующиеся переводы, скрытые подписки и несанкционированную активность. Каждая цепочка транзакций получает динамический профиль риска, обновляемый в реальном времени."
         },
         "compliance": {
-          "title": "Compliance Layer",
-          "text": "Implements AML, KYC, GDPR, and regional data-protection standards. Ensures traceability and accountability of every decision generated by the AI. Provides audit logs compatible with regulatory review formats."
+          "title": "Уровень соблюдения норм",
+          "text": "Реализует стандарты AML, KYC, GDPR и региональные стандарты защиты данных. Обеспечивает прослеживаемость и подотчетность каждого решения, генерируемого ИИ. Предоставляет журналы аудита, совместимые с форматами регуляторной проверки."
         },
         "response": {
-          "title": "Response API Gateway",
-          "text": "Acts as a secure communication channel between the platform and financial institutions. Authorized by compliance rules, it can initiate chargeback, recall, or dispute procedures when confirmed irregularities are detected."
+          "title": "API-шлюз реагирования",
+          "text": "Служит безопасным каналом связи между платформой и финансовыми учреждениями. Санкционированный правилами комплаенса, он может инициировать процедуры возвратного платежа, отзыва или оспаривания при обнаружении подтвержденных нарушений."
         }
       }
     },
     "secureData": {
-      "title": "Secure Data Handling",
-      "description": "All connected data flows operate in read-only mode.<br>The platform does not execute or store financial operations; it only interprets and reports them.",
+      "title": "Безопасная обработка данных",
+      "description": "Все подключенные потоки данных работают в режиме только для чтения.<br>Платформа не выполняет и не хранит финансовые операции; она только интерпретирует их и сообщает о них.",
       "accordion": {
-        "title": "Security measures:",
-        "text": "• TLS 1.3 and AES-256 end-to-end encryption<br>• Differential privacy in all data aggregation processes<br>• Region-based data segregation (EU / NA / APAC)<br>• Immutable audit trail stored in compliance-ready format"
+        "title": "Меры безопасности:",
+        "text": "• Сквозное шифрование TLS 1.3 и AES-256<br>• Дифференциальная конфиденциальность во всех процессах агрегации данных<br>• Сегрегация данных по регионам (ЕС / Сев. Америка / Азиатско-Тихоокеанский регион)<br>• Неизменяемый аудиторский след, хранящийся в формате, готовом для проверки"
       }
     },
     "geminiRisk": {
-      "title": "Gemini Cognitive Risk Engine",
-      "description": "Using Gemini's reasoning capabilities, the platform interprets financial behavior not only through numerical anomalies, but also through semantic patterns — e.g. metadata, transaction descriptions, and behavioral correlations.",
+      "title": "Когнитивный движок рисков Gemini",
+      "description": "Используя возможности анализа Gemini, платформа интерпретирует финансовое поведение не только через числовые аномалии, но и через семантические паттерны — например, метаданные, описания транзакций и поведенческие корреляции.",
       "accordion": {
-        "title": "Capabilities:",
-        "text": "• Continuous anomaly detection across fiat and crypto ecosystems<br>• Behavior-based fraud scoring (0–100 scale)<br>• Contextual understanding of transaction purpose and counterpart behavior<br>• Adaptive learning: the model evolves as transaction networks change"
+        "title": "Возможности:",
+        "text": "• Непрерывное обнаружение аномалий в фиатных и крипто-экосистемах<br>• Скоринг мошенничества на основе поведения (шкала 0–100)<br>• Контекстуальное понимание цели транзакции и поведения контрагента<br>• Адаптивное обучение: модель развивается по мере изменения транзакционных сетей"
       }
     },
     "intelligentAction": {
-      "title": "Intelligent Action Framework",
-      "description": "When the AI identifies high-risk financial behavior, it prepares a structured incident report and — within the regulatory boundaries — triggers automated responses through partner APIs:",
+      "title": "Интеллектуальный фреймворк действий",
+      "description": "Когда ИИ выявляет финансовое поведение с высоким риском, он подготавливает структурированный отчет об инциденте и — в рамках регуляторных ограничений — запускает автоматизированные ответы через партнерские API:",
       "accordion": {
-        "title": "All actions are logged, timestamped, and approved within the compliance layer before execution.",
-        "text": "• Bank chargeback / recall requests for suspicious transfers<br>• Exchange dispute / refund submissions for fraudulent digital-asset activity<br>• Regulatory incident report generated for audit and supervision"
+        "title": "Все действия регистрируются, снабжаются временными метками и утверждаются на уровне соблюдения норм перед выполнением.",
+        "text": "• Запросы на возвратный платеж / отзыв средств в банк для подозрительных переводов<br>• Подача претензий / запросов на возврат средств на бирже для мошеннической активности с цифровыми активами<br>• Генерация регуляторного отчета об инциденте для аудита и надзора"
       }
     },
     "explainable": {
-      "title": "Explainable and Auditable AI",
-      "description": "Every output produced by the Gemini-based core includes explainability metadata: which variables influenced a decision, why the model classified an action as risky, and what regulatory framework the response aligns with.",
+      "title": "Объяснимый и проверяемый ИИ",
+      "description": "Каждый результат, создаваемый ядром на базе Gemini, включает метаданные объяснимости: какие переменные повлияли на решение, почему модель классифицировала действие как рискованное и какой регуляторной базе соответствует ответ.",
       "accordion": {
-        "title": "Features:",
-        "text": "• Transparent model decisions for auditors and regulators<br>• Traceable reasoning chain for each incident<br>• Configurable sensitivity thresholds per user or institution"
+        "title": "Особенности:",
+        "text": "• Прозрачные решения модели для аудиторов и регуляторов<br>• Прослеживаемая цепочка анализа для каждого инцидента<br>• Настраиваемые пороговые значения чувствительности для каждого пользователя или учреждения"
       }
     },
     "standards": {
-      "title": "Aligned with Global Standards",
-      "description": "The system adheres to the highest standards of security and financial data governance. All operations follow the principles of open banking, data minimalism, and regulator supervision.",
+      "title": "Соответствие мировым стандартам",
+      "description": "Система придерживается самых высоких стандартов безопасности и управления финансовыми данными. Все операции следуют принципам открытого банкинга, минимализма данных и регуляторного надзора.",
       "accordion": {
-        "title": "Compliance frameworks:",
-        "text": "• GDPR (Europe)<br>• AMLD6 (EU directive)<br>• ISO 27001 (Information Security)<br>• SOC 2 (Data integrity and privacy)<br>• PCI DSS (Financial data protection)"
+        "title": "Фреймворки комплаенса:",
+        "text": "• GDPR (Европа)<br>• AMLD6 (Директива ЕС)<br>• ISO 27001 (Информационная безопасность)<br>• SOC 2 (Целостность и конфиденциальность данных)<br>• PCI DSS (Защита финансовых данных)"
       }
     }
   },
   "solutions": {
     "hero": {
-      "title": "Applications Across the Financial Ecosystem",
-      "description": "The platform's modular architecture allows it to operate across multiple layers of the financial landscape — from individual account monitoring to institutional compliance infrastructure.<br>Built on Gemini's AI framework, it interprets transaction data, evaluates behavioral risk, and acts through verified financial APIs.",
-      "summary": "Different users. One system of transparency."
+      "title": "Применение в финансовой экосистеме",
+      "description": "Модульная архитектура платформы позволяет ей работать на нескольких уровнях финансового ландшафта — от мониторинга индивидуальных счетов до институциональной инфраструктуры комплаенса.<br>Созданная на базе фреймворка ИИ Gemini, она интерпретирует транзакционные данные, оценивает поведенческие риски и действует через верифицированные финансовые API.",
+      "summary": "Разные пользователи. Одна система прозрачности."
     },
     "personal": {
-      "title": "Personal Financial Awareness and Protection",
-      "description": "For individual users, the system functions as a continuous monitoring environment that provides real-time visibility into every transaction. It identifies recurring charges, hidden subscriptions, and potential unauthorized activity—and, when required, initiates authorized refund or dispute requests through the user’s financial institution.",
+      "title": "Осведомленность и защита личных финансов",
+      "description": "Для индивидуальных пользователей система функционирует как среда непрерывного мониторинга, обеспечивающая видимость каждой транзакции в реальном времени. Она выявляет регулярные списания, скрытые подписки и потенциально несанкционированную активность — и, при необходимости, инициирует авторизованные запросы на возврат средств или оспаривание через финансовое учреждение пользователя.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Detect recurring or duplicate payments<br>• Identify unauthorized transactions before they accumulate<br>• Receive structured reports with fraud scores and compliance context<br>• Automate chargeback or recall processes securely"
+        "title": "Примеры использования:",
+        "text": "• Обнаружение регулярных или дублирующихся платежей<br>• Выявление несанкционированных транзакций до их накопления<br>• Получение структурированных отчетов с оценкой мошенничества и контекстом комплаенса<br>• Безопасная автоматизация процессов возвратного платежа или отзыва средств"
       },
-      "note": "Individuals gain clarity over their digital finances and reduce losses from unnoticed activity or subscription leakage."
+      "note": "Частные лица получают ясность в отношении своих цифровых финансов и сокращают потери от незамеченной активности или утечки средств через подписки."
     },
     "corporate": {
-      "title": "Corporate Transaction Oversight",
-      "description": "For enterprises, the platform acts as a financial integrity layer—monitoring all outgoing and incoming transactions to ensure they align with internal policies, vendor agreements, and regional compliance standards.",
+      "title": "Корпоративный надзор за транзакциями",
+      "description": "Для предприятий платформа действует как уровень финансовой целостности, отслеживая все исходящие и входящие транзакции для обеспечения их соответствия внутренней политике, соглашениям с поставщиками и региональным стандартам комплаенса.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Detect unapproved or duplicate vendor payments<br>• Analyze financial exposure across accounts and subsidiaries<br>• Generate automated compliance and audit reports<br>• Identify early indicators of account misuse or insider fraud"
+        "title": "Примеры использования:",
+        "text": "• Выявление неодобренных или дублирующихся платежей поставщикам<br>• Анализ финансовой подверженности рискам по счетам и дочерним компаниям<br>• Генерация автоматизированных отчетов по комплаенсу и аудиту<br>• Выявление ранних признаков нецелевого использования счетов или внутреннего мошенничества"
       },
-      "note": "Financial institutions gain a scalable, regulator-aligned AI layer for fraud management and customer protection."
+      "note": "Финансовые учреждения получают масштабируемый, согласованный с регулятором уровень ИИ для управления мошенничеством и защиты клиентов."
     },
     "infrastructure": {
-      "title": "AI-Powered Fraud and Compliance Infrastructure",
-      "description": "Banks, fintech companies, and exchanges integrate the system through API to enhance their fraud detection, transaction traceability, and regulatory response capabilities. The Gemini-based core delivers contextual risk assessment for both fiat and crypto operations, improving precision and reducing false positives.",
+      "title": "Инфраструктура противодействия мошенничеству и комплаенса на базе ИИ",
+      "description": "Банки, финтех-компании и биржи интегрируют систему через API для усиления своих возможностей по обнаружению мошенничества, прослеживаемости транзакций и реагированию на регуляторные требования. Ядро на базе Gemini обеспечивает контекстную оценку рисков как для фиатных, так и для крипто-операций, повышая точность и сокращая количество ложных срабатываний.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Real-time anomaly detection across payment networks<br>• Automated escalation of high-risk transaction chains<br>• Instant generation of incident reports for compliance teams<br>• Support for chargeback and dispute automation through regulated APIs"
+        "title": "Примеры использования:",
+        "text": "• Обнаружение аномалий в платежных сетях в реальном времени<br>• Автоматизированное эскалирование цепочек транзакций с высоким риском<br>• Мгновенная генерация отчетов об инцидентах для комплаенс-команд<br>• Поддержка автоматизации возвратного платежа и оспаривания через регулируемые API"
       },
-      "note": "Financial institutions gain a scalable, regulator-aligned AI layer for fraud management and customer protection."
+      "note": "Финансовые учреждения получают масштабируемый, согласованный с регулятором уровень ИИ для управления мошенничеством и защиты клиентов."
     },
     "regulatory": {
-      "title": "Transparent Oversight and Traceability",
-      "description": "For supervisory bodies and regulatory auditors, the platform provides a neutral AI-driven view of transaction networks—with explainable reasoning, immutable audit trails, and standardized data export formats.",
+      "title": "Прозрачный надзор и прослеживаемость",
+      "description": "Надзорным органам и регуляторным аудиторам платформа предоставляет нейтральный, управляемый ИИ, взгляд на транзакционные сети — с объяснимым анализом, неизменяемыми аудиторскими следами и стандартизированными форматами экспорта данных.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Cross-platform tracing of suspicious fund movement<br>• Automated AML/KYC anomaly detection<br>• Centralized visualization of institution-wide financial flows<br>• On-demand audit data with full explainability metadata"
+        "title": "Примеры использования:",
+        "text": "• Межплатформенное отслеживание подозрительного движения средств<br>• Автоматизированное обнаружение аномалий AML/KYC<br>• Централизованная визуализация финансовых потоков в масштабе учреждения<br>• Аудиторские данные по запросу с полными метаданными объяснимости"
       },
-      "note": "Regulators receive structured, verified, and explainable financial intelligence aligned with global compliance frameworks."
+      "note": "Регуляторы получают структурированную, верифицированную и объяснимую финансовую информацию, соответствующую глобальным фреймворкам комплаенса."
     },
     "connectivity": {
-      "title": "Unified Ecosystem Connectivity",
-      "description": "Through open APIs, the system connects to financial, blockchain, and compliance infrastructures — enabling data exchange between individual, corporate, and institutional layers without compromising privacy or regulatory boundaries.",
+      "title": "Унифицированная связь с экосистемой",
+      "description": "Через открытые API система подключается к финансовым, блокчейн и комплаенс-инфраструктурам — обеспечивая обмен данными между индивидуальными, корпоративными и институциональными уровнями без ущерба для конфиденциальности или регуляторных границ.",
       "accordion": {
-        "title": "Integrations include:",
-        "text": "• Retail and commercial banks<br>• Payment gateways and acquirers<br>• Major crypto exchanges and custodians<br>• Compliance management systems<br>• Governmental AML & financial intelligence units"
+        "title": "Интеграции включают:",
+        "text": "• Розничные и коммерческие банки<br>• Платежные шлюзы и эквайеры<br>• Крупные криптобиржи и кастодианы<br>• Системы управления комплаенсом<br>• Государственные подразделения по борьбе с отмыванием денег (AML) и финансовой разведки"
       }
     },
     "impact": {
-      "title": "Impact Across All Stakeholders",
-      "description": "By introducing explainable AI into the financial ecosystem, the platform improves visibility, reduces systemic fraud, and enhances compliance efficiency across all participants.",
+      "title": "Влияние на всех заинтересованных сторон",
+      "description": "Внедряя объяснимый ИИ в финансовую экосистему, платформа повышает видимость, снижает системное мошенничество и повышает эффективность комплаенса для всех участников.",
       "accordion": {
-        "title": "Shared benefits:",
-        "text": "• Unified fraud-risk framework across fiat and crypto ecosystems<br>• Automated compliance actions with regulator-approved logic<br>• Reduced operational costs for investigation and reporting<br>• Enhanced user trust through transparency and accountability"
+        "title": "Общие преимущества:",
+        "text": "• Унифицированный фреймворк рисков мошенничества для фиатных и крипто-экосистем<br>• Автоматизированные действия по комплаенсу с логикой, одобренной регуляторами<br>• Снижение операционных расходов на расследования и отчетность<br>• Повышенное доверие пользователей через прозрачность и подотчетность"
       }
     }
   },
   "compliance": {
     "hero": {
-      "title": "Compliance and Security by Design",
-      "description": "The platform is built on the principle that transparency and compliance are not external requirements — they are core components of the system’s architecture. From data encryption to regulatory verification, every process is designed to align with global standards of financial integrity and information security.",
-      "summary": "Security is engineered. Compliance is embedded."
+      "title": "Комплаенс и безопасность по замыслу",
+      "description": "Платформа построена на принципе, что прозрачность и комплаенс — это не внешние требования, а основные компоненты архитектуры системы. От шифрования данных до регуляторной верификации, каждый процесс разработан в соответствии с глобальными стандартами финансовой целостности и информационной безопасности.",
+      "summary": "Безопасность спроектирована. Комплаенс встроен."
     },
     "secureData": {
-      "title": "Secure Data Architecture",
-      "description": "All operations are conducted in a read-only mode to prevent any unauthorized changes, fund movements, or account access. The platform serves exclusively as an analytical layer, ensuring users’ and institutions’ financial data remain protected at every stage.",
+      "title": "Архитектура безопасных данных",
+      "description": "Все операции проводятся в режиме только для чтения, чтобы предотвратить любые несанкционированные изменения, движение средств или доступ к счетам. Платформа служит исключительно аналитическим уровнем, гарантируя защиту финансовых данных пользователей и учреждений на каждом этапе.",
       "accordion": {
-        "title": "Key mechanisms:",
-        "text": "• End-to-end encryption (TLS 1.3 / AES-256)<br>• Zero data persistence for sensitive credentials<br>• Multi-region storage under data-localization laws<br>• Continuous vulnerability assessment and penetration testing<br>• Independent third-party security audits"
+        "title": "Ключевые механизмы:",
+        "text": "• Сквозное шифрование (TLS 1.3 / AES-256)<br>• Нулевое сохранение конфиденциальных учетных данных<br>• Мультирегиональное хранение в соответствии с законами о локализации данных<br>• Непрерывная оценка уязвимостей и тестирование на проникновение<br>• Независимые сторонние аудиты безопасности"
       }
     },
     "regulatory": {
-      "title": "Regulatory Alignment",
-      "description": "The compliance layer integrates international regulatory standards to ensure every data interaction, risk analysis, or automated response remains within the boundaries of financial law.",
+      "title": "Согласование с регуляторными требованиями",
+      "description": "Уровень комплаенса интегрирует международные регуляторные стандарты для обеспечения того, чтобы каждое взаимодействие с данными, анализ рисков или автоматизированный ответ оставались в рамках финансового законодательства.",
       "accordion": {
-        "title": "Supported frameworks:",
-        "text": "• GDPR — General Data Protection Regulation (EU)<br>• AMLD6 — Anti-Money Laundering Directive (EU)<br>• FATF — Financial Action Task Force recommendations<br>• ISO 27001 / SOC 2 — Information Security and Data Management<br>• PCI DSS — Payment Card Industry Data Security Standard<br>• Open Banking PSD2 — Secure API connectivity and user consent model"
+        "title": "Поддерживаемые фреймворки:",
+        "text": "• GDPR — Общий регламент по защите данных (ЕС)<br>• AMLD6 — Директива по борьбе с отмыванием денег (ЕС)<br>• FATF — Рекомендации Целевой группы по финансовым мерам<br>• ISO 27001 / SOC 2 — Информационная безопасность и управление данными<br>• PCI DSS — Стандарт безопасности данных индустрии платежных карт<br>• Open Banking PSD2 — Безопасное API-подключение и модель согласия пользователя"
       },
-      "note": "Every compliance operation is logged, auditable, and traceable for both internal review and regulator access."
+      "note": "Каждая операция комплаенса регистрируется, подлежит аудиту и прослеживаема как для внутреннего обзора, так и для доступа регулятора."
     },
     "identity": {
-      "title": "Identity Verification and Authorization",
-      "description": "To maintain data integrity and prevent misuse, user access to the AI system is granted only after completing a mandatory compliance onboarding.<br><br>This short course, required by financial regulators, verifies user identity, purpose of use, and awareness of data-handling obligations.",
-      "stepsTitle": "Access procedure:",
-      "step1": "Identity and source verification (KYC)",
-      "step2": "Acceptance of compliance terms",
-      "step3": "Completion of automated onboarding",
-      "step4": "Tokenized API access granted under regulator supervision",
-      "note": "Each user operates within a verified and traceable framework, ensuring lawful access to AI-driven financial intelligence."
+      "title": "Верификация личности и авторизация",
+      "description": "Для поддержания целостности данных и предотвращения нецелевого использования доступ пользователей к системе ИИ предоставляется только после завершения обязательного процесса регистрации в соответствии с требованиями комплаенса.<br><br>Этот короткий курс, требуемый финансовыми регуляторами, верифицирует личность пользователя, цель использования и осведомленность об обязательствах по обработке данных.",
+      "stepsTitle": "Процедура доступа:",
+      "step1": "Верификация личности и источника (KYC)",
+      "step2": "Принятие условий комплаенса",
+      "step3": "Завершение автоматизированной регистрации",
+      "step4": "Предоставление токенизированного API-доступа под надзором регулятора",
+      "note": "Каждый пользователь работает в верифицированном и прослеживаемом фреймворке, обеспечивая законный доступ к финансовой информации, управляемой ИИ."
     },
     "audit": {
-      "title": "Auditability and Accountability",
-      "description": "Every system action — from API request to AI decision — is recorded in an immutable audit log. This provides regulators, compliance officers, and auditors with full visibility over data flow and decision-making processes.",
+      "title": "Проверяемость и подотчетность",
+      "description": "Каждое действие системы — от API-запроса до решения ИИ — записывается в неизменяемый журнал аудита. Это обеспечивает регуляторам, комплаенс-офицерам и аудиторам полную видимость потока данных и процессов принятия решений.",
       "accordion": {
-        "title": "Capabilities:",
-        "text": "• Immutable timestamped event logs<br>• Accessed only by authorized regulators or internal compliance units<br>• Support for standard audit export formats (CSV, XML, XBRL)<br>• Automated generation of compliance reports"
+        "title": "Возможности:",
+        "text": "• Неизменяемые журналы событий с временными метками<br>• Доступ только для авторизованных регуляторов или внутренних комплаенс-подразделений<br>• Поддержка стандартных форматов экспорта аудита (CSV, XML, XBRL)<br>• Автоматизированная генерация отчетов по комплаенсу"
       },
-      "note": "Nothing happens without a record."
+      "note": "Ничто не происходит без записи."
     },
     "threat": {
-      "title": "Real-Time Threat and Risk Management",
-      "description": "The platform continuously monitors its environment for security anomalies and abnormal access patterns. When potential risks are detected, automated alerts are issued to the internal compliance node, and appropriate actions are taken immediately to isolate or neutralize the threat.",
-      "process": "<strong style=\"display:block;\">Process:</strong>• Continuous behavioral monitoring of API traffic <br>• Multi-level anomaly scoring for security events<br>• Real-time alerting and mitigation protocol<br>• Forensic reporting to compliance and regulatory units"
+      "title": "Управление угрозами и рисками в реальном времени",
+      "description": "Платформа непрерывно отслеживает свою среду на предмет аномалий безопасности и ненормальных паттернов доступа. При обнаружении потенциальных рисков немедленно выдаются автоматизированные оповещения внутреннему узлу комплаенса, и предпринимаются соответствующие действия для изоляции или нейтрализации угрозы.",
+      "process": "<strong style=\"display:block;\">Процесс:</strong>• Непрерывный поведенческий мониторинг API-трафика <br>• Многоуровневый скоринг аномалий для событий безопасности<br>• Протокол оповещения и смягчения последствий в реальном времени<br>• Форензик-отчетность для комплаенс- и регуляторных подразделений"
     },
     "collaborative": {
-      "title": "Collaborative Security Model",
-      "description": "The system is developed under a shared-responsibility model, where platform security, institutional compliance, and regulatory supervision coexist in a unified operational framework.",
+      "title": "Модель совместной безопасности",
+      "description": "Система разработана в рамках модели разделенной ответственности, где безопасность платформы, институциональный комплаенс и регуляторный надзор сосуществуют в едином операционном фреймворке.",
       "accordion": {
-        "title": "Partnership ecosystem:",
-        "text": "• Financial institutions (banks, acquirers, payment processors)<br>• Crypto exchanges and custodians<br>• Regulatory bodies and financial intelligence units (FIUs)<br>• Independent audit and data-certification partners"
+        "title": "Экосистема партнерства:",
+        "text": "• Финансовые учреждения (банки, эквайеры, платежные системы)<br>• Криптобиржи и кастодианы<br>• Регуляторные органы и подразделения финансовой разведки (ПФР)<br>• Независимые партнеры по аудиту и сертификации данных"
       },
-      "note": "Transparency is achieved not in isolation, but through collaboration."
+      "note": "Прозрачность достигается не в изоляции, а через сотрудничество."
     },
     "certification": {
-      "title": "Verification and Certification",
-      "description": "To ensure trust and global interoperability, the platform undergoes continuous certification and audit cycles conducted by accredited external firms.",
+      "title": "Верификация и сертификация",
+      "description": "Для обеспечения доверия и глобальной совместимости платформа проходит непрерывные циклы сертификации и аудита, проводимые аккредитованными внешними фирмами.",
       "accordion": {
-        "title": "Certifications in progress or obtained:",
-        "text": "• ISO/IEC 27001 — Information Security Management<br>• SOC 2 Type II — Data integrity and operational resilience<br>• PCI DSS — Financial data handling<br>• GDPR compliance verified by EU-based independent assessors"
+        "title": "Полученные или проходящие сертификации:",
+        "text": "• ISO/IEC 27001 — Управление информационной безопасностью<br>• SOC 2 Type II — Целостность данных и операционная устойчивость<br>• PCI DSS — Обработка финансовых данных<br>• Соответствие GDPR, верифицированное независимыми оценщиками из ЕС"
       },
-      "note": "Security standards are not claims — they are verifications."
+      "note": "Стандарты безопасности — это не заявления, а верификации."
     },
     "learn": {
-      "title": "Building Trust Through Transparency",
-      "text": "By embedding regulatory compliance and security architecture into every level of its infrastructure, the system establishes a foundation for responsible, explainable, and auditable AI in financial ecosystems.",
-      "cta": "Learn About the Company"
+      "title": "Построение доверия через прозрачность",
+      "text": "Встраивая регуляторный комплаенс и архитектуру безопасности в каждый уровень своей инфраструктуры, система закладывает основу для ответственного, объяснимого и проверяемого ИИ в финансовых экосистемах.",
+      "cta": "Узнать о компании"
     }
   },
   "aboutPage": {
     "hero": {
-      "title": "Building the Infrastructure of Financial Transparency",
-      "description": "We develop AI-driven infrastructure designed to bring traceability, accountability, and explainability into global financial systems. Our mission is to enable institutions, regulators, and individuals to understand how value moves — securely, lawfully, and intelligently.",
-      "summary": "We believe that transparency is not an outcome — it is architecture."
+      "title": "Создание инфраструктуры финансовой прозрачности",
+      "description": "Мы разрабатываем инфраструктуру на базе ИИ, предназначенную для обеспечения прослеживаемости, подотчетности и объяснимости в глобальных финансовых системах. Наша миссия — дать возможность учреждениям, регуляторам и частным лицам понимать, как движется ценность — безопасно, законно и разумно.",
+      "summary": "Мы верим, что прозрачность — это не результат, а архитектура."
     },
     "mission": {
-      "title": "Mission",
-      "description": "To create a universal technological framework that ensures every financial action — whether executed by an individual, a business, or an algorithm — remains traceable, auditable, and compliant with the law.",
-      "highlight": "A global financial environment where every transaction can be understood, verified, and trusted."
+      "title": "Миссия",
+      "description": "Создать универсальный технологический фреймворк, который гарантирует, что каждое финансовое действие — будь то выполненное частным лицом, бизнесом или алгоритмом — остается прослеживаемым, проверяемым и соответствующим закону.",
+      "highlight": "Глобальная финансовая среда, где каждая транзакция может быть понята, верифицирована и надежна."
     },
     "operation": {
-      "title": "How We Operate",
-      "description": "We combine AI research, financial forensics, and regulatory engineering to bridge the gap between innovation and compliance. Our interdisciplinary teams design systems that interpret financial behavior and act within the strictest standards of data governance.",
+      "title": "Как мы работаем",
+      "description": "Мы сочетаем исследования в области ИИ, финансовую криминалистику и регуляторный инжиниринг, чтобы преодолеть разрыв между инновациями и комплаенсом. Наши междисциплинарные команды разрабатывают системы, которые интерпретируют финансовое поведение и действуют в соответствии с самыми строгими стандартами управления данными.",
       "accordion": {
-        "title": "Core principles:",
-        "text": "• Integrity: Data must always serve truth and transparency.<br>• Security: Protection of user and institutional data is fundamental.<br>• Accountability: Every decision — human or algorithmic — must be explainable.<br>• Collaboration: Financial systems can only be secured through cooperation across sectors."
+        "title": "Основные принципы:",
+        "text": "• Целостность: Данные всегда должны служить истине и прозрачности.<br>• Безопасность: Защита пользовательских и институциональных данных является основополагающей.<br>• Подотчетность: Каждое решение — человеческое или алгоритмическое — должно быть объяснимым.<br>• Сотрудничество: Финансовые системы могут быть защищены только через сотрудничество между секторами."
       }
     },
     "leadership": {
-      "title": "Leadership and Expertise",
-      "description": "Our team unites specialists in AI architecture, financial technology, risk modeling, and regulatory compliance. Each division works collaboratively to design, validate, and monitor every aspect of the platform — from data infrastructure to ethical AI deployment.",
+      "title": "Руководство и экспертиза",
+      "description": "Наша команда объединяет специалистов в области архитектуры ИИ, финансовых технологий, моделирования рисков и регуляторного комплаенса. Каждое подразделение совместно работает над проектированием, верификацией и мониторингом каждого аспекта платформы — от инфраструктуры данных до этичного развертывания ИИ.",
       "accordion": {
-        "title": "Grid-style:",
-        "text": "• AI Research & Modeling<br>• Financial Compliance Engineering<br>• Data Infrastructure & Security<br>• Regulatory Affairs<br>• Operations & Governance"
+        "title": "Сетка:",
+        "text": "• Исследования и моделирование ИИ<br>• Инжиниринг финансового комплаенса<br>• Инфраструктура данных и безопасность<br>• Регуляторные вопросы<br>• Операции и управление"
       },
-      "note": "We build technology with accountability — from algorithm to executive level."
+      "note": "Мы создаем технологии с подотчетностью — от алгоритма до уровня исполнительной власти."
     },
     "collaborative": {
-      "title": "Collaborative Infrastructure",
-      "description": "The platform is developed in partnership with leading financial institutions, blockchain analytics firms, and data-security organizations committed to the same principle: that transparency and protection must coexist in the digital economy.",
+      "title": "Совместная инфраструктура",
+      "description": "Платформа разработана в партнерстве с ведущими финансовыми учреждениями, фирмами по аналитике блокчейна и организациями по безопасности данных, приверженными одному и тому же принципу: прозрачность и защита должны сосуществовать в цифровой экономике.",
       "accordion": {
-        "title": "Partnership ecosystem includes:",
-        "text": "• Regulated banks and payment processors<br>• Licensed crypto exchanges and custodians<br>• Data privacy and compliance organizations<br>• Independent audit and certification partners"
+        "title": "Экосистема партнерства включает:",
+        "text": "• Регулируемые банки и платежные системы<br>• Лицензированные криптобиржи и кастодианы<br>• Организации по конфиденциальности данных и комплаенсу<br>• Независимые партнеры по аудиту и сертификации"
       },
-      "note": "Every integration strengthens the collective trust network."
+      "note": "Каждая интеграция укрепляет коллективную сеть доверия."
     },
     "innovation": {
-      "title": "Continuous Innovation",
-      "paragraph1": "Research is at the center of everything we do.<br>Our R&D division explores advanced AI methodologies for financial reasoning, anomaly detection, and explainable decision-making.<br>We collaborate with academic institutions and regulatory technology labs to continuously align innovation with evolving compliance standards.",
-      "paragraph2": "<span class=\"h3\"> Focus areas:</span>• Multimodal reasoning in financial systems<br>• Adaptive fraud-detection algorithms<br>• Autonomous compliance reporting<br>• Human-AI collaboration for interpretability"
+      "title": "Непрерывные инновации",
+      "paragraph1": "Исследования находятся в центре всего, что мы делаем.<br>Наш отдел исследований и разработок изучает передовые методологии ИИ для финансового анализа, обнаружения аномалий и объяснимого принятия решений.<br>Мы сотрудничаем с академическими учреждениями и лабораториями регуляторных технологий для постоянного согласования инноваций с развивающимися стандартами комплаенса.",
+      "paragraph2": "<span class=\"h3\"> Направления фокуса:</span>• Мультимодальный анализ в финансовых системах<br>• Адаптивные алгоритмы обнаружения мошенничества<br>• Автономная отчетность по комплаенсу<br>• Сотрудничество человека и ИИ для интерпретируемости"
     },
     "responsible": {
-      "title": "Responsible Intelligence",
-      "description": "We are committed to the responsible use of AI in financial analytics. All models are designed with transparency, reversibility, and auditability as foundational principles. No autonomous action is executed without traceable human oversight and regulatory logic.",
+      "title": "Ответственный интеллект",
+      "description": "Мы привержены ответственному использованию ИИ в финансовой аналитике. Все модели разработаны с прозрачностью, обратимостью и проверяемостью в качестве основополагающих принципов. Никакие автономные действия не выполняются без прослеживаемого человеческого надзора и регуляторной логики.",
       "accordion": {
-        "title": "Ethical framework:",
-        "text": "• Human-centered decision verification<br>• No opaque or unexplainable model outcomes<br>• Continuous monitoring for bias and data drift<br>• Internal ethics review board overseeing model updates"
+        "title": "Этический фреймворк:",
+        "text": "• Верификация решений, ориентированная на человека<br>• Отсутствие непрозрачных или необъяснимых результатов модели<br>• Непрерывный мониторинг на предмет предвзятости и дрейфа данных<br>• Внутренний этический совет, контролирующий обновления модели"
       }
     },
     "contact": {
-      "title": "Contact Us",
-      "description": "For partnership inquiries, press relations, or regulatory coordination, please contact us at:<br><span class=\"email-link\">📧<a class=\"link\" href=\"mailto:support@tracenetai.com\">support@tracenetai.com</a></span> or use the secure contact form below.",
-      "note": "All communications are encrypted and reviewed under our data-protection framework."
+      "title": "Связаться с нами",
+      "description": "По вопросам партнерства, связям с прессой или регуляторной координации, пожалуйста, свяжитесь с нами по адресу:<br><span class=\"email-link\">📧<a class=\"link\" href=\"mailto:support@tracenetsai.com\">support@tracenetsai.com</a></span> или используйте безопасную контактную форму ниже.",
+      "note": "Все сообщения зашифрованы и просматриваются в соответствии с нашим фреймворком защиты данных."
     },
     "cta": {
-      "partnership": "Request Partnership",
-      "press": "Press Inquiries",
-      "regulatory": "Regulatory Coordination"
+      "partnership": "Запросить партнерство",
+      "press": "Запросы для прессы",
+      "regulatory": "Регуляторная координация"
     }
   },
   "privacy": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "This Privacy Policy explains how TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"our,\" or \"the Company\") collects, uses, protects, and discloses personal and financial data processed through our platform and related services.",
-    "intro2": "Our mission is to enable financial transparency and security through AI-driven data intelligence, while maintaining strict compliance with international data-protection and financial-regulatory laws.",
+    "lastUpdated": "Последнее обновление: Октябрь 2025 г.",
+    "intro1": "Настоящая Политика конфиденциальности объясняет, как TraceNet Systems Ltd. («TraceNet», «мы», «наш» или «Компания») собирает, использует, защищает и раскрывает личные и финансовые данные, обрабатываемые через нашу платформу и связанные услуги.",
+    "intro2": "Наша миссия состоит в том, чтобы обеспечить финансовую прозрачность и безопасность посредством интеллектуального анализа данных на основе ИИ, при этом строго соблюдая международные законы о защите данных и финансовом регулировании.",
     "sections": {
       "scope": {
-        "title": "1. Scope and Application",
-        "description1": "This Policy applies to all users of TraceNet's platform — including individuals, businesses, and institutional partners — and covers data processed through:",
-        "list1": "Our websites and web applications;",
-        "list2": "API integrations with banks, payment providers, and crypto exchanges;",
-        "list3": "Customer support, onboarding, and communication channels.",
-        "description2": "It also applies to employees, contractors, and affiliates acting on behalf of TraceNet in processing user data."
+        "title": "1. Сфера действия и применение",
+        "description1": "Настоящая Политика распространяется на всех пользователей платформы TraceNet — включая частных лиц, предприятия и институциональных партнеров — и охватывает данные, обрабатываемые через:",
+        "list1": "Наши веб-сайты и веб-приложения;",
+        "list2": "API-интеграции с банками, платежными системами и криптобиржами;",
+        "list3": "Каналы поддержки клиентов, регистрации и связи.",
+        "description2": "Она также распространяется на сотрудников, подрядчиков и аффилированных лиц, действующих от имени TraceNet при обработке данных пользователей."
       },
       "data": {
-        "title": "2. Data We Collect",
-        "description": "We collect only the data necessary to operate our services, ensure compliance, and improve system performance.",
+        "title": "2. Данные, которые мы собираем",
+        "description": "Мы собираем только данные, необходимые для работы наших сервисов, обеспечения комплаенса и улучшения производительности системы.",
         "userData": {
-          "title": "2.1 Data Provided by Users",
-          "list1": "Identity and contact details provided during compliance onboarding (e.g., full name, email address, institution, verification documents).",
-          "list2": "Account connection metadata (API keys, institution IDs — tokenized and encrypted).",
-          "list3": "User consent records and compliance declarations."
+          "title": "2.1 Данные, предоставленные пользователями",
+          "list1": "Данные о личности и контактные данные, предоставленные во время регистрации для комплаенса (например, полное имя, адрес электронной почты, учреждение, верификационные документы).",
+          "list2": "Метаданные подключения учетной записи (API-ключи, идентификаторы учреждения — токенизированы и зашифрованы).",
+          "list3": "Записи согласия пользователя и декларации о соблюдении норм."
         },
         "autoData": {
-          "title": "2.2 Data Collected Automatically",
-          "list1": "Technical information (IP address, device type, browser configuration, session time).",
-          "list2": "API call metadata and system performance logs.",
-          "list3": "Anonymized financial data retrieved via read-only connections."
+          "title": "2.2 Данные, собираемые автоматически",
+          "list1": "Техническая информация (IP-адрес, тип устройства, конфигурация браузера, время сеанса).",
+          "list2": "Метаданные API-вызовов и журналы производительности системы.",
+          "list3": "Анонимизированные финансовые данные, полученные через соединения только для чтения."
         },
         "sensitive": {
-          "title": "2.3 Sensitive Financial Data",
-          "text1": "When connecting with banks or exchanges, TraceNet retrieves only read-only transactional data.",
-          "text2": "We never store authorization credentials, passwords, or payment instruments."
+          "title": "2.3 Конфиденциальные финансовые данные",
+          "text1": "При подключении к банкам или биржам TraceNet извлекает только транзакционные данные в режиме только для чтения.",
+          "text2": "Мы никогда не храним учетные данные для авторизации, пароли или платежные инструменты."
         }
       },
       "usage": {
-        "title": "3. How We Use Data",
-        "description": "We use collected data to:",
-        "list1": "Operate, maintain, and improve the platform;",
-        "list2": "Analyze transaction activity and detect potential fraud or irregular behavior;",
-        "list3": "Generate anonymized analytical and compliance reports;",
-        "list4": "Communicate with users and provide technical or regulatory support;",
-        "list5": "Fulfil legal and anti-money-laundering (AML) obligations;",
-        "list6": "Enhance the accuracy of our AI-based analytical models.",
-        "note": "TraceNet does not sell or share data for marketing or advertising purposes."
+        "title": "3. Как мы используем данные",
+        "description": "Мы используем собранные данные для:",
+        "list1": "Работы, обслуживания и улучшения платформы;",
+        "list2": "Анализа транзакционной активности и обнаружения потенциального мошенничества или нерегулярного поведения;",
+        "list3": "Генерации анонимизированных аналитических и комплаенс-отчетов;",
+        "list4": "Связи с пользователями и предоставления технической или регуляторной поддержки;",
+        "list5": "Выполнения юридических обязательств и обязательств по борьбе с отмыванием денег (AML);",
+        "list6": "Повышения точности наших аналитических моделей на основе ИИ.",
+        "note": "TraceNet не продает и не передает данные для целей маркетинга или рекламы."
       },
       "legalBasis": {
-        "title": "4. Legal Basis for Processing",
-        "description": "Data is processed under one or more of the following legal bases:",
-        "list1": "User consent — explicit authorization to connect financial accounts or submit verification data;",
-        "list2": "Legitimate interest — fraud detection, data security, and service improvement;",
-        "list3": "Legal obligation — compliance with AML/KYC and data-retention laws;",
-        "list4": "Contractual necessity — enabling user access and platform functionality."
+        "title": "4. Юридическое основание для обработки",
+        "description": "Данные обрабатываются на одном или нескольких из следующих юридических оснований:",
+        "list1": "Согласие пользователя — явное разрешение на подключение финансовых счетов или предоставление данных для верификации;",
+        "list2": "Законный интерес — обнаружение мошенничества, безопасность данных и улучшение сервиса;",
+        "list3": "Юридическое обязательство — соблюдение законов AML/KYC и законов о хранении данных;",
+        "list4": "Договорная необходимость — обеспечение доступа пользователя и функциональности платформы."
       },
       "retention": {
-        "title": "5. Data Retention",
-        "description": "Data is retained only for as long as necessary to:",
-        "list1": "Deliver platform functionality and services;",
-        "list2": "Comply with applicable financial regulations;",
-        "list3": "Resolve disputes or enforce contractual obligations.",
-        "note": "Once no longer required, data is securely deleted or irreversibly anonymized."
+        "title": "5. Хранение данных",
+        "description": "Данные хранятся только до тех пор, пока это необходимо для:",
+        "list1": "Обеспечения функциональности и услуг платформы;",
+        "list2": "Соблюдения применимых финансовых правил;",
+        "list3": "Разрешения споров или обеспечения исполнения договорных обязательств.",
+        "note": "Как только данные перестают быть необходимыми, они безопасно удаляются или необратимо анонимизируются."
       },
       "security": {
-        "title": "6. Data Security",
-        "description": "We employ advanced security measures to safeguard all user information:",
-        "list1": "AES-256 and TLS 1.3 encryption for data at rest and in transit;",
-        "list2": "Multi-region data hosting with restricted access controls;",
-        "list3": "Continuous penetration testing and vulnerability monitoring;",
-        "list4": "Immutable audit logs for all access and data operations.",
-        "note": "All integrations are read-only and compliant with ISO 27001, SOC 2 Type II, and Open Banking PSD2 standards."
+        "title": "6. Безопасность данных",
+        "description": "Мы используем передовые меры безопасности для защиты всей информации пользователя:",
+        "list1": "Шифрование AES-256 и TLS 1.3 для данных в состоянии покоя и при передаче;",
+        "list2": "Мультирегиональный хостинг данных с ограниченным контролем доступа;",
+        "list3": "Непрерывное тестирование на проникновение и мониторинг уязвимостей;",
+        "list4": "Неизменяемые журналы аудита для всех операций доступа и данных.",
+        "note": "Все интеграции доступны только для чтения и соответствуют стандартам ISO 27001, SOC 2 Type II и Open Banking PSD2."
       },
       "sharing": {
-        "title": "7. Data Sharing and Disclosure",
-        "description": "We share data only where strictly necessary and under secure, regulated conditions:",
-        "list1": "Financial institutions and exchanges — to process authorized analytical or recall/dispute requests.",
-        "list2": "Regulatory authorities — when legally required for compliance with AML, KYC, or supervisory obligations.",
-        "list3": "Infrastructure providers — for hosting, compliance monitoring, or auditing, under confidentiality agreements.",
-        "note": "TraceNet never discloses user data for commercial resale, behavioral profiling, or advertising."
+        "title": "7. Передача и раскрытие данных",
+        "description": "Мы передаем данные только в случаях крайней необходимости и в безопасных, регулируемых условиях:",
+        "list1": "Финансовым учреждениям и биржам — для обработки авторизованных аналитических запросов или запросов на отзыв/оспаривание.",
+        "list2": "Регуляторным органам — когда это требуется по закону для соблюдения AML, KYC или надзорных обязательств.",
+        "list3": "Поставщикам инфраструктуры — для хостинга, мониторинга комплаенса или аудита, в соответствии с соглашениями о конфиденциальности.",
+        "note": "TraceNet никогда не раскрывает данные пользователей для коммерческой перепродажи, поведенческого профилирования или рекламы."
       },
       "transfers": {
-        "title": "8. International Data Transfers",
-        "description": "Where data is transferred internationally, TraceNet applies appropriate safeguards, including:",
-        "list1": "Standard Contractual Clauses (SCCs) under GDPR;",
-        "list2": "Regional data storage for EU, UK, and Canadian users;",
-        "list3": "Encryption and pseudonymization prior to transfer.",
-        "note": "Our primary data-processing centers are located in the European Union, United Kingdom, Canada, and Israel."
+        "title": "8. Международная передача данных",
+        "description": "В случаях международной передачи данных TraceNet применяет соответствующие гарантии, включая:",
+        "list1": "Стандартные договорные положения (SCC) в соответствии с GDPR;",
+        "list2": "Региональное хранение данных для пользователей из ЕС, Великобритании и Канады;",
+        "list3": "Шифрование и псевдонимизация до передачи.",
+        "note": "Наши основные центры обработки данных расположены в Европейском Союзе, Великобритании, Канаде и Израиле."
       },
       "rights": {
-        "title": "9. User Rights",
-        "description": "Under applicable privacy regulations (including GDPR and UK DPA 2018), users have the right to:",
-        "list1": "Access their personal data;",
-        "list2": "Request correction or deletion;",
-        "list3": "Restrict or object to processing;",
-        "list4": "Request data portability;",
-        "list5": "Withdraw consent at any time without affecting prior lawful processing.",
-        "note": "Requests can be submitted to privacy@tracenetsystems.com, and TraceNet will respond within 30 days of verification."
+        "title": "9. Права пользователя",
+        "description": "В соответствии с применимыми положениями о конфиденциальности (включая GDPR и UK DPA 2018), пользователи имеют право на:",
+        "list1": "Доступ к своим личным данным;",
+        "list2": "Запрос на исправление или удаление;",
+        "list3": "Ограничение или возражение против обработки;",
+        "list4": "Запрос на переносимость данных;",
+        "list5": "Отзыв согласия в любое время без влияния на предыдущую законную обработку.",
+        "note": "Запросы могут быть отправлены на адрес privacy@tracenetsystems.com, и TraceNet ответит в течение 30 дней после верификации."
       },
       "cookies": {
-        "title": "10. Cookies and Tracking",
-        "description1": "Our website uses minimal cookies essential for functionality and analytics.",
-        "description2": "Detailed information on cookie types and consent management is available in our Cookie Policy."
+        "title": "10. Файлы Cookie и отслеживание",
+        "description1": "Наш веб-сайт использует минимальное количество файлов cookie, необходимых для функциональности и аналитики.",
+        "description2": "Подробная информация о типах файлов cookie и управлении согласием доступна в нашей Политике использования файлов Cookie."
       },
       "dpo": {
-        "title": "11. Data Protection Officer (DPO)",
-        "description": "TraceNet has appointed a Data Protection Officer responsible for oversight of privacy practices and compliance.",
-        "contact": "📧 DPO Contact: dpo@tracenetsystems.com",
-        "address": "📍 Address: TraceNet Systems Ltd., 14 HaGefen St., Ramat Gan, Israel"
+        "title": "11. Сотрудник по защите данных (DPO)",
+        "description": "TraceNet назначила Сотрудника по защите данных, ответственного за надзор за практиками конфиденциальности и комплаенсом.",
+        "contact": "📧 Контакт DPO: dpo@tracenetsystems.com",
+        "address": "📍 Адрес: TraceNet Systems Ltd., 14 HaGefen St., Ramat Gan, Israel"
       },
       "updates": {
-        "title": "12. Updates to This Policy",
-        "description1": "This Policy may be updated periodically to reflect changes in regulation, technology, or corporate operations.",
-        "description2": "Revisions will be posted on this page with the updated \"Last Modified\" date.",
-        "description3": "For material updates, users will be notified via email or in-platform alert."
+        "title": "12. Обновления настоящей Политики",
+        "description1": "Настоящая Политика может периодически обновляться для отражения изменений в регулировании, технологии или корпоративных операциях.",
+        "description2": "Изменения будут опубликованы на этой странице с обновленной датой \"Последнее обновление\".",
+        "description3": "О существенных обновлениях пользователи будут уведомлены по электронной почте или через оповещение на платформе."
       },
       "contact": {
-        "title": "13. Contact",
-        "description": "For any questions, privacy concerns, or regulatory correspondence, please contact:",
+        "title": "13. Контакты",
+        "description": "По любым вопросам, проблемам конфиденциальности или регуляторной корреспонденции, пожалуйста, обращайтесь:",
         "email": "📧 privacy@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
         "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
+        "compliantLabel": "✅ Соответствует:",
         "compliantList": "GDPR (2016/679), UK DPA 2018, CCPA, AMLD6, ISO 27001, SOC 2 Type II, PCI DSS, Open Banking PSD2."
       }
     }
   },
   "cookiePolicy": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "This Cookie Policy explains how TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"our,\" or \"us\") uses cookies and similar technologies on our websites and web applications.",
-    "intro2": "It should be read together with our Privacy Policy, which explains how we collect, process, and protect your personal data.",
+    "lastUpdated": "Последнее обновление: Октябрь 2025 г.",
+    "intro1": "Настоящая Политика использования файлов Cookie объясняет, как TraceNet Systems Ltd. («TraceNet», «мы», «наш» или «нас») использует файлы cookie и аналогичные технологии на наших веб-сайтах и в веб-приложениях.",
+    "intro2": "Ее следует читать вместе с нашей Политикой конфиденциальности, которая объясняет, как мы собираем, обрабатываем и защищаем ваши личные данные.",
     "sections": {
       "what": {
-        "title": "1. What Are Cookies",
-        "text1": "Cookies are small text files that are stored on your device (computer, tablet, or smartphone) when you visit a website.",
-        "text2": "They help websites recognize your device, remember your preferences, and improve your user experience.",
-        "text3": "Cookies may also be used for analytics, performance tracking, and — where permitted — marketing and advertising purposes."
+        "title": "1. Что такое файлы Cookie",
+        "text1": "Файлы cookie — это небольшие текстовые файлы, которые хранятся на вашем устройстве (компьютере, планшете или смартфоне), когда вы посещаете веб-сайт.",
+        "text2": "Они помогают веб-сайтам распознавать ваше устройство, запоминать ваши предпочтения и улучшать ваш пользовательский опыт.",
+        "text3": "Файлы cookie также могут использоваться для аналитики, отслеживания производительности и — где это разрешено — для маркетинговых и рекламных целей."
       },
       "usage": {
-        "title": "2. How We Use Cookies",
-        "description": "We use cookies to:",
-        "list1": "Ensure the proper functioning of our website;",
-        "list2": "Remember user preferences and language settings;",
-        "list3": "Improve the performance, speed, and usability of our site;",
-        "list4": "Collect anonymous usage statistics to help us improve our services;",
-        "list5": "Support security and compliance monitoring;",
-        "list6": "(If consented) enable analytics and advertising integrations.",
-        "note": "We do not use cookies to store sensitive financial or personal information."
+        "title": "2. Как мы используем файлы Cookie",
+        "description": "Мы используем файлы cookie для:",
+        "list1": "Обеспечения надлежащего функционирования нашего веб-сайта;",
+        "list2": "Запоминания пользовательских предпочтений и языковых настроек;",
+        "list3": "Улучшения производительности, скорости и удобства использования нашего сайта;",
+        "list4": "Сбора анонимной статистики использования, чтобы помочь нам улучшить наши услуги;",
+        "list5": "Поддержки безопасности и мониторинга комплаенса;",
+        "list6": "(При согласии) обеспечения аналитики и рекламных интеграций.",
+        "note": "Мы не используем файлы cookie для хранения конфиденциальной финансовой или личной информации."
       },
       "types": {
-        "title": "3. Types of Cookies We Use",
+        "title": "3. Типы файлов Cookie, которые мы используем",
         "necessary": {
-          "title": "3.1 Strictly Necessary Cookies",
-          "text1": "These cookies are essential for the website to function properly and cannot be disabled.",
-          "text2": "They include session identifiers, authentication tokens, and security-related cookies.",
-          "text3": "Examples:",
-          "list1": "Session management and navigation;",
-          "list2": "User authentication and access control;",
-          "list3": "Compliance and consent tracking."
+          "title": "3.1 Строго необходимые файлы Cookie",
+          "text1": "Эти файлы cookie необходимы для правильного функционирования веб-сайта и не могут быть отключены.",
+          "text2": "Они включают идентификаторы сеанса, токены аутентификации и файлы cookie, связанные с безопасностью.",
+          "text3": "Примеры:",
+          "list1": "Управление сеансом и навигация;",
+          "list2": "Аутентификация пользователя и контроль доступа;",
+          "list3": "Отслеживание комплаенса и согласия."
         },
         "functional": {
-          "title": "3.2 Functional Cookies",
-          "text1": "These cookies enable enhanced functionality and personalization, such as remembering your settings or language preferences.",
-          "text2": "They may be set by us or by third-party tools integrated into our platform."
+          "title": "3.2 Функциональные файлы Cookie",
+          "text1": "Эти файлы cookie обеспечивают расширенную функциональность и персонализацию, например, запоминают ваши настройки или языковые предпочтения.",
+          "text2": "Они могут быть установлены нами или сторонними инструментами, интегрированными в нашу платформу."
         },
         "analytics": {
-          "title": "3.3 Analytics and Performance Cookies",
-          "text1": "These cookies allow us to measure traffic and usage patterns.",
-          "text2": "The information is aggregated and anonymous, helping us understand how visitors interact with our website.",
-          "text3": "Examples of third-party analytics tools (if enabled):",
+          "title": "3.3 Аналитические и производительные файлы Cookie",
+          "text1": "Эти файлы cookie позволяют нам измерять трафик и паттерны использования.",
+          "text2": "Информация агрегирована и анонимна, что помогает нам понять, как посетители взаимодействуют с нашим веб-сайтом.",
+          "text3": "Примеры сторонних аналитических инструментов (если включены):",
           "list1": "Google Analytics",
           "list2": "Meta (Facebook) Pixel",
-          "list3": "Hotjar or equivalent performance analytics tools",
-          "note": "You may choose to disable these cookies without affecting essential functionality."
+          "list3": "Hotjar или эквивалентные инструменты анализа производительности",
+          "note": "Вы можете отключить эти файлы cookie без ущерба для основной функциональности."
         },
         "marketing": {
-          "title": "3.4 Marketing and Tracking Cookies (Optional)",
-          "text1": "These cookies may be used to deliver relevant ads or track campaign performance.",
-          "text2": "They are only activated after your explicit consent.",
-          "text3": "We currently use minimal or no marketing cookies, but we include this category for transparency."
+          "title": "3.4 Маркетинговые и отслеживающие файлы Cookie (Необязательно)",
+          "text1": "Эти файлы cookie могут использоваться для показа релевантной рекламы или отслеживания эффективности кампаний.",
+          "text2": "Они активируются только после вашего явного согласия.",
+          "text3": "В настоящее время мы используем минимальное количество маркетинговых файлов cookie или не используем их вовсе, но включаем эту категорию для прозрачности."
         }
       },
       "duration": {
-        "title": "4. Duration of Cookies",
-        "description": "Cookies may be either:",
-        "list1": "Session cookies — deleted when you close your browser; or",
-        "list2": "Persistent cookies — remain on your device until they expire or are manually deleted.",
-        "note": "We retain cookies only as long as necessary for their intended purpose, usually between 1 day and 12 months."
+        "title": "4. Срок действия файлов Cookie",
+        "description": "Файлы cookie могут быть либо:",
+        "list1": "Сеансовые файлы cookie — удаляются при закрытии браузера; либо",
+        "list2": "Постоянные файлы cookie — остаются на вашем устройстве до истечения срока их действия или до ручного удаления.",
+        "note": "Мы храним файлы cookie только до тех пор, пока это необходимо для их предполагаемой цели, обычно от 1 дня до 12 месяцев."
       },
       "thirdParty": {
-        "title": "5. Third-Party Cookies",
-        "description1": "Some cookies may be placed by trusted third-party providers that supply analytics, performance, or compliance tools.",
-        "description2": "These providers act as independent data controllers for their respective services.",
-        "description3": "Examples include:",
+        "title": "5. Сторонние файлы Cookie",
+        "description1": "Некоторые файлы cookie могут быть размещены доверенными сторонними поставщиками, которые предоставляют аналитические, производительные или комплаенс-инструменты.",
+        "description2": "Эти поставщики выступают в качестве независимых контролеров данных для своих соответствующих сервисов.",
+        "description3": "Примеры включают:",
         "list1": "Google Ireland Ltd. (Google Analytics, Tag Manager)",
-        "list2": "Meta Platforms Inc. (Meta Pixel for campaign attribution)",
-        "list3": "Cloudflare Inc. (security and performance optimization)",
-        "note": "Each third party has its own privacy and cookie policies, which we encourage users to review."
+        "list2": "Meta Platforms Inc. (Meta Pixel для атрибуции кампаний)",
+        "list3": "Cloudflare Inc. (безопасность и оптимизация производительности)",
+        "note": "Каждая третья сторона имеет свои собственные политики конфиденциальности и использования файлов cookie, с которыми мы рекомендуем пользователям ознакомиться."
       },
       "manage": {
-        "title": "6. Managing Cookie Preferences",
-        "description": "You can manage or withdraw your consent to non-essential cookies at any time through:",
-        "list1": "The cookie consent banner displayed when you first visit our site;",
-        "list2": "The \"Manage Preferences\" link available in the footer of our website;",
-        "list3": "Your browser's cookie settings.",
-        "browserTitle": "Browser Settings:",
-        "browserText1": "Most browsers allow you to block or delete cookies.",
-        "browserText2": "You can find detailed instructions in the \"Help\" section of your browser.",
-        "note": "Please note: disabling essential cookies may affect the functionality of our website."
+        "title": "6. Управление настройками файлов Cookie",
+        "description": "Вы можете управлять или отозвать свое согласие на необязательные файлы cookie в любое время через:",
+        "list1": "Баннер согласия на использование файлов cookie, отображаемый при первом посещении нашего сайта;",
+        "list2": "Ссылку \"Управление настройками\", доступную в нижнем колонтитуле нашего веб-сайта;",
+        "list3": "Настройки файлов cookie вашего браузера.",
+        "browserTitle": "Настройки браузера:",
+        "browserText1": "Большинство браузеров позволяют блокировать или удалять файлы cookie.",
+        "browserText2": "Подробные инструкции можно найти в разделе \"Справка\" вашего браузера.",
+        "note": "Обратите внимание: отключение основных файлов cookie может повлиять на функциональность нашего веб-сайта."
       },
       "changes": {
-        "title": "7. Changes to This Policy",
-        "description1": "We may update this Cookie Policy from time to time to reflect changes in technology, regulation, or operational needs.",
-        "description2": "All updates will be posted on this page with the updated \"Last Modified\" date.",
-        "description3": "Significant changes will be communicated through a website notice or banner."
+        "title": "7. Изменения в настоящей Политике",
+        "description1": "Мы можем время от времени обновлять настоящую Политику использования файлов Cookie для отражения изменений в технологии, регулировании или операционных потребностях.",
+        "description2": "Все обновления будут опубликованы на этой странице с обновленной датой \"Последнее обновление\".",
+        "description3": "О существенных изменениях будет сообщено через уведомление или баннер на веб-сайте."
       },
       "contact": {
-        "title": "8. Contact",
-        "description": "If you have any questions about this Cookie Policy or our data practices, please contact:",
+        "title": "8. Контакты",
+        "description": "Если у вас есть какие-либо вопросы относительно настоящей Политики использования файлов Cookie или наших методов работы с данными, пожалуйста, обращайтесь:",
         "email": "📧 privacy@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
         "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
-        "compliantList": "GDPR (2016/679), ePrivacy Directive, UK DPA 2018, CCPA, and Israeli Privacy Protection Law (PPL)."
+        "compliantLabel": "✅ Соответствует:",
+        "compliantList": "GDPR (2016/679), Директиве о конфиденциальности в электронных коммуникациях, UK DPA 2018, CCPA и Израильскому закону о защите конфиденциальности (PPL)."
       }
     }
   },
   "terms": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "These Terms of Use (\"Terms\") govern your access to and use of the platform, products, and services (collectively, the \"Platform\") provided by TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"us,\" or \"our\").",
-    "intro2": "By accessing or using the Platform, you agree to be bound by these Terms. If you do not agree, you may not use the Platform.",
+    "lastUpdated": "Последнее обновление: Октябрь 2025 г.",
+    "intro1": "Настоящие Условия использования («Условия») регулируют ваш доступ и использование платформы, продуктов и услуг (в совокупности «Платформа»), предоставляемых TraceNet Systems Ltd. («TraceNet», «мы», «нас» или «наш»).",
+    "intro2": "Получая доступ или используя Платформу, вы соглашаетесь соблюдать настоящие Условия. Если вы не согласны, вы не можете использовать Платформу.",
     "sections": {
       "about": {
-        "title": "1. About TraceNet",
-        "text1": "TraceNet Systems Ltd. is a technology company that provides AI-driven financial analytics and compliance infrastructure.",
-        "text2": "The Platform enables users to analyze transaction data, identify irregularities, and generate reports through read-only integrations with banks, payment systems, and digital-asset exchanges.",
-        "text3": "TraceNet is not a financial institution, broker, or money-service business.",
-        "text4": "We do not store, transfer, or control user funds."
+        "title": "1. О TraceNet",
+        "text1": "TraceNet Systems Ltd. — это технологическая компания, которая предоставляет инфраструктуру финансовой аналитики и комплаенса на основе ИИ.",
+        "text2": "Платформа позволяет пользователям анализировать транзакционные данные, выявлять нарушения и генерировать отчеты через интеграции только для чтения с банками, платежными системами и биржами цифровых активов.",
+        "text3": "TraceNet не является финансовым учреждением, брокером или оператором денежных переводов.",
+        "text4": "Мы не храним, не переводим и не контролируем средства пользователей."
       },
       "eligibility": {
-        "title": "2. Eligibility",
-        "description": "By using the Platform, you represent and warrant that:",
-        "list1": "You are at least 18 years old or of legal age in your jurisdiction;",
-        "list2": "You have the authority to enter into these Terms;",
-        "list3": "Your use of the Platform complies with all applicable laws, including financial and data-protection regulations.",
-        "note": "Access may be restricted or revoked if compliance obligations are not met or if false information is provided."
+        "title": "2. Право на использование",
+        "description": "Используя Платформу, вы заявляете и гарантируете, что:",
+        "list1": "Вам исполнилось 18 лет или вы достигли совершеннолетия в вашей юрисдикции;",
+        "list2": "У вас есть полномочия заключать настоящие Условия;",
+        "list3": "Использование вами Платформы соответствует всем применимым законам, включая финансовые и законы о защите данных.",
+        "note": "Доступ может быть ограничен или отозван, если обязательства по комплаенсу не соблюдаются или если предоставлена ложная информация."
       },
       "services": {
-        "title": "3. Description of Services",
-        "description": "The Platform provides:",
-        "list1": "AI-based transaction analysis and risk scoring;",
-        "list2": "Integration with financial and crypto institutions via official APIs;",
-        "list3": "Automated generation of compliance and audit reports;",
-        "list4": "Optional automated initiation of chargeback, recall, or dispute requests when authorized by the user.",
-        "note1": "All actions are performed in read-only mode.",
-        "note2": "TraceNet does not execute or authorize financial transactions on behalf of users."
+        "title": "3. Описание услуг",
+        "description": "Платформа предоставляет:",
+        "list1": "Анализ транзакций и скоринг рисков на основе ИИ;",
+        "list2": "Интеграцию с финансовыми и крипто-учреждениями через официальные API;",
+        "list3": "Автоматизированную генерацию отчетов по комплаенсу и аудиту;",
+        "list4": "Опциональную автоматизированную инициацию запросов на возвратный платеж, отзыв или оспаривание при наличии авторизации пользователя.",
+        "note1": "Все действия выполняются в режиме только для чтения.",
+        "note2": "TraceNet не выполняет и не санкционирует финансовые транзакции от имени пользователей."
       },
       "responsibilities": {
-        "title": "4. User Responsibilities",
-        "description": "Users agree to:",
-        "list1": "Provide accurate and complete information during onboarding;",
-        "list2": "Maintain confidentiality of access credentials and API keys;",
-        "list3": "Use the Platform only for lawful and authorized purposes;",
-        "list4": "Not misuse, resell, or reverse-engineer any part of the Platform;",
-        "list5": "Immediately notify TraceNet of any unauthorized access or security incident.",
-        "note": "Users are solely responsible for actions performed under their credentials."
+        "title": "4. Обязанности пользователя",
+        "description": "Пользователи соглашаются:",
+        "list1": "Предоставлять точную и полную информацию при регистрации;",
+        "list2": "Соблюдать конфиденциальность учетных данных доступа и API-ключей;",
+        "list3": "Использовать Платформу только в законных и авторизованных целях;",
+        "list4": "Неправомерно не использовать, не перепродавать и не проводить обратный инжиниринг любой части Платформы;",
+        "list5": "Немедленно уведомлять TraceNet о любом несанкционированном доступе или инциденте безопасности.",
+        "note": "Пользователи несут исключительную ответственность за действия, выполненные под их учетными данными."
       },
       "compliance": {
-        "title": "5. Compliance Onboarding",
-        "description1": "To access advanced features or API integrations, users must complete a short compliance onboarding process, as required by international financial regulators.",
-        "description2": "This process may include:",
-        "list1": "Identity and institutional verification (KYC/KYB);",
-        "list2": "Acceptance of TraceNet's compliance terms;",
-        "list3": "Confirmation of lawful data usage and purpose.",
-        "note": "Access tokens are issued only upon successful completion of this process."
+        "title": "5. Регистрация для комплаенса",
+        "description1": "Для доступа к расширенным функциям или API-интеграциям пользователи должны пройти короткий процесс регистрации в соответствии с требованиями комплаенса, как того требуют международные финансовые регуляторы.",
+        "description2": "Этот процесс может включать:",
+        "list1": "Верификацию личности и учреждения (KYC/KYB);",
+        "list2": "Принятие условий комплаенса TraceNet;",
+        "list3": "Подтверждение законного использования данных и цели.",
+        "note": "Токены доступа выдаются только после успешного завершения этого процесса."
       },
       "ip": {
-        "title": "6. Intellectual Property",
-        "description1": "All intellectual property rights in the Platform, including software, models, text, design, and documentation, are owned by TraceNet Systems Ltd. or its licensors.",
-        "description2": "Users may not:",
-        "list1": "Copy, reproduce, or distribute any part of the Platform;",
-        "list2": "Use TraceNet's trademarks or branding without written permission;",
-        "list3": "Modify, decompile, or reverse-engineer the Platform or its AI models.",
-        "note": "All rights not expressly granted under these Terms are reserved by TraceNet."
+        "title": "6. Интеллектуальная собственность",
+        "description1": "Все права на интеллектуальную собственность в отношении Платформы, включая программное обеспечение, модели, текст, дизайн и документацию, принадлежат TraceNet Systems Ltd. или ее лицензиарам.",
+        "description2": "Пользователи не могут:",
+        "list1": "Копировать, воспроизводить или распространять любую часть Платформы;",
+        "list2": "Использовать товарные знаки или брендинг TraceNet без письменного разрешения;",
+        "list3": "Модифицировать, декомпилировать или проводить обратный инжиниринг Платформы или ее моделей ИИ.",
+        "note": "Все права, не предоставленные явно в соответствии с настоящими Условиями, сохраняются за TraceNet."
       },
       "dataUse": {
-        "title": "7. Data Usage and Privacy",
-        "description1": "All data processed through the Platform is handled in accordance with the Privacy Policy.",
-        "description2": "Users acknowledge and agree that:",
-        "list1": "Data access is limited to read-only connections;",
-        "list2": "Data may be analyzed for risk, compliance, and operational improvement;",
-        "list3": "TraceNet may store metadata and anonymized insights for model optimization;",
-        "list4": "All data handling complies with GDPR, AML, and other applicable laws.",
-        "note": "Users retain ownership of their input data and analytical outputs."
+        "title": "7. Использование данных и конфиденциальность",
+        "description1": "Все данные, обрабатываемые через Платформу, обрабатываются в соответствии с Политикой конфиденциальности.",
+        "description2": "Пользователи признают и соглашаются с тем, что:",
+        "list1": "Доступ к данным ограничен соединениями только для чтения;",
+        "list2": "Данные могут быть проанализированы для оценки рисков, комплаенса и операционного улучшения;",
+        "list3": "TraceNet может хранить метаданные и анонимизированные сведения для оптимизации модели;",
+        "list4": "Вся обработка данных соответствует GDPR, AML и другим применимым законам.",
+        "note": "Пользователи сохраняют право собственности на свои входные данные и аналитические результаты."
       },
       "security": {
-        "title": "8. Security",
-        "text1": "TraceNet implements industry-standard security protocols, including encryption, access control, and continuous monitoring.",
-        "text2": "However, no system is completely secure, and users acknowledge the inherent risks of data transmission over the internet.",
-        "text3": "TraceNet will not be liable for unauthorized access or incidents beyond its reasonable control."
+        "title": "8. Безопасность",
+        "text1": "TraceNet внедряет стандартные отраслевые протоколы безопасности, включая шифрование, контроль доступа и непрерывный мониторинг.",
+        "text2": "Однако ни одна система не является абсолютно безопасной, и пользователи признают неотъемлемые риски передачи данных через Интернет.",
+        "text3": "TraceNet не несет ответственности за несанкционированный доступ или инциденты, находящиеся вне ее разумного контроля."
       },
       "availability": {
-        "title": "9. Service Availability",
-        "description": "The Platform is provided on an \"as-is\" and \"as-available\" basis.",
-        "note": "TraceNet reserves the right to:",
-        "list1": "Modify, suspend, or discontinue any feature or service;",
-        "list2": "Perform scheduled or unscheduled maintenance;",
-        "list3": "Restrict access when required by law or regulator.",
-        "note2": "TraceNet shall not be liable for downtime, delays, or data unavailability."
+        "title": "9. Доступность услуг",
+        "description": "Платформа предоставляется на условиях «как есть» и «по мере доступности».",
+        "note": "TraceNet оставляет за собой право:",
+        "list1": "Изменять, приостанавливать или прекращать любую функцию или услугу;",
+        "list2": "Проводить плановое или внеплановое обслуживание;",
+        "list3": "Ограничивать доступ, когда это требуется по закону или регулятором.",
+        "note2": "TraceNet не несет ответственности за простои, задержки или недоступность данных."
       },
       "prohibited": {
-        "title": "10. Prohibited Activities",
-        "description": "Users may not:",
-        "list1": "Attempt to gain unauthorized access to the Platform or its data;",
-        "list2": "Upload or transmit malicious code or data;",
-        "list3": "Use the Platform for unlawful, deceptive, or fraudulent activity;",
-        "list4": "Interfere with network operations or system integrity;",
-        "list5": "Circumvent security or authentication mechanisms.",
-        "note": "Violation of these terms may result in immediate suspension or termination of access."
+        "title": "10. Запрещенные действия",
+        "description": "Пользователи не могут:",
+        "list1": "Пытаться получить несанкционированный доступ к Платформе или ее данным;",
+        "list2": "Загружать или передавать вредоносный код или данные;",
+        "list3": "Использовать Платформу для незаконной, обманной или мошеннической деятельности;",
+        "list4": "Вмешиваться в работу сети или целостность системы;",
+        "list5": "Обходить механизмы безопасности или аутентификации.",
+        "note": "Нарушение этих условий может привести к немедленной приостановке или прекращению доступа."
       },
       "liability": {
-        "title": "11. Limitation of Liability",
-        "text1": "To the maximum extent permitted by law:",
-        "text2": "TraceNet shall not be liable for any indirect, incidental, consequential, or punitive damages, including loss of profits, data, or goodwill, arising from or related to the use of the Platform.",
-        "text3": "TraceNet's total liability shall not exceed the amount paid by the user (if any) in the preceding twelve months."
+        "title": "11. Ограничение ответственности",
+        "text1": "В максимальной степени, разрешенной законом:",
+        "text2": "TraceNet не несет ответственности за любые косвенные, случайные, косвенные или штрафные убытки, включая потерю прибыли, данных или деловой репутации, возникающие в результате или в связи с использованием Платформы.",
+        "text3": "Общая ответственность TraceNet не превышает сумму, уплаченную пользователем (если таковая имеется) за предшествующие двенадцать месяцев."
       },
       "indemnification": {
-        "title": "12. Indemnification",
-        "description": "Users agree to indemnify and hold harmless TraceNet Systems Ltd., its affiliates, and employees from any claims, damages, or expenses arising out of:",
-        "list1": "Violation of these Terms;",
-        "list2": "Misuse of the Platform;",
-        "list3": "Breach of applicable law or regulation."
+        "title": "12. Возмещение убытков",
+        "description": "Пользователи соглашаются возместить убытки и оградить TraceNet Systems Ltd., ее аффилированных лиц и сотрудников от любых претензий, убытков или расходов, возникающих в результате:",
+        "list1": "Нарушения настоящих Условий;",
+        "list2": "Неправильного использования Платформы;",
+        "list3": "Нарушения применимого закона или регулирования.",
+        "note": null
       },
       "termination": {
-        "title": "13. Termination",
-        "description": "TraceNet may suspend or terminate user access immediately if:",
-        "list1": "The user violates these Terms or compliance obligations;",
-        "list2": "The Platform is misused for illegal or non-compliant activity;",
-        "list3": "Required by a financial regulator or court order.",
-        "note": "Upon termination, all rights to use the Platform cease immediately."
+        "title": "13. Прекращение действия",
+        "description": "TraceNet может немедленно приостановить или прекратить доступ пользователя, если:",
+        "list1": "Пользователь нарушает настоящие Условия или обязательства по комплаенсу;",
+        "list2": "Платформа используется не по назначению для незаконной или не соответствующей нормативным требованиям деятельности;",
+        "list3": "Требуется финансовым регулятором или постановлением суда.",
+        "note": "После прекращения действия все права на использование Платформы немедленно аннулируются."
       },
       "changes": {
-        "title": "14. Changes to These Terms",
-        "text1": "TraceNet may update these Terms periodically.",
-        "text2": "Revised Terms will be posted on this page with the updated \"Last Modified\" date.",
-        "text3": "Continued use of the Platform after updates constitutes acceptance of the revised Terms."
+        "title": "14. Изменения в настоящих Условиях",
+        "text1": "TraceNet может периодически обновлять настоящие Условия.",
+        "text2": "Пересмотренные Условия будут опубликованы на этой странице с обновленной датой \"Последнее обновление\".",
+        "text3": "Продолжение использования Платформы после обновлений означает принятие пересмотренных Условий."
       },
       "governingLaw": {
-        "title": "15. Governing Law and Jurisdiction",
-        "text1": "These Terms are governed by and construed under the laws of Israel, without regard to conflict-of-law principles.",
-        "text2": "Any dispute arising under these Terms shall be subject to the exclusive jurisdiction of the courts of Tel Aviv District, Israel."
+        "title": "15. Применимое право и юрисдикция",
+        "text1": "Настоящие Условия регулируются и толкуются в соответствии с законодательством Израиля, без учета принципов коллизионного права.",
+        "text2": "Любой спор, возникающий в соответствии с настоящими Условиями, подлежит исключительной юрисдикции судов округа Тель-Авив, Израиль."
       },
       "contact": {
-        "title": "16. Contact Information",
-        "description": "For any questions, notices, or legal correspondence regarding these Terms, please contact:",
+        "title": "16. Контактная информация",
+        "description": "По любым вопросам, уведомлениям или юридической корреспонденции, касающейся настоящих Условий, обращайтесь:",
         "email": "📧 legal@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
         "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
-        "compliantList": "GDPR (2016/679), AMLD6, Open Banking PSD2, ISO 27001, SOC 2 Type II, PCI DSS, and relevant Israeli corporate law."
+        "compliantLabel": "✅ Соответствует:",
+        "compliantList": "GDPR (2016/679), AMLD6, Open Banking PSD2, ISO 27001, SOC 2 Type II, PCI DSS и соответствующему корпоративному праву Израиля."
       }
     }
   },
   "th": {
-    "title": "Thank you for your registration!",
-    "subtitle": "Our colleague will contact you soon",
-    "button": "Back to Home"
+    "title": "Благодарим за регистрацию!",
+    "subtitle": "Наш сотрудник свяжется с вами в ближайшее время",
+    "button": "Вернуться на главную"
   },
   "contact": {
-    "title": "Technology That Strengthens Financial Integrity",
-    "subtitle": "Built on Google Gemini. Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
+    "title": "Технология, укрепляющая финансовую целостность",
+    "subtitle": "Создана на базе Google Gemini. Разработана, чтобы сделать глобальную финансовую экосистему более прозрачной, интеллектуальной и подотчетной.",
     "form": {
-      "title": "Fill in your details below",
-      "firstName": "First Name*",
-      "lastName": "Last Name*",
-      "email": "Email*",
-      "phone": "Phone*",
-      "message": "Anything we should know before our call?",
-      "privacy": "By submitting this form I accept the <a href=\"privacy-policy.html\">privacy policy</a> terms",
-      "submit": "Explore the Architecture"
+      "title": "Заполните свои данные ниже",
+      "firstName": "Имя*",
+      "lastName": "Фамилия*",
+      "email": "Электронная почта*",
+      "phone": "Телефон*",
+      "message": "Что-нибудь, что нам следует знать до нашего звонка?",
+      "privacy": "Отправляя эту форму, я принимаю условия <a href=\"privacy-policy.html\">политики конфиденциальности</a>",
+      "submit": "Узнать об архитектуре"
     }
   },
   "awards": {
-    "title": "Awards and Recognitions"
+    "title": "Награды и признания"
   },
   "footer": {
-    "description": "Built on Google Gemini.<br>Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
-    "contact": "Contact Us",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Use",
-    "cookie": "Cookie Policy",
-    "legal": "The analyses published within the scope of this service were prepared on behalf of Bridgewise Analytics Ltd (the \"Company\")."
+    "description": "Создана на базе Google Gemini.<br>Разработана, чтобы сделать глобальную финансовую экосистему более прозрачной, интеллектуальной и подотчетной.",
+    "contact": "Связаться с нами",
+    "privacy": "Политика конфиденциальности",
+    "terms": "Условия использования",
+    "cookie": "Политика использования файлов Cookie",
+    "legal": "Анализ, публикуемый в рамках этого сервиса, был подготовлен от имени Bridgewise Analytics Ltd (далее «Компания»)."
   },
   "cookie": {
-    "title": "This website uses cookies to improve the user experience and analyze traffic.",
-    "description": "By clicking the “Continue” button or by continuing to use the website, you consent to the use of cookies in your browser. You can manage cookies at any time in your browser settings. For more information, please read our Privacy Policy, Cookie Policy, and User Agreement.",
-    "close": "Close",
-    "accept": "Continue"
+    "title": "Этот веб-сайт использует файлы cookie для улучшения пользовательского опыта и анализа трафика.",
+    "description": "Нажимая кнопку «Продолжить» или продолжая использовать веб-сайт, вы даете согласие на использование файлов cookie в вашем браузере. Вы можете управлять файлами cookie в любое время в настройках вашего браузера. Для получения дополнительной информации, пожалуйста, ознакомьтесь с нашей Политикой конфиденциальности, Политикой использования файлов Cookie и Пользовательским соглашением.",
+    "close": "Закрыть",
+    "accept": "Продолжить"
   }
 }
-

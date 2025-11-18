@@ -1,727 +1,726 @@
 {
   "nav": {
-    "technology": "TECHNOLOGY",
-    "solutions": "SOLUTIONS",
-    "compliance": "COMPLIANCE & SECURITY",
-    "about": "ABOUT US",
-    "contact": "Contact us"
+    "technology": "TEKNOLOJİ",
+    "solutions": "ÇÖZÜMLER",
+    "compliance": "UYUMLULUK VE GÜVENLİK",
+    "about": "HAKKIMIZDA",
+    "contact": "Bize ulaşın"
   },
   "banner": {
-    "title": "AI Infrastructure for Global Transaction Transparency",
-    "description": "Powered by Google Gemini technology and integrated with banks and crypto platforms worldwide, our system provides real-time visibility into fund movements, risk scoring, and automated compliance actions.",
-    "cta": "Explore the Technology"
+    "title": "Küresel İşlem Şeffaflığı İçin Yapay Zeka Altyapısı",
+    "description": "Google Gemini teknolojisiyle güçlendirilen ve dünya çapındaki bankalar ve kripto platformlarıyla entegre olan sistemimiz, fon hareketlerine, risk puanlamasına ve otomatik uyumluluk eylemlerine gerçek zamanlı görünürlük sağlar.",
+    "cta": "Teknolojiyi Keşfet"
   },
   "about": {
-    "title": "Understanding the Platform",
-    "paragraph1": "The system combines large-scale financial data modeling, behavioral analytics, and regulatory intelligence to interpret the flow of money across connected accounts and digital assets.",
-    "paragraph2": "It operates as a neutral analytical layer — securely connected to financial institutions through verified APIs, providing structured insight into every transaction chain and its associated risk."
+    "title": "Platformu Anlama",
+    "paragraph1": "Sistem, bağlı hesaplar ve dijital varlıklar arasındaki para akışını yorumlamak için büyük ölçekli finansal veri modellemeyi, davranışsal analizi ve düzenleyici istihbaratı birleştirir.",
+    "paragraph2": "Doğrulanmış API'ler aracılığıyla finansal kuruluşlara güvenli bir şekilde bağlanmış, her işlem zincirine ve ilişkili riskine yapılandırılmış içgörü sağlayan nötr bir analitik katman olarak çalışır."
   },
   "features": {
     "connectivity": {
-      "title": "Connectivity",
-      "text": "Direct API integrations with regulated banks and major crypto exchanges."
+      "title": "Bağlantı",
+      "text": "Düzenlenmiş bankalar ve büyük kripto borsalarıyla doğrudan API entegrasyonları."
     },
     "intelligence": {
-      "title": "Intelligence",
-      "text": "Gemini-based models optimized for real-time financial reasoning."
+      "title": "Zeka",
+      "text": "Gerçek zamanlı finansal akıl yürütme için optimize edilmiş Gemini tabanlı modeller."
     },
     "integrity": {
-      "title": "Integrity",
-      "text": "Fully compliant with GDPR, AMLD6, and open-banking frameworks."
+      "title": "Bütünlük",
+      "text": "GDPR, AMLD6 ve açık bankacılık çerçeveleriyle tamamen uyumludur."
     }
   },
   "layers": {
-    "title": "Core Functional Layers",
+    "title": "Temel Fonksiyonel Katmanlar",
     "analysis": {
-      "title": "Analysis",
-      "text": "Processes multi-channel financial data and identifies irregular activity using Gemini's contextual understanding."
+      "title": "Analiz",
+      "text": "Çok kanallı finansal verileri işler ve Gemini'nin bağlamsal anlayışını kullanarak düzensiz aktiviteyi tespit eder."
     },
     "risk": {
-      "title": "Risk Evaluation",
-      "text": "Applies AI-driven scoring and behavioral clustering to determine exposure to fraud, unauthorized use, or compliance breach."
+      "title": "Risk Değerlendirmesi",
+      "text": "Dolandırıcılığa, yetkisiz kullanıma veya uyumluluk ihlaline maruziyeti belirlemek için yapay zeka destekli puanlama ve davranışsal kümeleme uygular."
     },
     "response": {
-      "title": "Automated Response",
-      "text": "When risk thresholds are reached, the system can initiate authorized procedures — including chargeback, recall, or dispute actions — directly through institutional APIs."
+      "title": "Otomatik Yanıt",
+      "text": "Risk eşiklerine ulaşıldığında, sistem doğrudan kurumsal API'ler aracılığıyla ters ibraz (chargeback), geri çağırma veya itiraz eylemleri dahil olmak üzere yetkili prosedürleri başlatabilir."
     }
   },
   "benefit": {
-    "title": "Access and Regulatory Framework",
-    "item1": "Because the platform interacts with live financial networks, access is granted only after completion of a short compliance onboarding required by global regulators.",
-    "item2": "This ensures lawful data exchange, verified identity, and full accountability of every operation executed through the AI infrastructure.",
-    "footer": "Compliance is not an add-on — it's an integral part of the system design."
+    "title": "Erişim ve Düzenleyici Çerçeve",
+    "item1": "Platform canlı finansal ağlarla etkileşimde bulunduğundan, erişim yalnızca küresel düzenleyiciler tarafından gerekli görülen kısa bir uyumluluk kayıt sürecinin tamamlanmasından sonra sağlanır.",
+    "item2": "Bu, yasal veri değişimini, doğrulanmış kimliği ve yapay zeka altyapısı aracılığıyla yürütülen her işlemin tam hesap verebilirliğini sağlar.",
+    "footer": "Uyumluluk bir ek özellik değil — sistem tasarımının ayrılmaz bir parçasıdır."
   },
   "transparency": {
-    "title": "Designed for Transparency, Built for Trust",
-    "text1": "The platform helps institutions and individuals detect irregular financial behavior, reduce exposure to fraud, and maintain full visibility over both fiat and digital transactions.",
-    "text2": "It functions as a permanent monitoring layer that ensures each movement of value is traceable, explainable, and compliant.",
-    "box1": "Real-time transaction interpretation across financial networks",
-    "box2": "Automated compliance checks and incident reporting",
-    "box3": "Secure, read-only API connections",
-    "box4": "Structured traceability for regulators and users alike"
+    "title": "Şeffaflık İçin Tasarlandı, Güven İçin İnşa Edildi",
+    "text1": "Platform, kurumların ve bireylerin düzensiz finansal davranışları tespit etmesine, dolandırıcılığa maruz kalmayı azaltmasına ve hem itibari hem de dijital işlemlerde tam görünürlüğü sürdürmesine yardımcı olur.",
+    "text2": "Her değer hareketinin izlenebilir, açıklanabilir ve uyumlu olmasını sağlayan kalıcı bir izleme katmanı olarak işlev görür.",
+    "box1": "Finansal ağlar arası gerçek zamanlı işlem yorumlama",
+    "box2": "Otomatik uyumluluk denetimleri ve olay raporlaması",
+    "box3": "Güvenli, salt okunur API bağlantıları",
+    "box4": "Hem düzenleyiciler hem de kullanıcılar için yapılandırılmış izlenebilirlik"
   },
   "technology": {
     "hero": {
-      "title": "Gemini-Powered Financial Intelligence Architecture",
-      "description": "The system is powered by Google Gemini's multimodal AI framework — an infrastructure capable of analyzing structured and unstructured financial data at scale. Combined with proprietary risk and compliance logic, it enables continuous monitoring, contextual reasoning, and secure interaction with financial institutions and blockchain ecosystems.",
-      "summary": "At its core, the platform transforms complex transaction data into transparent, regulator-ready insights."
+      "title": "Gemini Destekli Finansal İstihbarat Mimarisi",
+      "description": "Sistem, Google Gemini'nin yapılandırılmış ve yapılandırılmamış finansal verileri büyük ölçekte analiz edebilen çok modlu Yapay Zeka çerçevesiyle desteklenmektedir. Tescilli risk ve uyumluluk mantığıyla birleştiğinde, finansal kurumlar ve blok zinciri ekosistemleriyle sürekli izleme, bağlamsal akıl yürütme ve güvenli etkileşimi mümkün kılar.",
+      "summary": "Platform, temel olarak karmaşık işlem verilerini şeffaf, düzenleyiciye hazır içgörülere dönüştürür."
     },
     "architecture": {
-      "title": "System Architecture",
-      "description": "The technology stack is organized into five interconnected layers, each dedicated to a specific stage of financial data processing — from secure ingestion to regulatory action.",
+      "title": "Sistem Mimarisi",
+      "description": "Teknoloji yığını, güvenli veri alımından düzenleyici eyleme kadar finansal veri işlemenin belirli bir aşamasına adanmış, birbirine bağlı beş katmandan oluşur.",
       "layers": {
         "data": {
-          "title": "Data Sources",
-          "text": "Read-only access to banks, payment processors, and crypto exchanges via verified APIs. Supports Open Banking, ISO 20022, and blockchain data streams."
+          "title": "Veri Kaynakları",
+          "text": "Doğrulanmış API'ler aracılığıyla bankalara, ödeme işlemcilerine ve kripto borsalarına salt okunur erişim. Açık Bankacılık, ISO 20022 ve blok zinciri veri akışlarını destekler."
         },
         "gemini": {
-          "title": "Gemini AI Core",
-          "text": "Processes high-volume financial data using Gemini's multimodal reasoning capabilities. Performs natural-language interpretation of metadata, behavioral clustering, and entity correlation across accounts."
+          "title": "Gemini Yapay Zeka Çekirdeği",
+          "text": "Gemini'nin çok modlu akıl yürütme yeteneklerini kullanarak yüksek hacimli finansal verileri işler. Hesaplar arasında meta verilerin doğal dil yorumlamasını, davranışsal kümelemeyi ve varlık korelasyonunu gerçekleştirir."
         },
         "risk": {
-          "title": "Risk Engine",
-          "text": "Executes machine learning–based scoring logic that identifies anomalies, duplicate transfers, hidden subscriptions, and unauthorized activity. Each chain of transactions receives a dynamic risk profile updated in real time."
+          "title": "Risk Motoru",
+          "text": "Anormallikleri, yinelenen transferleri, gizli abonelikleri ve yetkisiz aktiviteyi tanımlayan makine öğrenimi tabanlı puanlama mantığını yürütür. Her işlem zinciri, gerçek zamanlı olarak güncellenen dinamik bir risk profili alır."
         },
         "compliance": {
-          "title": "Compliance Layer",
-          "text": "Implements AML, KYC, GDPR, and regional data-protection standards. Ensures traceability and accountability of every decision generated by the AI. Provides audit logs compatible with regulatory review formats."
+          "title": "Uyumluluk Katmanı",
+          "text": "AML, KYC, GDPR ve bölgesel veri koruma standartlarını uygular. Yapay zeka tarafından üretilen her kararın izlenebilirliğini ve hesap verebilirliğini sağlar. Düzenleyici inceleme formatlarıyla uyumlu denetim günlükleri sunar."
         },
         "response": {
-          "title": "Response API Gateway",
-          "text": "Acts as a secure communication channel between the platform and financial institutions. Authorized by compliance rules, it can initiate chargeback, recall, or dispute procedures when confirmed irregularities are detected."
+          "title": "Yanıt API Ağ Geçidi",
+          "text": "Platform ile finansal kurumlar arasında güvenli bir iletişim kanalı görevi görür. Uyumluluk kuralları tarafından yetkilendirildiğinde, onaylanmış usulsüzlükler tespit edildiğinde ters ibraz, geri çağırma veya itiraz prosedürlerini başlatabilir."
         }
       }
     },
     "secureData": {
-      "title": "Secure Data Handling",
-      "description": "All connected data flows operate in read-only mode.<br>The platform does not execute or store financial operations; it only interprets and reports them.",
+      "title": "Güvenli Veri İşleme",
+      "description": "Bağlı tüm veri akışları salt okunur modda çalışır.<br>Platform, finansal işlemleri yürütmez veya saklamaz; yalnızca yorumlar ve raporlar.",
       "accordion": {
-        "title": "Security measures:",
-        "text": "• TLS 1.3 and AES-256 end-to-end encryption<br>• Differential privacy in all data aggregation processes<br>• Region-based data segregation (EU / NA / APAC)<br>• Immutable audit trail stored in compliance-ready format"
+        "title": "Güvenlik önlemleri:",
+        "text": "• TLS 1.3 ve AES-256 uçtan uca şifreleme<br>• Tüm veri toplama süreçlerinde diferansiyel gizlilik<br>• Bölge bazlı veri ayrımı (AB / KA / APAC)<br>• Uyumluluğa hazır formatta saklanan değişmez denetim izi"
       }
     },
     "geminiRisk": {
-      "title": "Gemini Cognitive Risk Engine",
-      "description": "Using Gemini's reasoning capabilities, the platform interprets financial behavior not only through numerical anomalies, but also through semantic patterns — e.g. metadata, transaction descriptions, and behavioral correlations.",
+      "title": "Gemini Bilişsel Risk Motoru",
+      "description": "Gemini'nin akıl yürütme yeteneklerini kullanan platform, finansal davranışı yalnızca sayısal anormallikler yoluyla değil, aynı zamanda anlamsal kalıplar (örneğin meta veriler, işlem açıklamaları ve davranışsal korelasyonlar) aracılığıyla da yorumlar.",
       "accordion": {
-        "title": "Capabilities:",
-        "text": "• Continuous anomaly detection across fiat and crypto ecosystems<br>• Behavior-based fraud scoring (0–100 scale)<br>• Contextual understanding of transaction purpose and counterpart behavior<br>• Adaptive learning: the model evolves as transaction networks change"
+        "title": "Yetenekler:",
+        "text": "• İtibari para ve kripto ekosistemlerinde sürekli anomali tespiti<br>• Davranışa dayalı dolandırıcılık puanlaması (0-100 ölçeği)<br>• İşlem amacı ve karşı taraf davranışının bağlamsal olarak anlaşılması<br>• Uyarlanabilir öğrenme: işlem ağları değiştikçe model gelişir"
       }
     },
     "intelligentAction": {
-      "title": "Intelligent Action Framework",
-      "description": "When the AI identifies high-risk financial behavior, it prepares a structured incident report and — within the regulatory boundaries — triggers automated responses through partner APIs:",
+      "title": "Akıllı Eylem Çerçevesi",
+      "description": "Yapay zeka yüksek riskli finansal davranış tespit ettiğinde, yapılandırılmış bir olay raporu hazırlar ve düzenleyici sınırlar dahilinde, ortak API'ler aracılığıyla otomatik yanıtları tetikler:",
       "accordion": {
-        "title": "All actions are logged, timestamped, and approved within the compliance layer before execution.",
-        "text": "• Bank chargeback / recall requests for suspicious transfers<br>• Exchange dispute / refund submissions for fraudulent digital-asset activity<br>• Regulatory incident report generated for audit and supervision"
+        "title": "Tüm eylemler, yürütülmeden önce uyumluluk katmanında kaydedilir, zaman damgalanır ve onaylanır.",
+        "text": "• Şüpheli transferler için banka ters ibrazı / geri çağırma talepleri<br>• Hileli dijital varlık aktivitesi için borsa itirazı / geri ödeme başvuruları<br>• Denetim ve gözetim için oluşturulan düzenleyici olay raporu"
       }
     },
     "explainable": {
-      "title": "Explainable and Auditable AI",
-      "description": "Every output produced by the Gemini-based core includes explainability metadata: which variables influenced a decision, why the model classified an action as risky, and what regulatory framework the response aligns with.",
+      "title": "Açıklanabilir ve Denetlenebilir Yapay Zeka",
+      "description": "Gemini tabanlı çekirdek tarafından üretilen her çıktı, açıklanabilirlik meta verilerini içerir: hangi değişkenlerin bir kararı etkilediği, modelin bir eylemi neden riskli olarak sınıflandırdığı ve yanıtın hangi düzenleyici çerçeveyle uyumlu olduğu.",
       "accordion": {
-        "title": "Features:",
-        "text": "• Transparent model decisions for auditors and regulators<br>• Traceable reasoning chain for each incident<br>• Configurable sensitivity thresholds per user or institution"
+        "title": "Özellikler:",
+        "text": "• Denetçiler ve düzenleyiciler için şeffaf model kararları<br>• Her olay için izlenebilir akıl yürütme zinciri<br>• Kullanıcı veya kuruma göre yapılandırılabilir hassasiyet eşikleri"
       }
     },
     "standards": {
-      "title": "Aligned with Global Standards",
-      "description": "The system adheres to the highest standards of security and financial data governance. All operations follow the principles of open banking, data minimalism, and regulator supervision.",
+      "title": "Küresel Standartlarla Uyumlu",
+      "description": "Sistem, en yüksek güvenlik ve finansal veri yönetimi standartlarına uyar. Tüm işlemler açık bankacılık, veri minimalizmi ve düzenleyici gözetim ilkelerini takip eder.",
       "accordion": {
-        "title": "Compliance frameworks:",
-        "text": "• GDPR (Europe)<br>• AMLD6 (EU directive)<br>• ISO 27001 (Information Security)<br>• SOC 2 (Data integrity and privacy)<br>• PCI DSS (Financial data protection)"
+        "title": "Uyumluluk çerçeveleri:",
+        "text": "• GDPR (Avrupa)<br>• AMLD6 (AB direktifi)<br>• ISO 27001 (Bilgi Güvenliği)<br>• SOC 2 (Veri bütünlüğü ve gizliliği)<br>• PCI DSS (Finansal veri koruması)"
       }
     }
   },
   "solutions": {
     "hero": {
-      "title": "Applications Across the Financial Ecosystem",
-      "description": "The platform's modular architecture allows it to operate across multiple layers of the financial landscape — from individual account monitoring to institutional compliance infrastructure.<br>Built on Gemini's AI framework, it interprets transaction data, evaluates behavioral risk, and acts through verified financial APIs.",
-      "summary": "Different users. One system of transparency."
+      "title": "Finansal Ekosistem Genelinde Uygulamalar",
+      "description": "Platformun modüler mimarisi, bireysel hesap izlemeden kurumsal uyumluluk altyapısına kadar finansal ortamın birden çok katmanında çalışmasına olanak tanır.<br>Gemini'nin Yapay Zeka çerçevesi üzerine inşa edilmiştir, işlem verilerini yorumlar, davranışsal riski değerlendirir ve doğrulanmış finansal API'ler aracılığıyla eylemde bulunur.",
+      "summary": "Farklı kullanıcılar. Tek bir şeffaflık sistemi."
     },
     "personal": {
-      "title": "Personal Financial Awareness and Protection",
-      "description": "For individual users, the system functions as a continuous monitoring environment that provides real-time visibility into every transaction. It identifies recurring charges, hidden subscriptions, and potential unauthorized activity—and, when required, initiates authorized refund or dispute requests through the user’s financial institution.",
+      "title": "Kişisel Finansal Farkındalık ve Koruma",
+      "description": "Bireysel kullanıcılar için sistem, her işleme gerçek zamanlı görünürlük sağlayan sürekli bir izleme ortamı olarak işlev görür. Yinelenen ücretleri, gizli abonelikleri ve potansiyel yetkisiz aktiviteyi tanımlar ve gerektiğinde kullanıcının finansal kuruluşu aracılığıyla yetkili geri ödeme veya itiraz taleplerini başlatır.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Detect recurring or duplicate payments<br>• Identify unauthorized transactions before they accumulate<br>• Receive structured reports with fraud scores and compliance context<br>• Automate chargeback or recall processes securely"
+        "title": "Kullanım örnekleri:",
+        "text": "• Yinelenen veya mükerrer ödemeleri tespit etme<br>• Birikmeden önce yetkisiz işlemleri tanımlama<br>• Dolandırıcılık puanları ve uyumluluk bağlamı içeren yapılandırılmış raporlar alma<br>• Ters ibraz veya geri çağırma süreçlerini güvenli bir şekilde otomatikleştirme"
       },
-      "note": "Individuals gain clarity over their digital finances and reduce losses from unnoticed activity or subscription leakage."
+      "note": "Bireyler, dijital finansları üzerinde netlik kazanır ve fark edilmeyen aktivite veya abonelik sızıntısından kaynaklanan kayıpları azaltır."
     },
     "corporate": {
-      "title": "Corporate Transaction Oversight",
-      "description": "For enterprises, the platform acts as a financial integrity layer—monitoring all outgoing and incoming transactions to ensure they align with internal policies, vendor agreements, and regional compliance standards.",
+      "title": "Kurumsal İşlem Gözetimi",
+      "description": "İşletmeler için platform, tüm giden ve gelen işlemleri izleyerek şirket içi politikalar, satıcı anlaşmaları ve bölgesel uyumluluk standartlarıyla uyumlu olmalarını sağlayan bir finansal bütünlük katmanı görevi görür.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Detect unapproved or duplicate vendor payments<br>• Analyze financial exposure across accounts and subsidiaries<br>• Generate automated compliance and audit reports<br>• Identify early indicators of account misuse or insider fraud"
+        "title": "Kullanım örnekleri:",
+        "text": "• Onaylanmamış veya mükerrer satıcı ödemelerini tespit etme<br>• Hesaplar ve yan kuruluşlar genelinde finansal maruziyeti analiz etme<br>• Otomatik uyumluluk ve denetim raporları oluşturma<br>• Hesap kötüye kullanımının veya içeriden dolandırıcılığın erken göstergelerini tanımlama"
       },
-      "note": "Financial institutions gain a scalable, regulator-aligned AI layer for fraud management and customer protection."
+      "note": "Finansal kurumlar, dolandırıcılık yönetimi ve müşteri koruması için ölçeklenebilir, düzenleyiciye uyumlu bir Yapay Zeka katmanı kazanır."
     },
     "infrastructure": {
-      "title": "AI-Powered Fraud and Compliance Infrastructure",
-      "description": "Banks, fintech companies, and exchanges integrate the system through API to enhance their fraud detection, transaction traceability, and regulatory response capabilities. The Gemini-based core delivers contextual risk assessment for both fiat and crypto operations, improving precision and reducing false positives.",
+      "title": "Yapay Zeka Destekli Dolandırıcılık ve Uyumluluk Altyapısı",
+      "description": "Bankalar, fintech şirketleri ve borsalar, dolandırıcılık tespiti, işlem izlenebilirliği ve düzenleyici yanıt yeteneklerini geliştirmek için sistemi API aracılığıyla entegre eder. Gemini tabanlı çekirdek, hem itibari hem de kripto operasyonları için bağlamsal risk değerlendirmesi sunarak hassasiyeti artırır ve yanlış pozitifleri azaltır.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Real-time anomaly detection across payment networks<br>• Automated escalation of high-risk transaction chains<br>• Instant generation of incident reports for compliance teams<br>• Support for chargeback and dispute automation through regulated APIs"
+        "title": "Kullanım örnekleri:",
+        "text": "• Ödeme ağlarında gerçek zamanlı anomali tespiti<br>• Yüksek riskli işlem zincirlerinin otomatik olarak tırmandırılması<br>• Uyumluluk ekipleri için anında olay raporlarının oluşturulması<br>• Düzenlenmiş API'ler aracılığıyla ters ibraz ve itiraz otomasyonu desteği"
       },
-      "note": "Financial institutions gain a scalable, regulator-aligned AI layer for fraud management and customer protection."
+      "note": "Finansal kurumlar, dolandırıcılık yönetimi ve müşteri koruması için ölçeklenebilir, düzenleyiciye uyumlu bir Yapay Zeka katmanı kazanır."
     },
     "regulatory": {
-      "title": "Transparent Oversight and Traceability",
-      "description": "For supervisory bodies and regulatory auditors, the platform provides a neutral AI-driven view of transaction networks—with explainable reasoning, immutable audit trails, and standardized data export formats.",
+      "title": "Şeffaf Gözetim ve İzlenebilirlik",
+      "description": "Denetleyici organlar ve düzenleyici denetçiler için platform, açıklanabilir akıl yürütme, değişmez denetim izleri ve standartlaştırılmış veri dışa aktarım formatlarıyla işlem ağlarına yönelik nötr, yapay zeka destekli bir görünüm sağlar.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Cross-platform tracing of suspicious fund movement<br>• Automated AML/KYC anomaly detection<br>• Centralized visualization of institution-wide financial flows<br>• On-demand audit data with full explainability metadata"
+        "title": "Kullanım örnekleri:",
+        "text": "• Şüpheli fon hareketinin platformlar arası takibi<br>• Otomatik AML/KYC anomali tespiti<br>• Kurum çapında finansal akışların merkezi görselleştirmesi<br>• Tam açıklanabilirlik meta verileriyle isteğe bağlı denetim verileri"
       },
-      "note": "Regulators receive structured, verified, and explainable financial intelligence aligned with global compliance frameworks."
+      "note": "Düzenleyiciler, küresel uyumluluk çerçeveleriyle uyumlu, yapılandırılmış, doğrulanmış ve açıklanabilir finansal istihbarat alır."
     },
     "connectivity": {
-      "title": "Unified Ecosystem Connectivity",
-      "description": "Through open APIs, the system connects to financial, blockchain, and compliance infrastructures — enabling data exchange between individual, corporate, and institutional layers without compromising privacy or regulatory boundaries.",
+      "title": "Birleşik Ekosistem Bağlantısı",
+      "description": "Açık API'ler aracılığıyla sistem, finansal, blok zinciri ve uyumluluk altyapılarına bağlanır; bireysel, kurumsal ve kurumsal katmanlar arasında gizliliği veya düzenleyici sınırları tehlikeye atmadan veri alışverişini sağlar.",
       "accordion": {
-        "title": "Integrations include:",
-        "text": "• Retail and commercial banks<br>• Payment gateways and acquirers<br>• Major crypto exchanges and custodians<br>• Compliance management systems<br>• Governmental AML & financial intelligence units"
+        "title": "Entegrasyonlar şunları içerir:",
+        "text": "• Perakende ve ticari bankalar<br>• Ödeme ağ geçitleri ve alıcılar<br>• Başlıca kripto borsaları ve saklayıcılar<br>• Uyumluluk yönetim sistemleri<br>• Devlet AML ve finansal istihbarat birimleri"
       }
     },
     "impact": {
-      "title": "Impact Across All Stakeholders",
-      "description": "By introducing explainable AI into the financial ecosystem, the platform improves visibility, reduces systemic fraud, and enhances compliance efficiency across all participants.",
+      "title": "Tüm Paydaşlar Üzerindeki Etki",
+      "description": "Finansal ekosisteme açıklanabilir Yapay Zeka sunarak, platform görünürlüğü artırır, sistemik dolandırıcılığı azaltır ve tüm katılımcılar genelinde uyumluluk verimliliğini artırır.",
       "accordion": {
-        "title": "Shared benefits:",
-        "text": "• Unified fraud-risk framework across fiat and crypto ecosystems<br>• Automated compliance actions with regulator-approved logic<br>• Reduced operational costs for investigation and reporting<br>• Enhanced user trust through transparency and accountability"
+        "title": "Paylaşılan faydalar:",
+        "text": "• İtibari para ve kripto ekosistemleri genelinde birleşik dolandırıcılık-risk çerçevesi<br>• Düzenleyici onaylı mantıkla otomatik uyumluluk eylemleri<br>• Soruşturma ve raporlama için düşürülmüş operasyonel maliyetler<br>• Şeffaflık ve hesap verebilirlik yoluyla geliştirilmiş kullanıcı güveni"
       }
     }
   },
   "compliance": {
     "hero": {
-      "title": "Compliance and Security by Design",
-      "description": "The platform is built on the principle that transparency and compliance are not external requirements — they are core components of the system’s architecture. From data encryption to regulatory verification, every process is designed to align with global standards of financial integrity and information security.",
-      "summary": "Security is engineered. Compliance is embedded."
+      "title": "Tasarım Gereği Uyumluluk ve Güvenlik",
+      "description": "Platform, şeffaflık ve uyumluluğun harici gereksinimler değil — sistem mimarisinin temel bileşenleri olduğu ilkesi üzerine kurulmuştur. Veri şifrelemeden düzenleyici doğrulamaya kadar her süreç, küresel finansal bütünlük ve bilgi güvenliği standartlarıyla uyumlu olacak şekilde tasarlanmıştır.",
+      "summary": "Güvenlik mühendislikle sağlanır. Uyumluluk yerleşiktir."
     },
     "secureData": {
-      "title": "Secure Data Architecture",
-      "description": "All operations are conducted in a read-only mode to prevent any unauthorized changes, fund movements, or account access. The platform serves exclusively as an analytical layer, ensuring users’ and institutions’ financial data remain protected at every stage.",
+      "title": "Güvenli Veri Mimarisi",
+      "description": "Tüm işlemler, yetkisiz değişiklikleri, fon hareketlerini veya hesap erişimini önlemek için salt okunur modda gerçekleştirilir. Platform, yalnızca analitik bir katman olarak hizmet ederek kullanıcıların ve kurumların finansal verilerinin her aşamada korunmasını sağlar.",
       "accordion": {
-        "title": "Key mechanisms:",
-        "text": "• End-to-end encryption (TLS 1.3 / AES-256)<br>• Zero data persistence for sensitive credentials<br>• Multi-region storage under data-localization laws<br>• Continuous vulnerability assessment and penetration testing<br>• Independent third-party security audits"
+        "title": "Temel mekanizmalar:",
+        "text": "• Uçtan uca şifreleme (TLS 1.3 / AES-256)<br>• Hassas kimlik bilgileri için sıfır veri kalıcılığı<br>• Veri yerelleştirme yasalarına uygun çok bölgeli depolama<br>• Sürekli güvenlik açığı değerlendirmesi ve sızma testi<br>• Bağımsız üçüncü taraf güvenlik denetimleri"
       }
     },
     "regulatory": {
-      "title": "Regulatory Alignment",
-      "description": "The compliance layer integrates international regulatory standards to ensure every data interaction, risk analysis, or automated response remains within the boundaries of financial law.",
+      "title": "Düzenleyici Uyum",
+      "description": "Uyumluluk katmanı, her veri etkileşiminin, risk analizinin veya otomatik yanıtın finansal yasaların sınırları içinde kalmasını sağlamak için uluslararası düzenleyici standartları entegre eder.",
       "accordion": {
-        "title": "Supported frameworks:",
-        "text": "• GDPR — General Data Protection Regulation (EU)<br>• AMLD6 — Anti-Money Laundering Directive (EU)<br>• FATF — Financial Action Task Force recommendations<br>• ISO 27001 / SOC 2 — Information Security and Data Management<br>• PCI DSS — Payment Card Industry Data Security Standard<br>• Open Banking PSD2 — Secure API connectivity and user consent model"
+        "title": "Desteklenen çerçeveler:",
+        "text": "• GDPR — Genel Veri Koruma Yönetmeliği (AB)<br>• AMLD6 — Kara Para Aklamayı Önleme Direktifi (AB)<br>• FATF — Mali Eylem Görev Gücü tavsiyeleri<br>• ISO 27001 / SOC 2 — Bilgi Güvenliği ve Veri Yönetimi<br>• PCI DSS — Ödeme Kartı Endüstrisi Veri Güvenliği Standardı<br>• Açık Bankacılık PSD2 — Güvenli API bağlantısı ve kullanıcı rızası modeli"
       },
-      "note": "Every compliance operation is logged, auditable, and traceable for both internal review and regulator access."
+      "note": "Her uyumluluk işlemi hem dahili inceleme hem de düzenleyici erişimi için kaydedilir, denetlenebilir ve izlenebilir."
     },
     "identity": {
-      "title": "Identity Verification and Authorization",
-      "description": "To maintain data integrity and prevent misuse, user access to the AI system is granted only after completing a mandatory compliance onboarding.<br><br>This short course, required by financial regulators, verifies user identity, purpose of use, and awareness of data-handling obligations.",
-      "stepsTitle": "Access procedure:",
-      "step1": "Identity and source verification (KYC)",
-      "step2": "Acceptance of compliance terms",
-      "step3": "Completion of automated onboarding",
-      "step4": "Tokenized API access granted under regulator supervision",
-      "note": "Each user operates within a verified and traceable framework, ensuring lawful access to AI-driven financial intelligence."
+      "title": "Kimlik Doğrulama ve Yetkilendirme",
+      "description": "Veri bütünlüğünü sürdürmek ve kötüye kullanımı önlemek için, Yapay Zeka sistemine kullanıcı erişimi yalnızca zorunlu bir uyumluluk kayıt sürecinin tamamlanmasından sonra verilir.<br><br>Finansal düzenleyiciler tarafından gerekli kılınan bu kısa kurs, kullanıcı kimliğini, kullanım amacını ve veri işleme yükümlülüklerine ilişkin farkındalığı doğrular.",
+      "stepsTitle": "Erişim prosedürü:",
+      "step1": "Kimlik ve kaynak doğrulama (KYC)",
+      "step2": "Uyumluluk şartlarının kabulü",
+      "step3": "Otomatik kayıt sürecinin tamamlanması",
+      "step4": "Düzenleyici gözetiminde jetonlu API erişiminin verilmesi",
+      "note": "Her kullanıcı, Yapay Zeka destekli finansal istihbarata yasal erişimi sağlayan, doğrulanmış ve izlenebilir bir çerçevede çalışır."
     },
     "audit": {
-      "title": "Auditability and Accountability",
-      "description": "Every system action — from API request to AI decision — is recorded in an immutable audit log. This provides regulators, compliance officers, and auditors with full visibility over data flow and decision-making processes.",
+      "title": "Denetlenebilirlik ve Hesap Verebilirlik",
+      "description": "API isteğinden Yapay Zeka kararına kadar her sistem eylemi, değişmez bir denetim günlüğüne kaydedilir. Bu, düzenleyicilere, uyumluluk görevlilerine ve denetçilere veri akışı ve karar verme süreçleri üzerinde tam görünürlük sağlar.",
       "accordion": {
-        "title": "Capabilities:",
-        "text": "• Immutable timestamped event logs<br>• Accessed only by authorized regulators or internal compliance units<br>• Support for standard audit export formats (CSV, XML, XBRL)<br>• Automated generation of compliance reports"
+        "title": "Yetenekler:",
+        "text": "• Değişmez zaman damgalı olay günlükleri<br>• Yalnızca yetkili düzenleyiciler veya dahili uyumluluk birimleri tarafından erişilebilir<br>• Standart denetim dışa aktarma formatları için destek (CSV, XML, XBRL)<br>• Uyumluluk raporlarının otomatik olarak oluşturulması"
       },
-      "note": "Nothing happens without a record."
+      "note": "Kayıt olmadan hiçbir şey gerçekleşmez."
     },
     "threat": {
-      "title": "Real-Time Threat and Risk Management",
-      "description": "The platform continuously monitors its environment for security anomalies and abnormal access patterns. When potential risks are detected, automated alerts are issued to the internal compliance node, and appropriate actions are taken immediately to isolate or neutralize the threat.",
-      "process": "<strong style=\"display:block;\">Process:</strong>• Continuous behavioral monitoring of API traffic <br>• Multi-level anomaly scoring for security events<br>• Real-time alerting and mitigation protocol<br>• Forensic reporting to compliance and regulatory units"
+      "title": "Gerçek Zamanlı Tehdit ve Risk Yönetimi",
+      "description": "Platform, güvenlik anormallikleri ve anormal erişim modelleri için ortamını sürekli olarak izler. Potansiyel riskler tespit edildiğinde, dahili uyumluluk düğümüne otomatik uyarılar gönderilir ve tehdidi izole etmek veya etkisiz hale getirmek için uygun eylemler derhal yapılır.",
+      "process": "<strong style=\"display:block;\">Süreç:</strong>• API trafiğinin sürekli davranışsal izlemesi <br>• Güvenlik olayları için çok seviyeli anomali puanlaması<br>• Gerçek zamanlı uyarı ve hafifletme protokolü<br>• Uyumluluk ve düzenleyici birimlere adli raporlama"
     },
     "collaborative": {
-      "title": "Collaborative Security Model",
-      "description": "The system is developed under a shared-responsibility model, where platform security, institutional compliance, and regulatory supervision coexist in a unified operational framework.",
+      "title": "İşbirliğine Dayalı Güvenlik Modeli",
+      "description": "Sistem, platform güvenliği, kurumsal uyumluluk ve düzenleyici gözetimin birleşik bir operasyonel çerçevede bir arada bulunduğu ortak sorumluluk modeli altında geliştirilmiştir.",
       "accordion": {
-        "title": "Partnership ecosystem:",
-        "text": "• Financial institutions (banks, acquirers, payment processors)<br>• Crypto exchanges and custodians<br>• Regulatory bodies and financial intelligence units (FIUs)<br>• Independent audit and data-certification partners"
+        "title": "Ortaklık ekosistemi:",
+        "text": "• Finansal kurumlar (bankalar, alıcılar, ödeme işlemcileri)<br>• Kripto borsaları ve saklayıcılar<br>• Düzenleyici organlar ve finansal istihbarat birimleri (FİB'ler)<br>• Bağımsız denetim ve veri sertifikasyon ortakları"
       },
-      "note": "Transparency is achieved not in isolation, but through collaboration."
+      "note": "Şeffaflık, yalnızlıkla değil, işbirliğiyle elde edilir."
     },
     "certification": {
-      "title": "Verification and Certification",
-      "description": "To ensure trust and global interoperability, the platform undergoes continuous certification and audit cycles conducted by accredited external firms.",
+      "title": "Doğrulama ve Sertifikasyon",
+      "description": "Güveni ve küresel birlikte çalışabilirliği sağlamak için platform, akredite harici firmalar tarafından yürütülen sürekli sertifikasyon ve denetim döngülerinden geçer.",
       "accordion": {
-        "title": "Certifications in progress or obtained:",
-        "text": "• ISO/IEC 27001 — Information Security Management<br>• SOC 2 Type II — Data integrity and operational resilience<br>• PCI DSS — Financial data handling<br>• GDPR compliance verified by EU-based independent assessors"
+        "title": "Devam eden veya alınmış sertifikalar:",
+        "text": "• ISO/IEC 27001 — Bilgi Güvenliği Yönetimi<br>• SOC 2 Tip II — Veri bütünlüğü ve operasyonel dayanıklılık<br>• PCI DSS — Finansal veri işleme<br>• AB merkezli bağımsız değerlendiriciler tarafından doğrulanmış GDPR uyumluluğu"
       },
-      "note": "Security standards are not claims — they are verifications."
+      "note": "Güvenlik standartları iddia değil — doğrulamalardır."
     },
     "learn": {
-      "title": "Building Trust Through Transparency",
-      "text": "By embedding regulatory compliance and security architecture into every level of its infrastructure, the system establishes a foundation for responsible, explainable, and auditable AI in financial ecosystems.",
-      "cta": "Learn About the Company"
+      "title": "Şeffaflık Yoluyla Güven İnşa Etmek",
+      "text": "Düzenleyici uyumluluğu ve güvenlik mimarisini altyapısının her seviyesine yerleştirerek, sistem finansal ekosistemlerde sorumlu, açıklanabilir ve denetlenebilir Yapay Zeka için bir temel oluşturur.",
+      "cta": "Şirket Hakkında Daha Fazla Bilgi Edinin"
     }
   },
   "aboutPage": {
     "hero": {
-      "title": "Building the Infrastructure of Financial Transparency",
-      "description": "We develop AI-driven infrastructure designed to bring traceability, accountability, and explainability into global financial systems. Our mission is to enable institutions, regulators, and individuals to understand how value moves — securely, lawfully, and intelligently.",
-      "summary": "We believe that transparency is not an outcome — it is architecture."
+      "title": "Finansal Şeffaflığın Altyapısını İnşa Etmek",
+      "description": "Küresel finansal sistemlere izlenebilirlik, hesap verebilirlik ve açıklanabilirlik getirmek için tasarlanmış Yapay Zeka destekli altyapı geliştiriyoruz. Misyonumuz, kurumların, düzenleyicilerin ve bireylerin değerin nasıl hareket ettiğini — güvenli, yasal ve akıllı bir şekilde — anlamalarını sağlamaktır.",
+      "summary": "Şeffaflığın bir sonuç değil — mimari olduğuna inanıyoruz."
     },
     "mission": {
-      "title": "Mission",
-      "description": "To create a universal technological framework that ensures every financial action — whether executed by an individual, a business, or an algorithm — remains traceable, auditable, and compliant with the law.",
-      "highlight": "A global financial environment where every transaction can be understood, verified, and trusted."
+      "title": "Misyon",
+      "description": "Birey, işletme veya algoritma tarafından yürütülen her finansal eylemin izlenebilir, denetlenebilir ve yasaya uygun kalmasını sağlayan evrensel bir teknolojik çerçeve oluşturmak.",
+      "highlight": "Her işlemin anlaşılabileceği, doğrulanabileceği ve güvenilebileceği küresel bir finansal ortam."
     },
     "operation": {
-      "title": "How We Operate",
-      "description": "We combine AI research, financial forensics, and regulatory engineering to bridge the gap between innovation and compliance. Our interdisciplinary teams design systems that interpret financial behavior and act within the strictest standards of data governance.",
+      "title": "Nasıl Çalışıyoruz",
+      "description": "Yenilik ve uyumluluk arasındaki boşluğu doldurmak için Yapay Zeka araştırmalarını, finansal adli bilimleri ve düzenleyici mühendisliği birleştiriyoruz. Disiplinler arası ekiplerimiz, finansal davranışı yorumlayan ve en katı veri yönetimi standartları dahilinde hareket eden sistemler tasarlar.",
       "accordion": {
-        "title": "Core principles:",
-        "text": "• Integrity: Data must always serve truth and transparency.<br>• Security: Protection of user and institutional data is fundamental.<br>• Accountability: Every decision — human or algorithmic — must be explainable.<br>• Collaboration: Financial systems can only be secured through cooperation across sectors."
+        "title": "Temel ilkeler:",
+        "text": "• Bütünlük: Veri her zaman gerçeğe ve şeffaflığa hizmet etmelidir.<br>• Güvenlik: Kullanıcı ve kurumsal verilerin korunması esastır.<br>• Hesap Verebilirlik: Her karar — insani veya algoritmik — açıklanabilir olmalıdır.<br>• İşbirliği: Finansal sistemler yalnızca sektörler arası işbirliği yoluyla güvence altına alınabilir."
       }
     },
     "leadership": {
-      "title": "Leadership and Expertise",
-      "description": "Our team unites specialists in AI architecture, financial technology, risk modeling, and regulatory compliance. Each division works collaboratively to design, validate, and monitor every aspect of the platform — from data infrastructure to ethical AI deployment.",
+      "title": "Liderlik ve Uzmanlık",
+      "description": "Ekibimiz Yapay Zeka mimarisi, finansal teknoloji, risk modelleme ve düzenleyici uyumluluk alanlarında uzmanları birleştirir. Her bölüm, veri altyapısından etik Yapay Zeka dağıtımına kadar platformun her yönünü tasarlamak, doğrulamak ve izlemek için işbirliği içinde çalışır.",
       "accordion": {
-        "title": "Grid-style:",
-        "text": "• AI Research & Modeling<br>• Financial Compliance Engineering<br>• Data Infrastructure & Security<br>• Regulatory Affairs<br>• Operations & Governance"
+        "title": "Izgara stili:",
+        "text": "• Yapay Zeka Araştırması ve Modellemesi<br>• Finansal Uyumluluk Mühendisliği<br>• Veri Altyapısı ve Güvenliği<br>• Düzenleyici İlişkiler<br>• Operasyonlar ve Yönetişim"
       },
-      "note": "We build technology with accountability — from algorithm to executive level."
+      "note": "Hesap verebilir teknoloji inşa ediyoruz — algoritmik düzeyden yönetici düzeyine kadar."
     },
     "collaborative": {
-      "title": "Collaborative Infrastructure",
-      "description": "The platform is developed in partnership with leading financial institutions, blockchain analytics firms, and data-security organizations committed to the same principle: that transparency and protection must coexist in the digital economy.",
+      "title": "İşbirlikçi Altyapı",
+      "description": "Platform, aynı ilkeye kendini adamış önde gelen finansal kurumlar, blok zinciri analiz firmaları ve veri güvenliği kuruluşlarıyla ortaklaşa geliştirilmiştir: şeffaflık ve koruma dijital ekonomide bir arada var olmalıdır.",
       "accordion": {
-        "title": "Partnership ecosystem includes:",
-        "text": "• Regulated banks and payment processors<br>• Licensed crypto exchanges and custodians<br>• Data privacy and compliance organizations<br>• Independent audit and certification partners"
+        "title": "Ortaklık ekosistemi şunları içerir:",
+        "text": "• Düzenlenmiş bankalar ve ödeme işlemcileri<br>• Lisanslı kripto borsaları ve saklayıcılar<br>• Veri gizliliği ve uyumluluk kuruluşları<br>• Bağımsız denetim ve sertifikasyon ortakları"
       },
-      "note": "Every integration strengthens the collective trust network."
+      "note": "Her entegrasyon, kolektif güven ağını güçlendirir."
     },
     "innovation": {
-      "title": "Continuous Innovation",
-      "paragraph1": "Research is at the center of everything we do.<br>Our R&D division explores advanced AI methodologies for financial reasoning, anomaly detection, and explainable decision-making.<br>We collaborate with academic institutions and regulatory technology labs to continuously align innovation with evolving compliance standards.",
-      "paragraph2": "<span class=\"h3\"> Focus areas:</span>• Multimodal reasoning in financial systems<br>• Adaptive fraud-detection algorithms<br>• Autonomous compliance reporting<br>• Human-AI collaboration for interpretability"
+      "title": "Sürekli İnovasyon",
+      "paragraph1": "Araştırma, yaptığımız her şeyin merkezindedir.<br>Ar-Ge bölümümüz, finansal akıl yürütme, anomali tespiti ve açıklanabilir karar verme için gelişmiş Yapay Zeka metodolojilerini keşfeder.<br>İnovasyonu gelişen uyumluluk standartlarıyla sürekli hizalamak için akademik kurumlar ve düzenleyici teknoloji laboratuvarlarıyla işbirliği yapıyoruz.",
+      "paragraph2": "<span class=\"h3\"> Odak alanları:</span>• Finansal sistemlerde çok modlu akıl yürütme<br>• Uyarlanabilir dolandırıcılık tespit algoritmaları<br>• Otonom uyumluluk raporlaması<br>• Yorumlanabilirlik için İnsan-Yapay Zeka işbirliği"
     },
     "responsible": {
-      "title": "Responsible Intelligence",
-      "description": "We are committed to the responsible use of AI in financial analytics. All models are designed with transparency, reversibility, and auditability as foundational principles. No autonomous action is executed without traceable human oversight and regulatory logic.",
+      "title": "Sorumlu Zeka",
+      "description": "Finansal analitikte Yapay Zeka'nın sorumlu kullanımına kararlıyız. Tüm modeller, temel ilkeler olarak şeffaflık, tersine çevrilebilirlik ve denetlenebilirlik ile tasarlanmıştır. İzlenebilir insan gözetimi ve düzenleyici mantık olmadan hiçbir otonom eylem yürütülmez.",
       "accordion": {
-        "title": "Ethical framework:",
-        "text": "• Human-centered decision verification<br>• No opaque or unexplainable model outcomes<br>• Continuous monitoring for bias and data drift<br>• Internal ethics review board overseeing model updates"
+        "title": "Etik çerçeve:",
+        "text": "• İnsan merkezli karar doğrulama<br>• Opak veya açıklanamayan model çıktıları yok<br>• Önyargı ve veri kayması için sürekli izleme<br>• Model güncellemelerini denetleyen dahili etik inceleme kurulu"
       }
     },
     "contact": {
-      "title": "Contact Us",
-      "description": "For partnership inquiries, press relations, or regulatory coordination, please contact us at:<br><span class=\"email-link\">📧<a class=\"link\" href=\"mailto:support@tracenetai.com\">support@tracenetai.com</a></span> or use the secure contact form below.",
-      "note": "All communications are encrypted and reviewed under our data-protection framework."
+      "title": "Bize Ulaşın",
+      "description": "Ortaklık talepleri, basın ilişkileri veya düzenleyici koordinasyon için lütfen bizimle şu adresten iletişime geçin:<br><span class=\"email-link\">📧<a class=\"link\" href=\"mailto:support@tracenetsystems.com\">support@tracenetsystems.com</a></span> veya aşağıdaki güvenli iletişim formunu kullanın.",
+      "note": "Tüm iletişimler şifrelenir ve veri koruma çerçevemiz kapsamında incelenir."
     },
     "cta": {
-      "partnership": "Request Partnership",
-      "press": "Press Inquiries",
-      "regulatory": "Regulatory Coordination"
+      "partnership": "Ortaklık Talebi",
+      "press": "Basın Talepleri",
+      "regulatory": "Düzenleyici Koordinasyon"
     }
   },
   "privacy": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "This Privacy Policy explains how TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"our,\" or \"the Company\") collects, uses, protects, and discloses personal and financial data processed through our platform and related services.",
-    "intro2": "Our mission is to enable financial transparency and security through AI-driven data intelligence, while maintaining strict compliance with international data-protection and financial-regulatory laws.",
+    "lastUpdated": "Son Güncelleme: Ekim 2025",
+    "intro1": "Bu Gizlilik Politikası, TraceNet Systems Ltd. (\"TraceNet,\" \"biz,\" veya \"Şirket\") tarafından platformumuz ve ilgili hizmetlerimiz aracılığıyla işlenen kişisel ve finansal verilerin nasıl toplandığını, kullanıldığını, korunduğunu ve ifşa edildiğini açıklamaktadır.",
+    "intro2": "Misyonumuz, uluslararası veri koruma ve finansal düzenleyici yasalarla sıkı uyumluluğu sürdürürken, Yapay Zeka destekli veri istihbaratı aracılığıyla finansal şeffaflığı ve güvenliği sağlamaktır.",
     "sections": {
       "scope": {
-        "title": "1. Scope and Application",
-        "description1": "This Policy applies to all users of TraceNet's platform — including individuals, businesses, and institutional partners — and covers data processed through:",
-        "list1": "Our websites and web applications;",
-        "list2": "API integrations with banks, payment providers, and crypto exchanges;",
-        "list3": "Customer support, onboarding, and communication channels.",
-        "description2": "It also applies to employees, contractors, and affiliates acting on behalf of TraceNet in processing user data."
+        "title": "1. Kapsam ve Uygulama",
+        "description1": "Bu Politika, TraceNet'in platformunun tüm kullanıcıları (bireyler, işletmeler ve kurumsal ortaklar dahil) için geçerlidir ve şunlar aracılığıyla işlenen verileri kapsar:",
+        "list1": "Web sitelerimiz ve web uygulamalarımız;",
+        "list2": "Bankalar, ödeme sağlayıcılar ve kripto borsalarıyla API entegrasyonları;",
+        "list3": "Müşteri desteği, kayıt ve iletişim kanalları.",
+        "description2": "Aynı zamanda TraceNet adına kullanıcı verilerini işleyen çalışanlar, yükleniciler ve bağlı kuruluşlar için de geçerlidir."
       },
       "data": {
-        "title": "2. Data We Collect",
-        "description": "We collect only the data necessary to operate our services, ensure compliance, and improve system performance.",
+        "title": "2. Topladığımız Veriler",
+        "description": "Hizmetlerimizi işletmek, uyumluluğu sağlamak ve sistem performansını iyileştirmek için yalnızca gerekli verileri topluyoruz.",
         "userData": {
-          "title": "2.1 Data Provided by Users",
-          "list1": "Identity and contact details provided during compliance onboarding (e.g., full name, email address, institution, verification documents).",
-          "list2": "Account connection metadata (API keys, institution IDs — tokenized and encrypted).",
-          "list3": "User consent records and compliance declarations."
+          "title": "2.1 Kullanıcılar Tarafından Sağlanan Veriler",
+          "list1": "Uyumluluk kaydı sırasında sağlanan kimlik ve iletişim bilgileri (örneğin, tam ad, e-posta adresi, kurum, doğrulama belgeleri).",
+          "list2": "Hesap bağlantısı meta verileri (API anahtarları, kurum kimlikleri — jetonlu ve şifreli).",
+          "list3": "Kullanıcı rıza kayıtları ve uyumluluk beyanları."
         },
         "autoData": {
-          "title": "2.2 Data Collected Automatically",
-          "list1": "Technical information (IP address, device type, browser configuration, session time).",
-          "list2": "API call metadata and system performance logs.",
-          "list3": "Anonymized financial data retrieved via read-only connections."
+          "title": "2.2 Otomatik Olarak Toplanan Veriler",
+          "list1": "Teknik bilgiler (IP adresi, cihaz türü, tarayıcı yapılandırması, oturum süresi).",
+          "list2": "API çağrısı meta verileri ve sistem performansı günlükleri.",
+          "list3": "Salt okunur bağlantılar aracılığıyla alınan anonimleştirilmiş finansal veriler."
         },
         "sensitive": {
-          "title": "2.3 Sensitive Financial Data",
-          "text1": "When connecting with banks or exchanges, TraceNet retrieves only read-only transactional data.",
-          "text2": "We never store authorization credentials, passwords, or payment instruments."
+          "title": "2.3 Hassas Finansal Veriler",
+          "text1": "Bankalar veya borsalarla bağlantı kurarken, TraceNet yalnızca salt okunur işlem verilerini alır.",
+          "text2": "Yetkilendirme kimlik bilgilerini, şifreleri veya ödeme araçlarını asla saklamıyoruz."
         }
       },
       "usage": {
-        "title": "3. How We Use Data",
-        "description": "We use collected data to:",
-        "list1": "Operate, maintain, and improve the platform;",
-        "list2": "Analyze transaction activity and detect potential fraud or irregular behavior;",
-        "list3": "Generate anonymized analytical and compliance reports;",
-        "list4": "Communicate with users and provide technical or regulatory support;",
-        "list5": "Fulfil legal and anti-money-laundering (AML) obligations;",
-        "list6": "Enhance the accuracy of our AI-based analytical models.",
-        "note": "TraceNet does not sell or share data for marketing or advertising purposes."
+        "title": "3. Verileri Nasıl Kullanıyoruz",
+        "description": "Toplanan verileri şunlar için kullanıyoruz:",
+        "list1": "Platformu işletmek, sürdürmek ve iyileştirmek;",
+        "list2": "İşlem aktivitesini analiz etmek ve potansiyel dolandırıcılık veya düzensiz davranışı tespit etmek;",
+        "list3": "Anonimleştirilmiş analitik ve uyumluluk raporları oluşturmak;",
+        "list4": "Kullanıcılarla iletişim kurmak ve teknik veya düzenleyici destek sağlamak;",
+        "list5": "Yasal ve kara para aklamayı önleme (AML) yükümlülüklerini yerine getirmek;",
+        "list6": "Yapay Zeka tabanlı analitik modellerimizin doğruluğunu artırmak.",
+        "note": "TraceNet, verileri pazarlama veya reklam amaçlı satmaz veya paylaşmaz."
       },
       "legalBasis": {
-        "title": "4. Legal Basis for Processing",
-        "description": "Data is processed under one or more of the following legal bases:",
-        "list1": "User consent — explicit authorization to connect financial accounts or submit verification data;",
-        "list2": "Legitimate interest — fraud detection, data security, and service improvement;",
-        "list3": "Legal obligation — compliance with AML/KYC and data-retention laws;",
-        "list4": "Contractual necessity — enabling user access and platform functionality."
+        "title": "4. İşleme için Yasal Dayanak",
+        "description": "Veriler aşağıdaki yasal dayanaklardan bir veya daha fazlası altında işlenir:",
+        "list1": "Kullanıcı rızası — finansal hesapları bağlamak veya doğrulama verilerini göndermek için açık yetkilendirme;",
+        "list2": "Meşru menfaat — dolandırıcılık tespiti, veri güvenliği ve hizmet iyileştirme;",
+        "list3": "Yasal yükümlülük — AML/KYC ve veri saklama yasalarına uyumluluk;",
+        "list4": "Sözleşmesel gereklilik — kullanıcı erişimini ve platform işlevselliğini sağlama."
       },
       "retention": {
-        "title": "5. Data Retention",
-        "description": "Data is retained only for as long as necessary to:",
-        "list1": "Deliver platform functionality and services;",
-        "list2": "Comply with applicable financial regulations;",
-        "list3": "Resolve disputes or enforce contractual obligations.",
-        "note": "Once no longer required, data is securely deleted or irreversibly anonymized."
+        "title": "5. Veri Saklama",
+        "description": "Veriler yalnızca aşağıdaki süreler boyunca saklanır:",
+        "list1": "Platform işlevselliğini ve hizmetlerini sunmak;",
+        "list2": "Geçerli finansal düzenlemelere uymak;",
+        "list3": "Anlaşmazlıkları çözmek veya sözleşmesel yükümlülükleri uygulamak.",
+        "note": "Artık gerekmediğinde, veriler güvenli bir şekilde silinir veya geri döndürülemez şekilde anonimleştirilir."
       },
       "security": {
-        "title": "6. Data Security",
-        "description": "We employ advanced security measures to safeguard all user information:",
-        "list1": "AES-256 and TLS 1.3 encryption for data at rest and in transit;",
-        "list2": "Multi-region data hosting with restricted access controls;",
-        "list3": "Continuous penetration testing and vulnerability monitoring;",
-        "list4": "Immutable audit logs for all access and data operations.",
-        "note": "All integrations are read-only and compliant with ISO 27001, SOC 2 Type II, and Open Banking PSD2 standards."
+        "title": "6. Veri Güvenliği",
+        "description": "Tüm kullanıcı bilgilerini korumak için gelişmiş güvenlik önlemleri kullanıyoruz:",
+        "list1": "Hareket halindeki ve bekleyen veriler için AES-256 ve TLS 1.3 şifrelemesi;",
+        "list2": "Kısıtlı erişim kontrolleriyle çok bölgeli veri barındırma;",
+        "list3": "Sürekli sızma testi ve güvenlik açığı izleme;",
+        "list4": "Tüm erişim ve veri işlemleri için değişmez denetim günlükleri.",
+        "note": "Tüm entegrasyonlar salt okunurdur ve ISO 27001, SOC 2 Tip II ve Açık Bankacılık PSD2 standartlarına uyumludur."
       },
       "sharing": {
-        "title": "7. Data Sharing and Disclosure",
-        "description": "We share data only where strictly necessary and under secure, regulated conditions:",
-        "list1": "Financial institutions and exchanges — to process authorized analytical or recall/dispute requests.",
-        "list2": "Regulatory authorities — when legally required for compliance with AML, KYC, or supervisory obligations.",
-        "list3": "Infrastructure providers — for hosting, compliance monitoring, or auditing, under confidentiality agreements.",
-        "note": "TraceNet never discloses user data for commercial resale, behavioral profiling, or advertising."
+        "title": "7. Veri Paylaşımı ve İfşa",
+        "description": "Verileri yalnızca kesinlikle gerekli olduğunda ve güvenli, düzenlenmiş koşullar altında paylaşıyoruz:",
+        "list1": "Finansal kurumlar ve borsalar — yetkili analitik veya geri çağırma/itiraz taleplerini işlemek için.",
+        "list2": "Düzenleyici otoriteler — AML, KYC veya denetleyici yükümlülüklere uyum için yasal olarak gerektiğinde.",
+        "list3": "Altyapı sağlayıcıları — gizlilik anlaşmaları altında barındırma, uyumluluk izleme veya denetim için.",
+        "note": "TraceNet, kullanıcı verilerini asla ticari yeniden satış, davranışsal profilleme veya reklam amaçlı ifşa etmez."
       },
       "transfers": {
-        "title": "8. International Data Transfers",
-        "description": "Where data is transferred internationally, TraceNet applies appropriate safeguards, including:",
-        "list1": "Standard Contractual Clauses (SCCs) under GDPR;",
-        "list2": "Regional data storage for EU, UK, and Canadian users;",
-        "list3": "Encryption and pseudonymization prior to transfer.",
-        "note": "Our primary data-processing centers are located in the European Union, United Kingdom, Canada, and Israel."
+        "title": "8. Uluslararası Veri Transferleri",
+        "description": "Verilerin uluslararası olarak transfer edildiği durumlarda, TraceNet aşağıdaki uygun önlemleri uygular:",
+        "list1": "GDPR kapsamında Standart Sözleşme Maddeleri (SCC'ler);",
+        "list2": "AB, Birleşik Krallık ve Kanadalı kullanıcılar için bölgesel veri depolama;",
+        "list3": "Transferden önce şifreleme ve takma ad verme.",
+        "note": "Birincil veri işleme merkezlerimiz Avrupa Birliği, Birleşik Krallık, Kanada ve İsrail'de bulunmaktadır."
       },
       "rights": {
-        "title": "9. User Rights",
-        "description": "Under applicable privacy regulations (including GDPR and UK DPA 2018), users have the right to:",
-        "list1": "Access their personal data;",
-        "list2": "Request correction or deletion;",
-        "list3": "Restrict or object to processing;",
-        "list4": "Request data portability;",
-        "list5": "Withdraw consent at any time without affecting prior lawful processing.",
-        "note": "Requests can be submitted to privacy@tracenetsystems.com, and TraceNet will respond within 30 days of verification."
+        "title": "9. Kullanıcı Hakları",
+        "description": "Geçerli gizlilik düzenlemeleri (GDPR ve Birleşik Krallık DPA 2018 dahil) uyarınca, kullanıcılar aşağıdaki haklara sahiptir:",
+        "list1": "Kişisel verilerine erişme;",
+        "list2": "Düzeltme veya silme talep etme;",
+        "list3": "İşlemeyi kısıtlama veya itiraz etme;",
+        "list4": "Veri taşınabilirliği talep etme;",
+        "list5": "Önceki yasal işlemeyi etkilemeden herhangi bir zamanda rızayı geri çekme.",
+        "note": "Talepler privacy@tracenetsystems.com adresine gönderilebilir ve TraceNet, doğrulamadan sonra 30 gün içinde yanıt verecektir."
       },
       "cookies": {
-        "title": "10. Cookies and Tracking",
-        "description1": "Our website uses minimal cookies essential for functionality and analytics.",
-        "description2": "Detailed information on cookie types and consent management is available in our Cookie Policy."
+        "title": "10. Çerezler ve Takip",
+        "description1": "Web sitemiz, işlevsellik ve analitik için gerekli olan minimum çerezleri kullanır.",
+        "description2": "Çerez türleri ve rıza yönetimi hakkında ayrıntılı bilgi Çerez Politikamızda mevcuttur."
       },
       "dpo": {
-        "title": "11. Data Protection Officer (DPO)",
-        "description": "TraceNet has appointed a Data Protection Officer responsible for oversight of privacy practices and compliance.",
-        "contact": "📧 DPO Contact: dpo@tracenetsystems.com",
-        "address": "📍 Address: TraceNet Systems Ltd., 14 HaGefen St., Ramat Gan, Israel"
+        "title": "11. Veri Koruma Görevlisi (DPO)",
+        "description": "TraceNet, gizlilik uygulamalarının ve uyumluluğun denetiminden sorumlu bir Veri Koruma Görevlisi atamıştır.",
+        "contact": "📧 DPO İletişim: dpo@tracenetsystems.com",
+        "address": "📍 Adres: TraceNet Systems Ltd., 14 HaGefen St., Ramat Gan, İsrail"
       },
       "updates": {
-        "title": "12. Updates to This Policy",
-        "description1": "This Policy may be updated periodically to reflect changes in regulation, technology, or corporate operations.",
-        "description2": "Revisions will be posted on this page with the updated \"Last Modified\" date.",
-        "description3": "For material updates, users will be notified via email or in-platform alert."
+        "title": "12. Bu Politikadaki Güncellemeler",
+        "description1": "Bu Politika, düzenlemedeki, teknolojideki veya kurumsal operasyonlardaki değişiklikleri yansıtmak için periyodik olarak güncellenebilir.",
+        "description2": "Revizyonlar, güncellenmiş \"Son Güncelleme\" tarihiyle birlikte bu sayfada yayınlanacaktır.",
+        "description3": "Önemli güncellemeler için kullanıcılar e-posta veya platform içi uyarı yoluyla bilgilendirilecektir."
       },
       "contact": {
-        "title": "13. Contact",
-        "description": "For any questions, privacy concerns, or regulatory correspondence, please contact:",
+        "title": "13. İletişim",
+        "description": "Herhangi bir soru, gizlilik endişesi veya düzenleyici yazışma için lütfen iletişime geçin:",
         "email": "📧 privacy@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
-        "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
+        "address": "14 HaGefen Caddesi, Ramat Gan, 5252174, İsrail",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
-        "compliantList": "GDPR (2016/679), UK DPA 2018, CCPA, AMLD6, ISO 27001, SOC 2 Type II, PCI DSS, Open Banking PSD2."
+        "compliantLabel": "✅ Uyumlu olduğu standartlar:",
+        "compliantList": "GDPR (2016/679), UK DPA 2018, CCPA, AMLD6, ISO 27001, SOC 2 Tip II, PCI DSS, Open Banking PSD2."
       }
     }
   },
   "cookiePolicy": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "This Cookie Policy explains how TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"our,\" or \"us\") uses cookies and similar technologies on our websites and web applications.",
-    "intro2": "It should be read together with our Privacy Policy, which explains how we collect, process, and protect your personal data.",
+    "lastUpdated": "Son Güncelleme: Ekim 2025",
+    "intro1": "Bu Çerez Politikası, TraceNet Systems Ltd. (\"TraceNet,\" \"biz,\" veya \"Şirket\") tarafından web sitelerimizde ve web uygulamalarımızda çerezlerin ve benzer teknolojilerin nasıl kullanıldığını açıklamaktadır.",
+    "intro2": "Kişisel verilerinizi nasıl topladığımızı, işlediğimizi ve koruduğumuzu açıklayan Gizlilik Politikamızla birlikte okunmalıdır.",
     "sections": {
       "what": {
-        "title": "1. What Are Cookies",
-        "text1": "Cookies are small text files that are stored on your device (computer, tablet, or smartphone) when you visit a website.",
-        "text2": "They help websites recognize your device, remember your preferences, and improve your user experience.",
-        "text3": "Cookies may also be used for analytics, performance tracking, and — where permitted — marketing and advertising purposes."
+        "title": "1. Çerezler Nedir",
+        "text1": "Çerezler, bir web sitesini ziyaret ettiğinizde cihazınızda (bilgisayar, tablet veya akıllı telefon) depolanan küçük metin dosyalarıdır.",
+        "text2": "Web sitelerinin cihazınızı tanımasına, tercihlerinizi hatırlamasına ve kullanıcı deneyiminizi iyileştirmesine yardımcı olurlar.",
+        "text3": "Çerezler ayrıca analitik, performans takibi ve — izin verildiğinde — pazarlama ve reklam amaçlı da kullanılabilir."
       },
       "usage": {
-        "title": "2. How We Use Cookies",
-        "description": "We use cookies to:",
-        "list1": "Ensure the proper functioning of our website;",
-        "list2": "Remember user preferences and language settings;",
-        "list3": "Improve the performance, speed, and usability of our site;",
-        "list4": "Collect anonymous usage statistics to help us improve our services;",
-        "list5": "Support security and compliance monitoring;",
-        "list6": "(If consented) enable analytics and advertising integrations.",
-        "note": "We do not use cookies to store sensitive financial or personal information."
+        "title": "2. Çerezleri Nasıl Kullanıyoruz",
+        "description": "Çerezleri şunlar için kullanıyoruz:",
+        "list1": "Web sitemizin düzgün çalışmasını sağlamak;",
+        "list2": "Kullanıcı tercihlerini ve dil ayarlarını hatırlamak;",
+        "list3": "Sitemizin performansını, hızını ve kullanılabilirliğini iyileştirmek;",
+        "list4": "Hizmetlerimizi geliştirmemize yardımcı olmak için anonim kullanım istatistikleri toplamak;",
+        "list5": "Güvenlik ve uyumluluk izlemeyi desteklemek;",
+        "list6": "(Rıza verilirse) analitik ve reklam entegrasyonlarını etkinleştirmek.",
+        "note": "Hassas finansal veya kişisel bilgileri saklamak için çerez kullanmıyoruz."
       },
       "types": {
-        "title": "3. Types of Cookies We Use",
+        "title": "3. Kullandığımız Çerez Türleri",
         "necessary": {
-          "title": "3.1 Strictly Necessary Cookies",
-          "text1": "These cookies are essential for the website to function properly and cannot be disabled.",
-          "text2": "They include session identifiers, authentication tokens, and security-related cookies.",
-          "text3": "Examples:",
-          "list1": "Session management and navigation;",
-          "list2": "User authentication and access control;",
-          "list3": "Compliance and consent tracking."
+          "title": "3.1 Kesinlikle Gerekli Çerezler",
+          "text1": "Bu çerezler, web sitesinin düzgün çalışması için zorunludur ve devre dışı bırakılamaz.",
+          "text2": "Oturum tanımlayıcılarını, kimlik doğrulama belirteçlerini ve güvenlikle ilgili çerezleri içerirler.",
+          "text3": "Örnekler:",
+          "list1": "Oturum yönetimi ve navigasyon;",
+          "list2": "Kullanıcı kimlik doğrulaması ve erişim kontrolü;",
+          "list3": "Uyumluluk ve rıza takibi."
         },
         "functional": {
-          "title": "3.2 Functional Cookies",
-          "text1": "These cookies enable enhanced functionality and personalization, such as remembering your settings or language preferences.",
-          "text2": "They may be set by us or by third-party tools integrated into our platform."
+          "title": "3.2 Fonksiyonel Çerezler",
+          "text1": "Bu çerezler, ayarlarınızı veya dil tercihlerinizi hatırlama gibi geliştirilmiş işlevsellik ve kişiselleştirmeyi mümkün kılar.",
+          "text2": "Bunlar bizim tarafımızdan veya platformumuza entegre edilmiş üçüncü taraf araçlar tarafından ayarlanabilir."
         },
         "analytics": {
-          "title": "3.3 Analytics and Performance Cookies",
-          "text1": "These cookies allow us to measure traffic and usage patterns.",
-          "text2": "The information is aggregated and anonymous, helping us understand how visitors interact with our website.",
-          "text3": "Examples of third-party analytics tools (if enabled):",
+          "title": "3.3 Analitik ve Performans Çerezleri",
+          "text1": "Bu çerezler, trafiği ve kullanım kalıplarını ölçmemize olanak tanır.",
+          "text2": "Bilgiler toplu ve anonimdir, ziyaretçilerin web sitemizle nasıl etkileşim kurduğunu anlamamıza yardımcı olur.",
+          "text3": "Üçüncü taraf analitik araçlarına örnekler (etkinleştirilirse):",
           "list1": "Google Analytics",
           "list2": "Meta (Facebook) Pixel",
-          "list3": "Hotjar or equivalent performance analytics tools",
-          "note": "You may choose to disable these cookies without affecting essential functionality."
+          "list3": "Hotjar veya eşdeğer performans analitik araçları",
+          "note": "Bu çerezleri temel işlevselliği etkilemeden devre dışı bırakmayı seçebilirsiniz."
         },
         "marketing": {
-          "title": "3.4 Marketing and Tracking Cookies (Optional)",
-          "text1": "These cookies may be used to deliver relevant ads or track campaign performance.",
-          "text2": "They are only activated after your explicit consent.",
-          "text3": "We currently use minimal or no marketing cookies, but we include this category for transparency."
+          "title": "3.4 Pazarlama ve Takip Çerezleri (İsteğe Bağlı)",
+          "text1": "Bu çerezler, ilgili reklamları sunmak veya kampanya performansını takip etmek için kullanılabilir.",
+          "text2": "Yalnızca açık rızanızdan sonra etkinleştirilirler.",
+          "text3": "Şu anda minimum veya hiç pazarlama çerezi kullanmıyoruz, ancak şeffaflık için bu kategoriyi dahil ediyoruz."
         }
       },
       "duration": {
-        "title": "4. Duration of Cookies",
-        "description": "Cookies may be either:",
-        "list1": "Session cookies — deleted when you close your browser; or",
-        "list2": "Persistent cookies — remain on your device until they expire or are manually deleted.",
-        "note": "We retain cookies only as long as necessary for their intended purpose, usually between 1 day and 12 months."
+        "title": "4. Çerezlerin Süresi",
+        "description": "Çerezler şunlar olabilir:",
+        "list1": "Oturum çerezleri — tarayıcınızı kapattığınızda silinir; veya",
+        "list2": "Kalıcı çerezler — süreleri dolana veya manuel olarak silinene kadar cihazınızda kalır.",
+        "note": "Çerezleri, amaçlanan amaçları için yalnızca gerektiği sürece, genellikle 1 gün ile 12 ay arasında saklarız."
       },
       "thirdParty": {
-        "title": "5. Third-Party Cookies",
-        "description1": "Some cookies may be placed by trusted third-party providers that supply analytics, performance, or compliance tools.",
-        "description2": "These providers act as independent data controllers for their respective services.",
-        "description3": "Examples include:",
-        "list1": "Google Ireland Ltd. (Google Analytics, Tag Manager)",
-        "list2": "Meta Platforms Inc. (Meta Pixel for campaign attribution)",
-        "list3": "Cloudflare Inc. (security and performance optimization)",
-        "note": "Each third party has its own privacy and cookie policies, which we encourage users to review."
+        "title": "5. Üçüncü Taraf Çerezleri",
+        "description1": "Bazı çerezler, analitik, performans veya uyumluluk araçları sağlayan güvenilir üçüncü taraf sağlayıcılar tarafından yerleştirilebilir.",
+        "description2": "Bu sağlayıcılar, ilgili hizmetleri için bağımsız veri denetleyicileri olarak hareket eder.",
+        "description3": "Örnekler şunları içerir:",
+        "list1": "Google Ireland Ltd. (Google Analytics, Etiket Yöneticisi)",
+        "list2": "Meta Platforms Inc. (Kampanya ilişkilendirmesi için Meta Pixel)",
+        "list3": "Cloudflare Inc. (güvenlik ve performans optimizasyonu)",
+        "note": "Her üçüncü tarafın kendi gizlilik ve çerez politikaları vardır, kullanıcıların bunları incelemesini öneririz."
       },
       "manage": {
-        "title": "6. Managing Cookie Preferences",
-        "description": "You can manage or withdraw your consent to non-essential cookies at any time through:",
-        "list1": "The cookie consent banner displayed when you first visit our site;",
-        "list2": "The \"Manage Preferences\" link available in the footer of our website;",
-        "list3": "Your browser's cookie settings.",
-        "browserTitle": "Browser Settings:",
-        "browserText1": "Most browsers allow you to block or delete cookies.",
-        "browserText2": "You can find detailed instructions in the \"Help\" section of your browser.",
-        "note": "Please note: disabling essential cookies may affect the functionality of our website."
+        "title": "6. Çerez Tercihlerini Yönetme",
+        "description": "Temel olmayan çerezlere ilişkin rızanızı istediğiniz zaman şunlar aracılığıyla yönetebilir veya geri çekebilirsiniz:",
+        "list1": "Sitemizi ilk ziyaret ettiğinizde görüntülenen çerez rıza afişi;",
+        "list2": "Web sitemizin altbilgisinde bulunan \"Tercihleri Yönet\" bağlantısı;",
+        "list3": "Tarayıcınızın çerez ayarları.",
+        "browserTitle": "Tarayıcı Ayarları:",
+        "browserText1": "Çoğu tarayıcı, çerezleri engellemenize veya silmenize olanak tanır.",
+        "browserText2": "Ayrıntılı talimatları tarayıcınızın \"Yardım\" bölümünde bulabilirsiniz.",
+        "note": "Lütfen dikkat: temel çerezleri devre dışı bırakmak, web sitemizin işlevselliğini etkileyebilir."
       },
       "changes": {
-        "title": "7. Changes to This Policy",
-        "description1": "We may update this Cookie Policy from time to time to reflect changes in technology, regulation, or operational needs.",
-        "description2": "All updates will be posted on this page with the updated \"Last Modified\" date.",
-        "description3": "Significant changes will be communicated through a website notice or banner."
+        "title": "7. Bu Politikadaki Değişiklikler",
+        "description1": "Teknoloji, düzenleme veya operasyonel ihtiyaçlardaki değişiklikleri yansıtmak için bu Çerez Politikasını zaman zaman güncelleyebiliriz.",
+        "description2": "Tüm güncellemeler, güncellenmiş \"Son Güncelleme\" tarihiyle birlikte bu sayfada yayınlanacaktır.",
+        "description3": "Önemli değişiklikler, bir web sitesi bildirimi veya afişi aracılığıyla iletilecektir."
       },
       "contact": {
-        "title": "8. Contact",
-        "description": "If you have any questions about this Cookie Policy or our data practices, please contact:",
+        "title": "8. İletişim",
+        "description": "Bu Çerez Politikası veya veri uygulamalarımız hakkında herhangi bir sorunuz varsa, lütfen iletişime geçin:",
         "email": "📧 privacy@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
-        "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
+        "address": "14 HaGefen Caddesi, Ramat Gan, 5252174, İsrail",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
-        "compliantList": "GDPR (2016/679), ePrivacy Directive, UK DPA 2018, CCPA, and Israeli Privacy Protection Law (PPL)."
+        "compliantLabel": "✅ Uyumlu olduğu standartlar:",
+        "compliantList": "GDPR (2016/679), ePrivacy Direktifi, UK DPA 2018, CCPA ve İsrail Gizlilik Koruma Yasası (PPL)."
       }
     }
   },
   "terms": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "These Terms of Use (\"Terms\") govern your access to and use of the platform, products, and services (collectively, the \"Platform\") provided by TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"us,\" or \"our\").",
-    "intro2": "By accessing or using the Platform, you agree to be bound by these Terms. If you do not agree, you may not use the Platform.",
+    "lastUpdated": "Son Güncelleme: Ekim 2025",
+    "intro1": "Bu Kullanım Koşulları (\"Koşullar\"), TraceNet Systems Ltd. (\"TraceNet,\" \"biz,\" veya \"Şirket\") tarafından sağlanan platforma, ürünlere ve hizmetlere (topluca \"Platform\") erişiminizi ve kullanımınızı yönetir.",
+    "intro2": "Platforma erişerek veya Platformu kullanarak, bu Koşullara bağlı kalmayı kabul edersiniz. Kabul etmiyorsanız, Platformu kullanamazsınız.",
     "sections": {
       "about": {
-        "title": "1. About TraceNet",
-        "text1": "TraceNet Systems Ltd. is a technology company that provides AI-driven financial analytics and compliance infrastructure.",
-        "text2": "The Platform enables users to analyze transaction data, identify irregularities, and generate reports through read-only integrations with banks, payment systems, and digital-asset exchanges.",
-        "text3": "TraceNet is not a financial institution, broker, or money-service business.",
-        "text4": "We do not store, transfer, or control user funds."
+        "title": "1. TraceNet Hakkında",
+        "text1": "TraceNet Systems Ltd., Yapay Zeka destekli finansal analiz ve uyumluluk altyapısı sağlayan bir teknoloji şirketidir.",
+        "text2": "Platform, kullanıcıların bankalar, ödeme sistemleri ve dijital varlık borsalarıyla salt okunur entegrasyonlar aracılığıyla işlem verilerini analiz etmelerini, usulsüzlükleri tespit etmelerini ve raporlar oluşturmalarını sağlar.",
+        "text3": "TraceNet bir finansal kuruluş, aracı veya para hizmeti işletmesi değildir.",
+        "text4": "Kullanıcı fonlarını saklamayız, transfer etmeyiz veya kontrol etmeyiz."
       },
       "eligibility": {
-        "title": "2. Eligibility",
-        "description": "By using the Platform, you represent and warrant that:",
-        "list1": "You are at least 18 years old or of legal age in your jurisdiction;",
-        "list2": "You have the authority to enter into these Terms;",
-        "list3": "Your use of the Platform complies with all applicable laws, including financial and data-protection regulations.",
-        "note": "Access may be restricted or revoked if compliance obligations are not met or if false information is provided."
+        "title": "2. Uygunluk",
+        "description": "Platformu kullanarak, şunları beyan ve garanti edersiniz:",
+        "list1": "En az 18 yaşındasınız veya yargı bölgenizde yasal reşitlik yaşındasınız;",
+        "list2": "Bu Koşulları kabul etme yetkisine sahipsiniz;",
+        "list3": "Platformu kullanımınız, finansal ve veri koruma düzenlemeleri dahil olmak üzere tüm geçerli yasalara uygundur.",
+        "note": "Uyumluluk yükümlülükleri yerine getirilmezse veya yanlış bilgi verilirse erişim kısıtlanabilir veya iptal edilebilir."
       },
       "services": {
-        "title": "3. Description of Services",
-        "description": "The Platform provides:",
-        "list1": "AI-based transaction analysis and risk scoring;",
-        "list2": "Integration with financial and crypto institutions via official APIs;",
-        "list3": "Automated generation of compliance and audit reports;",
-        "list4": "Optional automated initiation of chargeback, recall, or dispute requests when authorized by the user.",
-        "note1": "All actions are performed in read-only mode.",
-        "note2": "TraceNet does not execute or authorize financial transactions on behalf of users."
+        "title": "3. Hizmetlerin Açıklaması",
+        "description": "Platform şunları sağlar:",
+        "list1": "Yapay Zeka tabanlı işlem analizi ve risk puanlaması;",
+        "list2": "Resmi API'ler aracılığıyla finansal ve kripto kurumlarıyla entegrasyon;",
+        "list3": "Uyumluluk ve denetim raporlarının otomatik olarak oluşturulması;",
+        "list4": "Kullanıcı tarafından yetkilendirildiğinde ters ibraz, geri çağırma veya itiraz taleplerinin isteğe bağlı otomatik başlatılması.",
+        "note1": "Tüm eylemler salt okunur modda gerçekleştirilir.",
+        "note2": "TraceNet, kullanıcılar adına finansal işlemleri yürütmez veya yetkilendirmez."
       },
       "responsibilities": {
-        "title": "4. User Responsibilities",
-        "description": "Users agree to:",
-        "list1": "Provide accurate and complete information during onboarding;",
-        "list2": "Maintain confidentiality of access credentials and API keys;",
-        "list3": "Use the Platform only for lawful and authorized purposes;",
-        "list4": "Not misuse, resell, or reverse-engineer any part of the Platform;",
-        "list5": "Immediately notify TraceNet of any unauthorized access or security incident.",
-        "note": "Users are solely responsible for actions performed under their credentials."
+        "title": "4. Kullanıcı Sorumlulukları",
+        "description": "Kullanıcılar şunları kabul eder:",
+        "list1": "Kayıt sırasında doğru ve eksiksiz bilgi sağlamak;",
+        "list2": "Erişim kimlik bilgilerinin ve API anahtarlarının gizliliğini korumak;",
+        "list3": "Platformu yalnızca yasal ve yetkili amaçlar için kullanmak;",
+        "list4": "Platformun herhangi bir bölümünü kötüye kullanmamak, yeniden satmamak veya tersine mühendislik yapmamak;",
+        "list5": "Yetkisiz erişim veya güvenlik olaylarını derhal TraceNet'e bildirmek.",
+        "note": "Kullanıcılar, kimlik bilgileri altında gerçekleştirilen eylemlerden yalnızca kendileri sorumludur."
       },
       "compliance": {
-        "title": "5. Compliance Onboarding",
-        "description1": "To access advanced features or API integrations, users must complete a short compliance onboarding process, as required by international financial regulators.",
-        "description2": "This process may include:",
-        "list1": "Identity and institutional verification (KYC/KYB);",
-        "list2": "Acceptance of TraceNet's compliance terms;",
-        "list3": "Confirmation of lawful data usage and purpose.",
-        "note": "Access tokens are issued only upon successful completion of this process."
+        "title": "5. Uyumluluk Kayıt Süreci",
+        "description1": "Gelişmiş özelliklere veya API entegrasyonlarına erişmek için, kullanıcıların uluslararası finansal düzenleyiciler tarafından gerektiği şekilde kısa bir uyumluluk kayıt sürecini tamamlaması gerekir.",
+        "description2": "Bu süreç şunları içerebilir:",
+        "list1": "Kimlik ve kurumsal doğrulama (KYC/KYB);",
+        "list2": "TraceNet'in uyumluluk şartlarının kabulü;",
+        "list3": "Yasal veri kullanımı ve amacının onaylanması.",
+        "note": "Erişim belirteçleri yalnızca bu sürecin başarıyla tamamlanmasından sonra verilir."
       },
       "ip": {
-        "title": "6. Intellectual Property",
-        "description1": "All intellectual property rights in the Platform, including software, models, text, design, and documentation, are owned by TraceNet Systems Ltd. or its licensors.",
-        "description2": "Users may not:",
-        "list1": "Copy, reproduce, or distribute any part of the Platform;",
-        "list2": "Use TraceNet's trademarks or branding without written permission;",
-        "list3": "Modify, decompile, or reverse-engineer the Platform or its AI models.",
-        "note": "All rights not expressly granted under these Terms are reserved by TraceNet."
+        "title": "6. Fikri Mülkiyet",
+        "description1": "Yazılım, modeller, metin, tasarım ve belgeler dahil olmak üzere Platformdaki tüm fikri mülkiyet hakları TraceNet Systems Ltd. veya lisans verenlerine aittir.",
+        "description2": "Kullanıcılar şunları yapamaz:",
+        "list1": "Platformun herhangi bir bölümünü kopyalamak, çoğaltmak veya dağıtmak;",
+        "list2": "Yazılı izin almadan TraceNet'in ticari markalarını veya markasını kullanmak;",
+        "list3": "Platformu veya Yapay Zeka modellerini değiştirmek, kaynak koda dönüştürmek veya tersine mühendislik yapmak.",
+        "note": "Bu Koşullar kapsamında açıkça verilmeyen tüm haklar TraceNet tarafından saklıdır."
       },
       "dataUse": {
-        "title": "7. Data Usage and Privacy",
-        "description1": "All data processed through the Platform is handled in accordance with the Privacy Policy.",
-        "description2": "Users acknowledge and agree that:",
-        "list1": "Data access is limited to read-only connections;",
-        "list2": "Data may be analyzed for risk, compliance, and operational improvement;",
-        "list3": "TraceNet may store metadata and anonymized insights for model optimization;",
-        "list4": "All data handling complies with GDPR, AML, and other applicable laws.",
-        "note": "Users retain ownership of their input data and analytical outputs."
+        "title": "7. Veri Kullanımı ve Gizlilik",
+        "description1": "Platform aracılığıyla işlenen tüm veriler, Gizlilik Politikasına uygun olarak ele alınır.",
+        "description2": "Kullanıcılar şunları kabul ve taahhüt eder:",
+        "list1": "Veri erişimi salt okunur bağlantılarla sınırlıdır;",
+        "list2": "Veriler risk, uyumluluk ve operasyonel iyileştirme için analiz edilebilir;",
+        "list3": "TraceNet, model optimizasyonu için meta verileri ve anonimleştirilmiş içgörüleri saklayabilir;",
+        "list4": "Tüm veri işleme GDPR, AML ve diğer geçerli yasalara uygundur.",
+        "note": "Kullanıcılar, girdi verilerinin ve analitik çıktılarının sahipliğini korur."
       },
       "security": {
-        "title": "8. Security",
-        "text1": "TraceNet implements industry-standard security protocols, including encryption, access control, and continuous monitoring.",
-        "text2": "However, no system is completely secure, and users acknowledge the inherent risks of data transmission over the internet.",
-        "text3": "TraceNet will not be liable for unauthorized access or incidents beyond its reasonable control."
+        "title": "8. Güvenlik",
+        "text1": "TraceNet, şifreleme, erişim kontrolü ve sürekli izleme dahil olmak üzere endüstri standardı güvenlik protokollerini uygular.",
+        "text2": "Ancak, hiçbir sistem tamamen güvenli değildir ve kullanıcılar, internet üzerinden veri iletiminin doğal risklerini kabul eder.",
+        "text3": "TraceNet, makul kontrolü dışındaki yetkisiz erişim veya olaylardan sorumlu olmayacaktır."
       },
       "availability": {
-        "title": "9. Service Availability",
-        "description": "The Platform is provided on an \"as-is\" and \"as-available\" basis.",
-        "note": "TraceNet reserves the right to:",
-        "list1": "Modify, suspend, or discontinue any feature or service;",
-        "list2": "Perform scheduled or unscheduled maintenance;",
-        "list3": "Restrict access when required by law or regulator.",
-        "note2": "TraceNet shall not be liable for downtime, delays, or data unavailability."
+        "title": "9. Hizmet Kullanılabilirliği",
+        "description": "Platform, \"olduğu gibi\" ve \"mevcut olduğu gibi\" esasına göre sağlanır.",
+        "note": "TraceNet şunları yapma hakkını saklı tutar:",
+        "list1": "Herhangi bir özelliği veya hizmeti değiştirmek, askıya almak veya durdurmak;",
+        "list2": "Planlı veya plansız bakım gerçekleştirmek;",
+        "list3": "Yasa veya düzenleyici tarafından gerektiğinde erişimi kısıtlamak.",
+        "note2": "TraceNet, kesinti, gecikme veya veri kullanılamaması durumundan sorumlu olmayacaktır."
       },
       "prohibited": {
-        "title": "10. Prohibited Activities",
-        "description": "Users may not:",
-        "list1": "Attempt to gain unauthorized access to the Platform or its data;",
-        "list2": "Upload or transmit malicious code or data;",
-        "list3": "Use the Platform for unlawful, deceptive, or fraudulent activity;",
-        "list4": "Interfere with network operations or system integrity;",
-        "list5": "Circumvent security or authentication mechanisms.",
-        "note": "Violation of these terms may result in immediate suspension or termination of access."
+        "title": "10. Yasaklanmış Faaliyetler",
+        "description": "Kullanıcılar şunları yapamaz:",
+        "list1": "Platforma veya verilerine yetkisiz erişim sağlamaya çalışmak;",
+        "list2": "Kötü amaçlı kod veya veri yüklemek veya iletmek;",
+        "list3": "Platformu yasa dışı, aldatıcı veya hileli faaliyetler için kullanmak;",
+        "list4": "Ağ operasyonlarına veya sistem bütünlüğüne müdahale etmek;",
+        "list5": "Güvenlik veya kimlik doğrulama mekanizmalarını atlatmak.",
+        "note": "Bu koşulların ihlali, erişimin derhal askıya alınması veya sonlandırılmasıyla sonuçlanabilir."
       },
       "liability": {
-        "title": "11. Limitation of Liability",
-        "text1": "To the maximum extent permitted by law:",
-        "text2": "TraceNet shall not be liable for any indirect, incidental, consequential, or punitive damages, including loss of profits, data, or goodwill, arising from or related to the use of the Platform.",
-        "text3": "TraceNet's total liability shall not exceed the amount paid by the user (if any) in the preceding twelve months."
+        "title": "11. Sorumluluğun Sınırlandırılması",
+        "text1": "Yasanın izin verdiği maksimum ölçüde:",
+        "text2": "TraceNet, Platformun kullanımından kaynaklanan veya bununla ilgili kar kaybı, veri veya itibar kaybı dahil olmak üzere herhangi bir dolaylı, arızi, sonuç olarak ortaya çıkan veya cezai zarardan sorumlu olmayacaktır.",
+        "text3": "TraceNet'in toplam sorumluluğu, önceki on iki ay içinde kullanıcı tarafından ödenen miktarı (varsa) aşmayacaktır."
       },
       "indemnification": {
-        "title": "12. Indemnification",
-        "description": "Users agree to indemnify and hold harmless TraceNet Systems Ltd., its affiliates, and employees from any claims, damages, or expenses arising out of:",
-        "list1": "Violation of these Terms;",
-        "list2": "Misuse of the Platform;",
-        "list3": "Breach of applicable law or regulation."
+        "title": "12. Tazminat",
+        "description": "Kullanıcılar, TraceNet Systems Ltd.'yi, bağlı kuruluşlarını ve çalışanlarını, aşağıdakilerden kaynaklanan her türlü talep, zarar veya masraftan tazmin etmeyi ve zarar görmemesini sağlamayı kabul eder:",
+        "list1": "Bu Koşulların ihlali;",
+        "list2": "Platformun kötüye kullanılması;",
+        "list3": "Geçerli yasa veya düzenlemelerin ihlali."
       },
       "termination": {
-        "title": "13. Termination",
-        "description": "TraceNet may suspend or terminate user access immediately if:",
-        "list1": "The user violates these Terms or compliance obligations;",
-        "list2": "The Platform is misused for illegal or non-compliant activity;",
-        "list3": "Required by a financial regulator or court order.",
-        "note": "Upon termination, all rights to use the Platform cease immediately."
+        "title": "13. Fesih",
+        "description": "TraceNet, aşağıdaki durumlarda kullanıcı erişimini derhal askıya alabilir veya sonlandırabilir:",
+        "list1": "Kullanıcı bu Koşulları veya uyumluluk yükümlülüklerini ihlal ederse;",
+        "list2": "Platform yasa dışı veya uyumsuz faaliyetler için kötüye kullanılırsa;",
+        "list3": "Bir finansal düzenleyici veya mahkeme emri tarafından istenirse.",
+        "note": "Fesih üzerine, Platformu kullanma hakları derhal sona erer."
       },
       "changes": {
-        "title": "14. Changes to These Terms",
-        "text1": "TraceNet may update these Terms periodically.",
-        "text2": "Revised Terms will be posted on this page with the updated \"Last Modified\" date.",
-        "text3": "Continued use of the Platform after updates constitutes acceptance of the revised Terms."
+        "title": "14. Bu Koşullarda Yapılan Değişiklikler",
+        "text1": "TraceNet, bu Koşulları periyodik olarak güncelleyebilir.",
+        "text2": "Revize edilen Koşullar, güncellenmiş \"Son Güncelleme\" tarihiyle birlikte bu sayfada yayınlanacaktır.",
+        "text3": "Güncellemelerden sonra Platformun kullanılmaya devam edilmesi, revize edilen Koşulların kabul edildiği anlamına gelir."
       },
       "governingLaw": {
-        "title": "15. Governing Law and Jurisdiction",
-        "text1": "These Terms are governed by and construed under the laws of Israel, without regard to conflict-of-law principles.",
-        "text2": "Any dispute arising under these Terms shall be subject to the exclusive jurisdiction of the courts of Tel Aviv District, Israel."
+        "title": "15. Geçerli Kanun ve Yargı Yetkisi",
+        "text1": "Bu Koşullar, kanunlar ihtilafı ilkelerine bakılmaksızın, İsrail yasalarına tabi olacak ve bu yasalara göre yorumlanacaktır.",
+        "text2": "Bu Koşullardan kaynaklanan herhangi bir anlaşmazlık, İsrail Tel Aviv Bölgesi mahkemelerinin münhasır yargı yetkisine tabi olacaktır."
       },
       "contact": {
-        "title": "16. Contact Information",
-        "description": "For any questions, notices, or legal correspondence regarding these Terms, please contact:",
+        "title": "16. İletişim Bilgileri",
+        "description": "Bu Koşullarla ilgili herhangi bir soru, bildirim veya yasal yazışma için lütfen iletişime geçin:",
         "email": "📧 legal@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
-        "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
+        "address": "14 HaGefen Caddesi, Ramat Gan, 5252174, İsrail",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
-        "compliantList": "GDPR (2016/679), AMLD6, Open Banking PSD2, ISO 27001, SOC 2 Type II, PCI DSS, and relevant Israeli corporate law."
+        "compliantLabel": "✅ Uyumlu olduğu standartlar:",
+        "compliantList": "GDPR (2016/679), AMLD6, Open Banking PSD2, ISO 27001, SOC 2 Tip II, PCI DSS ve ilgili İsrail şirketler hukuku."
       }
     }
   },
   "th": {
-    "title": "Thank you for your registration!",
-    "subtitle": "Our colleague will contact you soon",
-    "button": "Back to Home"
+    "title": "Kaydınız için teşekkür ederiz!",
+    "subtitle": "Meslektaşımız yakında sizinle iletişime geçecektir",
+    "button": "Ana Sayfaya Geri Dön"
   },
   "contact": {
-    "title": "Technology That Strengthens Financial Integrity",
-    "subtitle": "Built on Google Gemini. Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
+    "title": "Finansal Bütünlüğü Güçlendiren Teknoloji",
+    "subtitle": "Google Gemini üzerine inşa edilmiştir. Küresel finansal ekosistemi daha şeffaf, akıllı ve hesap verebilir hale getirmek için tasarlanmıştır.",
     "form": {
-      "title": "Fill in your details below",
-      "firstName": "First Name*",
-      "lastName": "Last Name*",
-      "email": "Email*",
-      "phone": "Phone*",
-      "message": "Anything we should know before our call?",
-      "privacy": "By submitting this form I accept the <a href=\"privacy-policy.html\">privacy policy</a> terms",
-      "submit": "Explore the Architecture"
+      "title": "Aşağıdaki bilgilerinizi doldurun",
+      "firstName": "Ad*",
+      "lastName": "Soyad*",
+      "email": "E-posta*",
+      "phone": "Telefon*",
+      "message": "Aramadan önce bilmemiz gereken bir şey var mı?",
+      "privacy": "Bu formu göndererek <a href=\"privacy-policy.html\">gizlilik politikası</a> şartlarını kabul ediyorum",
+      "submit": "Mimarimizi Keşfet"
     }
   },
   "awards": {
-    "title": "Awards and Recognitions"
+    "title": "Ödüller ve Tanınmalar"
   },
   "footer": {
-    "description": "Built on Google Gemini.<br>Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
-    "contact": "Contact Us",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Use",
-    "cookie": "Cookie Policy",
-    "legal": "The analyses published within the scope of this service were prepared on behalf of Bridgewise Analytics Ltd (the \"Company\")."
+    "description": "Google Gemini üzerine inşa edilmiştir.<br>Küresel finansal ekosistemi daha şeffaf, akıllı ve hesap verebilir hale getirmek için tasarlanmıştır.",
+    "contact": "Bize Ulaşın",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları",
+    "cookie": "Çerez Politikası",
+    "legal": "Bu hizmet kapsamında yayınlanan analizler, Bridgewise Analytics Ltd (\"Şirket\") adına hazırlanmıştır."
   },
   "cookie": {
-    "title": "This website uses cookies to improve the user experience and analyze traffic.",
-    "description": "By clicking the “Continue” button or by continuing to use the website, you consent to the use of cookies in your browser. You can manage cookies at any time in your browser settings. For more information, please read our Privacy Policy, Cookie Policy, and User Agreement.",
-    "close": "Close",
-    "accept": "Continue"
+    "title": "Bu web sitesi, kullanıcı deneyimini iyileştirmek ve trafiği analiz etmek için çerezleri kullanır.",
+    "description": "“Devam Et” düğmesine tıklayarak veya web sitesini kullanmaya devam ederek, tarayıcınızda çerez kullanımına izin vermiş olursunuz. Çerezleri tarayıcı ayarlarınızdan istediğiniz zaman yönetebilirsiniz. Daha fazla bilgi için lütfen Gizlilik Politikamızı, Çerez Politikamızı ve Kullanıcı Sözleşmemizi okuyun.",
+    "close": "Kapat",
+    "accept": "Devam Et"
   }
 }
-

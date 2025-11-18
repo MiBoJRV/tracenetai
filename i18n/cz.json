@@ -1,727 +1,726 @@
 {
   "nav": {
-    "technology": "TECHNOLOGY",
-    "solutions": "SOLUTIONS",
-    "compliance": "COMPLIANCE & SECURITY",
-    "about": "ABOUT US",
-    "contact": "Contact us"
+    "technology": "TECHNOLOGIE",
+    "solutions": "ŘEŠENÍ",
+    "compliance": "SHODA S PŘEDPISY A ZABEZPEČENÍ",
+    "about": "O NÁS",
+    "contact": "Kontaktujte nás"
   },
   "banner": {
-    "title": "AI Infrastructure for Global Transaction Transparency",
-    "description": "Powered by Google Gemini technology and integrated with banks and crypto platforms worldwide, our system provides real-time visibility into fund movements, risk scoring, and automated compliance actions.",
-    "cta": "Explore the Technology"
+    "title": "AI Infrastruktura pro Globální Transakční Transparentnost",
+    "description": "Náš systém, poháněný technologií Google Gemini a integrovaný s bankami a krypto platformami po celém světě, poskytuje přehled o pohybu finančních prostředků v reálném čase, skórování rizik a automatizované regulační akce.",
+    "cta": "Prozkoumejte technologii"
   },
   "about": {
-    "title": "Understanding the Platform",
-    "paragraph1": "The system combines large-scale financial data modeling, behavioral analytics, and regulatory intelligence to interpret the flow of money across connected accounts and digital assets.",
-    "paragraph2": "It operates as a neutral analytical layer — securely connected to financial institutions through verified APIs, providing structured insight into every transaction chain and its associated risk."
+    "title": "Pochopení platformy",
+    "paragraph1": "Systém kombinuje modelování finančních dat ve velkém měřítku, behaviorální analytiku a regulační zpravodajství, aby interpretoval tok peněz napříč propojenými účty a digitálními aktivy.",
+    "paragraph2": "Funguje jako neutrální analytická vrstva — bezpečně propojená s finančními institucemi prostřednictvím ověřených rozhraní API, poskytující strukturovaný vhled do každého transakčního řetězce a souvisejícího rizika."
   },
   "features": {
     "connectivity": {
-      "title": "Connectivity",
-      "text": "Direct API integrations with regulated banks and major crypto exchanges."
+      "title": "Konektivita",
+      "text": "Přímé integrace API s regulovanými bankami a hlavními krypto burzami."
     },
     "intelligence": {
-      "title": "Intelligence",
-      "text": "Gemini-based models optimized for real-time financial reasoning."
+      "title": "Inteligence",
+      "text": "Modely založené na Gemini optimalizované pro finanční uvažování v reálném čase."
     },
     "integrity": {
-      "title": "Integrity",
-      "text": "Fully compliant with GDPR, AMLD6, and open-banking frameworks."
+      "title": "Integrita",
+      "text": "Plně v souladu s GDPR, AMLD6 a rámci otevřeného bankovnictví."
     }
   },
   "layers": {
-    "title": "Core Functional Layers",
+    "title": "Základní Funkční Vrstvy",
     "analysis": {
-      "title": "Analysis",
-      "text": "Processes multi-channel financial data and identifies irregular activity using Gemini's contextual understanding."
+      "title": "Analýza",
+      "text": "Zpracovává vícekanálová finanční data a identifikuje neregulérní aktivitu pomocí kontextuálního porozumění Gemini."
     },
     "risk": {
-      "title": "Risk Evaluation",
-      "text": "Applies AI-driven scoring and behavioral clustering to determine exposure to fraud, unauthorized use, or compliance breach."
+      "title": "Vyhodnocení Rizika",
+      "text": "Aplikuje hodnocení řízené umělou inteligencí a behaviorální shlukování k určení expozice podvodům, neoprávněnému použití nebo porušení předpisů."
     },
     "response": {
-      "title": "Automated Response",
-      "text": "When risk thresholds are reached, the system can initiate authorized procedures — including chargeback, recall, or dispute actions — directly through institutional APIs."
+      "title": "Automatizovaná Odehraná Reakce",
+      "text": "Po dosažení prahových hodnot rizika může systém iniciovat autorizované postupy — včetně zpětného zúčtování (chargeback), odvolání (recall) nebo sporných akcí — přímo prostřednictvím institucionálních API."
     }
   },
   "benefit": {
-    "title": "Access and Regulatory Framework",
-    "item1": "Because the platform interacts with live financial networks, access is granted only after completion of a short compliance onboarding required by global regulators.",
-    "item2": "This ensures lawful data exchange, verified identity, and full accountability of every operation executed through the AI infrastructure.",
-    "footer": "Compliance is not an add-on — it's an integral part of the system design."
+    "title": "Přístup a Regulační Rámec",
+    "item1": "Vzhledem k tomu, že platforma interaguje s živými finančními sítěmi, je přístup udělen pouze po dokončení krátkého regulačního onboardingu, který vyžadují globální regulátoři.",
+    "item2": "To zajišťuje zákonnou výměnu dat, ověřenou identitu a plnou odpovědnost za každou operaci provedenou prostřednictvím infrastruktury AI.",
+    "footer": "Shoda s předpisy není jen doplněk — je nedílnou součástí návrhu systému."
   },
   "transparency": {
-    "title": "Designed for Transparency, Built for Trust",
-    "text1": "The platform helps institutions and individuals detect irregular financial behavior, reduce exposure to fraud, and maintain full visibility over both fiat and digital transactions.",
-    "text2": "It functions as a permanent monitoring layer that ensures each movement of value is traceable, explainable, and compliant.",
-    "box1": "Real-time transaction interpretation across financial networks",
-    "box2": "Automated compliance checks and incident reporting",
-    "box3": "Secure, read-only API connections",
-    "box4": "Structured traceability for regulators and users alike"
+    "title": "Navrženo pro Transparentnost, Vytvořeno pro Důvěru",
+    "text1": "Platforma pomáhá institucím a jednotlivcům odhalovat neregulérní finanční chování, snižovat expozici podvodům a udržovat plnou viditelnost jak nad fiat, tak nad digitálními transakcemi.",
+    "text2": "Funguje jako permanentní monitorovací vrstva, která zajišťuje, že každý pohyb hodnoty je sledovatelný, vysvětlitelný a v souladu s předpisy.",
+    "box1": "Interpretace transakcí v reálném čase napříč finančními sítěmi",
+    "box2": "Automatizované kontroly shody s předpisy a hlášení incidentů",
+    "box3": "Bezpečné, pouze ke čtení, API připojení",
+    "box4": "Strukturovaná sledovatelnost pro regulátory i uživatele"
   },
   "technology": {
     "hero": {
-      "title": "Gemini-Powered Financial Intelligence Architecture",
-      "description": "The system is powered by Google Gemini's multimodal AI framework — an infrastructure capable of analyzing structured and unstructured financial data at scale. Combined with proprietary risk and compliance logic, it enables continuous monitoring, contextual reasoning, and secure interaction with financial institutions and blockchain ecosystems.",
-      "summary": "At its core, the platform transforms complex transaction data into transparent, regulator-ready insights."
+      "title": "Architektura Finanční Inteligence Poháněná Gemini",
+      "description": "Systém je poháněn multimodálním rámcem AI Google Gemini — infrastrukturou schopnou analyzovat strukturovaná i nestrukturovaná finanční data ve velkém měřítku. V kombinaci s proprietární logikou pro rizika a shodu s předpisy umožňuje nepřetržité monitorování, kontextuální uvažování a bezpečnou interakci s finančními institucemi a blockchainovými ekosystémy.",
+      "summary": "Jádrem platformy je transformace komplexních transakčních dat do transparentních, pro regulátory připravených vhledů."
     },
     "architecture": {
-      "title": "System Architecture",
-      "description": "The technology stack is organized into five interconnected layers, each dedicated to a specific stage of financial data processing — from secure ingestion to regulatory action.",
+      "title": "Architektura Systému",
+      "description": "Technologický stack je uspořádán do pěti propojených vrstev, z nichž každá je věnována specifické fázi zpracování finančních dat — od bezpečného příjmu až po regulační opatření.",
       "layers": {
         "data": {
-          "title": "Data Sources",
-          "text": "Read-only access to banks, payment processors, and crypto exchanges via verified APIs. Supports Open Banking, ISO 20022, and blockchain data streams."
+          "title": "Zdroje Dat",
+          "text": "Přístup pouze ke čtení k bankám, platebním procesorům a krypto burzám přes ověřená API. Podporuje Open Banking, ISO 20022 a datové toky blockchainu."
         },
         "gemini": {
-          "title": "Gemini AI Core",
-          "text": "Processes high-volume financial data using Gemini's multimodal reasoning capabilities. Performs natural-language interpretation of metadata, behavioral clustering, and entity correlation across accounts."
+          "title": "Gemini AI Jádro",
+          "text": "Zpracovává velký objem finančních dat s využitím multimodálních schopností uvažování Gemini. Provádí interpretaci metadat v přirozeném jazyce, behaviorální shlukování a korelaci entit napříč účty."
         },
         "risk": {
-          "title": "Risk Engine",
-          "text": "Executes machine learning–based scoring logic that identifies anomalies, duplicate transfers, hidden subscriptions, and unauthorized activity. Each chain of transactions receives a dynamic risk profile updated in real time."
+          "title": "Risk Engine (Motor pro Rizika)",
+          "text": "Provádí logiku skórování na bázi strojového učení, která identifikuje anomálie, duplicitní převody, skryté předplatné a neoprávněnou aktivitu. Každý transakční řetězec obdrží dynamický rizikový profil aktualizovaný v reálném čase."
         },
         "compliance": {
-          "title": "Compliance Layer",
-          "text": "Implements AML, KYC, GDPR, and regional data-protection standards. Ensures traceability and accountability of every decision generated by the AI. Provides audit logs compatible with regulatory review formats."
+          "title": "Vrstva Shody s Předpisy",
+          "text": "Implementuje standardy AML, KYC, GDPR a regionální standardy ochrany dat. Zajišťuje sledovatelnost a odpovědnost za každé rozhodnutí generované AI. Poskytuje auditní záznamy kompatibilní s formáty pro regulační přezkum."
         },
         "response": {
-          "title": "Response API Gateway",
-          "text": "Acts as a secure communication channel between the platform and financial institutions. Authorized by compliance rules, it can initiate chargeback, recall, or dispute procedures when confirmed irregularities are detected."
+          "title": "API Brána pro Reakce",
+          "text": "Slouží jako bezpečný komunikační kanál mezi platformou a finančními institucemi. Autorizovaná pravidly shody, může iniciovat postupy zpětného zúčtování, odvolání nebo sporů při detekci potvrzených nesrovnalostí."
         }
       }
     },
     "secureData": {
-      "title": "Secure Data Handling",
-      "description": "All connected data flows operate in read-only mode.<br>The platform does not execute or store financial operations; it only interprets and reports them.",
+      "title": "Bezpečné Nakládání s Daty",
+      "description": "Všechny připojené datové toky fungují v režimu pouze pro čtení.<br>Platforma neprovádí ani neukládá finanční operace; pouze je interpretuje a hlásí.",
       "accordion": {
-        "title": "Security measures:",
-        "text": "• TLS 1.3 and AES-256 end-to-end encryption<br>• Differential privacy in all data aggregation processes<br>• Region-based data segregation (EU / NA / APAC)<br>• Immutable audit trail stored in compliance-ready format"
+        "title": "Bezpečnostní opatření:",
+        "text": "• Koncové šifrování TLS 1.3 a AES-256<br>• Diferenciální soukromí ve všech procesech agregace dat<br>• Regionálně založené oddělení dat (EU / NA / APAC)<br>• Neměnný auditní záznam uložený ve formátu připraveném pro shodu s předpisy"
       }
     },
     "geminiRisk": {
-      "title": "Gemini Cognitive Risk Engine",
-      "description": "Using Gemini's reasoning capabilities, the platform interprets financial behavior not only through numerical anomalies, but also through semantic patterns — e.g. metadata, transaction descriptions, and behavioral correlations.",
+      "title": "Kognitivní Risk Engine Gemini",
+      "description": "Pomocí schopností uvažování Gemini platforma interpretuje finanční chování nejen prostřednictvím numerických anomálií, ale také prostřednictvím sémantických vzorců — např. metadata, popisy transakcí a behaviorální korelace.",
       "accordion": {
-        "title": "Capabilities:",
-        "text": "• Continuous anomaly detection across fiat and crypto ecosystems<br>• Behavior-based fraud scoring (0–100 scale)<br>• Contextual understanding of transaction purpose and counterpart behavior<br>• Adaptive learning: the model evolves as transaction networks change"
+        "title": "Schopnosti:",
+        "text": "• Nepřetržitá detekce anomálií napříč fiat a krypto ekosystémy<br>• Behaviorálně založené skórování podvodů (škála 0–100)<br>• Kontextuální porozumění účelu transakce a chování protistrany<br>• Adaptivní učení: model se vyvíjí se změnami transakčních sítí"
       }
     },
     "intelligentAction": {
-      "title": "Intelligent Action Framework",
-      "description": "When the AI identifies high-risk financial behavior, it prepares a structured incident report and — within the regulatory boundaries — triggers automated responses through partner APIs:",
+      "title": "Rámec Inteligentních Akcí",
+      "description": "Když AI identifikuje vysoce rizikové finanční chování, připraví strukturovanou zprávu o incidentu a — v rámci regulačních mezí — spustí automatizované reakce prostřednictvím partnerských API:",
       "accordion": {
-        "title": "All actions are logged, timestamped, and approved within the compliance layer before execution.",
-        "text": "• Bank chargeback / recall requests for suspicious transfers<br>• Exchange dispute / refund submissions for fraudulent digital-asset activity<br>• Regulatory incident report generated for audit and supervision"
+        "title": "Všechny akce jsou zaznamenány, opatřeny časovým razítkem a schváleny ve vrstvě shody s předpisy před provedením.",
+        "text": "• Požadavky na zpětné zúčtování / odvolání pro podezřelé převody<br>• Podání sporů / žádostí o vrácení peněz na burze pro podvodné aktivity s digitálními aktivy<br>• Generování regulační zprávy o incidentu pro audit a dohled"
       }
     },
     "explainable": {
-      "title": "Explainable and Auditable AI",
-      "description": "Every output produced by the Gemini-based core includes explainability metadata: which variables influenced a decision, why the model classified an action as risky, and what regulatory framework the response aligns with.",
+      "title": "Vysvětlitelná a Auditovatelná AI",
+      "description": "Každý výstup vytvořený jádrem založeným na Gemini zahrnuje metadata vysvětlitelnosti: které proměnné ovlivnily rozhodnutí, proč model klasifikoval akci jako riskantní a s jakým regulačním rámcem je reakce v souladu.",
       "accordion": {
-        "title": "Features:",
-        "text": "• Transparent model decisions for auditors and regulators<br>• Traceable reasoning chain for each incident<br>• Configurable sensitivity thresholds per user or institution"
+        "title": "Vlastnosti:",
+        "text": "• Transparentní rozhodnutí modelu pro auditory a regulátory<br>• Sledovatelný řetězec uvažování pro každý incident<br>• Konfigurovatelné prahové hodnoty citlivosti pro každého uživatele nebo instituci"
       }
     },
     "standards": {
-      "title": "Aligned with Global Standards",
-      "description": "The system adheres to the highest standards of security and financial data governance. All operations follow the principles of open banking, data minimalism, and regulator supervision.",
+      "title": "V Souladu s Globálními Standardy",
+      "description": "Systém dodržuje nejvyšší standardy bezpečnosti a správy finančních dat. Všechny operace se řídí zásadami otevřeného bankovnictví, datového minimalismu a regulačního dohledu.",
       "accordion": {
-        "title": "Compliance frameworks:",
-        "text": "• GDPR (Europe)<br>• AMLD6 (EU directive)<br>• ISO 27001 (Information Security)<br>• SOC 2 (Data integrity and privacy)<br>• PCI DSS (Financial data protection)"
+        "title": "Rámce shody s předpisy:",
+        "text": "• GDPR (Evropa)<br>• AMLD6 (směrnice EU)<br>• ISO 27001 (Informační bezpečnost)<br>• SOC 2 (Integrita a soukromí dat)<br>• PCI DSS (Ochrana finančních dat)"
       }
     }
   },
   "solutions": {
     "hero": {
-      "title": "Applications Across the Financial Ecosystem",
-      "description": "The platform's modular architecture allows it to operate across multiple layers of the financial landscape — from individual account monitoring to institutional compliance infrastructure.<br>Built on Gemini's AI framework, it interprets transaction data, evaluates behavioral risk, and acts through verified financial APIs.",
-      "summary": "Different users. One system of transparency."
+      "title": "Aplikace Napříč Finančním Ekosystémem",
+      "description": "Modulární architektura platformy jí umožňuje fungovat napříč několika vrstvami finančního prostředí — od monitorování individuálních účtů po institucionální infrastrukturu shody s předpisy.<br>Postavena na rámci AI Gemini, interpretuje transakční data, vyhodnocuje behaviorální rizika a jedná prostřednictvím ověřených finančních API.",
+      "summary": "Různí uživatelé. Jeden systém transparentnosti."
     },
     "personal": {
-      "title": "Personal Financial Awareness and Protection",
-      "description": "For individual users, the system functions as a continuous monitoring environment that provides real-time visibility into every transaction. It identifies recurring charges, hidden subscriptions, and potential unauthorized activity—and, when required, initiates authorized refund or dispute requests through the user’s financial institution.",
+      "title": "Osobní Finanční Povědomí a Ochrana",
+      "description": "Pro individuální uživatele funguje systém jako prostředí pro nepřetržité monitorování, které poskytuje přehled o každé transakci v reálném čase. Identifikuje opakované poplatky, skryté předplatné a potenciální neoprávněnou aktivitu — a v případě potřeby iniciuje autorizované žádosti o vrácení peněz nebo spory prostřednictvím finanční instituce uživatele.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Detect recurring or duplicate payments<br>• Identify unauthorized transactions before they accumulate<br>• Receive structured reports with fraud scores and compliance context<br>• Automate chargeback or recall processes securely"
+        "title": "Případy použití:",
+        "text": "• Detekce opakovaných nebo duplicitních plateb<br>• Identifikace neautorizovaných transakcí dříve, než se nahromadí<br>• Příjem strukturovaných zpráv se skóre podvodů a kontextem shody<br>• Zabezpečená automatizace procesů zpětného zúčtování nebo odvolání"
       },
-      "note": "Individuals gain clarity over their digital finances and reduce losses from unnoticed activity or subscription leakage."
+      "note": "Jednotlivci získávají přehled o svých digitálních financích a snižují ztráty z nepřítomné aktivity nebo úniků předplatného."
     },
     "corporate": {
-      "title": "Corporate Transaction Oversight",
-      "description": "For enterprises, the platform acts as a financial integrity layer—monitoring all outgoing and incoming transactions to ensure they align with internal policies, vendor agreements, and regional compliance standards.",
+      "title": "Dohled nad Korporátními Transakcemi",
+      "description": "Pro podniky funguje platforma jako vrstva finanční integrity — monitoruje všechny odchozí a příchozí transakce, aby zajistila soulad s interními zásadami, dodavatelskými smlouvami a regionálními standardy shody s předpisy.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Detect unapproved or duplicate vendor payments<br>• Analyze financial exposure across accounts and subsidiaries<br>• Generate automated compliance and audit reports<br>• Identify early indicators of account misuse or insider fraud"
+        "title": "Případy použití:",
+        "text": "• Detekce neschválených nebo duplicitních plateb dodavatelům<br>• Analýza finanční expozice napříč účty a dceřinými společnostmi<br>• Generování automatizovaných zpráv o shodě s předpisy a auditu<br>• Identifikace raných indikátorů zneužití účtu nebo interního podvodu"
       },
-      "note": "Financial institutions gain a scalable, regulator-aligned AI layer for fraud management and customer protection."
+      "note": "Finanční instituce získávají škálovatelnou vrstvu AI pro správu podvodů a ochranu zákazníků v souladu s regulátory."
     },
     "infrastructure": {
-      "title": "AI-Powered Fraud and Compliance Infrastructure",
-      "description": "Banks, fintech companies, and exchanges integrate the system through API to enhance their fraud detection, transaction traceability, and regulatory response capabilities. The Gemini-based core delivers contextual risk assessment for both fiat and crypto operations, improving precision and reducing false positives.",
+      "title": "Infrastruktura pro Podvody a Shodu s Předpisy Poháněná AI",
+      "description": "Banky, fintech společnosti a burzy integrují systém prostřednictvím API, aby posílily své schopnosti detekce podvodů, sledovatelnosti transakcí a regulační odezvy. Jádro založené na Gemini poskytuje kontextuální hodnocení rizik pro fiat i krypto operace, čímž zlepšuje přesnost a snižuje falešné poplachy.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Real-time anomaly detection across payment networks<br>• Automated escalation of high-risk transaction chains<br>• Instant generation of incident reports for compliance teams<br>• Support for chargeback and dispute automation through regulated APIs"
+        "title": "Případy použití:",
+        "text": "• Detekce anomálií v reálném čase napříč platebními sítěmi<br>• Automatizovaná eskalace vysoce rizikových transakčních řetězců<br>• Okamžité generování zpráv o incidentech pro týmy shody s předpisy<br>• Podpora automatizace zpětného zúčtování a sporů prostřednictvím regulovaných API"
       },
-      "note": "Financial institutions gain a scalable, regulator-aligned AI layer for fraud management and customer protection."
+      "note": "Finanční instituce získávají škálovatelnou vrstvu AI pro správu podvodů a ochranu zákazníků v souladu s regulátory."
     },
     "regulatory": {
-      "title": "Transparent Oversight and Traceability",
-      "description": "For supervisory bodies and regulatory auditors, the platform provides a neutral AI-driven view of transaction networks—with explainable reasoning, immutable audit trails, and standardized data export formats.",
+      "title": "Transparentní Dohled a Sledovatelnost",
+      "description": "Pro dozorčí orgány a regulační auditory platforma poskytuje neutrální pohled na transakční sítě řízený AI — s vysvětlitelným uvažováním, neměnnými auditními záznamy a standardizovanými formáty pro export dat.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Cross-platform tracing of suspicious fund movement<br>• Automated AML/KYC anomaly detection<br>• Centralized visualization of institution-wide financial flows<br>• On-demand audit data with full explainability metadata"
+        "title": "Případy použití:",
+        "text": "• Křížové trasování podezřelého pohybu finančních prostředků napříč platformami<br>• Automatizovaná detekce anomálií AML/KYC<br>• Centralizovaná vizualizace finančních toků v rámci celé instituce<br>• Auditní data na vyžádání s úplnými metadaty vysvětlitelnosti"
       },
-      "note": "Regulators receive structured, verified, and explainable financial intelligence aligned with global compliance frameworks."
+      "note": "Regulátoři obdrží strukturované, ověřené a vysvětlitelné finanční zpravodajství v souladu s globálními rámci shody s předpisy."
     },
     "connectivity": {
-      "title": "Unified Ecosystem Connectivity",
-      "description": "Through open APIs, the system connects to financial, blockchain, and compliance infrastructures — enabling data exchange between individual, corporate, and institutional layers without compromising privacy or regulatory boundaries.",
+      "title": "Jednotná Konektivita Ekosystému",
+      "description": "Prostřednictvím otevřených API se systém připojuje k finančním, blockchainovým a regulačním infrastrukturám — umožňuje výměnu dat mezi individuálními, korporátními a institucionálními vrstvami bez narušení soukromí nebo regulačních hranic.",
       "accordion": {
-        "title": "Integrations include:",
-        "text": "• Retail and commercial banks<br>• Payment gateways and acquirers<br>• Major crypto exchanges and custodians<br>• Compliance management systems<br>• Governmental AML & financial intelligence units"
+        "title": "Integrace zahrnují:",
+        "text": "• Maloobchodní a komerční banky<br>• Platební brány a akvitéři<br>• Hlavní krypto burzy a správci<br>• Systémy správy shody s předpisy<br>• Vládní AML a finanční zpravodajské jednotky (FIUs)"
       }
     },
     "impact": {
-      "title": "Impact Across All Stakeholders",
-      "description": "By introducing explainable AI into the financial ecosystem, the platform improves visibility, reduces systemic fraud, and enhances compliance efficiency across all participants.",
+      "title": "Dopad na Všechny Zúčastněné Strany",
+      "description": "Zavedením vysvětlitelné AI do finančního ekosystému platforma zlepšuje viditelnost, snižuje systémové podvody a zvyšuje efektivitu shody s předpisy napříč všemi účastníky.",
       "accordion": {
-        "title": "Shared benefits:",
-        "text": "• Unified fraud-risk framework across fiat and crypto ecosystems<br>• Automated compliance actions with regulator-approved logic<br>• Reduced operational costs for investigation and reporting<br>• Enhanced user trust through transparency and accountability"
+        "title": "Sdílené výhody:",
+        "text": "• Jednotný rámec pro rizika podvodů napříč fiat a krypto ekosystémy<br>• Automatizované akce shody s předpisy s regulátorem schválenou logikou<br>• Snížené provozní náklady na vyšetřování a hlášení<br>• Zvýšená důvěra uživatelů prostřednictvím transparentnosti a odpovědnosti"
       }
     }
   },
   "compliance": {
     "hero": {
-      "title": "Compliance and Security by Design",
-      "description": "The platform is built on the principle that transparency and compliance are not external requirements — they are core components of the system’s architecture. From data encryption to regulatory verification, every process is designed to align with global standards of financial integrity and information security.",
-      "summary": "Security is engineered. Compliance is embedded."
+      "title": "Shoda s Předpisy a Zabezpečení Dle Návrhu",
+      "description": "Platforma je postavena na principu, že transparentnost a shoda s předpisy nejsou vnější požadavky — jsou základními složkami architektury systému. Od šifrování dat po regulační ověřování, každý proces je navržen tak, aby byl v souladu s globálními standardy finanční integrity a informační bezpečnosti.",
+      "summary": "Zabezpečení je navrženo. Shoda s předpisy je zakotvena."
     },
     "secureData": {
-      "title": "Secure Data Architecture",
-      "description": "All operations are conducted in a read-only mode to prevent any unauthorized changes, fund movements, or account access. The platform serves exclusively as an analytical layer, ensuring users’ and institutions’ financial data remain protected at every stage.",
+      "title": "Bezpečná Datová Architektura",
+      "description": "Všechny operace jsou prováděny v režimu pouze pro čtení, aby se zabránilo neoprávněným změnám, pohybu finančních prostředků nebo přístupu k účtu. Platforma slouží výhradně jako analytická vrstva, zajišťující ochranu finančních dat uživatelů a institucí v každé fázi.",
       "accordion": {
-        "title": "Key mechanisms:",
-        "text": "• End-to-end encryption (TLS 1.3 / AES-256)<br>• Zero data persistence for sensitive credentials<br>• Multi-region storage under data-localization laws<br>• Continuous vulnerability assessment and penetration testing<br>• Independent third-party security audits"
+        "title": "Klíčové mechanismy:",
+        "text": "• Koncové šifrování (TLS 1.3 / AES-256)<br>• Nulová perzistence dat pro citlivé pověřovací údaje<br>• Víceoblastní úložiště podle zákonů o lokalizaci dat<br>• Nepřetržité hodnocení zranitelnosti a penetrační testování<br>• Nezávislé audity zabezpečení třetími stranami"
       }
     },
     "regulatory": {
-      "title": "Regulatory Alignment",
-      "description": "The compliance layer integrates international regulatory standards to ensure every data interaction, risk analysis, or automated response remains within the boundaries of financial law.",
+      "title": "Regulační Soulad",
+      "description": "Vrstva shody s předpisy integruje mezinárodní regulační standardy, aby zajistila, že každá datová interakce, analýza rizik nebo automatizovaná reakce zůstane v mezích finančního práva.",
       "accordion": {
-        "title": "Supported frameworks:",
-        "text": "• GDPR — General Data Protection Regulation (EU)<br>• AMLD6 — Anti-Money Laundering Directive (EU)<br>• FATF — Financial Action Task Force recommendations<br>• ISO 27001 / SOC 2 — Information Security and Data Management<br>• PCI DSS — Payment Card Industry Data Security Standard<br>• Open Banking PSD2 — Secure API connectivity and user consent model"
+        "title": "Podporované rámce:",
+        "text": "• GDPR — Obecné nařízení o ochraně osobních údajů (EU)<br>• AMLD6 — Směrnice proti praní špinavých peněz (EU)<br>• FATF — Doporučení Finančního akčního výboru<br>• ISO 27001 / SOC 2 — Informační bezpečnost a správa dat<br>• PCI DSS — Standard zabezpečení dat v odvětví platebních karet<br>• Open Banking PSD2 — Bezpečná konektivita API a model souhlasu uživatele"
       },
-      "note": "Every compliance operation is logged, auditable, and traceable for both internal review and regulator access."
+      "note": "Každá operace shody s předpisy je zaznamenána, auditovatelná a sledovatelná pro interní přezkum i pro přístup regulátora."
     },
     "identity": {
-      "title": "Identity Verification and Authorization",
-      "description": "To maintain data integrity and prevent misuse, user access to the AI system is granted only after completing a mandatory compliance onboarding.<br><br>This short course, required by financial regulators, verifies user identity, purpose of use, and awareness of data-handling obligations.",
-      "stepsTitle": "Access procedure:",
-      "step1": "Identity and source verification (KYC)",
-      "step2": "Acceptance of compliance terms",
-      "step3": "Completion of automated onboarding",
-      "step4": "Tokenized API access granted under regulator supervision",
-      "note": "Each user operates within a verified and traceable framework, ensuring lawful access to AI-driven financial intelligence."
+      "title": "Ověření Identity a Autorizace",
+      "description": "Aby byla zachována integrita dat a zabráněno zneužití, je přístup uživatele k systému AI udělen pouze po dokončení povinného regulačního onboardingu.<br><br>Tento krátký kurz, vyžadovaný finančními regulátory, ověřuje identitu uživatele, účel použití a povědomí o povinnostech nakládání s daty.",
+      "stepsTitle": "Postup přístupu:",
+      "step1": "Ověření identity a zdroje (KYC)",
+      "step2": "Přijetí podmínek shody s předpisy",
+      "step3": "Dokončení automatizovaného onboardingu",
+      "step4": "Tokenizovaný přístup API udělen pod regulačním dohledem",
+      "note": "Každý uživatel pracuje v ověřeném a sledovatelném rámci, zajišťujícím zákonný přístup k finančnímu zpravodajství řízenému AI."
     },
     "audit": {
-      "title": "Auditability and Accountability",
-      "description": "Every system action — from API request to AI decision — is recorded in an immutable audit log. This provides regulators, compliance officers, and auditors with full visibility over data flow and decision-making processes.",
+      "title": "Auditovatelnost a Odpovědnost",
+      "description": "Každá systémová akce — od požadavku API po rozhodnutí AI — je zaznamenána do neměnného auditního záznamu. To poskytuje regulátorům, úředníkům pro shodu s předpisy a auditorům plnou viditelnost nad tokem dat a procesy rozhodování.",
       "accordion": {
-        "title": "Capabilities:",
-        "text": "• Immutable timestamped event logs<br>• Accessed only by authorized regulators or internal compliance units<br>• Support for standard audit export formats (CSV, XML, XBRL)<br>• Automated generation of compliance reports"
+        "title": "Schopnosti:",
+        "text": "• Neměnné časově označené protokoly událostí<br>• Přístupné pouze autorizovaným regulátorům nebo interním jednotkám shody s předpisy<br>• Podpora standardních formátů pro export auditu (CSV, XML, XBRL)<br>• Automatické generování zpráv o shodě s předpisy"
       },
-      "note": "Nothing happens without a record."
+      "note": "Nic se nestane bez záznamu."
     },
     "threat": {
-      "title": "Real-Time Threat and Risk Management",
-      "description": "The platform continuously monitors its environment for security anomalies and abnormal access patterns. When potential risks are detected, automated alerts are issued to the internal compliance node, and appropriate actions are taken immediately to isolate or neutralize the threat.",
-      "process": "<strong style=\"display:block;\">Process:</strong>• Continuous behavioral monitoring of API traffic <br>• Multi-level anomaly scoring for security events<br>• Real-time alerting and mitigation protocol<br>• Forensic reporting to compliance and regulatory units"
+      "title": "Správa Hrozeb a Rizik v Reálném Čase",
+      "description": "Platforma nepřetržitě monitoruje své prostředí pro bezpečnostní anomálie a abnormální přístupové vzorce. Při detekci potenciálních rizik jsou vydávána automatizovaná upozornění internímu uzlu shody s předpisy a jsou okamžitě podniknuta vhodná opatření k izolaci nebo neutralizaci hrozby.",
+      "process": "<strong style=\"display:block;\">Proces:</strong>• Nepřetržité monitorování chování provozu API <br>• Víceúrovňové skórování anomálií pro bezpečnostní události<br>• Protokol upozorňování a zmírňování rizik v reálném čase<br>• Forenzní hlášení pro jednotky shody s předpisy a regulační jednotky"
     },
     "collaborative": {
-      "title": "Collaborative Security Model",
-      "description": "The system is developed under a shared-responsibility model, where platform security, institutional compliance, and regulatory supervision coexist in a unified operational framework.",
+      "title": "Model Kolaborativního Zabezpečení",
+      "description": "Systém je vyvíjen v rámci modelu sdílené odpovědnosti, kde zabezpečení platformy, institucionální shoda s předpisy a regulační dohled koexistují v jednotném operačním rámci.",
       "accordion": {
-        "title": "Partnership ecosystem:",
-        "text": "• Financial institutions (banks, acquirers, payment processors)<br>• Crypto exchanges and custodians<br>• Regulatory bodies and financial intelligence units (FIUs)<br>• Independent audit and data-certification partners"
+        "title": "Ekosystém partnerství:",
+        "text": "• Finanční instituce (banky, akvitéři, platební procesory)<br>• Krypto burzy a správci<br>• Regulační orgány a finanční zpravodajské jednotky (FIUs)<br>• Nezávislí auditoři a partneři pro certifikaci dat"
       },
-      "note": "Transparency is achieved not in isolation, but through collaboration."
+      "note": "Transparentnost není dosažena izolovaně, ale prostřednictvím spolupráce."
     },
     "certification": {
-      "title": "Verification and Certification",
-      "description": "To ensure trust and global interoperability, the platform undergoes continuous certification and audit cycles conducted by accredited external firms.",
+      "title": "Ověření a Certifikace",
+      "description": "Pro zajištění důvěry a globální interoperability prochází platforma nepřetržitými cykly certifikace a auditu prováděnými akreditovanými externími firmami.",
       "accordion": {
-        "title": "Certifications in progress or obtained:",
-        "text": "• ISO/IEC 27001 — Information Security Management<br>• SOC 2 Type II — Data integrity and operational resilience<br>• PCI DSS — Financial data handling<br>• GDPR compliance verified by EU-based independent assessors"
+        "title": "Certifikace v průběhu nebo získané:",
+        "text": "• ISO/IEC 27001 — Správa informační bezpečnosti<br>• SOC 2 Type II — Integrita dat a provozní odolnost<br>• PCI DSS — Nakládání s finančními daty<br>• Soulad s GDPR ověřen nezávislými auditory se sídlem v EU"
       },
-      "note": "Security standards are not claims — they are verifications."
+      "note": "Bezpečnostní standardy nejsou tvrzení — jsou to ověření."
     },
     "learn": {
-      "title": "Building Trust Through Transparency",
-      "text": "By embedding regulatory compliance and security architecture into every level of its infrastructure, the system establishes a foundation for responsible, explainable, and auditable AI in financial ecosystems.",
-      "cta": "Learn About the Company"
+      "title": "Budování Důvěry Prostřednictvím Transparentnosti",
+      "text": "Zakotvením regulační shody a bezpečnostní architektury do každé úrovně své infrastruktury systém vytváří základ pro odpovědnou, vysvětlitelnou a auditovatelnou AI ve finančních ekosystémech.",
+      "cta": "Dozvědět se o společnosti"
     }
   },
   "aboutPage": {
     "hero": {
-      "title": "Building the Infrastructure of Financial Transparency",
-      "description": "We develop AI-driven infrastructure designed to bring traceability, accountability, and explainability into global financial systems. Our mission is to enable institutions, regulators, and individuals to understand how value moves — securely, lawfully, and intelligently.",
-      "summary": "We believe that transparency is not an outcome — it is architecture."
+      "title": "Budování Infrastruktury Finanční Transparentnosti",
+      "description": "Vyvíjíme infrastrukturu řízenou AI navrženou tak, aby do globálních finančních systémů přinesla sledovatelnost, odpovědnost a vysvětlitelnost. Naším posláním je umožnit institucím, regulátorům a jednotlivcům pochopit, jak se hodnota pohybuje — bezpečně, zákonně a inteligentně.",
+      "summary": "Věříme, že transparentnost není výsledek — je to architektura."
     },
     "mission": {
-      "title": "Mission",
-      "description": "To create a universal technological framework that ensures every financial action — whether executed by an individual, a business, or an algorithm — remains traceable, auditable, and compliant with the law.",
-      "highlight": "A global financial environment where every transaction can be understood, verified, and trusted."
+      "title": "Poslání",
+      "description": "Vytvořit univerzální technologický rámec, který zajistí, že každá finanční akce — ať už provedená jednotlivcem, podnikem nebo algoritmem — zůstane sledovatelná, auditovatelná a v souladu se zákonem.",
+      "highlight": "Globální finanční prostředí, kde každá transakce může být pochopena, ověřena a důvěryhodná."
     },
     "operation": {
-      "title": "How We Operate",
-      "description": "We combine AI research, financial forensics, and regulatory engineering to bridge the gap between innovation and compliance. Our interdisciplinary teams design systems that interpret financial behavior and act within the strictest standards of data governance.",
+      "title": "Jak Fungujeme",
+      "description": "Kombinujeme výzkum AI, finanční forenzní analýzu a regulační inženýrství, abychom překlenuli mezeru mezi inovací a souladem s předpisy. Naše mezioborové týmy navrhují systémy, které interpretují finanční chování a jednají v rámci nejpřísnějších standardů správy dat.",
       "accordion": {
-        "title": "Core principles:",
-        "text": "• Integrity: Data must always serve truth and transparency.<br>• Security: Protection of user and institutional data is fundamental.<br>• Accountability: Every decision — human or algorithmic — must be explainable.<br>• Collaboration: Financial systems can only be secured through cooperation across sectors."
+        "title": "Základní principy:",
+        "text": "• Integrita: Data musí vždy sloužit pravdě a transparentnosti.<br>• Zabezpečení: Ochrana dat uživatelů a institucí je zásadní.<br>• Odpovědnost: Každé rozhodnutí — lidské nebo algoritmické — musí být vysvětlitelné.<br>• Spolupráce: Finanční systémy lze zabezpečit pouze prostřednictvím spolupráce napříč sektory."
       }
     },
     "leadership": {
-      "title": "Leadership and Expertise",
-      "description": "Our team unites specialists in AI architecture, financial technology, risk modeling, and regulatory compliance. Each division works collaboratively to design, validate, and monitor every aspect of the platform — from data infrastructure to ethical AI deployment.",
+      "title": "Vedení a Odbornost",
+      "description": "Náš tým spojuje specialisty na architekturu AI, finanční technologie, modelování rizik a shodu s předpisy. Každá divize spolupracuje na návrhu, ověřování a monitorování každého aspektu platformy — od datové infrastruktury po etické nasazení AI.",
       "accordion": {
-        "title": "Grid-style:",
-        "text": "• AI Research & Modeling<br>• Financial Compliance Engineering<br>• Data Infrastructure & Security<br>• Regulatory Affairs<br>• Operations & Governance"
+        "title": "Styl mřížky:",
+        "text": "• Výzkum a Modelování AI<br>• Finanční Inženýrství Shody s Předpisy<br>• Datová Infrastruktura a Zabezpečení<br>• Regulační Záležitosti<br>• Provoz a Správa"
       },
-      "note": "We build technology with accountability — from algorithm to executive level."
+      "note": "Budujeme technologii s odpovědností — od algoritmu po výkonnou úroveň."
     },
     "collaborative": {
-      "title": "Collaborative Infrastructure",
-      "description": "The platform is developed in partnership with leading financial institutions, blockchain analytics firms, and data-security organizations committed to the same principle: that transparency and protection must coexist in the digital economy.",
+      "title": "Kolaborativní Infrastruktura",
+      "description": "Platforma je vyvíjena v partnerství s předními finančními institucemi, firmami pro analýzu blockchainu a organizacemi pro zabezpečení dat, které se zavázaly ke stejnému principu: že transparentnost a ochrana musí v digitální ekonomice koexistovat.",
       "accordion": {
-        "title": "Partnership ecosystem includes:",
-        "text": "• Regulated banks and payment processors<br>• Licensed crypto exchanges and custodians<br>• Data privacy and compliance organizations<br>• Independent audit and certification partners"
+        "title": "Ekosystém partnerství zahrnuje:",
+        "text": "• Regulované banky a platební procesory<br>• Licencované krypto burzy a správci<br>• Organizace pro ochranu soukromí dat a shodu s předpisy<br>• Nezávislí auditoři a partneři pro certifikaci"
       },
-      "note": "Every integration strengthens the collective trust network."
+      "note": "Každá integrace posiluje kolektivní síť důvěry."
     },
     "innovation": {
-      "title": "Continuous Innovation",
-      "paragraph1": "Research is at the center of everything we do.<br>Our R&D division explores advanced AI methodologies for financial reasoning, anomaly detection, and explainable decision-making.<br>We collaborate with academic institutions and regulatory technology labs to continuously align innovation with evolving compliance standards.",
-      "paragraph2": "<span class=\"h3\"> Focus areas:</span>• Multimodal reasoning in financial systems<br>• Adaptive fraud-detection algorithms<br>• Autonomous compliance reporting<br>• Human-AI collaboration for interpretability"
+      "title": "Kontinuální Inovace",
+      "paragraph1": "Výzkum je centrem všeho, co děláme.<br>Naše divize R&D zkoumá pokročilé metodologie AI pro finanční uvažování, detekci anomálií a vysvětlitelné rozhodování.<br>Spolupracujeme s akademickými institucemi a laboratořemi regulačních technologií, abychom neustále sladili inovace s vyvíjejícími se standardy shody s předpisy.",
+      "paragraph2": "<span class=\"h3\"> Oblasti zaměření:</span>• Multimodální uvažování ve finančních systémech<br>• Adaptivní algoritmy detekce podvodů<br>• Autonomní hlášení shody s předpisy<br>• Spolupráce člověka a AI pro interpretovatelnost"
     },
     "responsible": {
-      "title": "Responsible Intelligence",
-      "description": "We are committed to the responsible use of AI in financial analytics. All models are designed with transparency, reversibility, and auditability as foundational principles. No autonomous action is executed without traceable human oversight and regulatory logic.",
+      "title": "Odpovědná Inteligence",
+      "description": "Jsme odhodláni k odpovědnému používání AI ve finanční analytice. Všechny modely jsou navrženy s transparentností, reverzibilitou a auditovatelností jako základními principy. Žádná autonomní akce není provedena bez sledovatelného lidského dohledu a regulační logiky.",
       "accordion": {
-        "title": "Ethical framework:",
-        "text": "• Human-centered decision verification<br>• No opaque or unexplainable model outcomes<br>• Continuous monitoring for bias and data drift<br>• Internal ethics review board overseeing model updates"
+        "title": "Etický rámec:",
+        "text": "• Ověřování rozhodnutí zaměřené na člověka<br>• Žádné neprůhledné nebo nevysvětlitelné výsledky modelu<br>• Nepřetržité monitorování zkreslení a driftu dat<br>• Interní etická revizní komise dohlížející na aktualizace modelů"
       }
     },
     "contact": {
-      "title": "Contact Us",
-      "description": "For partnership inquiries, press relations, or regulatory coordination, please contact us at:<br><span class=\"email-link\">📧<a class=\"link\" href=\"mailto:support@tracenetai.com\">support@tracenetai.com</a></span> or use the secure contact form below.",
-      "note": "All communications are encrypted and reviewed under our data-protection framework."
+      "title": "Kontaktujte Nás",
+      "description": "Pro dotazy ohledně partnerství, vztahy s tiskem nebo regulační koordinaci nás prosím kontaktujte na:<br><span class=\"email-link\">📧<a class=\"link\" href=\"mailto:support@tracenetai.com\">support@tracenetai.com</a></span> nebo použijte bezpečný kontaktní formulář níže.",
+      "note": "Veškerá komunikace je šifrována a přezkoumána v rámci našeho rámce ochrany dat."
     },
     "cta": {
-      "partnership": "Request Partnership",
-      "press": "Press Inquiries",
-      "regulatory": "Regulatory Coordination"
+      "partnership": "Požádat o Partnerství",
+      "press": "Dotazy Tisku",
+      "regulatory": "Regulační Koordinace"
     }
   },
   "privacy": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "This Privacy Policy explains how TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"our,\" or \"the Company\") collects, uses, protects, and discloses personal and financial data processed through our platform and related services.",
-    "intro2": "Our mission is to enable financial transparency and security through AI-driven data intelligence, while maintaining strict compliance with international data-protection and financial-regulatory laws.",
+    "lastUpdated": "Naposledy Aktualizováno: Říjen 2025",
+    "intro1": "Tyto Zásady Ochrany Osobních Údajů vysvětlují, jak společnost TraceNet Systems Ltd. (\"TraceNet,\" \"my,\" \"naše,\" nebo \"Společnost\") shromažďuje, používá, chrání a zveřejňuje osobní a finanční údaje zpracovávané prostřednictvím naší platformy a souvisejících služeb.",
+    "intro2": "Naším posláním je umožnit finanční transparentnost a zabezpečení prostřednictvím datové inteligence řízené AI při zachování přísného souladu s mezinárodními zákony o ochraně dat a finančními regulačními zákony.",
     "sections": {
       "scope": {
-        "title": "1. Scope and Application",
-        "description1": "This Policy applies to all users of TraceNet's platform — including individuals, businesses, and institutional partners — and covers data processed through:",
-        "list1": "Our websites and web applications;",
-        "list2": "API integrations with banks, payment providers, and crypto exchanges;",
-        "list3": "Customer support, onboarding, and communication channels.",
-        "description2": "It also applies to employees, contractors, and affiliates acting on behalf of TraceNet in processing user data."
+        "title": "1. Rozsah a Použití",
+        "description1": "Tyto Zásady platí pro všechny uživatele platformy TraceNet — včetně jednotlivců, podniků a institucionálních partnerů — a pokrývají data zpracovávaná prostřednictvím:",
+        "list1": "Našich webových stránek a webových aplikací;",
+        "list2": "API integrací s bankami, poskytovateli plateb a krypto burzami;",
+        "list3": "Kanálů zákaznické podpory, onboardingu a komunikace.",
+        "description2": "Platí také pro zaměstnance, dodavatele a přidružené společnosti jednající jménem TraceNet při zpracování uživatelských dat."
       },
       "data": {
-        "title": "2. Data We Collect",
-        "description": "We collect only the data necessary to operate our services, ensure compliance, and improve system performance.",
+        "title": "2. Data, Která Shromažďujeme",
+        "description": "Shromažďujeme pouze data nezbytná k provozování našich služeb, zajištění shody s předpisy a zlepšení výkonu systému.",
         "userData": {
-          "title": "2.1 Data Provided by Users",
-          "list1": "Identity and contact details provided during compliance onboarding (e.g., full name, email address, institution, verification documents).",
-          "list2": "Account connection metadata (API keys, institution IDs — tokenized and encrypted).",
-          "list3": "User consent records and compliance declarations."
+          "title": "2.1 Data Poskytnutá Uživateli",
+          "list1": "Identifikační a kontaktní údaje poskytnuté během regulačního onboardingu (např. celé jméno, e-mailová adresa, instituce, ověřovací dokumenty).",
+          "list2": "Metadata připojení účtu (API klíče, ID instituce — tokenizované a šifrované).",
+          "list3": "Záznamy o souhlasu uživatele a prohlášení o shodě s předpisy."
         },
         "autoData": {
-          "title": "2.2 Data Collected Automatically",
-          "list1": "Technical information (IP address, device type, browser configuration, session time).",
-          "list2": "API call metadata and system performance logs.",
-          "list3": "Anonymized financial data retrieved via read-only connections."
+          "title": "2.2 Automaticky Shromažďovaná Data",
+          "list1": "Technické informace (IP adresa, typ zařízení, konfigurace prohlížeče, čas relace).",
+          "list2": "Metadata volání API a protokoly výkonu systému.",
+          "list3": "Anonymizovaná finanční data získaná prostřednictvím připojení pouze pro čtení."
         },
         "sensitive": {
-          "title": "2.3 Sensitive Financial Data",
-          "text1": "When connecting with banks or exchanges, TraceNet retrieves only read-only transactional data.",
-          "text2": "We never store authorization credentials, passwords, or payment instruments."
+          "title": "2.3 Citlivá Finanční Data",
+          "text1": "Při připojování k bankám nebo burzám získává TraceNet pouze transakční data pouze pro čtení.",
+          "text2": "Nikdy neukládáme autorizační pověřovací údaje, hesla ani platební nástroje."
         }
       },
       "usage": {
-        "title": "3. How We Use Data",
-        "description": "We use collected data to:",
-        "list1": "Operate, maintain, and improve the platform;",
-        "list2": "Analyze transaction activity and detect potential fraud or irregular behavior;",
-        "list3": "Generate anonymized analytical and compliance reports;",
-        "list4": "Communicate with users and provide technical or regulatory support;",
-        "list5": "Fulfil legal and anti-money-laundering (AML) obligations;",
-        "list6": "Enhance the accuracy of our AI-based analytical models.",
-        "note": "TraceNet does not sell or share data for marketing or advertising purposes."
+        "title": "3. Jak Data Používáme",
+        "description": "Shromážděná data používáme k:",
+        "list1": "Provozování, údržbě a zlepšování platformy;",
+        "list2": "Analýze transakční aktivity a detekci potenciálních podvodů nebo neregulérního chování;",
+        "list3": "Generování anonymizovaných analytických zpráv a zpráv o shodě s předpisy;",
+        "list4": "Komunikaci s uživateli a poskytování technické nebo regulační podpory;",
+        "list5": "Plnění právních a protiprávních povinností praní špinavých peněz (AML);",
+        "list6": "Zvyšování přesnosti našich analytických modelů založených na AI.",
+        "note": "TraceNet neprodává ani nesdílí data pro marketingové nebo reklamní účely."
       },
       "legalBasis": {
-        "title": "4. Legal Basis for Processing",
-        "description": "Data is processed under one or more of the following legal bases:",
-        "list1": "User consent — explicit authorization to connect financial accounts or submit verification data;",
-        "list2": "Legitimate interest — fraud detection, data security, and service improvement;",
-        "list3": "Legal obligation — compliance with AML/KYC and data-retention laws;",
-        "list4": "Contractual necessity — enabling user access and platform functionality."
+        "title": "4. Právní Základ pro Zpracování",
+        "description": "Data jsou zpracovávána na základě jednoho nebo více z následujících právních základů:",
+        "list1": "Souhlas uživatele — výslovná autorizace k připojení finančních účtů nebo předložení ověřovacích dat;",
+        "list2": "Oprávněný zájem — detekce podvodů, zabezpečení dat a zlepšení služeb;",
+        "list3": "Právní povinnost — soulad s AML/KYC a zákony o uchovávání dat;",
+        "list4": "Smluvní nezbytnost — umožnění přístupu uživatele a funkčnosti platformy."
       },
       "retention": {
-        "title": "5. Data Retention",
-        "description": "Data is retained only for as long as necessary to:",
-        "list1": "Deliver platform functionality and services;",
-        "list2": "Comply with applicable financial regulations;",
-        "list3": "Resolve disputes or enforce contractual obligations.",
-        "note": "Once no longer required, data is securely deleted or irreversibly anonymized."
+        "title": "5. Uchovávání Dat",
+        "description": "Data jsou uchovávána pouze po dobu nezbytně nutnou k:",
+        "list1": "Poskytování funkčnosti a služeb platformy;",
+        "list2": "Dodržování platných finančních předpisů;",
+        "list3": "Řešení sporů nebo vymáhání smluvních závazků.",
+        "note": "Jakmile již nejsou vyžadována, data jsou bezpečně smazána nebo nevratně anonymizována."
       },
       "security": {
-        "title": "6. Data Security",
-        "description": "We employ advanced security measures to safeguard all user information:",
-        "list1": "AES-256 and TLS 1.3 encryption for data at rest and in transit;",
-        "list2": "Multi-region data hosting with restricted access controls;",
-        "list3": "Continuous penetration testing and vulnerability monitoring;",
-        "list4": "Immutable audit logs for all access and data operations.",
-        "note": "All integrations are read-only and compliant with ISO 27001, SOC 2 Type II, and Open Banking PSD2 standards."
+        "title": "6. Zabezpečení Dat",
+        "description": "K ochraně všech uživatelských informací používáme pokročilá bezpečnostní opatření:",
+        "list1": "Šifrování AES-256 a TLS 1.3 pro data v klidu a během přenosu;",
+        "list2": "Víceoblastní hostování dat s omezenou kontrolou přístupu;",
+        "list3": "Nepřetržité penetrační testování a monitorování zranitelnosti;",
+        "list4": "Neměnné auditní záznamy pro všechny přístupy a datové operace.",
+        "note": "Všechny integrace jsou pouze ke čtení a v souladu se standardy ISO 27001, SOC 2 Type II a Open Banking PSD2."
       },
       "sharing": {
-        "title": "7. Data Sharing and Disclosure",
-        "description": "We share data only where strictly necessary and under secure, regulated conditions:",
-        "list1": "Financial institutions and exchanges — to process authorized analytical or recall/dispute requests.",
-        "list2": "Regulatory authorities — when legally required for compliance with AML, KYC, or supervisory obligations.",
-        "list3": "Infrastructure providers — for hosting, compliance monitoring, or auditing, under confidentiality agreements.",
-        "note": "TraceNet never discloses user data for commercial resale, behavioral profiling, or advertising."
+        "title": "7. Sdílení a Zveřejňování Dat",
+        "description": "Data sdílíme pouze tam, kde je to nezbytně nutné a za bezpečných, regulovaných podmínek:",
+        "list1": "Finanční instituce a burzy — pro zpracování autorizovaných analytických požadavků nebo požadavků na odvolání/spory.",
+        "list2": "Regulační orgány — pokud to vyžaduje zákon pro shodu s AML, KYC nebo dozorčími povinnostmi.",
+        "list3": "Poskytovatelé infrastruktury — pro hostování, monitorování shody s předpisy nebo auditování, na základě dohod o mlčenlivosti.",
+        "note": "TraceNet nikdy nezveřejňuje uživatelská data pro komerční prodej, profilování chování nebo reklamu."
       },
       "transfers": {
-        "title": "8. International Data Transfers",
-        "description": "Where data is transferred internationally, TraceNet applies appropriate safeguards, including:",
-        "list1": "Standard Contractual Clauses (SCCs) under GDPR;",
-        "list2": "Regional data storage for EU, UK, and Canadian users;",
-        "list3": "Encryption and pseudonymization prior to transfer.",
-        "note": "Our primary data-processing centers are located in the European Union, United Kingdom, Canada, and Israel."
+        "title": "8. Mezinárodní Přenosy Dat",
+        "description": "V případě mezinárodního přenosu dat uplatňuje TraceNet odpovídající záruky, včetně:",
+        "list1": "Standardních smluvních doložek (SCC) podle GDPR;",
+        "list2": "Regionálního úložiště dat pro uživatele z EU, Velké Británie a Kanady;",
+        "list3": "Šifrování a pseudonymizace před přenosem.",
+        "note": "Naše primární datová centra pro zpracování se nacházejí v Evropské unii, Spojeném království, Kanadě a Izraeli."
       },
       "rights": {
-        "title": "9. User Rights",
-        "description": "Under applicable privacy regulations (including GDPR and UK DPA 2018), users have the right to:",
-        "list1": "Access their personal data;",
-        "list2": "Request correction or deletion;",
-        "list3": "Restrict or object to processing;",
-        "list4": "Request data portability;",
-        "list5": "Withdraw consent at any time without affecting prior lawful processing.",
-        "note": "Requests can be submitted to privacy@tracenetsystems.com, and TraceNet will respond within 30 days of verification."
+        "title": "9. Práva Uživatele",
+        "description": "Podle platných předpisů o ochraně osobních údajů (včetně GDPR a UK DPA 2018) mají uživatelé právo na:",
+        "list1": "Přístup ke svým osobním údajům;",
+        "list2": "Požadovat opravu nebo smazání;",
+        "list3": "Omezit nebo vznést námitku proti zpracování;",
+        "list4": "Požádat o přenositelnost dat;",
+        "list5": "Odvolat souhlas kdykoli bez ovlivnění předchozího zákonného zpracování.",
+        "note": "Žádosti lze podat na privacy@tracenetsystems.com a TraceNet odpoví do 30 dnů od ověření."
       },
       "cookies": {
-        "title": "10. Cookies and Tracking",
-        "description1": "Our website uses minimal cookies essential for functionality and analytics.",
-        "description2": "Detailed information on cookie types and consent management is available in our Cookie Policy."
+        "title": "10. Cookies a Sledování",
+        "description1": "Naše webové stránky používají minimální soubory cookie nezbytné pro funkčnost a analytiku.",
+        "description2": "Podrobné informace o typech souborů cookie a správě souhlasu jsou k dispozici v našich Zásadách Používání Souborů Cookie."
       },
       "dpo": {
-        "title": "11. Data Protection Officer (DPO)",
-        "description": "TraceNet has appointed a Data Protection Officer responsible for oversight of privacy practices and compliance.",
-        "contact": "📧 DPO Contact: dpo@tracenetsystems.com",
-        "address": "📍 Address: TraceNet Systems Ltd., 14 HaGefen St., Ramat Gan, Israel"
+        "title": "11. Pověřenec pro Ochranu Osobních Údajů (DPO)",
+        "description": "TraceNet jmenovala Pověřence pro Ochranu Osobních Údajů odpovědného za dohled nad postupy ochrany soukromí a dodržováním předpisů.",
+        "contact": "📧 Kontakt na DPO: dpo@tracenetsystems.com",
+        "address": "📍 Adresa: TraceNet Systems Ltd., 14 HaGefen St., Ramat Gan, Izrael"
       },
       "updates": {
-        "title": "12. Updates to This Policy",
-        "description1": "This Policy may be updated periodically to reflect changes in regulation, technology, or corporate operations.",
-        "description2": "Revisions will be posted on this page with the updated \"Last Modified\" date.",
-        "description3": "For material updates, users will be notified via email or in-platform alert."
+        "title": "12. Aktualizace Těchto Zásad",
+        "description1": "Tyto Zásady mohou být pravidelně aktualizovány, aby odrážely změny v regulaci, technologii nebo korporátních operacích.",
+        "description2": "Revize budou zveřejněny na této stránce s aktualizovaným datem \"Naposledy Upraveno\".",
+        "description3": "V případě podstatných aktualizací budou uživatelé informováni e-mailem nebo upozorněním v rámci platformy."
       },
       "contact": {
-        "title": "13. Contact",
-        "description": "For any questions, privacy concerns, or regulatory correspondence, please contact:",
+        "title": "13. Kontakt",
+        "description": "Pro jakékoli dotazy, obavy ohledně soukromí nebo regulační korespondenci kontaktujte:",
         "email": "📧 privacy@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
-        "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
+        "address": "14 HaGefen Street, Ramat Gan, 5252174, Izrael",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
+        "compliantLabel": "✅ V souladu s:",
         "compliantList": "GDPR (2016/679), UK DPA 2018, CCPA, AMLD6, ISO 27001, SOC 2 Type II, PCI DSS, Open Banking PSD2."
       }
     }
   },
   "cookiePolicy": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "This Cookie Policy explains how TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"our,\" or \"us\") uses cookies and similar technologies on our websites and web applications.",
-    "intro2": "It should be read together with our Privacy Policy, which explains how we collect, process, and protect your personal data.",
+    "lastUpdated": "Naposledy Aktualizováno: Říjen 2025",
+    "intro1": "Tyto Zásady Používání Souborů Cookie vysvětlují, jak společnost TraceNet Systems Ltd. (\"TraceNet,\" \"my,\" \"naše,\" nebo \"nás\") používá soubory cookie a podobné technologie na našich webových stránkách a webových aplikacích.",
+    "intro2": "Měly by být čteny společně s našimi Zásadami Ochrany Osobních Údajů, které vysvětlují, jak shromažďujeme, zpracováváme a chráníme vaše osobní údaje.",
     "sections": {
       "what": {
-        "title": "1. What Are Cookies",
-        "text1": "Cookies are small text files that are stored on your device (computer, tablet, or smartphone) when you visit a website.",
-        "text2": "They help websites recognize your device, remember your preferences, and improve your user experience.",
-        "text3": "Cookies may also be used for analytics, performance tracking, and — where permitted — marketing and advertising purposes."
+        "title": "1. Co jsou Cookies",
+        "text1": "Cookies jsou malé textové soubory, které jsou uloženy na vašem zařízení (počítač, tablet nebo smartphone), když navštívíte webovou stránku.",
+        "text2": "Pomáhají webovým stránkám rozpoznat vaše zařízení, zapamatovat si vaše preference a zlepšit vaši uživatelskou zkušenost.",
+        "text3": "Cookies mohou být také použity pro analytiku, sledování výkonu a — kde je to povoleno — pro marketingové a reklamní účely."
       },
       "usage": {
-        "title": "2. How We Use Cookies",
-        "description": "We use cookies to:",
-        "list1": "Ensure the proper functioning of our website;",
-        "list2": "Remember user preferences and language settings;",
-        "list3": "Improve the performance, speed, and usability of our site;",
-        "list4": "Collect anonymous usage statistics to help us improve our services;",
-        "list5": "Support security and compliance monitoring;",
-        "list6": "(If consented) enable analytics and advertising integrations.",
-        "note": "We do not use cookies to store sensitive financial or personal information."
+        "title": "2. Jak Používáme Cookies",
+        "description": "Cookies používáme k:",
+        "list1": "Zajištění správného fungování našich webových stránek;",
+        "list2": "Zapamatování si uživatelských preferencí a nastavení jazyka;",
+        "list3": "Zlepšení výkonu, rychlosti a použitelnosti našich stránek;",
+        "list4": "Shromažďování anonymních statistik používání, které nám pomáhají zlepšovat naše služby;",
+        "list5": "Podpoře zabezpečení a monitorování shody s předpisy;",
+        "list6": "(Pokud je udělen souhlas) umožnění analytických a reklamních integrací.",
+        "note": "Nepoužíváme cookies k ukládání citlivých finančních nebo osobních informací."
       },
       "types": {
-        "title": "3. Types of Cookies We Use",
+        "title": "3. Typy Cookies, Které Používáme",
         "necessary": {
-          "title": "3.1 Strictly Necessary Cookies",
-          "text1": "These cookies are essential for the website to function properly and cannot be disabled.",
-          "text2": "They include session identifiers, authentication tokens, and security-related cookies.",
-          "text3": "Examples:",
-          "list1": "Session management and navigation;",
-          "list2": "User authentication and access control;",
-          "list3": "Compliance and consent tracking."
+          "title": "3.1 Nezbytně Nutné Cookies",
+          "text1": "Tyto cookies jsou nezbytné pro správné fungování webových stránek a nelze je zakázat.",
+          "text2": "Zahrnují identifikátory relací, ověřovací tokeny a cookies související se zabezpečením.",
+          "text3": "Příklady:",
+          "list1": "Správa relací a navigace;",
+          "list2": "Ověřování uživatelů a kontrola přístupu;",
+          "list3": "Sledování shody s předpisy a souhlasu."
         },
         "functional": {
-          "title": "3.2 Functional Cookies",
-          "text1": "These cookies enable enhanced functionality and personalization, such as remembering your settings or language preferences.",
-          "text2": "They may be set by us or by third-party tools integrated into our platform."
+          "title": "3.2 Funkční Cookies",
+          "text1": "Tyto cookies umožňují rozšířenou funkčnost a personalizaci, jako je zapamatování si vašeho nastavení nebo jazykových preferencí.",
+          "text2": "Mohou být nastaveny námi nebo nástroji třetích stran integrovanými do naší platformy."
         },
         "analytics": {
-          "title": "3.3 Analytics and Performance Cookies",
-          "text1": "These cookies allow us to measure traffic and usage patterns.",
-          "text2": "The information is aggregated and anonymous, helping us understand how visitors interact with our website.",
-          "text3": "Examples of third-party analytics tools (if enabled):",
+          "title": "3.3 Analytické a Výkonnostní Cookies",
+          "text1": "Tyto cookies nám umožňují měřit provoz a vzorce používání.",
+          "text2": "Informace jsou agregované a anonymní, což nám pomáhá pochopit, jak návštěvníci interagují s našimi webovými stránkami.",
+          "text3": "Příklady analytických nástrojů třetích stran (pokud jsou povoleny):",
           "list1": "Google Analytics",
           "list2": "Meta (Facebook) Pixel",
-          "list3": "Hotjar or equivalent performance analytics tools",
-          "note": "You may choose to disable these cookies without affecting essential functionality."
+          "list3": "Hotjar nebo ekvivalentní nástroje pro analýzu výkonu",
+          "note": "Můžete se rozhodnout tyto cookies zakázat bez ovlivnění základní funkčnosti."
         },
         "marketing": {
-          "title": "3.4 Marketing and Tracking Cookies (Optional)",
-          "text1": "These cookies may be used to deliver relevant ads or track campaign performance.",
-          "text2": "They are only activated after your explicit consent.",
-          "text3": "We currently use minimal or no marketing cookies, but we include this category for transparency."
+          "title": "3.4 Marketingové a Sledovací Cookies (Volitelné)",
+          "text1": "Tyto cookies mohou být použity k doručování relevantních reklam nebo sledování výkonu kampaní.",
+          "text2": "Jsou aktivovány pouze po vašem výslovném souhlasu.",
+          "text3": "V současné době používáme minimální nebo žádné marketingové cookies, ale tuto kategorii zahrnujeme pro transparentnost."
         }
       },
       "duration": {
-        "title": "4. Duration of Cookies",
-        "description": "Cookies may be either:",
-        "list1": "Session cookies — deleted when you close your browser; or",
-        "list2": "Persistent cookies — remain on your device until they expire or are manually deleted.",
-        "note": "We retain cookies only as long as necessary for their intended purpose, usually between 1 day and 12 months."
+        "title": "4. Doba Trvání Cookies",
+        "description": "Cookies mohou být buď:",
+        "list1": "Cookies relace — smazány po zavření prohlížeče; nebo",
+        "list2": "Trvalé cookies — zůstávají na vašem zařízení, dokud nevyprší nebo nejsou ručně smazány.",
+        "note": "Cookies uchováváme pouze po dobu nezbytně nutnou pro jejich zamýšlený účel, obvykle mezi 1 dnem a 12 měsíci."
       },
       "thirdParty": {
-        "title": "5. Third-Party Cookies",
-        "description1": "Some cookies may be placed by trusted third-party providers that supply analytics, performance, or compliance tools.",
-        "description2": "These providers act as independent data controllers for their respective services.",
-        "description3": "Examples include:",
-        "list1": "Google Ireland Ltd. (Google Analytics, Tag Manager)",
-        "list2": "Meta Platforms Inc. (Meta Pixel for campaign attribution)",
-        "list3": "Cloudflare Inc. (security and performance optimization)",
-        "note": "Each third party has its own privacy and cookie policies, which we encourage users to review."
+        "title": "5. Cookies Třetích Stran",
+        "description1": "Některé cookies mohou být umístěny důvěryhodnými poskytovateli třetích stran, kteří dodávají analytické, výkonnostní nebo regulační nástroje.",
+        "description2": "Tito poskytovatelé jednají jako nezávislí správci dat pro své příslušné služby.",
+        "description3": "Příklady zahrnují:",
+        "list1": "Google Ireland Ltd. (Google Analytics, Správce značek)",
+        "list2": "Meta Platforms Inc. (Meta Pixel pro atribuci kampaní)",
+        "list3": "Cloudflare Inc. (optimalizace zabezpečení a výkonu)",
+        "note": "Každá třetí strana má své vlastní zásady ochrany osobních údajů a souborů cookie, které doporučujeme uživatelům zkontrolovat."
       },
       "manage": {
-        "title": "6. Managing Cookie Preferences",
-        "description": "You can manage or withdraw your consent to non-essential cookies at any time through:",
-        "list1": "The cookie consent banner displayed when you first visit our site;",
-        "list2": "The \"Manage Preferences\" link available in the footer of our website;",
-        "list3": "Your browser's cookie settings.",
-        "browserTitle": "Browser Settings:",
-        "browserText1": "Most browsers allow you to block or delete cookies.",
-        "browserText2": "You can find detailed instructions in the \"Help\" section of your browser.",
-        "note": "Please note: disabling essential cookies may affect the functionality of our website."
+        "title": "6. Správa Předvoleb Cookies",
+        "description": "Svůj souhlas s nepodstatnými cookies můžete spravovat nebo odvolat kdykoli prostřednictvím:",
+        "list1": "Bannera souhlasu s cookies zobrazeného při první návštěvě našich stránek;",
+        "list2": "Odkazu \"Spravovat Předvolby\" dostupného v zápatí našich webových stránek;",
+        "list3": "Nastavení cookies vašeho prohlížeče.",
+        "browserTitle": "Nastavení Prohlížeče:",
+        "browserText1": "Většina prohlížečů umožňuje blokovat nebo mazat cookies.",
+        "browserText2": "Podrobné pokyny naleznete v sekci \"Nápověda\" vašeho prohlížeče.",
+        "note": "Vezměte prosím na vědomí: zakázání nezbytných cookies může ovlivnit funkčnost našich webových stránek."
       },
       "changes": {
-        "title": "7. Changes to This Policy",
-        "description1": "We may update this Cookie Policy from time to time to reflect changes in technology, regulation, or operational needs.",
-        "description2": "All updates will be posted on this page with the updated \"Last Modified\" date.",
-        "description3": "Significant changes will be communicated through a website notice or banner."
+        "title": "7. Změny Těchto Zásad",
+        "description1": "Tyto Zásady Používání Souborů Cookie můžeme čas od času aktualizovat, abychom odráželi změny v technologii, regulaci nebo provozních potřebách.",
+        "description2": "Všechny aktualizace budou zveřejněny na této stránce s aktualizovaným datem \"Naposledy Upraveno\".",
+        "description3": "Významné změny budou sděleny prostřednictvím oznámení nebo banneru na webových stránkách."
       },
       "contact": {
-        "title": "8. Contact",
-        "description": "If you have any questions about this Cookie Policy or our data practices, please contact:",
+        "title": "8. Kontakt",
+        "description": "Pokud máte jakékoli dotazy ohledně těchto Zásad Používání Souborů Cookie nebo našich postupů s daty, kontaktujte:",
         "email": "📧 privacy@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
-        "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
+        "address": "14 HaGefen Street, Ramat Gan, 5252174, Izrael",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
-        "compliantList": "GDPR (2016/679), ePrivacy Directive, UK DPA 2018, CCPA, and Israeli Privacy Protection Law (PPL)."
+        "compliantLabel": "✅ V souladu s:",
+        "compliantList": "GDPR (2016/679), směrnicí o e-soukromí, UK DPA 2018, CCPA a izraelským zákonem o ochraně soukromí (PPL)."
       }
     }
   },
   "terms": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "These Terms of Use (\"Terms\") govern your access to and use of the platform, products, and services (collectively, the \"Platform\") provided by TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"us,\" or \"our\").",
-    "intro2": "By accessing or using the Platform, you agree to be bound by these Terms. If you do not agree, you may not use the Platform.",
+    "lastUpdated": "Naposledy Aktualizováno: Říjen 2025",
+    "intro1": "Tyto Podmínky Používání (\"Podmínky\") upravují váš přístup a používání platformy, produktů a služeb (souhrnně \"Platforma\") poskytovaných společností TraceNet Systems Ltd. (\"TraceNet,\" \"my,\" \"nás,\" nebo \"naše\").",
+    "intro2": "Přístupem nebo používáním Platformy souhlasíte s tím, že budete vázáni těmito Podmínkami. Pokud nesouhlasíte, nesmíte Platformu používat.",
     "sections": {
       "about": {
-        "title": "1. About TraceNet",
-        "text1": "TraceNet Systems Ltd. is a technology company that provides AI-driven financial analytics and compliance infrastructure.",
-        "text2": "The Platform enables users to analyze transaction data, identify irregularities, and generate reports through read-only integrations with banks, payment systems, and digital-asset exchanges.",
-        "text3": "TraceNet is not a financial institution, broker, or money-service business.",
-        "text4": "We do not store, transfer, or control user funds."
+        "title": "1. O Společnosti TraceNet",
+        "text1": "TraceNet Systems Ltd. je technologická společnost, která poskytuje AI-řízenou finanční analytiku a infrastrukturu shody s předpisy.",
+        "text2": "Platforma umožňuje uživatelům analyzovat transakční data, identifikovat nesrovnalosti a generovat zprávy prostřednictvím integrací pouze pro čtení s bankami, platebními systémy a burzami digitálních aktiv.",
+        "text3": "TraceNet není finanční instituce, makléř ani společnost poskytující peněžní služby.",
+        "text4": "Neukládáme, nepřevádíme ani neřídíme finanční prostředky uživatelů."
       },
       "eligibility": {
-        "title": "2. Eligibility",
-        "description": "By using the Platform, you represent and warrant that:",
-        "list1": "You are at least 18 years old or of legal age in your jurisdiction;",
-        "list2": "You have the authority to enter into these Terms;",
-        "list3": "Your use of the Platform complies with all applicable laws, including financial and data-protection regulations.",
-        "note": "Access may be restricted or revoked if compliance obligations are not met or if false information is provided."
+        "title": "2. Způsobilost",
+        "description": "Používáním Platformy prohlašujete a zaručujete, že:",
+        "list1": "Jste starší 18 let nebo jste v zákonném věku ve vaší jurisdikci;",
+        "list2": "Máte oprávnění uzavřít tyto Podmínky;",
+        "list3": "Vaše používání Platformy je v souladu se všemi platnými zákony, včetně finančních předpisů a předpisů o ochraně dat.",
+        "note": "Přístup může být omezen nebo zrušen, pokud nejsou splněny závazky shody s předpisy nebo pokud jsou poskytnuty nepravdivé informace."
       },
       "services": {
-        "title": "3. Description of Services",
-        "description": "The Platform provides:",
-        "list1": "AI-based transaction analysis and risk scoring;",
-        "list2": "Integration with financial and crypto institutions via official APIs;",
-        "list3": "Automated generation of compliance and audit reports;",
-        "list4": "Optional automated initiation of chargeback, recall, or dispute requests when authorized by the user.",
-        "note1": "All actions are performed in read-only mode.",
-        "note2": "TraceNet does not execute or authorize financial transactions on behalf of users."
+        "title": "3. Popis Služeb",
+        "description": "Platforma poskytuje:",
+        "list1": "AI-založenou analýzu transakcí a skórování rizik;",
+        "list2": "Integraci s finančními a krypto institucemi prostřednictvím oficiálních API;",
+        "list3": "Automatické generování zpráv o shodě s předpisy a auditu;",
+        "list4": "Volitelnou automatickou iniciaci požadavků na zpětné zúčtování, odvolání nebo spor, pokud je to uživatelem autorizováno.",
+        "note1": "Všechny akce jsou prováděny v režimu pouze pro čtení.",
+        "note2": "TraceNet neprovádí ani neautorizuje finanční transakce jménem uživatelů."
       },
       "responsibilities": {
-        "title": "4. User Responsibilities",
-        "description": "Users agree to:",
-        "list1": "Provide accurate and complete information during onboarding;",
-        "list2": "Maintain confidentiality of access credentials and API keys;",
-        "list3": "Use the Platform only for lawful and authorized purposes;",
-        "list4": "Not misuse, resell, or reverse-engineer any part of the Platform;",
-        "list5": "Immediately notify TraceNet of any unauthorized access or security incident.",
-        "note": "Users are solely responsible for actions performed under their credentials."
+        "title": "4. Odpovědnost Uživatele",
+        "description": "Uživatelé souhlasí s tím, že:",
+        "list1": "Poskytnou přesné a úplné informace během onboardingu;",
+        "list2": "Zachovají důvěrnost přístupových pověření a API klíčů;",
+        "list3": "Budou Platformu používat pouze pro zákonné a autorizované účely;",
+        "list4": "Nebudou zneužívat, přeprodávat ani zpětně analyzovat žádnou část Platformy;",
+        "list5": "Okamžitě oznámí TraceNet jakýkoli neoprávněný přístup nebo bezpečnostní incident.",
+        "note": "Uživatelé jsou výhradně odpovědní za akce provedené pod jejich pověřeními."
       },
       "compliance": {
-        "title": "5. Compliance Onboarding",
-        "description1": "To access advanced features or API integrations, users must complete a short compliance onboarding process, as required by international financial regulators.",
-        "description2": "This process may include:",
-        "list1": "Identity and institutional verification (KYC/KYB);",
-        "list2": "Acceptance of TraceNet's compliance terms;",
-        "list3": "Confirmation of lawful data usage and purpose.",
-        "note": "Access tokens are issued only upon successful completion of this process."
+        "title": "5. Regulační Onboarding",
+        "description1": "Pro přístup k pokročilým funkcím nebo API integracím musí uživatelé dokončit krátký proces regulačního onboardingu, jak vyžadují mezinárodní finanční regulátoři.",
+        "description2": "Tento proces může zahrnovat:",
+        "list1": "Ověření identity a instituce (KYC/KYB);",
+        "list2": "Přijetí podmínek shody s předpisy společnosti TraceNet;",
+        "list3": "Potvrzení zákonného používání dat a účelu.",
+        "note": "Přístupové tokeny jsou vydány pouze po úspěšném dokončení tohoto procesu."
       },
       "ip": {
-        "title": "6. Intellectual Property",
-        "description1": "All intellectual property rights in the Platform, including software, models, text, design, and documentation, are owned by TraceNet Systems Ltd. or its licensors.",
-        "description2": "Users may not:",
-        "list1": "Copy, reproduce, or distribute any part of the Platform;",
-        "list2": "Use TraceNet's trademarks or branding without written permission;",
-        "list3": "Modify, decompile, or reverse-engineer the Platform or its AI models.",
-        "note": "All rights not expressly granted under these Terms are reserved by TraceNet."
+        "title": "6. Duševní Vlastnictví",
+        "description1": "Veškerá práva duševního vlastnictví v Platformě, včetně softwaru, modelů, textu, designu a dokumentace, jsou vlastněna společností TraceNet Systems Ltd. nebo jejími poskytovateli licencí.",
+        "description2": "Uživatelé nesmí:",
+        "list1": "Kopírovat, reprodukovat nebo distribuovat žádnou část Platformy;",
+        "list2": "Používat ochranné známky nebo branding společnosti TraceNet bez písemného svolení;",
+        "list3": "Měnit, dekompilovat nebo zpětně analyzovat Platformu nebo její modely AI.",
+        "note": "Všechna práva, která nejsou výslovně udělena těmito Podmínkami, jsou vyhrazena společnosti TraceNet."
       },
       "dataUse": {
-        "title": "7. Data Usage and Privacy",
-        "description1": "All data processed through the Platform is handled in accordance with the Privacy Policy.",
-        "description2": "Users acknowledge and agree that:",
-        "list1": "Data access is limited to read-only connections;",
-        "list2": "Data may be analyzed for risk, compliance, and operational improvement;",
-        "list3": "TraceNet may store metadata and anonymized insights for model optimization;",
-        "list4": "All data handling complies with GDPR, AML, and other applicable laws.",
-        "note": "Users retain ownership of their input data and analytical outputs."
+        "title": "7. Používání Dat a Soukromí",
+        "description1": "Všechna data zpracovávaná prostřednictvím Platformy jsou zpracovávána v souladu se Zásadami Ochrany Osobních Údajů.",
+        "description2": "Uživatelé berou na vědomí a souhlasí s tím, že:",
+        "list1": "Přístup k datům je omezen na připojení pouze pro čtení;",
+        "list2": "Data mohou být analyzována pro rizika, shodu s předpisy a provozní zlepšení;",
+        "list3": "TraceNet může ukládat metadata a anonymizované vhledy pro optimalizaci modelu;",
+        "list4": "Veškeré nakládání s daty je v souladu s GDPR, AML a dalšími platnými zákony.",
+        "note": "Uživatelé si ponechávají vlastnictví svých vstupních dat a analytických výstupů."
       },
       "security": {
-        "title": "8. Security",
-        "text1": "TraceNet implements industry-standard security protocols, including encryption, access control, and continuous monitoring.",
-        "text2": "However, no system is completely secure, and users acknowledge the inherent risks of data transmission over the internet.",
-        "text3": "TraceNet will not be liable for unauthorized access or incidents beyond its reasonable control."
+        "title": "8. Zabezpečení",
+        "text1": "TraceNet implementuje standardní bezpečnostní protokoly, včetně šifrování, kontroly přístupu a nepřetržitého monitorování.",
+        "text2": "Nicméně žádný systém není zcela bezpečný a uživatelé berou na vědomí přirozená rizika přenosu dat přes internet.",
+        "text3": "TraceNet nebude odpovědná za neoprávněný přístup nebo incidenty mimo její přiměřenou kontrolu."
       },
       "availability": {
-        "title": "9. Service Availability",
-        "description": "The Platform is provided on an \"as-is\" and \"as-available\" basis.",
-        "note": "TraceNet reserves the right to:",
-        "list1": "Modify, suspend, or discontinue any feature or service;",
-        "list2": "Perform scheduled or unscheduled maintenance;",
-        "list3": "Restrict access when required by law or regulator.",
-        "note2": "TraceNet shall not be liable for downtime, delays, or data unavailability."
+        "title": "9. Dostupnost Služby",
+        "description": "Platforma je poskytována \"tak, jak je\" a \"jak je k dispozici\".",
+        "note": "TraceNet si vyhrazuje právo:",
+        "list1": "Měnit, pozastavit nebo ukončit jakoukoli funkci nebo službu;",
+        "list2": "Provádět plánovanou nebo neplánovanou údržbu;",
+        "list3": "Omezit přístup, pokud to vyžaduje zákon nebo regulátor.",
+        "note2": "TraceNet nenese odpovědnost za prostoje, zpoždění nebo nedostupnost dat."
       },
       "prohibited": {
-        "title": "10. Prohibited Activities",
-        "description": "Users may not:",
-        "list1": "Attempt to gain unauthorized access to the Platform or its data;",
-        "list2": "Upload or transmit malicious code or data;",
-        "list3": "Use the Platform for unlawful, deceptive, or fraudulent activity;",
-        "list4": "Interfere with network operations or system integrity;",
-        "list5": "Circumvent security or authentication mechanisms.",
-        "note": "Violation of these terms may result in immediate suspension or termination of access."
+        "title": "10. Zakázané Aktivity",
+        "description": "Uživatelé nesmí:",
+        "list1": "Pokoušet se získat neoprávněný přístup k Platformě nebo jejím datům;",
+        "list2": "Nahrávat nebo přenášet škodlivý kód nebo data;",
+        "list3": "Používat Platformu pro nezákonné, klamavé nebo podvodné aktivity;",
+        "list4": "Narušovat síťové operace nebo integritu systému;",
+        "list5": "Obcházet bezpečnostní nebo ověřovací mechanismy.",
+        "note": "Porušení těchto podmínek může vést k okamžitému pozastavení nebo ukončení přístupu."
       },
       "liability": {
-        "title": "11. Limitation of Liability",
-        "text1": "To the maximum extent permitted by law:",
-        "text2": "TraceNet shall not be liable for any indirect, incidental, consequential, or punitive damages, including loss of profits, data, or goodwill, arising from or related to the use of the Platform.",
-        "text3": "TraceNet's total liability shall not exceed the amount paid by the user (if any) in the preceding twelve months."
+        "title": "11. Omezení Odpovědnosti",
+        "text1": "V maximálním rozsahu povoleném zákonem:",
+        "text2": "TraceNet nenese odpovědnost za žádné nepřímé, náhodné, následné nebo represivní škody, včetně ztráty zisku, dat nebo dobré pověsti, vyplývající z používání Platformy nebo s ním související.",
+        "text3": "Celková odpovědnost společnosti TraceNet nepřesáhne částku zaplacenou uživatelem (pokud existuje) v předchozích dvanácti měsících."
       },
       "indemnification": {
-        "title": "12. Indemnification",
-        "description": "Users agree to indemnify and hold harmless TraceNet Systems Ltd., its affiliates, and employees from any claims, damages, or expenses arising out of:",
-        "list1": "Violation of these Terms;",
-        "list2": "Misuse of the Platform;",
-        "list3": "Breach of applicable law or regulation."
+        "title": "12. Odškodnění",
+        "description": "Uživatelé souhlasí s odškodněním a ochranou společnosti TraceNet Systems Ltd., jejích přidružených společností a zaměstnanců před jakýmikoli nároky, škodami nebo výdaji vyplývajícími z:",
+        "list1": "Porušení těchto Podmínek;",
+        "list2": "Zneužití Platformy;",
+        "list3": "Porušení platného zákona nebo předpisu."
       },
       "termination": {
-        "title": "13. Termination",
-        "description": "TraceNet may suspend or terminate user access immediately if:",
-        "list1": "The user violates these Terms or compliance obligations;",
-        "list2": "The Platform is misused for illegal or non-compliant activity;",
-        "list3": "Required by a financial regulator or court order.",
-        "note": "Upon termination, all rights to use the Platform cease immediately."
+        "title": "13. Ukončení",
+        "description": "TraceNet může okamžitě pozastavit nebo ukončit přístup uživatele, pokud:",
+        "list1": "Uživatel poruší tyto Podmínky nebo závazky shody s předpisy;",
+        "list2": "Platforma je zneužita pro nezákonnou nebo nevyhovující aktivitu;",
+        "list3": "To vyžaduje finanční regulátor nebo soudní příkaz.",
+        "note": "Po ukončení okamžitě zanikají veškerá práva k používání Platformy."
       },
       "changes": {
-        "title": "14. Changes to These Terms",
-        "text1": "TraceNet may update these Terms periodically.",
-        "text2": "Revised Terms will be posted on this page with the updated \"Last Modified\" date.",
-        "text3": "Continued use of the Platform after updates constitutes acceptance of the revised Terms."
+        "title": "14. Změny Těchto Podmínek",
+        "text1": "TraceNet může tyto Podmínky pravidelně aktualizovat.",
+        "text2": "Revidované Podmínky budou zveřejněny na této stránce s aktualizovaným datem \"Naposledy Upraveno\".",
+        "text3": "Pokračující používání Platformy po aktualizacích představuje přijetí revidovaných Podmínek."
       },
       "governingLaw": {
-        "title": "15. Governing Law and Jurisdiction",
-        "text1": "These Terms are governed by and construed under the laws of Israel, without regard to conflict-of-law principles.",
-        "text2": "Any dispute arising under these Terms shall be subject to the exclusive jurisdiction of the courts of Tel Aviv District, Israel."
+        "title": "15. Rozhodné Právo a Jurisdikce",
+        "text1": "Tyto Podmínky se řídí a vykládají podle zákonů Izraele, bez ohledu na principy kolize právních norem.",
+        "text2": "Jakýkoli spor vyplývající z těchto Podmínek bude podléhat výhradní jurisdikci soudů v okrese Tel Aviv, Izrael."
       },
       "contact": {
-        "title": "16. Contact Information",
-        "description": "For any questions, notices, or legal correspondence regarding these Terms, please contact:",
+        "title": "16. Kontaktní Informace",
+        "description": "Pro jakékoli dotazy, oznámení nebo právní korespondenci týkající se těchto Podmínek kontaktujte:",
         "email": "📧 legal@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
-        "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
+        "address": "14 HaGefen Street, Ramat Gan, 5252174, Izrael",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
-        "compliantList": "GDPR (2016/679), AMLD6, Open Banking PSD2, ISO 27001, SOC 2 Type II, PCI DSS, and relevant Israeli corporate law."
+        "compliantLabel": "✅ V souladu s:",
+        "compliantList": "GDPR (2016/679), AMLD6, Open Banking PSD2, ISO 27001, SOC 2 Type II, PCI DSS a příslušným izraelským korporátním právem."
       }
     }
   },
   "th": {
-    "title": "Thank you for your registration!",
-    "subtitle": "Our colleague will contact you soon",
-    "button": "Back to Home"
+    "title": "Děkujeme za vaši registraci!",
+    "subtitle": "Náš kolega vás brzy kontaktuje",
+    "button": "Zpět na hlavní stránku"
   },
   "contact": {
-    "title": "Technology That Strengthens Financial Integrity",
-    "subtitle": "Built on Google Gemini. Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
+    "title": "Technologie, Která Posiluje Finanční Integritu",
+    "subtitle": "Postavena na Google Gemini. Navržena tak, aby byl globální finanční ekosystém transparentnější, inteligentnější a odpovědnější.",
     "form": {
-      "title": "Fill in your details below",
-      "firstName": "First Name*",
-      "lastName": "Last Name*",
-      "email": "Email*",
-      "phone": "Phone*",
-      "message": "Anything we should know before our call?",
-      "privacy": "By submitting this form I accept the <a href=\"privacy-policy.html\">privacy policy</a> terms",
-      "submit": "Explore the Architecture"
+      "title": "Vyplňte své údaje níže",
+      "firstName": "Jméno*",
+      "lastName": "Příjmení*",
+      "email": "E-mail*",
+      "phone": "Telefon*",
+      "message": "Máme něco vědět před naším hovorem?",
+      "privacy": "Odesláním tohoto formuláře přijímám podmínky <a href=\"privacy-policy.html\">zásad ochrany osobních údajů</a>",
+      "submit": "Prozkoumat Architekturu"
     }
   },
   "awards": {
-    "title": "Awards and Recognitions"
+    "title": "Ocenění a Uznání"
   },
   "footer": {
-    "description": "Built on Google Gemini.<br>Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
-    "contact": "Contact Us",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Use",
-    "cookie": "Cookie Policy",
-    "legal": "The analyses published within the scope of this service were prepared on behalf of Bridgewise Analytics Ltd (the \"Company\")."
+    "description": "Postaveno na Google Gemini.<br>Navrženo tak, aby byl globální finanční ekosystém transparentnější, inteligentnější a odpovědnější.",
+    "contact": "Kontaktujte Nás",
+    "privacy": "Zásady Ochrany Osobních Údajů",
+    "terms": "Podmínky Používání",
+    "cookie": "Zásady Používání Souborů Cookie",
+    "legal": "Analýzy publikované v rámci této služby byly připraveny jménem společnosti Bridgewise Analytics Ltd (dále jen \"Společnost\")."
   },
   "cookie": {
-    "title": "This website uses cookies to improve the user experience and analyze traffic.",
-    "description": "By clicking the “Continue” button or by continuing to use the website, you consent to the use of cookies in your browser. You can manage cookies at any time in your browser settings. For more information, please read our Privacy Policy, Cookie Policy, and User Agreement.",
-    "close": "Close",
-    "accept": "Continue"
+    "title": "Tyto webové stránky používají soubory cookie ke zlepšení uživatelského zážitku a analýze provozu.",
+    "description": "Kliknutím na tlačítko „Pokračovat“ nebo dalším používáním webových stránek souhlasíte s používáním souborů cookie ve vašem prohlížeči. Cookies můžete kdykoli spravovat v nastavení prohlížeče. Pro více informací si přečtěte naše Zásady Ochrany Osobních Údajů, Zásady Používání Souborů Cookie a Uživatelskou Smlouvu.",
+    "close": "Zavřít",
+    "accept": "Pokračovat"
   }
 }
-

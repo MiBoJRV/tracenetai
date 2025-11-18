@@ -1,727 +1,726 @@
 {
   "nav": {
-    "technology": "TECHNOLOGY",
-    "solutions": "SOLUTIONS",
-    "compliance": "COMPLIANCE & SECURITY",
-    "about": "ABOUT US",
-    "contact": "Contact us"
+    "technology": "TEHNOLOGIJA",
+    "solutions": "RJEŠENJA",
+    "compliance": "USKLAĐENOST I SIGURNOST",
+    "about": "O NAMA",
+    "contact": "Kontaktirajte nas"
   },
   "banner": {
-    "title": "AI Infrastructure for Global Transaction Transparency",
-    "description": "Powered by Google Gemini technology and integrated with banks and crypto platforms worldwide, our system provides real-time visibility into fund movements, risk scoring, and automated compliance actions.",
-    "cta": "Explore the Technology"
+    "title": "AI infrastruktura za globalnu transparentnost transakcija",
+    "description": "Pokretan Google Gemini tehnologijom i integriran s bankama i kripto platformama širom svijeta, naš sustav pruža vidljivost kretanja fondova u stvarnom vremenu, bodovanje rizika i automatizirane radnje usklađenosti.",
+    "cta": "Istražite Tehnologiju"
   },
   "about": {
-    "title": "Understanding the Platform",
-    "paragraph1": "The system combines large-scale financial data modeling, behavioral analytics, and regulatory intelligence to interpret the flow of money across connected accounts and digital assets.",
-    "paragraph2": "It operates as a neutral analytical layer — securely connected to financial institutions through verified APIs, providing structured insight into every transaction chain and its associated risk."
+    "title": "Razumijevanje platforme",
+    "paragraph1": "Sustav kombinira opsežno modeliranje financijskih podataka, bihevioralnu analitiku i regulatornu inteligenciju za tumačenje protoka novca kroz povezane račune i digitalnu imovinu.",
+    "paragraph2": "Djeluje kao neutralni analitički sloj — sigurno povezan s financijskim institucijama putem provjerenih API-ja, pružajući strukturirani uvid u svaki transakcijski lanac i s njim povezani rizik."
   },
   "features": {
     "connectivity": {
-      "title": "Connectivity",
-      "text": "Direct API integrations with regulated banks and major crypto exchanges."
+      "title": "Povezivost",
+      "text": "Izravne API integracije s reguliranim bankama i glavnim kripto mjenjačnicama."
     },
     "intelligence": {
-      "title": "Intelligence",
-      "text": "Gemini-based models optimized for real-time financial reasoning."
+      "title": "Inteligencija",
+      "text": "Modeli temeljeni na Geminiju optimizirani za financijsko rasuđivanje u stvarnom vremenu."
     },
     "integrity": {
-      "title": "Integrity",
-      "text": "Fully compliant with GDPR, AMLD6, and open-banking frameworks."
+      "title": "Integritet",
+      "text": "Potpuno usklađeno s GDPR-om, AMLD6 i okvirima otvorenog bankarstva."
     }
   },
   "layers": {
-    "title": "Core Functional Layers",
+    "title": "Osnovni funkcionalni slojevi",
     "analysis": {
-      "title": "Analysis",
-      "text": "Processes multi-channel financial data and identifies irregular activity using Gemini's contextual understanding."
+      "title": "Analiza",
+      "text": "Obrađuje višekanalne financijske podatke i identificira neregularne aktivnosti koristeći Geminijevo kontekstualno razumijevanje."
     },
     "risk": {
-      "title": "Risk Evaluation",
-      "text": "Applies AI-driven scoring and behavioral clustering to determine exposure to fraud, unauthorized use, or compliance breach."
+      "title": "Procjena rizika",
+      "text": "Primjenjuje AI-vođeno bodovanje i bihevioralno grupiranje za određivanje izloženosti prijevari, neovlaštenoj upotrebi ili kršenju usklađenosti."
     },
     "response": {
-      "title": "Automated Response",
-      "text": "When risk thresholds are reached, the system can initiate authorized procedures — including chargeback, recall, or dispute actions — directly through institutional APIs."
+      "title": "Automatizirani odgovor",
+      "text": "Kada se dosegnu pragovi rizika, sustav može pokrenuti ovlaštene procedure — uključujući povrat troškova (chargeback), opoziv ili radnje spora — izravno putem institucionalnih API-ja."
     }
   },
   "benefit": {
-    "title": "Access and Regulatory Framework",
-    "item1": "Because the platform interacts with live financial networks, access is granted only after completion of a short compliance onboarding required by global regulators.",
-    "item2": "This ensures lawful data exchange, verified identity, and full accountability of every operation executed through the AI infrastructure.",
-    "footer": "Compliance is not an add-on — it's an integral part of the system design."
+    "title": "Pristup i Regulatorni okvir",
+    "item1": "Budući da platforma komunicira s financijskim mrežama uživo, pristup se odobrava tek nakon dovršetka kratkog postupka usklađivanja (onboarding) kojeg zahtijevaju globalni regulatori.",
+    "item2": "To osigurava zakonitu razmjenu podataka, provjereni identitet i potpunu odgovornost za svaku operaciju izvršenu putem AI infrastrukture.",
+    "footer": "Usklađenost nije dodatak — ona je sastavni dio dizajna sustava."
   },
   "transparency": {
-    "title": "Designed for Transparency, Built for Trust",
-    "text1": "The platform helps institutions and individuals detect irregular financial behavior, reduce exposure to fraud, and maintain full visibility over both fiat and digital transactions.",
-    "text2": "It functions as a permanent monitoring layer that ensures each movement of value is traceable, explainable, and compliant.",
-    "box1": "Real-time transaction interpretation across financial networks",
-    "box2": "Automated compliance checks and incident reporting",
-    "box3": "Secure, read-only API connections",
-    "box4": "Structured traceability for regulators and users alike"
+    "title": "Dizajnirano za transparentnost, izgrađeno za povjerenje",
+    "text1": "Platforma pomaže institucijama i pojedincima da otkriju neregularno financijsko ponašanje, smanje izloženost prijevari i zadrže potpunu vidljivost nad fiat i digitalnim transakcijama.",
+    "text2": "Funkcionira kao trajni sloj za nadzor koji osigurava da je svako kretanje vrijednosti sljedivo, objašnjivo i usklađeno.",
+    "box1": "Tumačenje transakcija u stvarnom vremenu preko financijskih mreža",
+    "box2": "Automatizirane provjere usklađenosti i izvještavanje o incidentima",
+    "box3": "Sigurne API veze samo za čitanje",
+    "box4": "Strukturirana sljedivost za regulatore i korisnike"
   },
   "technology": {
     "hero": {
-      "title": "Gemini-Powered Financial Intelligence Architecture",
-      "description": "The system is powered by Google Gemini's multimodal AI framework — an infrastructure capable of analyzing structured and unstructured financial data at scale. Combined with proprietary risk and compliance logic, it enables continuous monitoring, contextual reasoning, and secure interaction with financial institutions and blockchain ecosystems.",
-      "summary": "At its core, the platform transforms complex transaction data into transparent, regulator-ready insights."
+      "title": "Arhitektura financijske inteligencije temeljena na Geminiju",
+      "description": "Sustav je pokretan Google Geminijevim multimodalnim AI okvirom — infrastrukturom sposobnom za analizu strukturiranih i nestrukturiranih financijskih podataka u velikom obimu. U kombinaciji s vlasničkom logikom rizika i usklađenosti, omogućuje kontinuirani nadzor, kontekstualno rasuđivanje i sigurnu interakciju s financijskim institucijama i blockchain ekosustavima.",
+      "summary": "U svojoj srži, platforma transformira složene transakcijske podatke u transparentne uvide spremne za regulatore."
     },
     "architecture": {
-      "title": "System Architecture",
-      "description": "The technology stack is organized into five interconnected layers, each dedicated to a specific stage of financial data processing — from secure ingestion to regulatory action.",
+      "title": "Arhitektura sustava",
+      "description": "Tehnološki stog organiziran je u pet međusobno povezanih slojeva, od kojih je svaki posvećen određenoj fazi obrade financijskih podataka — od sigurnog unosa do regulatorne akcije.",
       "layers": {
         "data": {
-          "title": "Data Sources",
-          "text": "Read-only access to banks, payment processors, and crypto exchanges via verified APIs. Supports Open Banking, ISO 20022, and blockchain data streams."
+          "title": "Izvori podataka",
+          "text": "Pristup bankama, procesorima plaćanja i kripto mjenjačnicama samo za čitanje putem provjerenih API-ja. Podržava Open Banking, ISO 20022 i blockchain tokove podataka."
         },
         "gemini": {
-          "title": "Gemini AI Core",
-          "text": "Processes high-volume financial data using Gemini's multimodal reasoning capabilities. Performs natural-language interpretation of metadata, behavioral clustering, and entity correlation across accounts."
+          "title": "Gemini AI Jezgra",
+          "text": "Obrađuje veliki obim financijskih podataka koristeći Geminijeve mogućnosti multimodalnog rasuđivanja. Izvršava interpretaciju metapodataka prirodnim jezikom, bihevioralno grupiranje i korelaciju entiteta na razini računa."
         },
         "risk": {
-          "title": "Risk Engine",
-          "text": "Executes machine learning–based scoring logic that identifies anomalies, duplicate transfers, hidden subscriptions, and unauthorized activity. Each chain of transactions receives a dynamic risk profile updated in real time."
+          "title": "Motor za rizik",
+          "text": "Izvršava logiku bodovanja temeljenu na strojnom učenju koja identificira anomalije, dvostruke prijenose, skrivene pretplate i neovlaštene aktivnosti. Svaki lanac transakcija dobiva dinamički profil rizika ažuriran u stvarnom vremenu."
         },
         "compliance": {
-          "title": "Compliance Layer",
-          "text": "Implements AML, KYC, GDPR, and regional data-protection standards. Ensures traceability and accountability of every decision generated by the AI. Provides audit logs compatible with regulatory review formats."
+          "title": "Sloj usklađenosti",
+          "text": "Implementira AML, KYC, GDPR i regionalne standarde zaštite podataka. Osigurava sljedivost i odgovornost za svaku odluku koju generira AI. Pruža zapise revizije (audit log) kompatibilne s formatima za regulatorni pregled."
         },
         "response": {
-          "title": "Response API Gateway",
-          "text": "Acts as a secure communication channel between the platform and financial institutions. Authorized by compliance rules, it can initiate chargeback, recall, or dispute procedures when confirmed irregularities are detected."
+          "title": "API Gateway za odgovor",
+          "text": "Djeluje kao siguran komunikacijski kanal između platforme i financijskih institucija. Ovlašten pravilima usklađenosti, može pokrenuti povrat troškova, opoziv ili postupke spora kada se otkriju potvrđene neregularnosti."
         }
       }
     },
     "secureData": {
-      "title": "Secure Data Handling",
-      "description": "All connected data flows operate in read-only mode.<br>The platform does not execute or store financial operations; it only interprets and reports them.",
+      "title": "Sigurno rukovanje podacima",
+      "description": "Svi povezani tokovi podataka rade u načinu rada samo za čitanje.<br>Platforma ne izvršava niti pohranjuje financijske operacije; ona ih samo tumači i izvještava.",
       "accordion": {
-        "title": "Security measures:",
-        "text": "• TLS 1.3 and AES-256 end-to-end encryption<br>• Differential privacy in all data aggregation processes<br>• Region-based data segregation (EU / NA / APAC)<br>• Immutable audit trail stored in compliance-ready format"
+        "title": "Sigurnosne mjere:",
+        "text": "• TLS 1.3 i AES-256 end-to-end enkripcija<br>• Diferencijalna privatnost u svim procesima agregacije podataka<br>• Regionalna segregacija podataka (EU / NA / APAC)<br>• Nepromjenjivi trag revizije (audit trail) pohranjen u formatu spremnom za usklađenost"
       }
     },
     "geminiRisk": {
-      "title": "Gemini Cognitive Risk Engine",
-      "description": "Using Gemini's reasoning capabilities, the platform interprets financial behavior not only through numerical anomalies, but also through semantic patterns — e.g. metadata, transaction descriptions, and behavioral correlations.",
+      "title": "Gemini Kognitivni Motor za Rizik",
+      "description": "Koristeći Geminijeve mogućnosti rasuđivanja, platforma tumači financijsko ponašanje ne samo kroz numeričke anomalije, već i kroz semantičke obrasce — npr. metapodatke, opise transakcija i bihevioralne korelacije.",
       "accordion": {
-        "title": "Capabilities:",
-        "text": "• Continuous anomaly detection across fiat and crypto ecosystems<br>• Behavior-based fraud scoring (0–100 scale)<br>• Contextual understanding of transaction purpose and counterpart behavior<br>• Adaptive learning: the model evolves as transaction networks change"
+        "title": "Mogućnosti:",
+        "text": "• Kontinuirano otkrivanje anomalija u fiat i kripto ekosustavima<br>• Bodovanje prijevare temeljeno na ponašanju (skala 0–100)<br>• Kontekstualno razumijevanje svrhe transakcije i ponašanja druge strane<br>• Adaptivno učenje: model se razvija kako se transakcijske mreže mijenjaju"
       }
     },
     "intelligentAction": {
-      "title": "Intelligent Action Framework",
-      "description": "When the AI identifies high-risk financial behavior, it prepares a structured incident report and — within the regulatory boundaries — triggers automated responses through partner APIs:",
+      "title": "Okvir Inteligentnog Djelovanja",
+      "description": "Kada AI identificira visokorizično financijsko ponašanje, priprema strukturirano izvješće o incidentu i — unutar regulatornih granica — pokreće automatizirane odgovore putem partnerskih API-ja:",
       "accordion": {
-        "title": "All actions are logged, timestamped, and approved within the compliance layer before execution.",
-        "text": "• Bank chargeback / recall requests for suspicious transfers<br>• Exchange dispute / refund submissions for fraudulent digital-asset activity<br>• Regulatory incident report generated for audit and supervision"
+        "title": "Sve radnje se bilježe, označavaju vremenskom oznakom i odobravaju unutar sloja usklađenosti prije izvršenja.",
+        "text": "• Zahtjevi za povrat troškova/opoziv u banci za sumnjive prijenose<br>• Podnošenje spora/povrata na mjenjačnici za lažne aktivnosti digitalne imovine<br>• Generiranje regulatornog izvješća o incidentu za reviziju i nadzor"
       }
     },
     "explainable": {
-      "title": "Explainable and Auditable AI",
-      "description": "Every output produced by the Gemini-based core includes explainability metadata: which variables influenced a decision, why the model classified an action as risky, and what regulatory framework the response aligns with.",
+      "title": "Objašnjivi i revizibilni AI",
+      "description": "Svaki izlaz koji proizvede jezgra temeljena na Geminiju uključuje metapodatke objašnjivosti: koje su varijable utjecale na odluku, zašto je model klasificirao radnju kao rizičnu i s kojim se regulatornim okvirom odgovor usklađuje.",
       "accordion": {
-        "title": "Features:",
-        "text": "• Transparent model decisions for auditors and regulators<br>• Traceable reasoning chain for each incident<br>• Configurable sensitivity thresholds per user or institution"
+        "title": "Značajke:",
+        "text": "• Transparentne odluke modela za revizore i regulatore<br>• Sljedivi lanac rasuđivanja za svaki incident<br>• Konfigurabilni pragovi osjetljivosti po korisniku ili instituciji"
       }
     },
     "standards": {
-      "title": "Aligned with Global Standards",
-      "description": "The system adheres to the highest standards of security and financial data governance. All operations follow the principles of open banking, data minimalism, and regulator supervision.",
+      "title": "Usklađeno s Globalnim Standardima",
+      "description": "Sustav se pridržava najviših standarda sigurnosti i upravljanja financijskim podacima. Sve operacije slijede načela otvorenog bankarstva, minimalizma podataka i regulatornog nadzora.",
       "accordion": {
-        "title": "Compliance frameworks:",
-        "text": "• GDPR (Europe)<br>• AMLD6 (EU directive)<br>• ISO 27001 (Information Security)<br>• SOC 2 (Data integrity and privacy)<br>• PCI DSS (Financial data protection)"
+        "title": "Okviri usklađenosti:",
+        "text": "• GDPR (Europa)<br>• AMLD6 (EU direktiva)<br>• ISO 27001 (Informacijska sigurnost)<br>• SOC 2 (Integritet i privatnost podataka)<br>• PCI DSS (Zaštita financijskih podataka)"
       }
     }
   },
   "solutions": {
     "hero": {
-      "title": "Applications Across the Financial Ecosystem",
-      "description": "The platform's modular architecture allows it to operate across multiple layers of the financial landscape — from individual account monitoring to institutional compliance infrastructure.<br>Built on Gemini's AI framework, it interprets transaction data, evaluates behavioral risk, and acts through verified financial APIs.",
-      "summary": "Different users. One system of transparency."
+      "title": "Primjene u cijelom financijskom ekosustavu",
+      "description": "Modularna arhitektura platforme omogućuje joj rad na više razina financijskog okruženja — od individualnog nadzora računa do institucionalne infrastrukture usklađenosti.<br>Izgrađena na Geminijevom AI okviru, tumači transakcijske podatke, procjenjuje bihevioralni rizik i djeluje putem provjerenih financijskih API-ja.",
+      "summary": "Različiti korisnici. Jedan sustav transparentnosti."
     },
     "personal": {
-      "title": "Personal Financial Awareness and Protection",
-      "description": "For individual users, the system functions as a continuous monitoring environment that provides real-time visibility into every transaction. It identifies recurring charges, hidden subscriptions, and potential unauthorized activity—and, when required, initiates authorized refund or dispute requests through the user’s financial institution.",
+      "title": "Osobna financijska svijest i zaštita",
+      "description": "Za pojedinačne korisnike, sustav funkcionira kao kontinuirano okruženje za nadzor koje pruža vidljivost u stvarnom vremenu u svaku transakciju. Identificira ponavljajuće naknade, skrivene pretplate i potencijalne neovlaštene aktivnosti—i, kada je potrebno, pokreće ovlaštene zahtjeve za povrat novca ili spor putem korisnikove financijske institucije.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Detect recurring or duplicate payments<br>• Identify unauthorized transactions before they accumulate<br>• Receive structured reports with fraud scores and compliance context<br>• Automate chargeback or recall processes securely"
+        "title": "Slučajevi upotrebe:",
+        "text": "• Otkrivanje ponavljajućih ili dvostrukih plaćanja<br>• Identificiranje neovlaštenih transakcija prije nego što se akumuliraju<br>• Primanje strukturiranih izvješća s bodovima prijevare i kontekstom usklađenosti<br>• Sigurna automatizacija procesa povrata troškova ili opoziva"
       },
-      "note": "Individuals gain clarity over their digital finances and reduce losses from unnoticed activity or subscription leakage."
+      "note": "Pojedinci dobivaju jasnoću nad svojim digitalnim financijama i smanjuju gubitke od neprimijećene aktivnosti ili propuštanja pretplate."
     },
     "corporate": {
-      "title": "Corporate Transaction Oversight",
-      "description": "For enterprises, the platform acts as a financial integrity layer—monitoring all outgoing and incoming transactions to ensure they align with internal policies, vendor agreements, and regional compliance standards.",
+      "title": "Nadzor korporativnih transakcija",
+      "description": "Za poduzeća, platforma djeluje kao sloj financijskog integriteta—nadzirući sve odlazne i dolazne transakcije kako bi se osigurala usklađenost s internim politikama, ugovorima s dobavljačima i regionalnim standardima usklađenosti.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Detect unapproved or duplicate vendor payments<br>• Analyze financial exposure across accounts and subsidiaries<br>• Generate automated compliance and audit reports<br>• Identify early indicators of account misuse or insider fraud"
+        "title": "Slučajevi upotrebe:",
+        "text": "• Otkrivanje neodobrenih ili dvostrukih plaćanja dobavljačima<br>• Analiza financijske izloženosti na svim računima i podružnicama<br>• Generiranje automatiziranih izvješća o usklađenosti i reviziji<br>• Identificiranje ranih pokazatelja zlouporabe računa ili interne prijevare"
       },
-      "note": "Financial institutions gain a scalable, regulator-aligned AI layer for fraud management and customer protection."
+      "note": "Financijske institucije dobivaju skalabilan, regulatorno usklađen AI sloj za upravljanje prijevarama i zaštitu kupaca."
     },
     "infrastructure": {
-      "title": "AI-Powered Fraud and Compliance Infrastructure",
-      "description": "Banks, fintech companies, and exchanges integrate the system through API to enhance their fraud detection, transaction traceability, and regulatory response capabilities. The Gemini-based core delivers contextual risk assessment for both fiat and crypto operations, improving precision and reducing false positives.",
+      "title": "AI-vođena infrastruktura za prijevare i usklađenost",
+      "description": "Banke, fintech tvrtke i mjenjačnice integriraju sustav putem API-ja kako bi poboljšali svoje mogućnosti otkrivanja prijevara, sljedivosti transakcija i regulatornog odgovora. Jezgra temeljena na Geminiju pruža kontekstualnu procjenu rizika za fiat i kripto operacije, poboljšavajući preciznost i smanjujući lažne pozitivne rezultate.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Real-time anomaly detection across payment networks<br>• Automated escalation of high-risk transaction chains<br>• Instant generation of incident reports for compliance teams<br>• Support for chargeback and dispute automation through regulated APIs"
+        "title": "Slučajevi upotrebe:",
+        "text": "• Otkrivanje anomalija u stvarnom vremenu u platnim mrežama<br>• Automatizirana eskalacija visokorizičnih transakcijskih lanaca<br>• Trenutno generiranje izvješća o incidentima za timove za usklađenost<br>• Podrška za automatizaciju povrata troškova i spora putem reguliranih API-ja"
       },
-      "note": "Financial institutions gain a scalable, regulator-aligned AI layer for fraud management and customer protection."
+      "note": "Financijske institucije dobivaju skalabilan, regulatorno usklađen AI sloj za upravljanje prijevarama i zaštitu kupaca."
     },
     "regulatory": {
-      "title": "Transparent Oversight and Traceability",
-      "description": "For supervisory bodies and regulatory auditors, the platform provides a neutral AI-driven view of transaction networks—with explainable reasoning, immutable audit trails, and standardized data export formats.",
+      "title": "Transparentan nadzor i sljedivost",
+      "description": "Za nadzorna tijela i regulatorne revizore, platforma pruža neutralan, AI-vođen pogled na transakcijske mreže—s objašnjivim rasuđivanjem, nepromjenjivim tragovima revizije i standardiziranim formatima izvoza podataka.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Cross-platform tracing of suspicious fund movement<br>• Automated AML/KYC anomaly detection<br>• Centralized visualization of institution-wide financial flows<br>• On-demand audit data with full explainability metadata"
+        "title": "Slučajevi upotrebe:",
+        "text": "• Praćenje sumnjivog kretanja fondova preko platformi<br>• Automatizirano otkrivanje AML/KYC anomalija<br>• Centralizirana vizualizacija financijskih tokova na razini institucije<br>• Revizijski podaci na zahtjev s metapodacima pune objašnjivosti"
       },
-      "note": "Regulators receive structured, verified, and explainable financial intelligence aligned with global compliance frameworks."
+      "note": "Regulatori dobivaju strukturiranu, provjerenu i objašnjivu financijsku inteligenciju usklađenu s globalnim okvirima usklađenosti."
     },
     "connectivity": {
-      "title": "Unified Ecosystem Connectivity",
-      "description": "Through open APIs, the system connects to financial, blockchain, and compliance infrastructures — enabling data exchange between individual, corporate, and institutional layers without compromising privacy or regulatory boundaries.",
+      "title": "Ujedinjena povezanost ekosustava",
+      "description": "Putem otvorenih API-ja, sustav se povezuje s financijskim, blockchain i infrastrukturama usklađenosti — omogućujući razmjenu podataka između individualnih, korporativnih i institucionalnih slojeva bez ugrožavanja privatnosti ili regulatornih granica.",
       "accordion": {
-        "title": "Integrations include:",
-        "text": "• Retail and commercial banks<br>• Payment gateways and acquirers<br>• Major crypto exchanges and custodians<br>• Compliance management systems<br>• Governmental AML & financial intelligence units"
+        "title": "Integracije uključuju:",
+        "text": "• Maloprodajne i komercijalne banke<br>• Pristupnike i prihvatitelje plaćanja<br>• Glavne kripto mjenjačnice i skrbnike<br>• Sustave za upravljanje usklađenošću<br>• Vladine jedinice za AML i financijsku inteligenciju"
       }
     },
     "impact": {
-      "title": "Impact Across All Stakeholders",
-      "description": "By introducing explainable AI into the financial ecosystem, the platform improves visibility, reduces systemic fraud, and enhances compliance efficiency across all participants.",
+      "title": "Utjecaj na sve dionike",
+      "description": "Uvođenjem objašnjivog AI-a u financijski ekosustav, platforma poboljšava vidljivost, smanjuje sistemsku prijevaru i poboljšava učinkovitost usklađenosti za sve sudionike.",
       "accordion": {
-        "title": "Shared benefits:",
-        "text": "• Unified fraud-risk framework across fiat and crypto ecosystems<br>• Automated compliance actions with regulator-approved logic<br>• Reduced operational costs for investigation and reporting<br>• Enhanced user trust through transparency and accountability"
+        "title": "Zajedničke prednosti:",
+        "text": "• Ujedinjeni okvir rizika prijevare u fiat i kripto ekosustavima<br>• Automatizirane radnje usklađenosti s logikom koju su odobrili regulatori<br>• Smanjeni operativni troškovi za istrage i izvještavanje<br>• Poboljšano povjerenje korisnika kroz transparentnost i odgovornost"
       }
     }
   },
   "compliance": {
     "hero": {
-      "title": "Compliance and Security by Design",
-      "description": "The platform is built on the principle that transparency and compliance are not external requirements — they are core components of the system’s architecture. From data encryption to regulatory verification, every process is designed to align with global standards of financial integrity and information security.",
-      "summary": "Security is engineered. Compliance is embedded."
+      "title": "Usklađenost i Sigurnost po Dizajnu",
+      "description": "Platforma je izgrađena na načelu da transparentnost i usklađenost nisu vanjski zahtjevi — oni su temeljne komponente arhitekture sustava. Od enkripcije podataka do regulatorne provjere, svaki je proces dizajniran da se uskladi s globalnim standardima financijskog integriteta i informacijske sigurnosti.",
+      "summary": "Sigurnost je inženjerski osmišljena. Usklađenost je ugrađena."
     },
     "secureData": {
-      "title": "Secure Data Architecture",
-      "description": "All operations are conducted in a read-only mode to prevent any unauthorized changes, fund movements, or account access. The platform serves exclusively as an analytical layer, ensuring users’ and institutions’ financial data remain protected at every stage.",
+      "title": "Sigurna Arhitektura Podataka",
+      "description": "Sve se operacije provode u načinu rada samo za čitanje kako bi se spriječile bilo kakve neovlaštene promjene, kretanja fondova ili pristup računu. Platforma služi isključivo kao analitički sloj, osiguravajući da financijski podaci korisnika i institucija ostanu zaštićeni u svakoj fazi.",
       "accordion": {
-        "title": "Key mechanisms:",
-        "text": "• End-to-end encryption (TLS 1.3 / AES-256)<br>• Zero data persistence for sensitive credentials<br>• Multi-region storage under data-localization laws<br>• Continuous vulnerability assessment and penetration testing<br>• Independent third-party security audits"
+        "title": "Ključni mehanizmi:",
+        "text": "• End-to-end enkripcija (TLS 1.3 / AES-256)<br>• Nulta perzistentnost podataka za osjetljive vjerodajnice<br>• Višeregionalna pohrana prema zakonima o lokalizaciji podataka<br>• Kontinuirana procjena ranjivosti i testiranje prodiranja<br>• Neovisne revizije sigurnosti trećih strana"
       }
     },
     "regulatory": {
-      "title": "Regulatory Alignment",
-      "description": "The compliance layer integrates international regulatory standards to ensure every data interaction, risk analysis, or automated response remains within the boundaries of financial law.",
+      "title": "Regulatorno Usklađivanje",
+      "description": "Sloj usklađenosti integrira međunarodne regulatorne standarde kako bi se osiguralo da svaka interakcija s podacima, analiza rizika ili automatizirani odgovor ostanu unutar granica financijskog zakona.",
       "accordion": {
-        "title": "Supported frameworks:",
-        "text": "• GDPR — General Data Protection Regulation (EU)<br>• AMLD6 — Anti-Money Laundering Directive (EU)<br>• FATF — Financial Action Task Force recommendations<br>• ISO 27001 / SOC 2 — Information Security and Data Management<br>• PCI DSS — Payment Card Industry Data Security Standard<br>• Open Banking PSD2 — Secure API connectivity and user consent model"
+        "title": "Podržani okviri:",
+        "text": "• GDPR — Opća uredba o zaštiti podataka (EU)<br>• AMLD6 — Direktiva o sprečavanju pranja novca (EU)<br>• FATF — Preporuke Radne skupine za financijsko djelovanje<br>• ISO 27001 / SOC 2 — Informacijska sigurnost i upravljanje podacima<br>• PCI DSS — Standard sigurnosti podataka industrije platnih kartica<br>• Open Banking PSD2 — Sigurna API povezanost i model pristanka korisnika"
       },
-      "note": "Every compliance operation is logged, auditable, and traceable for both internal review and regulator access."
+      "note": "Svaka operacija usklađenosti je zabilježena, revizibilna i sljediva za interni pregled i pristup regulatora."
     },
     "identity": {
-      "title": "Identity Verification and Authorization",
-      "description": "To maintain data integrity and prevent misuse, user access to the AI system is granted only after completing a mandatory compliance onboarding.<br><br>This short course, required by financial regulators, verifies user identity, purpose of use, and awareness of data-handling obligations.",
-      "stepsTitle": "Access procedure:",
-      "step1": "Identity and source verification (KYC)",
-      "step2": "Acceptance of compliance terms",
-      "step3": "Completion of automated onboarding",
-      "step4": "Tokenized API access granted under regulator supervision",
-      "note": "Each user operates within a verified and traceable framework, ensuring lawful access to AI-driven financial intelligence."
+      "title": "Verifikacija Identiteta i Autorizacija",
+      "description": "Kako bi se održao integritet podataka i spriječila zlouporaba, korisnički pristup AI sustavu odobrava se tek nakon dovršetka obveznog usklađivanja (onboarding).<br><br>Ovaj kratki tečaj, koji zahtijevaju financijski regulatori, provjerava identitet korisnika, svrhu upotrebe i svijest o obvezama rukovanja podacima.",
+      "stepsTitle": "Procedura pristupa:",
+      "step1": "Provjera identiteta i izvora (KYC)",
+      "step2": "Prihvaćanje uvjeta usklađenosti",
+      "step3": "Dovršetak automatiziranog usklađivanja",
+      "step4": "Tokenizirani API pristup odobren pod nadzorom regulatora",
+      "note": "Svaki korisnik djeluje unutar provjerenog i sljedivog okvira, osiguravajući zakonit pristup AI-vođenoj financijskoj inteligenciji."
     },
     "audit": {
-      "title": "Auditability and Accountability",
-      "description": "Every system action — from API request to AI decision — is recorded in an immutable audit log. This provides regulators, compliance officers, and auditors with full visibility over data flow and decision-making processes.",
+      "title": "Revizibilnost i Odgovornost",
+      "description": "Svaka radnja sustava — od API zahtjeva do AI odluke — bilježi se u nepromjenjivom zapisu revizije. To pruža regulatorima, službenicima za usklađenost i revizorima potpunu vidljivost nad protokom podataka i procesima donošenja odluka.",
       "accordion": {
-        "title": "Capabilities:",
-        "text": "• Immutable timestamped event logs<br>• Accessed only by authorized regulators or internal compliance units<br>• Support for standard audit export formats (CSV, XML, XBRL)<br>• Automated generation of compliance reports"
+        "title": "Mogućnosti:",
+        "text": "• Nepromjenjivi zapisi događaja s vremenskom oznakom<br>• Pristupaju im samo ovlašteni regulatori ili interne jedinice za usklađenost<br>• Podrška za standardne formate izvoza revizije (CSV, XML, XBRL)<br>• Automatizirano generiranje izvješća o usklađenosti"
       },
-      "note": "Nothing happens without a record."
+      "note": "Ništa se ne događa bez zapisa."
     },
     "threat": {
-      "title": "Real-Time Threat and Risk Management",
-      "description": "The platform continuously monitors its environment for security anomalies and abnormal access patterns. When potential risks are detected, automated alerts are issued to the internal compliance node, and appropriate actions are taken immediately to isolate or neutralize the threat.",
-      "process": "<strong style=\"display:block;\">Process:</strong>• Continuous behavioral monitoring of API traffic <br>• Multi-level anomaly scoring for security events<br>• Real-time alerting and mitigation protocol<br>• Forensic reporting to compliance and regulatory units"
+      "title": "Upravljanje Prijetnjama i Rizicima u Stvarnom Vremenu",
+      "description": "Platforma kontinuirano nadzire svoje okruženje za sigurnosne anomalije i abnormalne obrasce pristupa. Kada se otkriju potencijalni rizici, automatizirana upozorenja izdaju se internoj čvorištu za usklađenost, a odgovarajuće radnje poduzimaju se odmah radi izolacije ili neutraliziranja prijetnje.",
+      "process": "<strong style=\"display:block;\">Proces:</strong>• Kontinuirano bihevioralno nadziranje API prometa <br>• Višerazinsko bodovanje anomalija za sigurnosne događaje<br>• Protokol upozoravanja i ublažavanja u stvarnom vremenu<br>• Forenzičko izvještavanje jedinicama za usklađenost i regulatorima"
     },
     "collaborative": {
-      "title": "Collaborative Security Model",
-      "description": "The system is developed under a shared-responsibility model, where platform security, institutional compliance, and regulatory supervision coexist in a unified operational framework.",
+      "title": "Kolaborativni Sigurnosni Model",
+      "description": "Sustav je razvijen pod modelom zajedničke odgovornosti, gdje platforma sigurnosti, institucionalna usklađenost i regulatorni nadzor koegzistiraju u jedinstvenom operativnom okviru.",
       "accordion": {
-        "title": "Partnership ecosystem:",
-        "text": "• Financial institutions (banks, acquirers, payment processors)<br>• Crypto exchanges and custodians<br>• Regulatory bodies and financial intelligence units (FIUs)<br>• Independent audit and data-certification partners"
+        "title": "Ekosustav partnerstva:",
+        "text": "• Financijske institucije (banke, prihvatitelji, procesori plaćanja)<br>• Kripto mjenjačnice i skrbnici<br>• Regulatorna tijela i jedinice za financijsku inteligenciju (FIUs)<br>• Neovisni partneri za reviziju i certifikaciju podataka"
       },
-      "note": "Transparency is achieved not in isolation, but through collaboration."
+      "note": "Transparentnost se postiže ne u izolaciji, već kroz suradnju."
     },
     "certification": {
-      "title": "Verification and Certification",
-      "description": "To ensure trust and global interoperability, the platform undergoes continuous certification and audit cycles conducted by accredited external firms.",
+      "title": "Verifikacija i Certifikacija",
+      "description": "Kako bi se osiguralo povjerenje i globalna interoperabilnost, platforma prolazi kontinuirane cikluse certifikacije i revizije koje provode akreditirane vanjske tvrtke.",
       "accordion": {
-        "title": "Certifications in progress or obtained:",
-        "text": "• ISO/IEC 27001 — Information Security Management<br>• SOC 2 Type II — Data integrity and operational resilience<br>• PCI DSS — Financial data handling<br>• GDPR compliance verified by EU-based independent assessors"
+        "title": "Certifikacije u tijeku ili dobivene:",
+        "text": "• ISO/IEC 27001 — Upravljanje informacijskom sigurnošću<br>• SOC 2 Tip II — Integritet podataka i operativna otpornost<br>• PCI DSS — Rukovanje financijskim podacima<br>• GDPR usklađenost provjerena od strane neovisnih procjenitelja sa sjedištem u EU"
       },
-      "note": "Security standards are not claims — they are verifications."
+      "note": "Sigurnosni standardi nisu tvrdnje — oni su provjere."
     },
     "learn": {
-      "title": "Building Trust Through Transparency",
-      "text": "By embedding regulatory compliance and security architecture into every level of its infrastructure, the system establishes a foundation for responsible, explainable, and auditable AI in financial ecosystems.",
-      "cta": "Learn About the Company"
+      "title": "Izgradnja povjerenja kroz transparentnost",
+      "text": "Ugrađivanjem regulatorne usklađenosti i sigurnosne arhitekture u svaku razinu svoje infrastrukture, sustav uspostavlja temelj za odgovoran, objašnjiv i revizibilan AI u financijskim ekosustavima.",
+      "cta": "Saznajte Više o Tvrtki"
     }
   },
   "aboutPage": {
     "hero": {
-      "title": "Building the Infrastructure of Financial Transparency",
-      "description": "We develop AI-driven infrastructure designed to bring traceability, accountability, and explainability into global financial systems. Our mission is to enable institutions, regulators, and individuals to understand how value moves — securely, lawfully, and intelligently.",
-      "summary": "We believe that transparency is not an outcome — it is architecture."
+      "title": "Izgradnja Infrastrukture Financijske Transparentnosti",
+      "description": "Razvijamo AI-vođenu infrastrukturu dizajniranu da unese sljedivost, odgovornost i objašnjivost u globalne financijske sustave. Naša misija je omogućiti institucijama, regulatorima i pojedincima da razumiju kako se vrijednost kreće — sigurno, zakonito i inteligentno.",
+      "summary": "Vjerujemo da transparentnost nije ishod — to je arhitektura."
     },
     "mission": {
-      "title": "Mission",
-      "description": "To create a universal technological framework that ensures every financial action — whether executed by an individual, a business, or an algorithm — remains traceable, auditable, and compliant with the law.",
-      "highlight": "A global financial environment where every transaction can be understood, verified, and trusted."
+      "title": "Misija",
+      "description": "Stvoriti univerzalni tehnološki okvir koji osigurava da svaka financijska radnja — bilo da ju izvrši pojedinac, tvrtka ili algoritam — ostane sljediva, revizibilna i usklađena sa zakonom.",
+      "highlight": "Globalno financijsko okruženje u kojem se svaka transakcija može razumjeti, provjeriti i kojem se može vjerovati."
     },
     "operation": {
-      "title": "How We Operate",
-      "description": "We combine AI research, financial forensics, and regulatory engineering to bridge the gap between innovation and compliance. Our interdisciplinary teams design systems that interpret financial behavior and act within the strictest standards of data governance.",
+      "title": "Kako Djelujemo",
+      "description": "Kombiniramo istraživanje AI-a, financijsku forenziku i regulatorno inženjerstvo kako bismo premostili jaz između inovacija i usklađenosti. Naši interdisciplinarni timovi dizajniraju sustave koji tumače financijsko ponašanje i djeluju unutar najstrožih standarda upravljanja podacima.",
       "accordion": {
-        "title": "Core principles:",
-        "text": "• Integrity: Data must always serve truth and transparency.<br>• Security: Protection of user and institutional data is fundamental.<br>• Accountability: Every decision — human or algorithmic — must be explainable.<br>• Collaboration: Financial systems can only be secured through cooperation across sectors."
+        "title": "Temeljna načela:",
+        "text": "• Integritet: Podaci uvijek moraju služiti istini i transparentnosti.<br>• Sigurnost: Zaštita korisničkih i institucionalnih podataka je temeljna.<br>• Odgovornost: Svaka odluka — ljudska ili algoritamska — mora biti objašnjiva.<br>• Suradnja: Financijski sustavi mogu se osigurati samo suradnjom među sektorima."
       }
     },
     "leadership": {
-      "title": "Leadership and Expertise",
-      "description": "Our team unites specialists in AI architecture, financial technology, risk modeling, and regulatory compliance. Each division works collaboratively to design, validate, and monitor every aspect of the platform — from data infrastructure to ethical AI deployment.",
+      "title": "Vodstvo i Stručnost",
+      "description": "Naš tim ujedinjuje stručnjake za AI arhitekturu, financijsku tehnologiju, modeliranje rizika i regulatornu usklađenost. Svaki odjel surađuje na dizajniranju, validaciji i nadzoru svakog aspekta platforme — od podatkovne infrastrukture do etičke primjene AI-a.",
       "accordion": {
-        "title": "Grid-style:",
-        "text": "• AI Research & Modeling<br>• Financial Compliance Engineering<br>• Data Infrastructure & Security<br>• Regulatory Affairs<br>• Operations & Governance"
+        "title": "Mrežni stil:",
+        "text": "• Istraživanje i modeliranje AI-a<br>• Inženjering financijske usklađenosti<br>• Podatkovna infrastruktura i sigurnost<br>• Regulatorni poslovi<br>• Operacije i upravljanje"
       },
-      "note": "We build technology with accountability — from algorithm to executive level."
+      "note": "Gradimo tehnologiju s odgovornošću — od algoritma do izvršne razine."
     },
     "collaborative": {
-      "title": "Collaborative Infrastructure",
-      "description": "The platform is developed in partnership with leading financial institutions, blockchain analytics firms, and data-security organizations committed to the same principle: that transparency and protection must coexist in the digital economy.",
+      "title": "Kolaborativna Infrastruktura",
+      "description": "Platforma je razvijena u partnerstvu s vodećim financijskim institucijama, tvrtkama za blockchain analitiku i organizacijama za sigurnost podataka posvećenim istom načelu: da transparentnost i zaštita moraju koegzistirati u digitalnoj ekonomiji.",
       "accordion": {
-        "title": "Partnership ecosystem includes:",
-        "text": "• Regulated banks and payment processors<br>• Licensed crypto exchanges and custodians<br>• Data privacy and compliance organizations<br>• Independent audit and certification partners"
+        "title": "Ekosustav partnerstva uključuje:",
+        "text": "• Regulirane banke i procesore plaćanja<br>• Licencirane kripto mjenjačnice i skrbnike<br>• Organizacije za privatnost podataka i usklađenost<br>• Neovisne partnere za reviziju i certifikaciju"
       },
-      "note": "Every integration strengthens the collective trust network."
+      "note": "Svaka integracija jača kolektivnu mrežu povjerenja."
     },
     "innovation": {
-      "title": "Continuous Innovation",
-      "paragraph1": "Research is at the center of everything we do.<br>Our R&D division explores advanced AI methodologies for financial reasoning, anomaly detection, and explainable decision-making.<br>We collaborate with academic institutions and regulatory technology labs to continuously align innovation with evolving compliance standards.",
-      "paragraph2": "<span class=\"h3\"> Focus areas:</span>• Multimodal reasoning in financial systems<br>• Adaptive fraud-detection algorithms<br>• Autonomous compliance reporting<br>• Human-AI collaboration for interpretability"
+      "title": "Kontinuirana Inovacija",
+      "paragraph1": "Istraživanje je u središtu svega što radimo.<br>Naš odjel za istraživanje i razvoj istražuje napredne AI metodologije za financijsko rasuđivanje, otkrivanje anomalija i objašnjivo donošenje odluka.<br>Surađujemo s akademskim institucijama i laboratorijima za regulatornu tehnologiju kako bismo kontinuirano usklađivali inovacije s razvojem standarda usklađenosti.",
+      "paragraph2": "<span class=\"h3\"> Područja fokusa:</span>• Multimodalno rasuđivanje u financijskim sustavima<br>• Adaptivni algoritmi za otkrivanje prijevara<br>• Autonomno izvještavanje o usklađenosti<br>• Suradnja između ljudi i AI-a za interpretativnost"
     },
     "responsible": {
-      "title": "Responsible Intelligence",
-      "description": "We are committed to the responsible use of AI in financial analytics. All models are designed with transparency, reversibility, and auditability as foundational principles. No autonomous action is executed without traceable human oversight and regulatory logic.",
+      "title": "Odgovorna Inteligencija",
+      "description": "Predani smo odgovornoj upotrebi AI-a u financijskoj analitici. Svi su modeli dizajnirani s transparentnošću, reverzibilnošću i revizibilnošću kao temeljnim načelima. Nijedna autonomna radnja ne izvršava se bez sljedivog ljudskog nadzora i regulatorne logike.",
       "accordion": {
-        "title": "Ethical framework:",
-        "text": "• Human-centered decision verification<br>• No opaque or unexplainable model outcomes<br>• Continuous monitoring for bias and data drift<br>• Internal ethics review board overseeing model updates"
+        "title": "Etički okvir:",
+        "text": "• Provjera odluka usmjerena na čovjeka<br>• Bez neprozirnih ili neobjašnjivih ishoda modela<br>• Kontinuirani nadzor pristranosti i zanošenja podataka<br>• Interni odbor za etički pregled nadzirući ažuriranja modela"
       }
     },
     "contact": {
-      "title": "Contact Us",
-      "description": "For partnership inquiries, press relations, or regulatory coordination, please contact us at:<br><span class=\"email-link\">📧<a class=\"link\" href=\"mailto:support@tracenetai.com\">support@tracenetai.com</a></span> or use the secure contact form below.",
-      "note": "All communications are encrypted and reviewed under our data-protection framework."
+      "title": "Kontaktirajte Nas",
+      "description": "Za upite o partnerstvu, odnose s javnošću ili regulatornu koordinaciju, kontaktirajte nas na:<br><span class=\"email-link\">📧<a class=\"link\" href=\"mailto:support@tracenetai.com\">support@tracenetai.com</a></span> ili upotrijebite siguran kontakt obrazac u nastavku.",
+      "note": "Sva je komunikacija šifrirana i pregledana prema našem okviru za zaštitu podataka."
     },
     "cta": {
-      "partnership": "Request Partnership",
-      "press": "Press Inquiries",
-      "regulatory": "Regulatory Coordination"
+      "partnership": "Zatražite Partnerstvo",
+      "press": "Upiti za Medije",
+      "regulatory": "Regulatorna Koordinacija"
     }
   },
   "privacy": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "This Privacy Policy explains how TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"our,\" or \"the Company\") collects, uses, protects, and discloses personal and financial data processed through our platform and related services.",
-    "intro2": "Our mission is to enable financial transparency and security through AI-driven data intelligence, while maintaining strict compliance with international data-protection and financial-regulatory laws.",
+    "lastUpdated": "Zadnje Ažurirano: Listopad 2025.",
+    "intro1": "Ova Politika Privatnosti objašnjava kako TraceNet Systems Ltd. (\"TraceNet,\" \"mi,\" \"naš\" ili \"Tvrtka\") prikuplja, koristi, štiti i otkriva osobne i financijske podatke obrađene putem naše platforme i povezanih usluga.",
+    "intro2": "Naša je misija omogućiti financijsku transparentnost i sigurnost putem AI-vođene podatkovne inteligencije, uz održavanje strogog usklađivanja s međunarodnim zakonima o zaštiti podataka i financijskoj regulativi.",
     "sections": {
       "scope": {
-        "title": "1. Scope and Application",
-        "description1": "This Policy applies to all users of TraceNet's platform — including individuals, businesses, and institutional partners — and covers data processed through:",
-        "list1": "Our websites and web applications;",
-        "list2": "API integrations with banks, payment providers, and crypto exchanges;",
-        "list3": "Customer support, onboarding, and communication channels.",
-        "description2": "It also applies to employees, contractors, and affiliates acting on behalf of TraceNet in processing user data."
+        "title": "1. Opseg i Primjena",
+        "description1": "Ova se Politika primjenjuje na sve korisnike TraceNet platforme — uključujući pojedince, tvrtke i institucionalne partnere — i pokriva podatke obrađene putem:",
+        "list1": "Naših web stranica i web aplikacija;",
+        "list2": "API integracija s bankama, pružateljima plaćanja i kripto mjenjačnicama;",
+        "list3": "Korisničke podrške, usklađivanja i komunikacijskih kanala.",
+        "description2": "Također se primjenjuje na zaposlenike, ugovaratelje i podružnice koji djeluju u ime TraceNet-a pri obradi korisničkih podataka."
       },
       "data": {
-        "title": "2. Data We Collect",
-        "description": "We collect only the data necessary to operate our services, ensure compliance, and improve system performance.",
+        "title": "2. Podaci koje Prikupljamo",
+        "description": "Prikupljamo samo podatke potrebne za rad naših usluga, osiguravanje usklađenosti i poboljšanje performansi sustava.",
         "userData": {
-          "title": "2.1 Data Provided by Users",
-          "list1": "Identity and contact details provided during compliance onboarding (e.g., full name, email address, institution, verification documents).",
-          "list2": "Account connection metadata (API keys, institution IDs — tokenized and encrypted).",
-          "list3": "User consent records and compliance declarations."
+          "title": "2.1 Podaci koje pružaju Korisnici",
+          "list1": "Detalji identiteta i kontakta pruženi tijekom usklađivanja (npr. puno ime, e-mail adresa, institucija, verifikacijski dokumenti).",
+          "list2": "Metapodaci veze računa (API ključevi, ID-ovi institucija — tokenizirani i šifrirani).",
+          "list3": "Zapisi o pristanku korisnika i izjave o usklađenosti."
         },
         "autoData": {
-          "title": "2.2 Data Collected Automatically",
-          "list1": "Technical information (IP address, device type, browser configuration, session time).",
-          "list2": "API call metadata and system performance logs.",
-          "list3": "Anonymized financial data retrieved via read-only connections."
+          "title": "2.2 Podaci prikupljeni Automatski",
+          "list1": "Tehničke informacije (IP adresa, vrsta uređaja, konfiguracija preglednika, vrijeme sesije).",
+          "list2": "Metapodaci API poziva i zapisi performansi sustava.",
+          "list3": "Anonimizirani financijski podaci preuzeti putem veza samo za čitanje."
         },
         "sensitive": {
-          "title": "2.3 Sensitive Financial Data",
-          "text1": "When connecting with banks or exchanges, TraceNet retrieves only read-only transactional data.",
-          "text2": "We never store authorization credentials, passwords, or payment instruments."
+          "title": "2.3 Osjetljivi Financijski Podaci",
+          "text1": "Prilikom povezivanja s bankama ili mjenjačnicama, TraceNet preuzima samo transakcijske podatke samo za čitanje.",
+          "text2": "Nikada ne pohranjujemo autorizacijske vjerodajnice, lozinke ili platne instrumente."
         }
       },
       "usage": {
-        "title": "3. How We Use Data",
-        "description": "We use collected data to:",
-        "list1": "Operate, maintain, and improve the platform;",
-        "list2": "Analyze transaction activity and detect potential fraud or irregular behavior;",
-        "list3": "Generate anonymized analytical and compliance reports;",
-        "list4": "Communicate with users and provide technical or regulatory support;",
-        "list5": "Fulfil legal and anti-money-laundering (AML) obligations;",
-        "list6": "Enhance the accuracy of our AI-based analytical models.",
-        "note": "TraceNet does not sell or share data for marketing or advertising purposes."
+        "title": "3. Kako Koristimo Podatke",
+        "description": "Prikupljene podatke koristimo za:",
+        "list1": "Rad, održavanje i poboljšanje platforme;",
+        "list2": "Analizu transakcijske aktivnosti i otkrivanje potencijalne prijevare ili neregularnog ponašanja;",
+        "list3": "Generiranje anonimiziranih analitičkih izvješća i izvješća o usklađenosti;",
+        "list4": "Komunikaciju s korisnicima i pružanje tehničke ili regulatorne podrške;",
+        "list5": "Ispunjavanje zakonskih obveza i obveza sprečavanja pranja novca (AML);",
+        "list6": "Poboljšanje točnosti naših AI-baziranih analitičkih modela.",
+        "note": "TraceNet ne prodaje niti dijeli podatke za marketinške ili reklamne svrhe."
       },
       "legalBasis": {
-        "title": "4. Legal Basis for Processing",
-        "description": "Data is processed under one or more of the following legal bases:",
-        "list1": "User consent — explicit authorization to connect financial accounts or submit verification data;",
-        "list2": "Legitimate interest — fraud detection, data security, and service improvement;",
-        "list3": "Legal obligation — compliance with AML/KYC and data-retention laws;",
-        "list4": "Contractual necessity — enabling user access and platform functionality."
+        "title": "4. Pravna Osnova za Obradu",
+        "description": "Podaci se obrađuju na temelju jedne ili više sljedećih pravnih osnova:",
+        "list1": "Pristanak korisnika — izričito odobrenje za povezivanje financijskih računa ili podnošenje podataka za provjeru;",
+        "list2": "Legitimni interes — otkrivanje prijevara, sigurnost podataka i poboljšanje usluge;",
+        "list3": "Pravna obveza — usklađenost s AML/KYC i zakonima o zadržavanju podataka;",
+        "list4": "Ugovorna nužnost — omogućavanje pristupa korisnika i funkcionalnosti platforme."
       },
       "retention": {
-        "title": "5. Data Retention",
-        "description": "Data is retained only for as long as necessary to:",
-        "list1": "Deliver platform functionality and services;",
-        "list2": "Comply with applicable financial regulations;",
-        "list3": "Resolve disputes or enforce contractual obligations.",
-        "note": "Once no longer required, data is securely deleted or irreversibly anonymized."
+        "title": "5. Zadržavanje Podataka",
+        "description": "Podaci se zadržavaju samo onoliko dugo koliko je potrebno za:",
+        "list1": "Pružanje funkcionalnosti i usluga platforme;",
+        "list2": "Usklađivanje s primjenjivim financijskim propisima;",
+        "list3": "Rješavanje sporova ili provedbu ugovornih obveza.",
+        "note": "Kada više nisu potrebni, podaci se sigurno brišu ili nepovratno anonimiziraju."
       },
       "security": {
-        "title": "6. Data Security",
-        "description": "We employ advanced security measures to safeguard all user information:",
-        "list1": "AES-256 and TLS 1.3 encryption for data at rest and in transit;",
-        "list2": "Multi-region data hosting with restricted access controls;",
-        "list3": "Continuous penetration testing and vulnerability monitoring;",
-        "list4": "Immutable audit logs for all access and data operations.",
-        "note": "All integrations are read-only and compliant with ISO 27001, SOC 2 Type II, and Open Banking PSD2 standards."
+        "title": "6. Sigurnost Podataka",
+        "description": "Koristimo napredne sigurnosne mjere za zaštitu svih korisničkih informacija:",
+        "list1": "AES-256 i TLS 1.3 enkripcija za podatke u mirovanju i u prijenosu;",
+        "list2": "Višeregionalno hostiranje podataka s kontrolama ograničenog pristupa;",
+        "list3": "Kontinuirano testiranje prodiranja i nadzor ranjivosti;",
+        "list4": "Nepromjenjivi zapisi revizije za sve operacije pristupa i podataka.",
+        "note": "Sve integracije su samo za čitanje i usklađene s ISO 27001, SOC 2 Tip II i Open Banking PSD2 standardima."
       },
       "sharing": {
-        "title": "7. Data Sharing and Disclosure",
-        "description": "We share data only where strictly necessary and under secure, regulated conditions:",
-        "list1": "Financial institutions and exchanges — to process authorized analytical or recall/dispute requests.",
-        "list2": "Regulatory authorities — when legally required for compliance with AML, KYC, or supervisory obligations.",
-        "list3": "Infrastructure providers — for hosting, compliance monitoring, or auditing, under confidentiality agreements.",
-        "note": "TraceNet never discloses user data for commercial resale, behavioral profiling, or advertising."
+        "title": "7. Dijeljenje i Otkrivanje Podataka",
+        "description": "Podatke dijelimo samo gdje je to strogo potrebno i pod sigurnim, reguliranim uvjetima:",
+        "list1": "Financijske institucije i mjenjačnice — za obradu ovlaštenih analitičkih zahtjeva ili zahtjeva za opoziv/spor.",
+        "list2": "Regulatorna tijela — kada je to zakonski obvezno za usklađivanje s AML, KYC ili nadzornim obvezama.",
+        "list3": "Pružatelji infrastrukture — za hostiranje, nadzor usklađenosti ili reviziju, prema ugovorima o povjerljivosti.",
+        "note": "TraceNet nikada ne otkriva korisničke podatke za komercijalnu preprodaju, bihevioralno profiliranje ili oglašavanje."
       },
       "transfers": {
-        "title": "8. International Data Transfers",
-        "description": "Where data is transferred internationally, TraceNet applies appropriate safeguards, including:",
-        "list1": "Standard Contractual Clauses (SCCs) under GDPR;",
-        "list2": "Regional data storage for EU, UK, and Canadian users;",
-        "list3": "Encryption and pseudonymization prior to transfer.",
-        "note": "Our primary data-processing centers are located in the European Union, United Kingdom, Canada, and Israel."
+        "title": "8. Međunarodni Prijenosi Podataka",
+        "description": "Tamo gdje se podaci prenose međunarodno, TraceNet primjenjuje odgovarajuće zaštitne mjere, uključujući:",
+        "list1": "Standardne ugovorne klauzule (SCC) prema GDPR-u;",
+        "list2": "Regionalnu pohranu podataka za korisnike iz EU, UK i Kanade;",
+        "list3": "Enkripciju i pseudonimizaciju prije prijenosa.",
+        "note": "Naši primarni centri za obradu podataka nalaze se u Europskoj uniji, Ujedinjenom Kraljevstvu, Kanadi i Izraelu."
       },
       "rights": {
-        "title": "9. User Rights",
-        "description": "Under applicable privacy regulations (including GDPR and UK DPA 2018), users have the right to:",
-        "list1": "Access their personal data;",
-        "list2": "Request correction or deletion;",
-        "list3": "Restrict or object to processing;",
-        "list4": "Request data portability;",
-        "list5": "Withdraw consent at any time without affecting prior lawful processing.",
-        "note": "Requests can be submitted to privacy@tracenetsystems.com, and TraceNet will respond within 30 days of verification."
+        "title": "9. Korisnička Prava",
+        "description": "Prema primjenjivim propisima o privatnosti (uključujući GDPR i UK DPA 2018), korisnici imaju pravo na:",
+        "list1": "Pristup svojim osobnim podacima;",
+        "list2": "Zatražiti ispravak ili brisanje;",
+        "list3": "Ograničiti ili uložiti prigovor na obradu;",
+        "list4": "Zatražiti prenosivost podataka;",
+        "list5": "Povući pristanak u bilo kojem trenutku bez utjecaja na prethodnu zakonitu obradu.",
+        "note": "Zahtjevi se mogu podnijeti na privacy@tracenetsystems.com, a TraceNet će odgovoriti u roku od 30 dana od provjere."
       },
       "cookies": {
-        "title": "10. Cookies and Tracking",
-        "description1": "Our website uses minimal cookies essential for functionality and analytics.",
-        "description2": "Detailed information on cookie types and consent management is available in our Cookie Policy."
+        "title": "10. Kolačići i Praćenje",
+        "description1": "Naša web stranica koristi minimalne kolačiće bitne za funkcionalnost i analitiku.",
+        "description2": "Detaljne informacije o vrstama kolačića i upravljanju pristankom dostupne su u našoj Politici Kolačića."
       },
       "dpo": {
-        "title": "11. Data Protection Officer (DPO)",
-        "description": "TraceNet has appointed a Data Protection Officer responsible for oversight of privacy practices and compliance.",
-        "contact": "📧 DPO Contact: dpo@tracenetsystems.com",
-        "address": "📍 Address: TraceNet Systems Ltd., 14 HaGefen St., Ramat Gan, Israel"
+        "title": "11. Službenik za Zaštitu Podataka (DPO)",
+        "description": "TraceNet je imenovao Službenika za zaštitu podataka odgovornog za nadzor praksi privatnosti i usklađenosti.",
+        "contact": "📧 Kontakt Službenika za Zaštitu Podataka: dpo@tracenetsystems.com",
+        "address": "📍 Adresa: TraceNet Systems Ltd., 14 HaGefen St., Ramat Gan, Izrael"
       },
       "updates": {
-        "title": "12. Updates to This Policy",
-        "description1": "This Policy may be updated periodically to reflect changes in regulation, technology, or corporate operations.",
-        "description2": "Revisions will be posted on this page with the updated \"Last Modified\" date.",
-        "description3": "For material updates, users will be notified via email or in-platform alert."
+        "title": "12. Ažuriranja Ove Politike",
+        "description1": "Ova se Politika može povremeno ažurirati kako bi odražavala promjene u regulativi, tehnologiji ili korporativnim operacijama.",
+        "description2": "Revizije će biti objavljene na ovoj stranici s ažuriranim datumom \"Zadnje Ažurirano\".",
+        "description3": "Za značajna ažuriranja, korisnici će biti obaviješteni putem e-pošte ili upozorenja unutar platforme."
       },
       "contact": {
-        "title": "13. Contact",
-        "description": "For any questions, privacy concerns, or regulatory correspondence, please contact:",
+        "title": "13. Kontakt",
+        "description": "Za sva pitanja, zabrinutosti u vezi s privatnošću ili regulatornu korespondenciju, kontaktirajte:",
         "email": "📧 privacy@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
-        "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
+        "address": "14 HaGefen Street, Ramat Gan, 5252174, Izrael",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
-        "compliantList": "GDPR (2016/679), UK DPA 2018, CCPA, AMLD6, ISO 27001, SOC 2 Type II, PCI DSS, Open Banking PSD2."
+        "compliantLabel": "✅ Usklađeno s:",
+        "compliantList": "GDPR (2016/679), UK DPA 2018, CCPA, AMLD6, ISO 27001, SOC 2 Tip II, PCI DSS, Open Banking PSD2."
       }
     }
   },
   "cookiePolicy": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "This Cookie Policy explains how TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"our,\" or \"us\") uses cookies and similar technologies on our websites and web applications.",
-    "intro2": "It should be read together with our Privacy Policy, which explains how we collect, process, and protect your personal data.",
+    "lastUpdated": "Zadnje Ažurirano: Listopad 2025.",
+    "intro1": "Ova Politika Kolačića objašnjava kako TraceNet Systems Ltd. (\"TraceNet,\" \"mi,\" \"naš\" ili \"nas\") koristi kolačiće i slične tehnologije na našim web stranicama i web aplikacijama.",
+    "intro2": "Treba je čitati zajedno s našom Politikom Privatnosti, koja objašnjava kako prikupljamo, obrađujemo i štitimo vaše osobne podatke.",
     "sections": {
       "what": {
-        "title": "1. What Are Cookies",
-        "text1": "Cookies are small text files that are stored on your device (computer, tablet, or smartphone) when you visit a website.",
-        "text2": "They help websites recognize your device, remember your preferences, and improve your user experience.",
-        "text3": "Cookies may also be used for analytics, performance tracking, and — where permitted — marketing and advertising purposes."
+        "title": "1. Što su Kolačići",
+        "text1": "Kolačići su male tekstualne datoteke koje se pohranjuju na vašem uređaju (računalu, tabletu ili pametnom telefonu) kada posjetite web stranicu.",
+        "text2": "Pomažu web stranicama da prepoznaju vaš uređaj, pamte vaše preferencije i poboljšavaju vaše korisničko iskustvo.",
+        "text3": "Kolačići se također mogu koristiti za analitiku, praćenje performansi i — gdje je dopušteno — marketinške i reklamne svrhe."
       },
       "usage": {
-        "title": "2. How We Use Cookies",
-        "description": "We use cookies to:",
-        "list1": "Ensure the proper functioning of our website;",
-        "list2": "Remember user preferences and language settings;",
-        "list3": "Improve the performance, speed, and usability of our site;",
-        "list4": "Collect anonymous usage statistics to help us improve our services;",
-        "list5": "Support security and compliance monitoring;",
-        "list6": "(If consented) enable analytics and advertising integrations.",
-        "note": "We do not use cookies to store sensitive financial or personal information."
+        "title": "2. Kako Koristimo Kolačiće",
+        "description": "Kolačiće koristimo za:",
+        "list1": "Osiguravanje pravilnog funkcioniranja naše web stranice;",
+        "list2": "Pamćenje korisničkih preferencija i jezičnih postavki;",
+        "list3": "Poboljšanje performansi, brzine i upotrebljivosti naše stranice;",
+        "list4": "Prikupljanje anonimnih statistika korištenja kako bismo nam pomogli poboljšati naše usluge;",
+        "list5": "Podršku sigurnosti i nadzoru usklađenosti;",
+        "list6": "(Ako je pristalo) omogućavanje analitike i integracija za oglašavanje.",
+        "note": "Ne koristimo kolačiće za pohranu osjetljivih financijskih ili osobnih podataka."
       },
       "types": {
-        "title": "3. Types of Cookies We Use",
+        "title": "3. Vrste Kolačića koje Koristimo",
         "necessary": {
-          "title": "3.1 Strictly Necessary Cookies",
-          "text1": "These cookies are essential for the website to function properly and cannot be disabled.",
-          "text2": "They include session identifiers, authentication tokens, and security-related cookies.",
-          "text3": "Examples:",
-          "list1": "Session management and navigation;",
-          "list2": "User authentication and access control;",
-          "list3": "Compliance and consent tracking."
+          "title": "3.1 Strogo Potrebni Kolačići",
+          "text1": "Ovi su kolačići bitni za pravilno funkcioniranje web stranice i ne mogu se onemogućiti.",
+          "text2": "Uključuju identifikatore sesije, tokene za provjeru autentičnosti i kolačiće povezane sa sigurnošću.",
+          "text3": "Primjeri:",
+          "list1": "Upravljanje sesijom i navigacija;",
+          "list2": "Provjera autentičnosti korisnika i kontrola pristupa;",
+          "list3": "Praćenje usklađenosti i pristanka."
         },
         "functional": {
-          "title": "3.2 Functional Cookies",
-          "text1": "These cookies enable enhanced functionality and personalization, such as remembering your settings or language preferences.",
-          "text2": "They may be set by us or by third-party tools integrated into our platform."
+          "title": "3.2 Funkcionalni Kolačići",
+          "text1": "Ovi kolačići omogućuju poboljšanu funkcionalnost i personalizaciju, poput pamćenja vaših postavki ili jezičnih preferencija.",
+          "text2": "Mogu ih postaviti mi ili alati trećih strana integrirani u našu platformu."
         },
         "analytics": {
-          "title": "3.3 Analytics and Performance Cookies",
-          "text1": "These cookies allow us to measure traffic and usage patterns.",
-          "text2": "The information is aggregated and anonymous, helping us understand how visitors interact with our website.",
-          "text3": "Examples of third-party analytics tools (if enabled):",
+          "title": "3.3 Kolačići za Analitiku i Performanse",
+          "text1": "Ovi kolačići nam omogućuju mjerenje prometa i obrazaca korištenja.",
+          "text2": "Informacije su agregirane i anonimne, pomažući nam da razumijemo kako posjetitelji komuniciraju s našom web stranicom.",
+          "text3": "Primjeri alata za analitiku trećih strana (ako su omogućeni):",
           "list1": "Google Analytics",
           "list2": "Meta (Facebook) Pixel",
-          "list3": "Hotjar or equivalent performance analytics tools",
-          "note": "You may choose to disable these cookies without affecting essential functionality."
+          "list3": "Hotjar ili ekvivalentni alati za analitiku performansi",
+          "note": "Možete odabrati onemogućiti ove kolačiće bez utjecaja na bitnu funkcionalnost."
         },
         "marketing": {
-          "title": "3.4 Marketing and Tracking Cookies (Optional)",
-          "text1": "These cookies may be used to deliver relevant ads or track campaign performance.",
-          "text2": "They are only activated after your explicit consent.",
-          "text3": "We currently use minimal or no marketing cookies, but we include this category for transparency."
+          "title": "3.4 Marketinški i Kolačići za Praćenje (Neobavezno)",
+          "text1": "Ovi se kolačići mogu koristiti za prikaz relevantnih oglasa ili praćenje učinka kampanje.",
+          "text2": "Aktiviraju se samo nakon vašeg izričitog pristanka.",
+          "text3": "Trenutno koristimo minimalne ili nikakve marketinške kolačiće, ali uključujemo ovu kategoriju radi transparentnosti."
         }
       },
       "duration": {
-        "title": "4. Duration of Cookies",
-        "description": "Cookies may be either:",
-        "list1": "Session cookies — deleted when you close your browser; or",
-        "list2": "Persistent cookies — remain on your device until they expire or are manually deleted.",
-        "note": "We retain cookies only as long as necessary for their intended purpose, usually between 1 day and 12 months."
+        "title": "4. Trajanje Kolačića",
+        "description": "Kolačići mogu biti ili:",
+        "list1": "Sesijski kolačići — brišu se kada zatvorite preglednik; ili",
+        "list2": "Trajni kolačići — ostaju na vašem uređaju dok ne isteknu ili dok ih ručno ne izbrišete.",
+        "note": "Kolačiće zadržavamo samo onoliko dugo koliko je potrebno za njihovu namijenjenu svrhu, obično između 1 dana i 12 mjeseci."
       },
       "thirdParty": {
-        "title": "5. Third-Party Cookies",
-        "description1": "Some cookies may be placed by trusted third-party providers that supply analytics, performance, or compliance tools.",
-        "description2": "These providers act as independent data controllers for their respective services.",
-        "description3": "Examples include:",
+        "title": "5. Kolačići Trećih Strana",
+        "description1": "Neke kolačiće mogu postaviti pouzdani pružatelji trećih strana koji isporučuju alate za analitiku, performanse ili usklađenost.",
+        "description2": "Ovi pružatelji djeluju kao neovisni kontrolori podataka za svoje usluge.",
+        "description3": "Primjeri uključuju:",
         "list1": "Google Ireland Ltd. (Google Analytics, Tag Manager)",
-        "list2": "Meta Platforms Inc. (Meta Pixel for campaign attribution)",
-        "list3": "Cloudflare Inc. (security and performance optimization)",
-        "note": "Each third party has its own privacy and cookie policies, which we encourage users to review."
+        "list2": "Meta Platforms Inc. (Meta Pixel za atribuciju kampanje)",
+        "list3": "Cloudflare Inc. (optimizacija sigurnosti i performansi)",
+        "note": "Svaka treća strana ima vlastitu politiku privatnosti i kolačića, koju potičemo korisnike da pregledaju."
       },
       "manage": {
-        "title": "6. Managing Cookie Preferences",
-        "description": "You can manage or withdraw your consent to non-essential cookies at any time through:",
-        "list1": "The cookie consent banner displayed when you first visit our site;",
-        "list2": "The \"Manage Preferences\" link available in the footer of our website;",
-        "list3": "Your browser's cookie settings.",
-        "browserTitle": "Browser Settings:",
-        "browserText1": "Most browsers allow you to block or delete cookies.",
-        "browserText2": "You can find detailed instructions in the \"Help\" section of your browser.",
-        "note": "Please note: disabling essential cookies may affect the functionality of our website."
+        "title": "6. Upravljanje Postavkama Kolačića",
+        "description": "Možete upravljati ili povući svoj pristanak na nebitne kolačiće u bilo kojem trenutku putem:",
+        "list1": "Natpisa za pristanak na kolačiće prikazanog prilikom vašeg prvog posjeta našoj stranici;",
+        "list2": "Poveznice \"Upravljanje Postavkama\" dostupne u podnožju naše web stranice;",
+        "list3": "Postavki kolačića vašeg preglednika.",
+        "browserTitle": "Postavke Preglednika:",
+        "browserText1": "Većina preglednika omogućuje blokiranje ili brisanje kolačića.",
+        "browserText2": "Detaljne upute možete pronaći u odjeljku \"Pomoć\" vašeg preglednika.",
+        "note": "Napomena: onemogućavanje bitnih kolačića može utjecati na funkcionalnost naše web stranice."
       },
       "changes": {
-        "title": "7. Changes to This Policy",
-        "description1": "We may update this Cookie Policy from time to time to reflect changes in technology, regulation, or operational needs.",
-        "description2": "All updates will be posted on this page with the updated \"Last Modified\" date.",
-        "description3": "Significant changes will be communicated through a website notice or banner."
+        "title": "7. Izmjene Ove Politike",
+        "description1": "Ovu Politiku Kolačića možemo s vremena na vrijeme ažurirati kako bismo odražavali promjene u tehnologiji, regulativi ili operativnim potrebama.",
+        "description2": "Sva ažuriranja bit će objavljena na ovoj stranici s ažuriranim datumom \"Zadnje Ažurirano\".",
+        "description3": "Značajne promjene bit će priopćene putem obavijesti ili natpisa na web stranici."
       },
       "contact": {
-        "title": "8. Contact",
-        "description": "If you have any questions about this Cookie Policy or our data practices, please contact:",
+        "title": "8. Kontakt",
+        "description": "Ako imate bilo kakvih pitanja o ovoj Politici Kolačića ili našim praksama rukovanja podacima, kontaktirajte:",
         "email": "📧 privacy@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
-        "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
+        "address": "14 HaGefen Street, Ramat Gan, 5252174, Izrael",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
-        "compliantList": "GDPR (2016/679), ePrivacy Directive, UK DPA 2018, CCPA, and Israeli Privacy Protection Law (PPL)."
+        "compliantLabel": "✅ Usklađeno s:",
+        "compliantList": "GDPR (2016/679), ePrivacy Direktivom, UK DPA 2018, CCPA, i Izraelskim zakonom o zaštiti privatnosti (PPL)."
       }
     }
   },
   "terms": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "These Terms of Use (\"Terms\") govern your access to and use of the platform, products, and services (collectively, the \"Platform\") provided by TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"us,\" or \"our\").",
-    "intro2": "By accessing or using the Platform, you agree to be bound by these Terms. If you do not agree, you may not use the Platform.",
+    "lastUpdated": "Zadnje Ažurirano: Listopad 2025.",
+    "intro1": "Ovi Uvjeti Korištenja (\"Uvjeti\") reguliraju vaš pristup i korištenje platforme, proizvoda i usluga (zajedno, \"Platforma\") koje pruža TraceNet Systems Ltd. (\"TraceNet,\" \"mi,\" \"nas\" ili \"naš\").",
+    "intro2": "Pristupanjem ili korištenjem Platforme, slažete se s ovim Uvjetima. Ako se ne slažete, ne smijete koristiti Platformu.",
     "sections": {
       "about": {
-        "title": "1. About TraceNet",
-        "text1": "TraceNet Systems Ltd. is a technology company that provides AI-driven financial analytics and compliance infrastructure.",
-        "text2": "The Platform enables users to analyze transaction data, identify irregularities, and generate reports through read-only integrations with banks, payment systems, and digital-asset exchanges.",
-        "text3": "TraceNet is not a financial institution, broker, or money-service business.",
-        "text4": "We do not store, transfer, or control user funds."
+        "title": "1. O TraceNet-u",
+        "text1": "TraceNet Systems Ltd. je tehnološka tvrtka koja pruža AI-vođenu financijsku analitiku i infrastrukturu usklađenosti.",
+        "text2": "Platforma omogućuje korisnicima analizu transakcijskih podataka, identificiranje neregularnosti i generiranje izvješća putem integracija samo za čitanje s bankama, platnim sustavima i mjenjačnicama digitalne imovine.",
+        "text3": "TraceNet nije financijska institucija, posrednik (broker) ili tvrtka za novčane usluge.",
+        "text4": "Ne pohranjujemo, ne prenosimo niti kontroliramo fondove korisnika."
       },
       "eligibility": {
-        "title": "2. Eligibility",
-        "description": "By using the Platform, you represent and warrant that:",
-        "list1": "You are at least 18 years old or of legal age in your jurisdiction;",
-        "list2": "You have the authority to enter into these Terms;",
-        "list3": "Your use of the Platform complies with all applicable laws, including financial and data-protection regulations.",
-        "note": "Access may be restricted or revoked if compliance obligations are not met or if false information is provided."
+        "title": "2. Prihvatljivost",
+        "description": "Korištenjem Platforme, izjavljujete i jamčite da:",
+        "list1": "Imate najmanje 18 godina ili ste zakonske dobi u svojoj jurisdikciji;",
+        "list2": "Imate ovlasti sklopiti ove Uvjete;",
+        "list3": "Vaše korištenje Platforme usklađeno je sa svim primjenjivim zakonima, uključujući financijske propise i propise o zaštiti podataka.",
+        "note": "Pristup se može ograničiti ili opozvati ako se ne ispune obveze usklađenosti ili ako su pružene lažne informacije."
       },
       "services": {
-        "title": "3. Description of Services",
-        "description": "The Platform provides:",
-        "list1": "AI-based transaction analysis and risk scoring;",
-        "list2": "Integration with financial and crypto institutions via official APIs;",
-        "list3": "Automated generation of compliance and audit reports;",
-        "list4": "Optional automated initiation of chargeback, recall, or dispute requests when authorized by the user.",
-        "note1": "All actions are performed in read-only mode.",
-        "note2": "TraceNet does not execute or authorize financial transactions on behalf of users."
+        "title": "3. Opis Usluga",
+        "description": "Platforma pruža:",
+        "list1": "AI-baziranu analizu transakcija i bodovanje rizika;",
+        "list2": "Integraciju s financijskim i kripto institucijama putem službenih API-ja;",
+        "list3": "Automatizirano generiranje izvješća o usklađenosti i reviziji;",
+        "list4": "Neobavezno automatizirano pokretanje zahtjeva za povrat troškova, opoziv ili spor kada to ovlasti korisnik.",
+        "note1": "Sve se radnje izvode u načinu rada samo za čitanje.",
+        "note2": "TraceNet ne izvršava niti autorizira financijske transakcije u ime korisnika."
       },
       "responsibilities": {
-        "title": "4. User Responsibilities",
-        "description": "Users agree to:",
-        "list1": "Provide accurate and complete information during onboarding;",
-        "list2": "Maintain confidentiality of access credentials and API keys;",
-        "list3": "Use the Platform only for lawful and authorized purposes;",
-        "list4": "Not misuse, resell, or reverse-engineer any part of the Platform;",
-        "list5": "Immediately notify TraceNet of any unauthorized access or security incident.",
-        "note": "Users are solely responsible for actions performed under their credentials."
+        "title": "4. Odgovornosti Korisnika",
+        "description": "Korisnici se slažu da će:",
+        "list1": "Pružiti točne i potpune informacije tijekom usklađivanja;",
+        "list2": "Zadržati povjerljivost pristupnih vjerodajnica i API ključeva;",
+        "list3": "Koristiti Platformu samo u zakonite i ovlaštene svrhe;",
+        "list4": "Ne zloupotrijebiti, preprodati ili izvršiti reverzni inženjering bilo kojeg dijela Platforme;",
+        "list5": "Odmah obavijestiti TraceNet o bilo kakvom neovlaštenom pristupu ili sigurnosnom incidentu.",
+        "note": "Korisnici su isključivo odgovorni za radnje izvršene pod njihovim vjerodajnicama."
       },
       "compliance": {
-        "title": "5. Compliance Onboarding",
-        "description1": "To access advanced features or API integrations, users must complete a short compliance onboarding process, as required by international financial regulators.",
-        "description2": "This process may include:",
-        "list1": "Identity and institutional verification (KYC/KYB);",
-        "list2": "Acceptance of TraceNet's compliance terms;",
-        "list3": "Confirmation of lawful data usage and purpose.",
-        "note": "Access tokens are issued only upon successful completion of this process."
+        "title": "5. Usklađivanje",
+        "description1": "Za pristup naprednim značajkama ili API integracijama, korisnici moraju dovršiti kratki postupak usklađivanja (onboarding), kako zahtijevaju međunarodni financijski regulatori.",
+        "description2": "Ovaj postupak može uključivati:",
+        "list1": "Verifikaciju identiteta i institucije (KYC/KYB);",
+        "list2": "Prihvaćanje TraceNet-ovih uvjeta usklađenosti;",
+        "list3": "Potvrdu zakonite upotrebe podataka i svrhe.",
+        "note": "Pristupni tokeni izdaju se samo nakon uspješnog dovršetka ovog postupka."
       },
       "ip": {
-        "title": "6. Intellectual Property",
-        "description1": "All intellectual property rights in the Platform, including software, models, text, design, and documentation, are owned by TraceNet Systems Ltd. or its licensors.",
-        "description2": "Users may not:",
-        "list1": "Copy, reproduce, or distribute any part of the Platform;",
-        "list2": "Use TraceNet's trademarks or branding without written permission;",
-        "list3": "Modify, decompile, or reverse-engineer the Platform or its AI models.",
-        "note": "All rights not expressly granted under these Terms are reserved by TraceNet."
+        "title": "6. Intelektualno Vlasništvo",
+        "description1": "Sva prava intelektualnog vlasništva na Platformi, uključujući softver, modele, tekst, dizajn i dokumentaciju, vlasništvo su TraceNet Systems Ltd. ili njegovih davatelja licenci.",
+        "description2": "Korisnici ne smiju:",
+        "list1": "Kopirati, reproducirati ili distribuirati bilo koji dio Platforme;",
+        "list2": "Koristiti TraceNet-ove zaštitne znakove ili brendiranje bez pismenog dopuštenja;",
+        "list3": "Mijenjati, dekompilirati ili izvršiti reverzni inženjering Platforme ili njezinih AI modela.",
+        "note": "Sva prava koja nisu izričito dodijeljena ovim Uvjetima zadržava TraceNet."
       },
       "dataUse": {
-        "title": "7. Data Usage and Privacy",
-        "description1": "All data processed through the Platform is handled in accordance with the Privacy Policy.",
-        "description2": "Users acknowledge and agree that:",
-        "list1": "Data access is limited to read-only connections;",
-        "list2": "Data may be analyzed for risk, compliance, and operational improvement;",
-        "list3": "TraceNet may store metadata and anonymized insights for model optimization;",
-        "list4": "All data handling complies with GDPR, AML, and other applicable laws.",
-        "note": "Users retain ownership of their input data and analytical outputs."
+        "title": "7. Upotreba Podataka i Privatnost",
+        "description1": "Svi podaci obrađeni putem Platforme rukuju se u skladu s Politikom Privatnosti.",
+        "description2": "Korisnici potvrđuju i slažu se da:",
+        "list1": "Pristup podacima ograničen je na veze samo za čitanje;",
+        "list2": "Podaci se mogu analizirati radi rizika, usklađenosti i operativnog poboljšanja;",
+        "list3": "TraceNet može pohranjivati metapodatke i anonimizirane uvide za optimizaciju modela;",
+        "list4": "Svo rukovanje podacima usklađeno je s GDPR-om, AML-om i drugim primjenjivim zakonima.",
+        "note": "Korisnici zadržavaju vlasništvo nad svojim ulaznim podacima i analitičkim izlazima."
       },
       "security": {
-        "title": "8. Security",
-        "text1": "TraceNet implements industry-standard security protocols, including encryption, access control, and continuous monitoring.",
-        "text2": "However, no system is completely secure, and users acknowledge the inherent risks of data transmission over the internet.",
-        "text3": "TraceNet will not be liable for unauthorized access or incidents beyond its reasonable control."
+        "title": "8. Sigurnost",
+        "text1": "TraceNet primjenjuje industrijske standardne sigurnosne protokole, uključujući enkripciju, kontrolu pristupa i kontinuirani nadzor.",
+        "text2": "Međutim, nijedan sustav nije potpuno siguran, a korisnici potvrđuju inherentne rizike prijenosa podataka putem interneta.",
+        "text3": "TraceNet neće biti odgovoran za neovlašteni pristup ili incidente izvan svoje razumne kontrole."
       },
       "availability": {
-        "title": "9. Service Availability",
-        "description": "The Platform is provided on an \"as-is\" and \"as-available\" basis.",
-        "note": "TraceNet reserves the right to:",
-        "list1": "Modify, suspend, or discontinue any feature or service;",
-        "list2": "Perform scheduled or unscheduled maintenance;",
-        "list3": "Restrict access when required by law or regulator.",
-        "note2": "TraceNet shall not be liable for downtime, delays, or data unavailability."
+        "title": "9. Dostupnost Usluge",
+        "description": "Platforma se pruža na \"viđeno\" i \"kako je dostupno\" osnovi.",
+        "note": "TraceNet zadržava pravo da:",
+        "list1": "Modificira, suspendira ili obustavi bilo koju značajku ili uslugu;",
+        "list2": "Obavlja planirano ili neplanirano održavanje;",
+        "list3": "Ograniči pristup kada to zahtijeva zakon ili regulator.",
+        "note2": "TraceNet neće biti odgovoran za zastoje, kašnjenja ili nedostupnost podataka."
       },
       "prohibited": {
-        "title": "10. Prohibited Activities",
-        "description": "Users may not:",
-        "list1": "Attempt to gain unauthorized access to the Platform or its data;",
-        "list2": "Upload or transmit malicious code or data;",
-        "list3": "Use the Platform for unlawful, deceptive, or fraudulent activity;",
-        "list4": "Interfere with network operations or system integrity;",
-        "list5": "Circumvent security or authentication mechanisms.",
-        "note": "Violation of these terms may result in immediate suspension or termination of access."
+        "title": "10. Zabranjene Aktivnosti",
+        "description": "Korisnici ne smiju:",
+        "list1": "Pokušati dobiti neovlašteni pristup Platformi ili njezinim podacima;",
+        "list2": "Učitavati ili prenositi zlonamjerni kod ili podatke;",
+        "list3": "Koristiti Platformu za nezakonite, obmanjujuće ili lažne aktivnosti;",
+        "list4": "Ometati mrežne operacije ili integritet sustava;",
+        "list5": "Zaobići sigurnosne ili autentifikacijske mehanizme.",
+        "note": "Kršenje ovih uvjeta može rezultirati trenutnom suspenzijom ili prekidom pristupa."
       },
       "liability": {
-        "title": "11. Limitation of Liability",
-        "text1": "To the maximum extent permitted by law:",
-        "text2": "TraceNet shall not be liable for any indirect, incidental, consequential, or punitive damages, including loss of profits, data, or goodwill, arising from or related to the use of the Platform.",
-        "text3": "TraceNet's total liability shall not exceed the amount paid by the user (if any) in the preceding twelve months."
+        "title": "11. Ograničenje Odgovornosti",
+        "text1": "U najvećoj mjeri dopuštenoj zakonom:",
+        "text2": "TraceNet neće biti odgovoran za bilo kakvu neizravnu, slučajnu, posljedičnu ili kaznenu štetu, uključujući gubitak dobiti, podataka ili ugleda, proizašlu iz ili povezanu s korištenjem Platforme.",
+        "text3": "Ukupna odgovornost TraceNet-a neće premašiti iznos koji je korisnik platio (ako ga je platio) u prethodnih dvanaest mjeseci."
       },
       "indemnification": {
-        "title": "12. Indemnification",
-        "description": "Users agree to indemnify and hold harmless TraceNet Systems Ltd., its affiliates, and employees from any claims, damages, or expenses arising out of:",
-        "list1": "Violation of these Terms;",
-        "list2": "Misuse of the Platform;",
-        "list3": "Breach of applicable law or regulation."
+        "title": "12. Odšteta",
+        "description": "Korisnici se slažu da će obeštetiti i zaštititi TraceNet Systems Ltd., njegove podružnice i zaposlenike od bilo kakvih potraživanja, šteta ili troškova proizašlih iz:",
+        "list1": "Kršenja ovih Uvjeta;",
+        "list2": "Zlouporabe Platforme;",
+        "list3": "Kršenja primjenjivog zakona ili propisa."
       },
       "termination": {
-        "title": "13. Termination",
-        "description": "TraceNet may suspend or terminate user access immediately if:",
-        "list1": "The user violates these Terms or compliance obligations;",
-        "list2": "The Platform is misused for illegal or non-compliant activity;",
-        "list3": "Required by a financial regulator or court order.",
-        "note": "Upon termination, all rights to use the Platform cease immediately."
+        "title": "13. Raskid",
+        "description": "TraceNet može odmah obustaviti ili raskinuti korisnički pristup ako:",
+        "list1": "Korisnik krši ove Uvjete ili obveze usklađenosti;",
+        "list2": "Platforma se zloupotrebljava za ilegalne ili neusklađene aktivnosti;",
+        "list3": "To zahtijeva financijski regulator ili sudski nalog.",
+        "note": "Nakon raskida, sva prava na korištenje Platforme prestaju odmah."
       },
       "changes": {
-        "title": "14. Changes to These Terms",
-        "text1": "TraceNet may update these Terms periodically.",
-        "text2": "Revised Terms will be posted on this page with the updated \"Last Modified\" date.",
-        "text3": "Continued use of the Platform after updates constitutes acceptance of the revised Terms."
+        "title": "14. Izmjene Ovih Uvjeta",
+        "text1": "TraceNet može povremeno ažurirati ove Uvjete.",
+        "text2": "Revidirani Uvjeti bit će objavljeni na ovoj stranici s ažuriranim datumom \"Zadnje Ažurirano\".",
+        "text3": "Nastavak korištenja Platforme nakon ažuriranja predstavlja prihvaćanje revidiranih Uvjeta."
       },
       "governingLaw": {
-        "title": "15. Governing Law and Jurisdiction",
-        "text1": "These Terms are governed by and construed under the laws of Israel, without regard to conflict-of-law principles.",
-        "text2": "Any dispute arising under these Terms shall be subject to the exclusive jurisdiction of the courts of Tel Aviv District, Israel."
+        "title": "15. Mjerodavno Pravo i Nadležnost",
+        "text1": "Ovi Uvjeti su regulirani i tumače se prema zakonima Izraela, bez obzira na načela sukoba zakona.",
+        "text2": "Svaki spor proizašao iz ovih Uvjeta bit će podložan isključivoj nadležnosti sudova Okruga Tel Aviv, Izrael."
       },
       "contact": {
-        "title": "16. Contact Information",
-        "description": "For any questions, notices, or legal correspondence regarding these Terms, please contact:",
+        "title": "16. Kontakt Informacije",
+        "description": "Za sva pitanja, obavijesti ili pravnu korespondenciju u vezi s ovim Uvjetima, kontaktirajte:",
         "email": "📧 legal@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
-        "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
+        "address": "14 HaGefen Street, Ramat Gan, 5252174, Izrael",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
-        "compliantList": "GDPR (2016/679), AMLD6, Open Banking PSD2, ISO 27001, SOC 2 Type II, PCI DSS, and relevant Israeli corporate law."
+        "compliantLabel": "✅ Usklađeno s:",
+        "compliantList": "GDPR (2016/679), AMLD6, Open Banking PSD2, ISO 27001, SOC 2 Tip II, PCI DSS, i relevantnim izraelskim korporativnim zakonom."
       }
     }
   },
   "th": {
-    "title": "Thank you for your registration!",
-    "subtitle": "Our colleague will contact you soon",
-    "button": "Back to Home"
+    "title": "Hvala na registraciji!",
+    "subtitle": "Naš kolega će vas uskoro kontaktirati",
+    "button": "Povratak na Početnu"
   },
   "contact": {
-    "title": "Technology That Strengthens Financial Integrity",
-    "subtitle": "Built on Google Gemini. Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
+    "title": "Tehnologija Koja Jača Financijski Integritet",
+    "subtitle": "Izgrađeno na Google Geminiju. Dizajnirano da globalni financijski ekosustav učini transparentnijim, inteligentnijim i odgovornijim.",
     "form": {
-      "title": "Fill in your details below",
-      "firstName": "First Name*",
-      "lastName": "Last Name*",
-      "email": "Email*",
-      "phone": "Phone*",
-      "message": "Anything we should know before our call?",
-      "privacy": "By submitting this form I accept the <a href=\"privacy-policy.html\">privacy policy</a> terms",
-      "submit": "Explore the Architecture"
+      "title": "Ispunite svoje podatke u nastavku",
+      "firstName": "Ime*",
+      "lastName": "Prezime*",
+      "email": "E-mail*",
+      "phone": "Telefon*",
+      "message": "Trebamo li nešto znati prije našeg poziva?",
+      "privacy": "Slanjem ovog obrasca prihvaćam uvjete <a href=\"privacy-policy.html\">politike privatnosti</a>",
+      "submit": "Istražite Arhitekturu"
     }
   },
   "awards": {
-    "title": "Awards and Recognitions"
+    "title": "Nagrade i Priznanja"
   },
   "footer": {
-    "description": "Built on Google Gemini.<br>Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
-    "contact": "Contact Us",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Use",
-    "cookie": "Cookie Policy",
-    "legal": "The analyses published within the scope of this service were prepared on behalf of Bridgewise Analytics Ltd (the \"Company\")."
+    "description": "Izgrađeno na Google Geminiju.<br>Dizajnirano da globalni financijski ekosustav učini transparentnijim, inteligentnijim i odgovornijim.",
+    "contact": "Kontaktirajte Nas",
+    "privacy": "Politika Privatnosti",
+    "terms": "Uvjeti Korištenja",
+    "cookie": "Politika Kolačića",
+    "legal": "Analize objavljene u okviru ove usluge pripremljene su u ime tvrtke Bridgewise Analytics Ltd (\"Tvrtka\")."
   },
   "cookie": {
-    "title": "This website uses cookies to improve the user experience and analyze traffic.",
-    "description": "By clicking the “Continue” button or by continuing to use the website, you consent to the use of cookies in your browser. You can manage cookies at any time in your browser settings. For more information, please read our Privacy Policy, Cookie Policy, and User Agreement.",
-    "close": "Close",
-    "accept": "Continue"
+    "title": "Ova web stranica koristi kolačiće za poboljšanje korisničkog iskustva i analizu prometa.",
+    "description": "Klikom na gumb \"Nastavi\" ili nastavkom korištenja web stranice, pristajete na korištenje kolačića u vašem pregledniku. Kolačićima možete upravljati u bilo kojem trenutku u postavkama preglednika. Za više informacija pročitajte našu Politiku Privatnosti, Politiku Kolačića i Korisnički Ugovor.",
+    "close": "Zatvori",
+    "accept": "Nastavi"
   }
 }
-

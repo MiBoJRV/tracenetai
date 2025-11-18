@@ -1,727 +1,727 @@
 {
   "nav": {
-    "technology": "TECHNOLOGY",
-    "solutions": "SOLUTIONS",
-    "compliance": "COMPLIANCE & SECURITY",
-    "about": "ABOUT US",
-    "contact": "Contact us"
+    "technology": "TECHNOLOGIE",
+    "solutions": "LÖSUNGEN",
+    "compliance": "COMPLIANCE & SICHERHEIT",
+    "about": "ÜBER UNS",
+    "contact": "Kontaktieren Sie uns"
   },
   "banner": {
-    "title": "AI Infrastructure for Global Transaction Transparency",
-    "description": "Powered by Google Gemini technology and integrated with banks and crypto platforms worldwide, our system provides real-time visibility into fund movements, risk scoring, and automated compliance actions.",
-    "cta": "Explore the Technology"
+    "title": "KI-Infrastruktur für globale Transparenz von Transaktionen",
+    "description": "Angetrieben von der Google Gemini-Technologie und integriert mit Banken und Krypto-Plattformen weltweit, bietet unser System Echtzeit-Transparenz über Geldbewegungen, Risikobewertung und automatisierte Compliance-Maßnahmen.",
+    "cta": "Technologie erkunden"
   },
   "about": {
-    "title": "Understanding the Platform",
-    "paragraph1": "The system combines large-scale financial data modeling, behavioral analytics, and regulatory intelligence to interpret the flow of money across connected accounts and digital assets.",
-    "paragraph2": "It operates as a neutral analytical layer — securely connected to financial institutions through verified APIs, providing structured insight into every transaction chain and its associated risk."
+    "title": "Die Plattform verstehen",
+    "paragraph1": "Das System kombiniert groß angelegte Finanzdatenmodellierung, Verhaltensanalytik und regulatorische Intelligenz, um den Geldfluss über verbundene Konten und digitale Assets hinweg zu interpretieren.",
+    "paragraph2": "Es fungiert als neutrale analytische Schicht – sicher über verifizierte APIs mit Finanzinstituten verbunden und bietet strukturierte Einblicke in jede Transaktionskette und das damit verbundene Risiko."
   },
   "features": {
     "connectivity": {
-      "title": "Connectivity",
-      "text": "Direct API integrations with regulated banks and major crypto exchanges."
+      "title": "Konnektivität",
+      "text": "Direkte API-Integrationen mit regulierten Banken und großen Krypto-Börsen."
     },
     "intelligence": {
-      "title": "Intelligence",
-      "text": "Gemini-based models optimized for real-time financial reasoning."
+      "title": "Intelligenz",
+      "text": "Auf Gemini basierende Modelle, optimiert für Echtzeit-Finanzanalyse."
     },
     "integrity": {
-      "title": "Integrity",
-      "text": "Fully compliant with GDPR, AMLD6, and open-banking frameworks."
+      "title": "Integrität",
+      "text": "Vollständig konform mit DSGVO, AMLD6 und Open-Banking-Frameworks."
     }
   },
   "layers": {
-    "title": "Core Functional Layers",
+    "title": "Funktionale Kernschichten",
     "analysis": {
-      "title": "Analysis",
-      "text": "Processes multi-channel financial data and identifies irregular activity using Gemini's contextual understanding."
+      "title": "Analyse",
+      "text": "Verarbeitet multi-channel Finanzdaten und identifiziert irreguläre Aktivitäten mithilfe des kontextuellen Verständnisses von Gemini."
     },
     "risk": {
-      "title": "Risk Evaluation",
-      "text": "Applies AI-driven scoring and behavioral clustering to determine exposure to fraud, unauthorized use, or compliance breach."
+      "title": "Risikobewertung",
+      "text": "Wendet KI-gesteuerte Bewertungen und Verhaltens-Clustering an, um das Risiko von Betrug, unbefugter Nutzung oder Compliance-Verstößen zu bestimmen."
     },
     "response": {
-      "title": "Automated Response",
-      "text": "When risk thresholds are reached, the system can initiate authorized procedures — including chargeback, recall, or dispute actions — directly through institutional APIs."
+      "title": "Automatisierte Reaktion",
+      "text": "Wenn Risikoschwellen erreicht werden, kann das System autorisierte Verfahren einleiten – einschließlich Chargeback-, Rückruf- oder Disput-Maßnahmen – direkt über institutionelle APIs."
     }
   },
   "benefit": {
-    "title": "Access and Regulatory Framework",
-    "item1": "Because the platform interacts with live financial networks, access is granted only after completion of a short compliance onboarding required by global regulators.",
-    "item2": "This ensures lawful data exchange, verified identity, and full accountability of every operation executed through the AI infrastructure.",
-    "footer": "Compliance is not an add-on — it's an integral part of the system design."
+    "title": "Zugang und regulatorisches Framework",
+    "item1": "Da die Plattform mit Live-Finanznetzwerken interagiert, wird der Zugang nur nach Abschluss eines kurzen Compliance-Onboardings gewährt, das von globalen Aufsichtsbehörden vorgeschrieben ist.",
+    "item2": "Dies gewährleistet einen rechtmäßigen Datenaustausch, eine verifizierte Identität und die vollständige Rechenschaftspflicht jeder Operation, die über die KI-Infrastruktur ausgeführt wird.",
+    "footer": "Compliance ist kein Zusatz – sie ist ein integraler Bestandteil des Systemdesigns."
   },
   "transparency": {
-    "title": "Designed for Transparency, Built for Trust",
-    "text1": "The platform helps institutions and individuals detect irregular financial behavior, reduce exposure to fraud, and maintain full visibility over both fiat and digital transactions.",
-    "text2": "It functions as a permanent monitoring layer that ensures each movement of value is traceable, explainable, and compliant.",
-    "box1": "Real-time transaction interpretation across financial networks",
-    "box2": "Automated compliance checks and incident reporting",
-    "box3": "Secure, read-only API connections",
-    "box4": "Structured traceability for regulators and users alike"
+    "title": "Entwickelt für Transparenz, gebaut für Vertrauen",
+    "text1": "Die Plattform hilft Institutionen und Einzelpersonen, irreguläres Finanzverhalten zu erkennen, das Betrugsrisiko zu reduzieren und die volle Transparenz über Fiat- und digitale Transaktionen zu wahren.",
+    "text2": "Sie fungiert als permanente Überwachungsschicht, die sicherstellt, dass jede Wertbewegung nachvollziehbar, erklärbar und konform ist.",
+    "box1": "Echtzeit-Transaktionsinterpretation über Finanznetzwerke hinweg",
+    "box2": "Automatisierte Compliance-Prüfungen und Vorfallberichterstattung",
+    "box3": "Sichere, schreibgeschützte API-Verbindungen",
+    "box4": "Strukturierte Nachvollziehbarkeit für Aufsichtsbehörden und Nutzer gleichermaßen"
   },
   "technology": {
     "hero": {
-      "title": "Gemini-Powered Financial Intelligence Architecture",
-      "description": "The system is powered by Google Gemini's multimodal AI framework — an infrastructure capable of analyzing structured and unstructured financial data at scale. Combined with proprietary risk and compliance logic, it enables continuous monitoring, contextual reasoning, and secure interaction with financial institutions and blockchain ecosystems.",
-      "summary": "At its core, the platform transforms complex transaction data into transparent, regulator-ready insights."
+      "title": "Gemini-gesteuerte Architektur für Finanzintelligenz",
+      "description": "Das System wird durch das multimodale KI-Framework von Google Gemini angetrieben – eine Infrastruktur, die in der Lage ist, strukturierte und unstrukturierte Finanzdaten in großem Umfang zu analysieren. In Kombination mit proprietärer Risiko- und Compliance-Logik ermöglicht es kontinuierliche Überwachung, kontextuelles Denken und sichere Interaktion mit Finanzinstituten und Blockchain-Ökosystemen.",
+      "summary": "Im Kern wandelt die Plattform komplexe Transaktionsdaten in transparente, für Aufsichtsbehörden aufbereitete Einblicke um."
     },
     "architecture": {
-      "title": "System Architecture",
-      "description": "The technology stack is organized into five interconnected layers, each dedicated to a specific stage of financial data processing — from secure ingestion to regulatory action.",
+      "title": "Systemarchitektur",
+      "description": "Der Technologie-Stack ist in fünf miteinander verbundene Schichten unterteilt, die jeweils einer spezifischen Phase der Finanzdatenverarbeitung gewidmet sind – von der sicheren Erfassung bis zur regulatorischen Maßnahme.",
       "layers": {
         "data": {
-          "title": "Data Sources",
-          "text": "Read-only access to banks, payment processors, and crypto exchanges via verified APIs. Supports Open Banking, ISO 20022, and blockchain data streams."
+          "title": "Datenquellen",
+          "text": "Schreibgeschützter Zugriff auf Banken, Zahlungsabwickler und Krypto-Börsen über verifizierte APIs. Unterstützt Open Banking, ISO 20022 und Blockchain-Datenströme."
         },
         "gemini": {
-          "title": "Gemini AI Core",
-          "text": "Processes high-volume financial data using Gemini's multimodal reasoning capabilities. Performs natural-language interpretation of metadata, behavioral clustering, and entity correlation across accounts."
+          "title": "Gemini KI-Kern",
+          "text": "Verarbeitet Finanzdaten mit hohem Volumen mithilfe der multimodalen Denkfähigkeiten von Gemini. Führt natürliche Sprachinterpretation von Metadaten, Verhaltens-Clustering und Entitätskorrelation über Konten hinweg durch."
         },
         "risk": {
-          "title": "Risk Engine",
-          "text": "Executes machine learning–based scoring logic that identifies anomalies, duplicate transfers, hidden subscriptions, and unauthorized activity. Each chain of transactions receives a dynamic risk profile updated in real time."
+          "title": "Risiko-Engine",
+          "text": "Führt maschinelles Lernen-basierte Bewertungslogik aus, die Anomalien, doppelte Überweisungen, versteckte Abonnements und unbefugte Aktivitäten identifiziert. Jede Transaktionskette erhält ein dynamisches Risikoprofil, das in Echtzeit aktualisiert wird."
         },
         "compliance": {
-          "title": "Compliance Layer",
-          "text": "Implements AML, KYC, GDPR, and regional data-protection standards. Ensures traceability and accountability of every decision generated by the AI. Provides audit logs compatible with regulatory review formats."
+          "title": "Compliance-Schicht",
+          "text": "Implementiert AML, KYC, DSGVO und regionale Datenschutzstandards. Gewährleistet die Nachvollziehbarkeit und Rechenschaftspflicht jeder durch die KI generierten Entscheidung. Bietet Audit-Protokolle, die mit regulatorischen Überprüfungsformaten kompatibel sind."
         },
         "response": {
           "title": "Response API Gateway",
-          "text": "Acts as a secure communication channel between the platform and financial institutions. Authorized by compliance rules, it can initiate chargeback, recall, or dispute procedures when confirmed irregularities are detected."
+          "text": "Fungiert als sicherer Kommunikationskanal zwischen der Plattform und Finanzinstituten. Durch Compliance-Regeln autorisiert, kann es bei bestätigten Unregelmäßigkeiten Chargeback-, Rückruf- oder Disput-Verfahren einleiten."
         }
       }
     },
     "secureData": {
-      "title": "Secure Data Handling",
-      "description": "All connected data flows operate in read-only mode.<br>The platform does not execute or store financial operations; it only interprets and reports them.",
+      "title": "Sichere Datenverarbeitung",
+      "description": "Alle verbundenen Datenströme arbeiten im schreibgeschützten Modus.<br>Die Plattform führt keine Finanzoperationen aus oder speichert sie; sie interpretiert und meldet sie nur.",
       "accordion": {
-        "title": "Security measures:",
-        "text": "• TLS 1.3 and AES-256 end-to-end encryption<br>• Differential privacy in all data aggregation processes<br>• Region-based data segregation (EU / NA / APAC)<br>• Immutable audit trail stored in compliance-ready format"
+        "title": "Sicherheitsmaßnahmen:",
+        "text": "• TLS 1.3 und AES-256 Ende-zu-Ende-Verschlüsselung<br>• Differentielle Privatsphäre in allen Datenaggregationsprozessen<br>• Regionsbasierte Datentrennung (EU / NA / APAC)<br>• Unveränderlicher Audit-Trail, gespeichert in Compliance-fähigem Format"
       }
     },
     "geminiRisk": {
-      "title": "Gemini Cognitive Risk Engine",
-      "description": "Using Gemini's reasoning capabilities, the platform interprets financial behavior not only through numerical anomalies, but also through semantic patterns — e.g. metadata, transaction descriptions, and behavioral correlations.",
+      "title": "Gemini Kognitive Risiko-Engine",
+      "description": "Mithilfe der Denkfähigkeiten von Gemini interpretiert die Plattform das Finanzverhalten nicht nur durch numerische Anomalien, sondern auch durch semantische Muster – z. B. Metadaten, Transaktionsbeschreibungen und Verhaltenskorrelationen.",
       "accordion": {
-        "title": "Capabilities:",
-        "text": "• Continuous anomaly detection across fiat and crypto ecosystems<br>• Behavior-based fraud scoring (0–100 scale)<br>• Contextual understanding of transaction purpose and counterpart behavior<br>• Adaptive learning: the model evolves as transaction networks change"
+        "title": "Funktionen:",
+        "text": "• Kontinuierliche Anomalieerkennung in Fiat- und Krypto-Ökosystemen<br>• Verhaltensbasierte Betrugsbewertung (Skala 0–100)<br>• Kontextuelles Verständnis des Transaktionszwecks und des Verhaltens der Gegenpartei<br>• Adaptives Lernen: Das Modell entwickelt sich mit der Änderung der Transaktionsnetzwerke weiter"
       }
     },
     "intelligentAction": {
-      "title": "Intelligent Action Framework",
-      "description": "When the AI identifies high-risk financial behavior, it prepares a structured incident report and — within the regulatory boundaries — triggers automated responses through partner APIs:",
+      "title": "Intelligentes Handlungs-Framework",
+      "description": "Wenn die KI ein Hochrisiko-Finanzverhalten identifiziert, erstellt sie einen strukturierten Vorfallbericht und löst – innerhalb der regulatorischen Grenzen – automatisierte Reaktionen über Partner-APIs aus:",
       "accordion": {
-        "title": "All actions are logged, timestamped, and approved within the compliance layer before execution.",
-        "text": "• Bank chargeback / recall requests for suspicious transfers<br>• Exchange dispute / refund submissions for fraudulent digital-asset activity<br>• Regulatory incident report generated for audit and supervision"
+        "title": "Alle Aktionen werden protokolliert, mit Zeitstempel versehen und innerhalb der Compliance-Schicht vor der Ausführung genehmigt.",
+        "text": "• Bank-Chargeback-/Rückrufanfragen für verdächtige Überweisungen<br>• Börsen-Disput-/Rückerstattungsanträge für betrügerische Aktivitäten mit digitalen Assets<br>• Regulatorischer Vorfallbericht für Audit und Aufsicht erstellt"
       }
     },
     "explainable": {
-      "title": "Explainable and Auditable AI",
-      "description": "Every output produced by the Gemini-based core includes explainability metadata: which variables influenced a decision, why the model classified an action as risky, and what regulatory framework the response aligns with.",
+      "title": "Erklärbare und Auditierbare KI",
+      "description": "Jede Ausgabe des Gemini-basierten Kerns enthält Erklärbarkeits-Metadaten: welche Variablen eine Entscheidung beeinflusst haben, warum das Modell eine Aktion als riskant eingestuft hat und welchem regulatorischen Rahmenwerk die Reaktion entspricht.",
       "accordion": {
-        "title": "Features:",
-        "text": "• Transparent model decisions for auditors and regulators<br>• Traceable reasoning chain for each incident<br>• Configurable sensitivity thresholds per user or institution"
+        "title": "Merkmale:",
+        "text": "• Transparente Modellentscheidungen für Auditoren und Aufsichtsbehörden<br>• Nachvollziehbare Begründungskette für jeden Vorfall<br>• Konfigurierbare Sensitivitätsschwellen pro Benutzer oder Institution"
       }
     },
     "standards": {
-      "title": "Aligned with Global Standards",
-      "description": "The system adheres to the highest standards of security and financial data governance. All operations follow the principles of open banking, data minimalism, and regulator supervision.",
+      "title": "Ausgerichtet an globalen Standards",
+      "description": "Das System hält sich an die höchsten Standards für Sicherheit und Finanzdatengovernance. Alle Operationen folgen den Prinzipien des Open Banking, des Datenminimalismus und der Aufsicht durch Regulierungsbehörden.",
       "accordion": {
-        "title": "Compliance frameworks:",
-        "text": "• GDPR (Europe)<br>• AMLD6 (EU directive)<br>• ISO 27001 (Information Security)<br>• SOC 2 (Data integrity and privacy)<br>• PCI DSS (Financial data protection)"
+        "title": "Compliance-Frameworks:",
+        "text": "• DSGVO (Europa)<br>• AMLD6 (EU-Richtlinie)<br>• ISO 27001 (Informationssicherheit)<br>• SOC 2 (Datenintegrität und Datenschutz)<br>• PCI DSS (Schutz von Finanzdaten)"
       }
     }
   },
   "solutions": {
     "hero": {
-      "title": "Applications Across the Financial Ecosystem",
-      "description": "The platform's modular architecture allows it to operate across multiple layers of the financial landscape — from individual account monitoring to institutional compliance infrastructure.<br>Built on Gemini's AI framework, it interprets transaction data, evaluates behavioral risk, and acts through verified financial APIs.",
-      "summary": "Different users. One system of transparency."
+      "title": "Anwendungen im gesamten Finanz-Ökosystem",
+      "description": "Die modulare Architektur der Plattform ermöglicht den Betrieb über mehrere Schichten der Finanzlandschaft hinweg – von der individuellen Kontenüberwachung bis zur institutionellen Compliance-Infrastruktur.<br>Aufgebaut auf dem Gemini KI-Framework interpretiert es Transaktionsdaten, bewertet Verhaltensrisiken und handelt über verifizierte Finanz-APIs.",
+      "summary": "Verschiedene Benutzer. Ein System der Transparenz."
     },
     "personal": {
-      "title": "Personal Financial Awareness and Protection",
-      "description": "For individual users, the system functions as a continuous monitoring environment that provides real-time visibility into every transaction. It identifies recurring charges, hidden subscriptions, and potential unauthorized activity—and, when required, initiates authorized refund or dispute requests through the user’s financial institution.",
+      "title": "Persönliche Finanztransparenz und Schutz",
+      "description": "Für individuelle Nutzer fungiert das System als kontinuierliche Überwachungsumgebung, die Echtzeit-Transparenz über jede Transaktion bietet. Es identifiziert wiederkehrende Gebühren, versteckte Abonnements und potenzielle unbefugte Aktivitäten – und leitet bei Bedarf autorisierte Rückerstattungs- oder Disput-Anfragen über das Finanzinstitut des Nutzers ein.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Detect recurring or duplicate payments<br>• Identify unauthorized transactions before they accumulate<br>• Receive structured reports with fraud scores and compliance context<br>• Automate chargeback or recall processes securely"
+        "title": "Anwendungsfälle:",
+        "text": "• Wiederkehrende oder doppelte Zahlungen erkennen<br>• Unbefugte Transaktionen erkennen, bevor sie sich anhäufen<br>• Strukturierte Berichte mit Betrugsbewertungen und Compliance-Kontext erhalten<br>• Chargeback- oder Rückrufprozesse sicher automatisieren"
       },
-      "note": "Individuals gain clarity over their digital finances and reduce losses from unnoticed activity or subscription leakage."
+      "note": "Einzelpersonen erhalten Klarheit über ihre digitalen Finanzen und reduzieren Verluste durch unbemerkte Aktivitäten oder Abonnement-Leckagen."
     },
     "corporate": {
-      "title": "Corporate Transaction Oversight",
-      "description": "For enterprises, the platform acts as a financial integrity layer—monitoring all outgoing and incoming transactions to ensure they align with internal policies, vendor agreements, and regional compliance standards.",
+      "title": "Corporate Transaktions-Aufsicht",
+      "description": "Für Unternehmen fungiert die Plattform als Schicht für finanzielle Integrität – sie überwacht alle ausgehenden und eingehenden Transaktionen, um sicherzustellen, dass sie mit internen Richtlinien, Anbietervereinbarungen und regionalen Compliance-Standards übereinstimmen.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Detect unapproved or duplicate vendor payments<br>• Analyze financial exposure across accounts and subsidiaries<br>• Generate automated compliance and audit reports<br>• Identify early indicators of account misuse or insider fraud"
+        "title": "Anwendungsfälle:",
+        "text": "• Nicht genehmigte oder doppelte Anbieterzahlungen erkennen<br>• Finanzrisiken über Konten und Tochtergesellschaften hinweg analysieren<br>• Automatisierte Compliance- und Audit-Berichte generieren<br>• Frühe Indikatoren für Kontomissbrauch oder Insider-Betrug identifizieren"
       },
-      "note": "Financial institutions gain a scalable, regulator-aligned AI layer for fraud management and customer protection."
+      "note": "Finanzinstitute erhalten eine skalierbare, regulatorisch ausgerichtete KI-Schicht für Betrugsmanagement und Kundenschutz."
     },
     "infrastructure": {
-      "title": "AI-Powered Fraud and Compliance Infrastructure",
-      "description": "Banks, fintech companies, and exchanges integrate the system through API to enhance their fraud detection, transaction traceability, and regulatory response capabilities. The Gemini-based core delivers contextual risk assessment for both fiat and crypto operations, improving precision and reducing false positives.",
+      "title": "KI-gesteuerte Betrugs- und Compliance-Infrastruktur",
+      "description": "Banken, Fintech-Unternehmen und Börsen integrieren das System über API, um ihre Fähigkeiten zur Betrugserkennung, Transaktionsnachvollziehbarkeit und regulatorischen Reaktion zu verbessern. Der Gemini-basierte Kern liefert kontextuelle Risikobewertungen für Fiat- und Krypto-Operationen, was die Präzision verbessert und falsch-positive Ergebnisse reduziert.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Real-time anomaly detection across payment networks<br>• Automated escalation of high-risk transaction chains<br>• Instant generation of incident reports for compliance teams<br>• Support for chargeback and dispute automation through regulated APIs"
+        "title": "Anwendungsfälle:",
+        "text": "• Echtzeit-Anomalieerkennung über Zahlungsnetzwerke hinweg<br>• Automatisierte Eskalation von Hochrisiko-Transaktionsketten<br>• Sofortige Generierung von Vorfallberichten für Compliance-Teams<br>• Unterstützung für Chargeback- und Disput-Automatisierung über regulierte APIs"
       },
-      "note": "Financial institutions gain a scalable, regulator-aligned AI layer for fraud management and customer protection."
+      "note": "Finanzinstitute erhalten eine skalierbare, regulatorisch ausgerichtete KI-Schicht für Betrugsmanagement und Kundenschutz."
     },
     "regulatory": {
-      "title": "Transparent Oversight and Traceability",
-      "description": "For supervisory bodies and regulatory auditors, the platform provides a neutral AI-driven view of transaction networks—with explainable reasoning, immutable audit trails, and standardized data export formats.",
+      "title": "Transparente Aufsicht und Nachvollziehbarkeit",
+      "description": "Für Aufsichtsbehörden und regulatorische Auditoren bietet die Plattform eine neutrale, KI-gesteuerte Ansicht von Transaktionsnetzwerken – mit erklärbarer Begründung, unveränderlichen Audit-Trails und standardisierten Datenexportformaten.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Cross-platform tracing of suspicious fund movement<br>• Automated AML/KYC anomaly detection<br>• Centralized visualization of institution-wide financial flows<br>• On-demand audit data with full explainability metadata"
+        "title": "Anwendungsfälle:",
+        "text": "• Plattformübergreifende Nachverfolgung verdächtiger Geldbewegungen<br>• Automatisierte AML/KYC-Anomalieerkennung<br>• Zentralisierte Visualisierung institutsweiter Finanzflüsse<br>• On-Demand-Auditdaten mit vollständigen Erklärbarkeits-Metadaten"
       },
-      "note": "Regulators receive structured, verified, and explainable financial intelligence aligned with global compliance frameworks."
+      "note": "Aufsichtsbehörden erhalten strukturierte, verifizierte und erklärbare Finanzintelligenz, die mit globalen Compliance-Frameworks übereinstimmt."
     },
     "connectivity": {
-      "title": "Unified Ecosystem Connectivity",
-      "description": "Through open APIs, the system connects to financial, blockchain, and compliance infrastructures — enabling data exchange between individual, corporate, and institutional layers without compromising privacy or regulatory boundaries.",
+      "title": "Vereinheitlichte Ökosystem-Konnektivität",
+      "description": "Über offene APIs verbindet sich das System mit Finanz-, Blockchain- und Compliance-Infrastrukturen – was den Datenaustausch zwischen individuellen, korporativen und institutionellen Schichten ermöglicht, ohne die Privatsphäre oder regulatorische Grenzen zu gefährden.",
       "accordion": {
-        "title": "Integrations include:",
-        "text": "• Retail and commercial banks<br>• Payment gateways and acquirers<br>• Major crypto exchanges and custodians<br>• Compliance management systems<br>• Governmental AML & financial intelligence units"
+        "title": "Integrationen umfassen:",
+        "text": "• Retail- und Geschäftsbanken<br>• Zahlungsgateways und Acquirer<br>• Große Krypto-Börsen und Verwahrer<br>• Compliance-Management-Systeme<br>• Staatliche AML- und Financial Intelligence Units (FIUs)"
       }
     },
     "impact": {
-      "title": "Impact Across All Stakeholders",
-      "description": "By introducing explainable AI into the financial ecosystem, the platform improves visibility, reduces systemic fraud, and enhances compliance efficiency across all participants.",
+      "title": "Auswirkungen auf alle Stakeholder",
+      "description": "Durch die Einführung erklärbarer KI in das Finanz-Ökosystem verbessert die Plattform die Transparenz, reduziert systemischen Betrug und erhöht die Compliance-Effizienz bei allen Teilnehmern.",
       "accordion": {
-        "title": "Shared benefits:",
-        "text": "• Unified fraud-risk framework across fiat and crypto ecosystems<br>• Automated compliance actions with regulator-approved logic<br>• Reduced operational costs for investigation and reporting<br>• Enhanced user trust through transparency and accountability"
+        "title": "Gemeinsame Vorteile:",
+        "text": "• Vereinheitlichtes Betrugsrisiko-Framework über Fiat- und Krypto-Ökosysteme hinweg<br>• Automatisierte Compliance-Aktionen mit regulatorisch genehmigter Logik<br>• Reduzierte Betriebskosten für Untersuchung und Berichterstattung<br>• Erhöhtes Benutzervertrauen durch Transparenz und Rechenschaftspflicht"
       }
     }
   },
   "compliance": {
     "hero": {
-      "title": "Compliance and Security by Design",
-      "description": "The platform is built on the principle that transparency and compliance are not external requirements — they are core components of the system’s architecture. From data encryption to regulatory verification, every process is designed to align with global standards of financial integrity and information security.",
-      "summary": "Security is engineered. Compliance is embedded."
+      "title": "Compliance und Sicherheit durch Design",
+      "description": "Die Plattform basiert auf dem Prinzip, dass Transparenz und Compliance keine externen Anforderungen sind – sie sind Kernkomponenten der Systemarchitektur. Von der Datenverschlüsselung bis zur regulatorischen Verifizierung ist jeder Prozess darauf ausgelegt, mit globalen Standards der finanziellen Integrität und Informationssicherheit übereinzustimmen.",
+      "summary": "Sicherheit ist konstruiert. Compliance ist eingebettet."
     },
     "secureData": {
-      "title": "Secure Data Architecture",
-      "description": "All operations are conducted in a read-only mode to prevent any unauthorized changes, fund movements, or account access. The platform serves exclusively as an analytical layer, ensuring users’ and institutions’ financial data remain protected at every stage.",
+      "title": "Sichere Datenarchitektur",
+      "description": "Alle Operationen werden im schreibgeschützten Modus durchgeführt, um unbefugte Änderungen, Geldbewegungen oder Kontozugriffe zu verhindern. Die Plattform dient ausschließlich als analytische Schicht und gewährleistet, dass die Finanzdaten von Nutzern und Institutionen in jeder Phase geschützt bleiben.",
       "accordion": {
-        "title": "Key mechanisms:",
-        "text": "• End-to-end encryption (TLS 1.3 / AES-256)<br>• Zero data persistence for sensitive credentials<br>• Multi-region storage under data-localization laws<br>• Continuous vulnerability assessment and penetration testing<br>• Independent third-party security audits"
+        "title": "Schlüsselmechanismen:",
+        "text": "• Ende-zu-Ende-Verschlüsselung (TLS 1.3 / AES-256)<br>• Null Datenpersistenz für sensible Anmeldeinformationen<br>• Multi-Region-Speicherung unter Einhaltung der Gesetze zur Datenlokalisierung<br>• Kontinuierliche Schwachstellenbewertung und Penetrationstests<br>• Unabhängige Sicherheitsaudits durch Dritte"
       }
     },
     "regulatory": {
-      "title": "Regulatory Alignment",
-      "description": "The compliance layer integrates international regulatory standards to ensure every data interaction, risk analysis, or automated response remains within the boundaries of financial law.",
+      "title": "Regulatorische Ausrichtung",
+      "description": "Die Compliance-Schicht integriert internationale regulatorische Standards, um sicherzustellen, dass jede Dateninteraktion, Risikoanalyse oder automatisierte Reaktion innerhalb der Grenzen des Finanzrechts bleibt.",
       "accordion": {
-        "title": "Supported frameworks:",
-        "text": "• GDPR — General Data Protection Regulation (EU)<br>• AMLD6 — Anti-Money Laundering Directive (EU)<br>• FATF — Financial Action Task Force recommendations<br>• ISO 27001 / SOC 2 — Information Security and Data Management<br>• PCI DSS — Payment Card Industry Data Security Standard<br>• Open Banking PSD2 — Secure API connectivity and user consent model"
+        "title": "Unterstützte Frameworks:",
+        "text": "• DSGVO – Datenschutz-Grundverordnung (EU)<br>• AMLD6 – Sechste Geldwäscherichtlinie (EU)<br>• FATF – Empfehlungen der Financial Action Task Force<br>• ISO 27001 / SOC 2 – Informationssicherheit und Datenmanagement<br>• PCI DSS – Payment Card Industry Data Security Standard<br>• Open Banking PSD2 – Sichere API-Konnektivität und Nutzerzustimmungsmodell"
       },
-      "note": "Every compliance operation is logged, auditable, and traceable for both internal review and regulator access."
+      "note": "Jede Compliance-Operation wird protokolliert, auditierbar und nachvollziehbar für interne Überprüfung und Zugriff durch Aufsichtsbehörden."
     },
     "identity": {
-      "title": "Identity Verification and Authorization",
-      "description": "To maintain data integrity and prevent misuse, user access to the AI system is granted only after completing a mandatory compliance onboarding.<br><br>This short course, required by financial regulators, verifies user identity, purpose of use, and awareness of data-handling obligations.",
-      "stepsTitle": "Access procedure:",
-      "step1": "Identity and source verification (KYC)",
-      "step2": "Acceptance of compliance terms",
-      "step3": "Completion of automated onboarding",
-      "step4": "Tokenized API access granted under regulator supervision",
-      "note": "Each user operates within a verified and traceable framework, ensuring lawful access to AI-driven financial intelligence."
+      "title": "Identitätsprüfung und Autorisierung",
+      "description": "Um die Datenintegrität zu wahren und Missbrauch zu verhindern, wird der Nutzerzugang zum KI-System nur nach Abschluss eines obligatorischen Compliance-Onboardings gewährt.<br><br>Dieser kurze Kurs, der von Finanzaufsichtsbehörden gefordert wird, überprüft die Identität des Nutzers, den Verwendungszweck und das Bewusstsein für die Pflichten zur Datenverarbeitung.",
+      "stepsTitle": "Zugangsverfahren:",
+      "step1": "Identitäts- und Quellverifizierung (KYC)",
+      "step2": "Akzeptanz der Compliance-Bedingungen",
+      "step3": "Abschluss des automatisierten Onboardings",
+      "step4": "Tokenisierter API-Zugang unter Aufsicht der Regulierungsbehörden gewährt",
+      "note": "Jeder Nutzer agiert innerhalb eines verifizierten und nachvollziehbaren Rahmens, was den rechtmäßigen Zugang zu KI-gesteuerter Finanzintelligenz gewährleistet."
     },
     "audit": {
-      "title": "Auditability and Accountability",
-      "description": "Every system action — from API request to AI decision — is recorded in an immutable audit log. This provides regulators, compliance officers, and auditors with full visibility over data flow and decision-making processes.",
+      "title": "Auditierbarkeit und Rechenschaftspflicht",
+      "description": "Jede Systemaktion – von der API-Anfrage bis zur KI-Entscheidung – wird in einem unveränderlichen Audit-Protokoll aufgezeichnet. Dies bietet Aufsichtsbehörden, Compliance-Beauftragten und Auditoren die volle Transparenz über den Datenfluss und die Entscheidungsprozesse.",
       "accordion": {
-        "title": "Capabilities:",
-        "text": "• Immutable timestamped event logs<br>• Accessed only by authorized regulators or internal compliance units<br>• Support for standard audit export formats (CSV, XML, XBRL)<br>• Automated generation of compliance reports"
+        "title": "Funktionen:",
+        "text": "• Unveränderliche Event-Protokolle mit Zeitstempel<br>• Nur von autorisierten Aufsichtsbehörden oder internen Compliance-Einheiten zugänglich<br>• Unterstützung für Standard-Audit-Exportformate (CSV, XML, XBRL)<br>• Automatisierte Generierung von Compliance-Berichten"
       },
-      "note": "Nothing happens without a record."
+      "note": "Nichts geschieht ohne Aufzeichnung."
     },
     "threat": {
-      "title": "Real-Time Threat and Risk Management",
-      "description": "The platform continuously monitors its environment for security anomalies and abnormal access patterns. When potential risks are detected, automated alerts are issued to the internal compliance node, and appropriate actions are taken immediately to isolate or neutralize the threat.",
-      "process": "<strong style=\"display:block;\">Process:</strong>• Continuous behavioral monitoring of API traffic <br>• Multi-level anomaly scoring for security events<br>• Real-time alerting and mitigation protocol<br>• Forensic reporting to compliance and regulatory units"
+      "title": "Echtzeit-Bedrohungs- und Risikomanagement",
+      "description": "Die Plattform überwacht ihre Umgebung kontinuierlich auf Sicherheitsanomalien und abnormale Zugriffsmuster. Wenn potenzielle Risiken erkannt werden, werden automatisierte Warnungen an den internen Compliance-Knoten gesendet und geeignete Maßnahmen werden sofort ergriffen, um die Bedrohung zu isolieren oder zu neutralisieren.",
+      "process": "<strong style=\"display:block;\">Prozess:</strong>• Kontinuierliche Verhaltensüberwachung des API-Datenverkehrs <br>• Mehrstufige Anomaliebewertung für Sicherheitsereignisse<br>• Echtzeit-Alarmierung und Mitigation-Protokoll<br>• Forensische Berichterstattung an Compliance- und Regulierungseinheiten"
     },
     "collaborative": {
-      "title": "Collaborative Security Model",
-      "description": "The system is developed under a shared-responsibility model, where platform security, institutional compliance, and regulatory supervision coexist in a unified operational framework.",
+      "title": "Kollaboratives Sicherheitsmodell",
+      "description": "Das System wird unter einem Shared-Responsibility-Modell entwickelt, bei dem Plattformsicherheit, institutionelle Compliance und regulatorische Aufsicht in einem vereinheitlichten Betriebsrahmen koexistieren.",
       "accordion": {
-        "title": "Partnership ecosystem:",
-        "text": "• Financial institutions (banks, acquirers, payment processors)<br>• Crypto exchanges and custodians<br>• Regulatory bodies and financial intelligence units (FIUs)<br>• Independent audit and data-certification partners"
+        "title": "Partnerschafts-Ökosystem:",
+        "text": "• Finanzinstitute (Banken, Acquirer, Zahlungsabwickler)<br>• Krypto-Börsen und Verwahrer<br>• Aufsichtsbehörden und Financial Intelligence Units (FIUs)<br>• Unabhängige Audit- und Datenzertifizierungspartner"
       },
-      "note": "Transparency is achieved not in isolation, but through collaboration."
+      "note": "Transparenz wird nicht isoliert, sondern durch Zusammenarbeit erreicht."
     },
     "certification": {
-      "title": "Verification and Certification",
-      "description": "To ensure trust and global interoperability, the platform undergoes continuous certification and audit cycles conducted by accredited external firms.",
+      "title": "Verifizierung und Zertifizierung",
+      "description": "Um Vertrauen und globale Interoperabilität zu gewährleisten, durchläuft die Plattform kontinuierliche Zertifizierungs- und Audit-Zyklen, die von akkreditierten externen Firmen durchgeführt werden.",
       "accordion": {
-        "title": "Certifications in progress or obtained:",
-        "text": "• ISO/IEC 27001 — Information Security Management<br>• SOC 2 Type II — Data integrity and operational resilience<br>• PCI DSS — Financial data handling<br>• GDPR compliance verified by EU-based independent assessors"
+        "title": "Zertifizierungen in Arbeit oder erhalten:",
+        "text": "• ISO/IEC 27001 – Informationssicherheits-Management<br>• SOC 2 Typ II – Datenintegrität und operationale Resilienz<br>• PCI DSS – Handhabung von Finanzdaten<br>• DSGVO-Compliance, verifiziert durch EU-basierte unabhängige Prüfer"
       },
-      "note": "Security standards are not claims — they are verifications."
+      "note": "Sicherheitsstandards sind keine Behauptungen – sie sind Verifizierungen."
     },
     "learn": {
-      "title": "Building Trust Through Transparency",
-      "text": "By embedding regulatory compliance and security architecture into every level of its infrastructure, the system establishes a foundation for responsible, explainable, and auditable AI in financial ecosystems.",
-      "cta": "Learn About the Company"
+      "title": "Vertrauen durch Transparenz aufbauen",
+      "text": "Durch die Einbettung von regulatorischer Compliance und Sicherheitsarchitektur in jede Ebene seiner Infrastruktur schafft das System eine Grundlage für verantwortungsvolle, erklärbare und auditierbare KI in Finanz-Ökosystemen.",
+      "cta": "Mehr über das Unternehmen erfahren"
     }
   },
   "aboutPage": {
     "hero": {
-      "title": "Building the Infrastructure of Financial Transparency",
-      "description": "We develop AI-driven infrastructure designed to bring traceability, accountability, and explainability into global financial systems. Our mission is to enable institutions, regulators, and individuals to understand how value moves — securely, lawfully, and intelligently.",
-      "summary": "We believe that transparency is not an outcome — it is architecture."
+      "title": "Aufbau der Infrastruktur für finanzielle Transparenz",
+      "description": "Wir entwickeln KI-gesteuerte Infrastruktur, die darauf ausgelegt ist, Nachvollziehbarkeit, Rechenschaftspflicht und Erklärbarkeit in globale Finanzsysteme zu bringen. Unsere Mission ist es, Institutionen, Aufsichtsbehörden und Einzelpersonen zu ermöglichen, zu verstehen, wie Werte sich bewegen – sicher, rechtmäßig und intelligent.",
+      "summary": "Wir glauben, dass Transparenz kein Ergebnis ist – sie ist Architektur."
     },
     "mission": {
       "title": "Mission",
-      "description": "To create a universal technological framework that ensures every financial action — whether executed by an individual, a business, or an algorithm — remains traceable, auditable, and compliant with the law.",
-      "highlight": "A global financial environment where every transaction can be understood, verified, and trusted."
+      "description": "Einen universellen technologischen Rahmen zu schaffen, der sicherstellt, dass jede finanzielle Handlung – ob von einer Einzelperson, einem Unternehmen oder einem Algorithmus ausgeführt – nachvollziehbar, auditierbar und gesetzeskonform bleibt.",
+      "highlight": "Eine globale Finanzumgebung, in der jede Transaktion verstanden, verifiziert und vertraut werden kann."
     },
     "operation": {
-      "title": "How We Operate",
-      "description": "We combine AI research, financial forensics, and regulatory engineering to bridge the gap between innovation and compliance. Our interdisciplinary teams design systems that interpret financial behavior and act within the strictest standards of data governance.",
+      "title": "Wie wir arbeiten",
+      "description": "Wir kombinieren KI-Forschung, Finanzforensik und Regulatorik-Engineering, um die Lücke zwischen Innovation und Compliance zu schließen. Unsere interdisziplinären Teams entwerfen Systeme, die das Finanzverhalten interpretieren und innerhalb der strengsten Standards der Datengovernance handeln.",
       "accordion": {
-        "title": "Core principles:",
-        "text": "• Integrity: Data must always serve truth and transparency.<br>• Security: Protection of user and institutional data is fundamental.<br>• Accountability: Every decision — human or algorithmic — must be explainable.<br>• Collaboration: Financial systems can only be secured through cooperation across sectors."
+        "title": "Kernprinzipien:",
+        "text": "• Integrität: Daten müssen stets der Wahrheit und Transparenz dienen.<br>• Sicherheit: Der Schutz von Nutzer- und institutionellen Daten ist fundamental.<br>• Rechenschaftspflicht: Jede Entscheidung – menschlich oder algorithmisch – muss erklärbar sein.<br>• Zusammenarbeit: Finanzsysteme können nur durch Kooperation über Sektoren hinweg gesichert werden."
       }
     },
     "leadership": {
-      "title": "Leadership and Expertise",
-      "description": "Our team unites specialists in AI architecture, financial technology, risk modeling, and regulatory compliance. Each division works collaboratively to design, validate, and monitor every aspect of the platform — from data infrastructure to ethical AI deployment.",
+      "title": "Führung und Expertise",
+      "description": "Unser Team vereint Spezialisten für KI-Architektur, Finanztechnologie, Risikomodellierung und regulatorische Compliance. Jede Abteilung arbeitet zusammen, um jeden Aspekt der Plattform zu entwerfen, zu validieren und zu überwachen – von der Dateninfrastruktur bis zur ethischen KI-Bereitstellung.",
       "accordion": {
-        "title": "Grid-style:",
-        "text": "• AI Research & Modeling<br>• Financial Compliance Engineering<br>• Data Infrastructure & Security<br>• Regulatory Affairs<br>• Operations & Governance"
+        "title": "Raster-Stil:",
+        "text": "• KI-Forschung & Modellierung<br>• Financial Compliance Engineering<br>• Dateninfrastruktur & Sicherheit<br>• Regulatorische Angelegenheiten<br>• Betrieb & Governance"
       },
-      "note": "We build technology with accountability — from algorithm to executive level."
+      "note": "Wir bauen Technologie mit Rechenschaftspflicht – vom Algorithmus bis zur Führungsebene."
     },
     "collaborative": {
-      "title": "Collaborative Infrastructure",
-      "description": "The platform is developed in partnership with leading financial institutions, blockchain analytics firms, and data-security organizations committed to the same principle: that transparency and protection must coexist in the digital economy.",
+      "title": "Kollaborative Infrastruktur",
+      "description": "Die Plattform wird in Partnerschaft mit führenden Finanzinstituten, Blockchain-Analysefirmen und Datensicherheitsorganisationen entwickelt, die sich demselben Prinzip verschrieben haben: dass Transparenz und Schutz in der digitalen Wirtschaft koexistieren müssen.",
       "accordion": {
-        "title": "Partnership ecosystem includes:",
-        "text": "• Regulated banks and payment processors<br>• Licensed crypto exchanges and custodians<br>• Data privacy and compliance organizations<br>• Independent audit and certification partners"
+        "title": "Partnerschafts-Ökosystem umfasst:",
+        "text": "• Regulierte Banken und Zahlungsabwickler<br>• Lizenzierte Krypto-Börsen und Verwahrer<br>• Organisationen für Datenschutz und Compliance<br>• Unabhängige Audit- und Zertifizierungspartner"
       },
-      "note": "Every integration strengthens the collective trust network."
+      "note": "Jede Integration stärkt das kollektive Vertrauensnetzwerk."
     },
     "innovation": {
-      "title": "Continuous Innovation",
-      "paragraph1": "Research is at the center of everything we do.<br>Our R&D division explores advanced AI methodologies for financial reasoning, anomaly detection, and explainable decision-making.<br>We collaborate with academic institutions and regulatory technology labs to continuously align innovation with evolving compliance standards.",
-      "paragraph2": "<span class=\"h3\"> Focus areas:</span>• Multimodal reasoning in financial systems<br>• Adaptive fraud-detection algorithms<br>• Autonomous compliance reporting<br>• Human-AI collaboration for interpretability"
+      "title": "Kontinuierliche Innovation",
+      "paragraph1": "Forschung steht im Mittelpunkt unseres Handelns.<br>Unsere F&E-Abteilung erforscht fortschrittliche KI-Methoden für Finanzanalysen, Anomalieerkennung und erklärbare Entscheidungsfindung.<br>Wir arbeiten mit akademischen Institutionen und Regulatory Technology Labs zusammen, um Innovation kontinuierlich mit sich entwickelnden Compliance-Standards in Einklang zu bringen.",
+      "paragraph2": "<span class=\"h3\"> Schwerpunkte:</span>• Multimodales Denken in Finanzsystemen<br>• Adaptive Algorithmen zur Betrugserkennung<br>• Autonome Compliance-Berichterstattung<br>• Mensch-KI-Zusammenarbeit für Interpretierbarkeit"
     },
     "responsible": {
-      "title": "Responsible Intelligence",
-      "description": "We are committed to the responsible use of AI in financial analytics. All models are designed with transparency, reversibility, and auditability as foundational principles. No autonomous action is executed without traceable human oversight and regulatory logic.",
+      "title": "Verantwortungsvolle Intelligenz",
+      "description": "Wir verpflichten uns zum verantwortungsvollen Einsatz von KI in der Finanzanalytik. Alle Modelle werden mit Transparenz, Reversibilität und Auditierbarkeit als grundlegende Prinzipien entwickelt. Keine autonome Aktion wird ohne nachvollziehbare menschliche Aufsicht und regulatorische Logik ausgeführt.",
       "accordion": {
-        "title": "Ethical framework:",
-        "text": "• Human-centered decision verification<br>• No opaque or unexplainable model outcomes<br>• Continuous monitoring for bias and data drift<br>• Internal ethics review board overseeing model updates"
+        "title": "Ethik-Framework:",
+        "text": "• Menschenzentrierte Entscheidungsverifizierung<br>• Keine intransparenten oder unerklärlichen Modellergebnisse<br>• Kontinuierliche Überwachung auf Verzerrungen und Datenverschiebung<br>• Interner Ethik-Ausschuss zur Überwachung von Modell-Updates"
       }
     },
     "contact": {
-      "title": "Contact Us",
-      "description": "For partnership inquiries, press relations, or regulatory coordination, please contact us at:<br><span class=\"email-link\">📧<a class=\"link\" href=\"mailto:support@tracenetai.com\">support@tracenetai.com</a></span> or use the secure contact form below.",
-      "note": "All communications are encrypted and reviewed under our data-protection framework."
+      "title": "Kontaktieren Sie uns",
+      "description": "Für Partneranfragen, Pressearbeit oder regulatorische Koordination kontaktieren Sie uns bitte unter:<br><span class=\"email-link\">📧<a class=\"link\" href=\"mailto:support@tracenetai.com\">support@tracenetai.com</a></span> oder verwenden Sie das sichere Kontaktformular unten.",
+      "note": "Alle Kommunikationen werden verschlüsselt und unter unserem Datenschutz-Framework geprüft."
     },
     "cta": {
-      "partnership": "Request Partnership",
-      "press": "Press Inquiries",
-      "regulatory": "Regulatory Coordination"
+      "partnership": "Partnerschaftsanfrage",
+      "press": "Presseanfragen",
+      "regulatory": "Regulatorische Koordination"
     }
   },
   "privacy": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "This Privacy Policy explains how TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"our,\" or \"the Company\") collects, uses, protects, and discloses personal and financial data processed through our platform and related services.",
-    "intro2": "Our mission is to enable financial transparency and security through AI-driven data intelligence, while maintaining strict compliance with international data-protection and financial-regulatory laws.",
+    "lastUpdated": "Zuletzt aktualisiert: Oktober 2025",
+    "intro1": "Diese Datenschutzrichtlinie erklärt, wie TraceNet Systems Ltd. („TraceNet“, „wir“, „uns“ oder „das Unternehmen“) personenbezogene und finanzielle Daten, die über unsere Plattform und damit verbundene Dienste verarbeitet werden, erhebt, verwendet, schützt und offenlegt.",
+    "intro2": "Unsere Mission ist es, finanzielle Transparenz und Sicherheit durch KI-gesteuerte Datenintelligenz zu ermöglichen, während wir die strikte Einhaltung internationaler Datenschutz- und Finanzregulierungsgesetze gewährleisten.",
     "sections": {
       "scope": {
-        "title": "1. Scope and Application",
-        "description1": "This Policy applies to all users of TraceNet's platform — including individuals, businesses, and institutional partners — and covers data processed through:",
-        "list1": "Our websites and web applications;",
-        "list2": "API integrations with banks, payment providers, and crypto exchanges;",
-        "list3": "Customer support, onboarding, and communication channels.",
-        "description2": "It also applies to employees, contractors, and affiliates acting on behalf of TraceNet in processing user data."
+        "title": "1. Geltungsbereich und Anwendung",
+        "description1": "Diese Richtlinie gilt für alle Nutzer der TraceNet-Plattform – einschließlich Einzelpersonen, Unternehmen und institutioneller Partner – und umfasst Daten, die verarbeitet werden über:",
+        "list1": "Unsere Websites und Webanwendungen;",
+        "list2": "API-Integrationen mit Banken, Zahlungsanbietern und Krypto-Börsen;",
+        "list3": "Kundensupport, Onboarding und Kommunikationskanäle.",
+        "description2": "Sie gilt auch für Mitarbeiter, Auftragnehmer und verbundene Unternehmen, die im Auftrag von TraceNet bei der Verarbeitung von Nutzerdaten handeln."
       },
       "data": {
-        "title": "2. Data We Collect",
-        "description": "We collect only the data necessary to operate our services, ensure compliance, and improve system performance.",
+        "title": "2. Daten, die wir erheben",
+        "description": "Wir erheben nur die Daten, die zur Erbringung unserer Dienste, zur Einhaltung der Compliance und zur Verbesserung der Systemleistung erforderlich sind.",
         "userData": {
-          "title": "2.1 Data Provided by Users",
-          "list1": "Identity and contact details provided during compliance onboarding (e.g., full name, email address, institution, verification documents).",
-          "list2": "Account connection metadata (API keys, institution IDs — tokenized and encrypted).",
-          "list3": "User consent records and compliance declarations."
+          "title": "2.1 Vom Nutzer bereitgestellte Daten",
+          "list1": "Identitäts- und Kontaktdaten, die während des Compliance-Onboardings bereitgestellt werden (z. B. vollständiger Name, E-Mail-Adresse, Institution, Verifizierungsdokumente).",
+          "list2": "Metadaten der Kontoverbindung (API-Schlüssel, Institutions-IDs – tokenisiert und verschlüsselt).",
+          "list3": "Aufzeichnungen der Nutzerzustimmung und Compliance-Erklärungen."
         },
         "autoData": {
-          "title": "2.2 Data Collected Automatically",
-          "list1": "Technical information (IP address, device type, browser configuration, session time).",
-          "list2": "API call metadata and system performance logs.",
-          "list3": "Anonymized financial data retrieved via read-only connections."
+          "title": "2.2 Automatisch erhobene Daten",
+          "list1": "Technische Informationen (IP-Adresse, Gerätetyp, Browserkonfiguration, Sitzungsdauer).",
+          "list2": "API-Call-Metadaten und Systemleistungsprotokolle.",
+          "list3": "Anonymisierte Finanzdaten, die über schreibgeschützte Verbindungen abgerufen werden."
         },
         "sensitive": {
-          "title": "2.3 Sensitive Financial Data",
-          "text1": "When connecting with banks or exchanges, TraceNet retrieves only read-only transactional data.",
-          "text2": "We never store authorization credentials, passwords, or payment instruments."
+          "title": "2.3 Sensible Finanzdaten",
+          "text1": "Bei der Verbindung mit Banken oder Börsen ruft TraceNet nur schreibgeschützte Transaktionsdaten ab.",
+          "text2": "Wir speichern niemals Autorisierungsdaten, Passwörter oder Zahlungsinstrumente."
         }
       },
       "usage": {
-        "title": "3. How We Use Data",
-        "description": "We use collected data to:",
-        "list1": "Operate, maintain, and improve the platform;",
-        "list2": "Analyze transaction activity and detect potential fraud or irregular behavior;",
-        "list3": "Generate anonymized analytical and compliance reports;",
-        "list4": "Communicate with users and provide technical or regulatory support;",
-        "list5": "Fulfil legal and anti-money-laundering (AML) obligations;",
-        "list6": "Enhance the accuracy of our AI-based analytical models.",
-        "note": "TraceNet does not sell or share data for marketing or advertising purposes."
+        "title": "3. Wie wir Daten verwenden",
+        "description": "Wir verwenden erhobene Daten, um:",
+        "list1": "Die Plattform zu betreiben, zu warten und zu verbessern;",
+        "list2": "Transaktionsaktivitäten zu analysieren und potenziellen Betrug oder irreguläres Verhalten zu erkennen;",
+        "list3": "Anonymisierte Analyse- und Compliance-Berichte zu generieren;",
+        "list4": "Mit Nutzern zu kommunizieren und technischen oder regulatorischen Support zu leisten;",
+        "list5": "Gesetzliche und Anti-Geldwäsche (AML)-Pflichten zu erfüllen;",
+        "list6": "Die Genauigkeit unserer KI-basierten Analysemodelle zu verbessern.",
+        "note": "TraceNet verkauft oder teilt keine Daten für Marketing- oder Werbezwecke."
       },
       "legalBasis": {
-        "title": "4. Legal Basis for Processing",
-        "description": "Data is processed under one or more of the following legal bases:",
-        "list1": "User consent — explicit authorization to connect financial accounts or submit verification data;",
-        "list2": "Legitimate interest — fraud detection, data security, and service improvement;",
-        "list3": "Legal obligation — compliance with AML/KYC and data-retention laws;",
-        "list4": "Contractual necessity — enabling user access and platform functionality."
+        "title": "4. Rechtsgrundlage für die Verarbeitung",
+        "description": "Daten werden unter einer oder mehreren der folgenden Rechtsgrundlagen verarbeitet:",
+        "list1": "Nutzerzustimmung – ausdrückliche Genehmigung zur Verbindung von Finanzkonten oder zur Übermittlung von Verifizierungsdaten;",
+        "list2": "Berechtigtes Interesse – Betrugserkennung, Datensicherheit und Serviceverbesserung;",
+        "list3": "Gesetzliche Verpflichtung – Einhaltung von AML/KYC und Gesetzen zur Datenaufbewahrung;",
+        "list4": "Vertragliche Notwendigkeit – Ermöglichung des Nutzerzugangs und der Plattformfunktionalität."
       },
       "retention": {
-        "title": "5. Data Retention",
-        "description": "Data is retained only for as long as necessary to:",
-        "list1": "Deliver platform functionality and services;",
-        "list2": "Comply with applicable financial regulations;",
-        "list3": "Resolve disputes or enforce contractual obligations.",
-        "note": "Once no longer required, data is securely deleted or irreversibly anonymized."
+        "title": "5. Datenaufbewahrung",
+        "description": "Daten werden nur so lange aufbewahrt, wie es notwendig ist, um:",
+        "list1": "Plattformfunktionalität und Dienste bereitzustellen;",
+        "list2": "Anwendbare Finanzvorschriften einzuhalten;",
+        "list3": "Streitigkeiten beizulegen oder vertragliche Pflichten durchzusetzen.",
+        "note": "Sobald sie nicht mehr benötigt werden, werden Daten sicher gelöscht oder irreversibel anonymisiert."
       },
       "security": {
-        "title": "6. Data Security",
-        "description": "We employ advanced security measures to safeguard all user information:",
-        "list1": "AES-256 and TLS 1.3 encryption for data at rest and in transit;",
-        "list2": "Multi-region data hosting with restricted access controls;",
-        "list3": "Continuous penetration testing and vulnerability monitoring;",
-        "list4": "Immutable audit logs for all access and data operations.",
-        "note": "All integrations are read-only and compliant with ISO 27001, SOC 2 Type II, and Open Banking PSD2 standards."
+        "title": "6. Datensicherheit",
+        "description": "Wir wenden fortschrittliche Sicherheitsmaßnahmen an, um alle Nutzerinformationen zu schützen:",
+        "list1": "AES-256 und TLS 1.3-Verschlüsselung für Daten im Ruhezustand und während der Übertragung;",
+        "list2": "Multi-Region-Datenhosting mit eingeschränkten Zugriffskontrollen;",
+        "list3": "Kontinuierliche Penetrationstests und Überwachung von Schwachstellen;",
+        "list4": "Unveränderliche Audit-Protokolle für alle Zugriffs- und Datenoperationen.",
+        "note": "Alle Integrationen sind schreibgeschützt und konform mit ISO 27001, SOC 2 Typ II und Open Banking PSD2-Standards."
       },
       "sharing": {
-        "title": "7. Data Sharing and Disclosure",
-        "description": "We share data only where strictly necessary and under secure, regulated conditions:",
-        "list1": "Financial institutions and exchanges — to process authorized analytical or recall/dispute requests.",
-        "list2": "Regulatory authorities — when legally required for compliance with AML, KYC, or supervisory obligations.",
-        "list3": "Infrastructure providers — for hosting, compliance monitoring, or auditing, under confidentiality agreements.",
-        "note": "TraceNet never discloses user data for commercial resale, behavioral profiling, or advertising."
+        "title": "7. Datenfreigabe und Offenlegung",
+        "description": "Wir teilen Daten nur, wo es unbedingt notwendig ist und unter sicheren, regulierten Bedingungen:",
+        "list1": "Finanzinstitute und Börsen – zur Verarbeitung autorisierter Analyse- oder Rückruf-/Disput-Anfragen.",
+        "list2": "Aufsichtsbehörden – wenn gesetzlich zur Einhaltung von AML, KYC oder Aufsichtspflichten erforderlich.",
+        "list3": "Infrastrukturanbieter – für Hosting, Compliance-Überwachung oder Audits, unter Vertraulichkeitsvereinbarungen.",
+        "note": "TraceNet gibt Nutzerdaten niemals für kommerziellen Weiterverkauf, Verhaltensprofiling oder Werbung offen."
       },
       "transfers": {
-        "title": "8. International Data Transfers",
-        "description": "Where data is transferred internationally, TraceNet applies appropriate safeguards, including:",
-        "list1": "Standard Contractual Clauses (SCCs) under GDPR;",
-        "list2": "Regional data storage for EU, UK, and Canadian users;",
-        "list3": "Encryption and pseudonymization prior to transfer.",
-        "note": "Our primary data-processing centers are located in the European Union, United Kingdom, Canada, and Israel."
+        "title": "8. Internationale Datenübertragungen",
+        "description": "Wenn Daten international übertragen werden, wendet TraceNet angemessene Schutzmaßnahmen an, einschließlich:",
+        "list1": "Standardvertragsklauseln (SCCs) gemäß DSGVO;",
+        "list2": "Regionale Datenspeicherung für Nutzer in der EU, im Vereinigten Königreich und in Kanada;",
+        "list3": "Verschlüsselung und Pseudonymisierung vor der Übertragung.",
+        "note": "Unsere primären Datenverarbeitungszentren befinden sich in der Europäischen Union, im Vereinigten Königreich, in Kanada und Israel."
       },
       "rights": {
-        "title": "9. User Rights",
-        "description": "Under applicable privacy regulations (including GDPR and UK DPA 2018), users have the right to:",
-        "list1": "Access their personal data;",
-        "list2": "Request correction or deletion;",
-        "list3": "Restrict or object to processing;",
-        "list4": "Request data portability;",
-        "list5": "Withdraw consent at any time without affecting prior lawful processing.",
-        "note": "Requests can be submitted to privacy@tracenetsystems.com, and TraceNet will respond within 30 days of verification."
+        "title": "9. Nutzerrechte",
+        "description": "Gemäß den geltenden Datenschutzbestimmungen (einschließlich DSGVO und UK DPA 2018) haben Nutzer das Recht auf:",
+        "list1": "Zugriff auf ihre personenbezogenen Daten;",
+        "list2": "Aufforderung zur Berichtigung oder Löschung;",
+        "list3": "Einschränkung oder Widerspruch gegen die Verarbeitung;",
+        "list4": "Anforderung der Datenportabilität;",
+        "list5": "Widerruf der Zustimmung jederzeit, ohne die vorherige rechtmäßige Verarbeitung zu beeinträchtigen.",
+        "note": "Anfragen können an privacy@tracenetsystems.com gesendet werden, und TraceNet wird innerhalb von 30 Tagen nach Überprüfung antworten."
       },
       "cookies": {
-        "title": "10. Cookies and Tracking",
-        "description1": "Our website uses minimal cookies essential for functionality and analytics.",
-        "description2": "Detailed information on cookie types and consent management is available in our Cookie Policy."
+        "title": "10. Cookies und Tracking",
+        "description1": "Unsere Website verwendet minimale Cookies, die für die Funktionalität und Analyse unerlässlich sind.",
+        "description2": "Detaillierte Informationen zu Cookie-Typen und zur Zustimmungsverwaltung sind in unserer Cookie-Richtlinie verfügbar."
       },
       "dpo": {
-        "title": "11. Data Protection Officer (DPO)",
-        "description": "TraceNet has appointed a Data Protection Officer responsible for oversight of privacy practices and compliance.",
-        "contact": "📧 DPO Contact: dpo@tracenetsystems.com",
-        "address": "📍 Address: TraceNet Systems Ltd., 14 HaGefen St., Ramat Gan, Israel"
+        "title": "11. Datenschutzbeauftragter (DSB)",
+        "description": "TraceNet hat einen Datenschutzbeauftragten ernannt, der für die Aufsicht über die Datenschutzpraktiken und die Einhaltung zuständig ist.",
+        "contact": "📧 DSB Kontakt: dpo@tracenetsystems.com",
+        "address": "📍 Adresse: TraceNet Systems Ltd., 14 HaGefen St., Ramat Gan, Israel"
       },
       "updates": {
-        "title": "12. Updates to This Policy",
-        "description1": "This Policy may be updated periodically to reflect changes in regulation, technology, or corporate operations.",
-        "description2": "Revisions will be posted on this page with the updated \"Last Modified\" date.",
-        "description3": "For material updates, users will be notified via email or in-platform alert."
+        "title": "12. Aktualisierungen dieser Richtlinie",
+        "description1": "Diese Richtlinie kann regelmäßig aktualisiert werden, um Änderungen in der Regulierung, Technologie oder den Unternehmensabläufen widerzuspiegeln.",
+        "description2": "Überarbeitungen werden auf dieser Seite mit dem aktualisierten Datum „Zuletzt aktualisiert“ veröffentlicht.",
+        "description3": "Bei wesentlichen Aktualisierungen werden die Nutzer per E-Mail oder In-Plattform-Benachrichtigung informiert."
       },
       "contact": {
-        "title": "13. Contact",
-        "description": "For any questions, privacy concerns, or regulatory correspondence, please contact:",
+        "title": "13. Kontakt",
+        "description": "Für Fragen, Datenschutzbedenken oder regulatorische Korrespondenz wenden Sie sich bitte an:",
         "email": "📧 privacy@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
         "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
-        "compliantList": "GDPR (2016/679), UK DPA 2018, CCPA, AMLD6, ISO 27001, SOC 2 Type II, PCI DSS, Open Banking PSD2."
+        "compliantLabel": "✅ Konform mit:",
+        "compliantList": "DSGVO (2016/679), UK DPA 2018, CCPA, AMLD6, ISO 27001, SOC 2 Typ II, PCI DSS, Open Banking PSD2."
       }
     }
   },
   "cookiePolicy": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "This Cookie Policy explains how TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"our,\" or \"us\") uses cookies and similar technologies on our websites and web applications.",
-    "intro2": "It should be read together with our Privacy Policy, which explains how we collect, process, and protect your personal data.",
+    "lastUpdated": "Zuletzt aktualisiert: Oktober 2025",
+    "intro1": "Diese Cookie-Richtlinie erklärt, wie TraceNet Systems Ltd. („TraceNet“, „wir“, „unser“ oder „uns“) Cookies und ähnliche Technologien auf unseren Websites und Webanwendungen verwendet.",
+    "intro2": "Sie sollte zusammen mit unserer Datenschutzrichtlinie gelesen werden, die erklärt, wie wir Ihre personenbezogenen Daten erheben, verarbeiten und schützen.",
     "sections": {
       "what": {
-        "title": "1. What Are Cookies",
-        "text1": "Cookies are small text files that are stored on your device (computer, tablet, or smartphone) when you visit a website.",
-        "text2": "They help websites recognize your device, remember your preferences, and improve your user experience.",
-        "text3": "Cookies may also be used for analytics, performance tracking, and — where permitted — marketing and advertising purposes."
+        "title": "1. Was sind Cookies",
+        "text1": "Cookies sind kleine Textdateien, die auf Ihrem Gerät (Computer, Tablet oder Smartphone) gespeichert werden, wenn Sie eine Website besuchen.",
+        "text2": "Sie helfen Websites, Ihr Gerät zu erkennen, Ihre Präferenzen zu speichern und Ihre Benutzererfahrung zu verbessern.",
+        "text3": "Cookies können auch für Analysen, Leistungsverfolgung und – wo erlaubt – für Marketing- und Werbezwecke verwendet werden."
       },
       "usage": {
-        "title": "2. How We Use Cookies",
-        "description": "We use cookies to:",
-        "list1": "Ensure the proper functioning of our website;",
-        "list2": "Remember user preferences and language settings;",
-        "list3": "Improve the performance, speed, and usability of our site;",
-        "list4": "Collect anonymous usage statistics to help us improve our services;",
-        "list5": "Support security and compliance monitoring;",
-        "list6": "(If consented) enable analytics and advertising integrations.",
-        "note": "We do not use cookies to store sensitive financial or personal information."
+        "title": "2. Wie wir Cookies verwenden",
+        "description": "Wir verwenden Cookies, um:",
+        "list1": "Das ordnungsgemäße Funktionieren unserer Website zu gewährleisten;",
+        "list2": "Benutzerpräferenzen und Spracheinstellungen zu speichern;",
+        "list3": "Die Leistung, Geschwindigkeit und Benutzerfreundlichkeit unserer Website zu verbessern;",
+        "list4": "Anonyme Nutzungsstatistiken zu sammeln, um unsere Dienste zu verbessern;",
+        "list5": "Sicherheit und Compliance-Überwachung zu unterstützen;",
+        "list6": "(Falls zugestimmt) Analyse- und Werbeintegrationen zu ermöglichen.",
+        "note": "Wir verwenden Cookies nicht, um sensible Finanz- oder persönliche Informationen zu speichern."
       },
       "types": {
-        "title": "3. Types of Cookies We Use",
+        "title": "3. Arten von Cookies, die wir verwenden",
         "necessary": {
-          "title": "3.1 Strictly Necessary Cookies",
-          "text1": "These cookies are essential for the website to function properly and cannot be disabled.",
-          "text2": "They include session identifiers, authentication tokens, and security-related cookies.",
-          "text3": "Examples:",
-          "list1": "Session management and navigation;",
-          "list2": "User authentication and access control;",
-          "list3": "Compliance and consent tracking."
+          "title": "3.1 Unbedingt notwendige Cookies",
+          "text1": "Diese Cookies sind für das ordnungsgemäße Funktionieren der Website unerlässlich und können nicht deaktiviert werden.",
+          "text2": "Sie umfassen Sitzungs-Identifikatoren, Authentifizierungstoken und sicherheitsrelevante Cookies.",
+          "text3": "Beispiele:",
+          "list1": "Sitzungsverwaltung und Navigation;",
+          "list2": "Benutzerauthentifizierung und Zugriffskontrolle;",
+          "list3": "Compliance- und Zustimmungsverfolgung."
         },
         "functional": {
-          "title": "3.2 Functional Cookies",
-          "text1": "These cookies enable enhanced functionality and personalization, such as remembering your settings or language preferences.",
-          "text2": "They may be set by us or by third-party tools integrated into our platform."
+          "title": "3.2 Funktionale Cookies",
+          "text1": "Diese Cookies ermöglichen erweiterte Funktionen und Personalisierung, wie das Speichern Ihrer Einstellungen oder Spracheinstellungen.",
+          "text2": "Sie können von uns oder von Drittanbieter-Tools, die in unsere Plattform integriert sind, gesetzt werden."
         },
         "analytics": {
-          "title": "3.3 Analytics and Performance Cookies",
-          "text1": "These cookies allow us to measure traffic and usage patterns.",
-          "text2": "The information is aggregated and anonymous, helping us understand how visitors interact with our website.",
-          "text3": "Examples of third-party analytics tools (if enabled):",
+          "title": "3.3 Analyse- und Performance-Cookies",
+          "text1": "Diese Cookies ermöglichen es uns, den Verkehr und die Nutzungsmuster zu messen.",
+          "text2": "Die Informationen werden aggregiert und sind anonym, was uns hilft zu verstehen, wie Besucher mit unserer Website interagieren.",
+          "text3": "Beispiele für Drittanbieter-Analyse-Tools (falls aktiviert):",
           "list1": "Google Analytics",
           "list2": "Meta (Facebook) Pixel",
-          "list3": "Hotjar or equivalent performance analytics tools",
-          "note": "You may choose to disable these cookies without affecting essential functionality."
+          "list3": "Hotjar oder gleichwertige Performance-Analyse-Tools",
+          "note": "Sie können diese Cookies deaktivieren, ohne die wesentliche Funktionalität zu beeinträchtigen."
         },
         "marketing": {
-          "title": "3.4 Marketing and Tracking Cookies (Optional)",
-          "text1": "These cookies may be used to deliver relevant ads or track campaign performance.",
-          "text2": "They are only activated after your explicit consent.",
-          "text3": "We currently use minimal or no marketing cookies, but we include this category for transparency."
+          "title": "3.4 Marketing- und Tracking-Cookies (Optional)",
+          "text1": "Diese Cookies können verwendet werden, um relevante Werbung zu liefern oder die Kampagnenleistung zu verfolgen.",
+          "text2": "Sie werden nur nach Ihrer ausdrücklichen Zustimmung aktiviert.",
+          "text3": "Wir verwenden derzeit minimale oder keine Marketing-Cookies, schließen diese Kategorie jedoch zur Transparenz ein."
         }
       },
       "duration": {
-        "title": "4. Duration of Cookies",
-        "description": "Cookies may be either:",
-        "list1": "Session cookies — deleted when you close your browser; or",
-        "list2": "Persistent cookies — remain on your device until they expire or are manually deleted.",
-        "note": "We retain cookies only as long as necessary for their intended purpose, usually between 1 day and 12 months."
+        "title": "4. Dauer der Cookies",
+        "description": "Cookies können entweder sein:",
+        "list1": "Sitzungscookies – werden gelöscht, wenn Sie Ihren Browser schließen; oder",
+        "list2": "Persistente Cookies – bleiben auf Ihrem Gerät, bis sie ablaufen oder manuell gelöscht werden.",
+        "note": "Wir speichern Cookies nur so lange, wie es für ihren beabsichtigten Zweck notwendig ist, normalerweise zwischen 1 Tag und 12 Monaten."
       },
       "thirdParty": {
-        "title": "5. Third-Party Cookies",
-        "description1": "Some cookies may be placed by trusted third-party providers that supply analytics, performance, or compliance tools.",
-        "description2": "These providers act as independent data controllers for their respective services.",
-        "description3": "Examples include:",
+        "title": "5. Drittanbieter-Cookies",
+        "description1": "Einige Cookies können von vertrauenswürdigen Drittanbietern gesetzt werden, die Analyse-, Performance- oder Compliance-Tools bereitstellen.",
+        "description2": "Diese Anbieter handeln als unabhängige Datenverantwortliche für ihre jeweiligen Dienste.",
+        "description3": "Beispiele umfassen:",
         "list1": "Google Ireland Ltd. (Google Analytics, Tag Manager)",
-        "list2": "Meta Platforms Inc. (Meta Pixel for campaign attribution)",
-        "list3": "Cloudflare Inc. (security and performance optimization)",
-        "note": "Each third party has its own privacy and cookie policies, which we encourage users to review."
+        "list2": "Meta Platforms Inc. (Meta Pixel für Kampagnenzuordnung)",
+        "list3": "Cloudflare Inc. (Sicherheit und Leistungsoptimierung)",
+        "note": "Jeder Drittanbieter hat seine eigenen Datenschutz- und Cookie-Richtlinien, deren Überprüfung wir den Nutzern empfehlen."
       },
       "manage": {
-        "title": "6. Managing Cookie Preferences",
-        "description": "You can manage or withdraw your consent to non-essential cookies at any time through:",
-        "list1": "The cookie consent banner displayed when you first visit our site;",
-        "list2": "The \"Manage Preferences\" link available in the footer of our website;",
-        "list3": "Your browser's cookie settings.",
-        "browserTitle": "Browser Settings:",
-        "browserText1": "Most browsers allow you to block or delete cookies.",
-        "browserText2": "You can find detailed instructions in the \"Help\" section of your browser.",
-        "note": "Please note: disabling essential cookies may affect the functionality of our website."
+        "title": "6. Verwaltung der Cookie-Einstellungen",
+        "description": "Sie können Ihre Zustimmung zu nicht-essenziellen Cookies jederzeit verwalten oder widerrufen über:",
+        "list1": "Das Cookie-Zustimmungsbanner, das beim ersten Besuch unserer Website angezeigt wird;",
+        "list2": "Den Link „Einstellungen verwalten“ (Manage Preferences), der in der Fußzeile unserer Website verfügbar ist;",
+        "list3": "Die Cookie-Einstellungen Ihres Browsers.",
+        "browserTitle": "Browser-Einstellungen:",
+        "browserText1": "Die meisten Browser ermöglichen es Ihnen, Cookies zu blockieren oder zu löschen.",
+        "browserText2": "Detaillierte Anweisungen finden Sie im Abschnitt „Hilfe“ Ihres Browsers.",
+        "note": "Bitte beachten Sie: Das Deaktivieren essenzieller Cookies kann die Funktionalität unserer Website beeinträchtigen."
       },
       "changes": {
-        "title": "7. Changes to This Policy",
-        "description1": "We may update this Cookie Policy from time to time to reflect changes in technology, regulation, or operational needs.",
-        "description2": "All updates will be posted on this page with the updated \"Last Modified\" date.",
-        "description3": "Significant changes will be communicated through a website notice or banner."
+        "title": "7. Änderungen dieser Richtlinie",
+        "description1": "Wir können diese Cookie-Richtlinie von Zeit zu Zeit aktualisieren, um Änderungen in Technologie, Regulierung oder betrieblichen Anforderungen widerzuspiegeln.",
+        "description2": "Alle Aktualisierungen werden auf dieser Seite mit dem aktualisierten Datum „Zuletzt aktualisiert“ veröffentlicht.",
+        "description3": "Wesentliche Änderungen werden durch eine Website-Benachrichtigung oder ein Banner mitgeteilt."
       },
       "contact": {
-        "title": "8. Contact",
-        "description": "If you have any questions about this Cookie Policy or our data practices, please contact:",
+        "title": "8. Kontakt",
+        "description": "Wenn Sie Fragen zu dieser Cookie-Richtlinie oder unseren Datenpraktiken haben, wenden Sie sich bitte an:",
         "email": "📧 privacy@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
         "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
-        "compliantList": "GDPR (2016/679), ePrivacy Directive, UK DPA 2018, CCPA, and Israeli Privacy Protection Law (PPL)."
+        "compliantLabel": "✅ Konform mit:",
+        "compliantList": "DSGVO (2016/679), ePrivacy-Richtlinie, UK DPA 2018, CCPA und israelisches Datenschutzgesetz (PPL)."
       }
     }
   },
   "terms": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "These Terms of Use (\"Terms\") govern your access to and use of the platform, products, and services (collectively, the \"Platform\") provided by TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"us,\" or \"our\").",
-    "intro2": "By accessing or using the Platform, you agree to be bound by these Terms. If you do not agree, you may not use the Platform.",
+    "lastUpdated": "Zuletzt aktualisiert: Oktober 2025",
+    "intro1": "Diese Nutzungsbedingungen („Bedingungen“) regeln Ihren Zugang zu und Ihre Nutzung der Plattform, Produkte und Dienste (zusammen die „Plattform“), die von TraceNet Systems Ltd. („TraceNet“, „wir“, „uns“ oder „unser“) bereitgestellt werden.",
+    "intro2": "Durch den Zugriff oder die Nutzung der Plattform erklären Sie sich mit diesen Bedingungen einverstanden. Wenn Sie diesen Bedingungen nicht zustimmen, dürfen Sie die Plattform nicht nutzen.",
     "sections": {
       "about": {
-        "title": "1. About TraceNet",
-        "text1": "TraceNet Systems Ltd. is a technology company that provides AI-driven financial analytics and compliance infrastructure.",
-        "text2": "The Platform enables users to analyze transaction data, identify irregularities, and generate reports through read-only integrations with banks, payment systems, and digital-asset exchanges.",
-        "text3": "TraceNet is not a financial institution, broker, or money-service business.",
-        "text4": "We do not store, transfer, or control user funds."
+        "title": "1. Über TraceNet",
+        "text1": "TraceNet Systems Ltd. ist ein Technologieunternehmen, das KI-gesteuerte Finanzanalytik und Compliance-Infrastruktur bereitstellt.",
+        "text2": "Die Plattform ermöglicht es Nutzern, Transaktionsdaten zu analysieren, Unregelmäßigkeiten zu identifizieren und Berichte über schreibgeschützte Integrationen mit Banken, Zahlungssystemen und Digital-Asset-Börsen zu generieren.",
+        "text3": "TraceNet ist kein Finanzinstitut, Broker oder Gelddienstleistungsunternehmen.",
+        "text4": "Wir speichern, übertragen oder kontrollieren keine Nutzergelder."
       },
       "eligibility": {
-        "title": "2. Eligibility",
-        "description": "By using the Platform, you represent and warrant that:",
-        "list1": "You are at least 18 years old or of legal age in your jurisdiction;",
-        "list2": "You have the authority to enter into these Terms;",
-        "list3": "Your use of the Platform complies with all applicable laws, including financial and data-protection regulations.",
-        "note": "Access may be restricted or revoked if compliance obligations are not met or if false information is provided."
+        "title": "2. Berechtigung",
+        "description": "Durch die Nutzung der Plattform erklären und garantieren Sie, dass:",
+        "list1": "Sie mindestens 18 Jahre alt sind oder das gesetzliche Mindestalter in Ihrer Gerichtsbarkeit erreicht haben;",
+        "list2": "Sie die Befugnis haben, diese Bedingungen einzugehen;",
+        "list3": "Ihre Nutzung der Plattform allen anwendbaren Gesetzen, einschließlich Finanz- und Datenschutzbestimmungen, entspricht.",
+        "note": "Der Zugang kann eingeschränkt oder entzogen werden, wenn Compliance-Pflichten nicht erfüllt werden oder wenn falsche Informationen bereitgestellt werden."
       },
       "services": {
-        "title": "3. Description of Services",
-        "description": "The Platform provides:",
-        "list1": "AI-based transaction analysis and risk scoring;",
-        "list2": "Integration with financial and crypto institutions via official APIs;",
-        "list3": "Automated generation of compliance and audit reports;",
-        "list4": "Optional automated initiation of chargeback, recall, or dispute requests when authorized by the user.",
-        "note1": "All actions are performed in read-only mode.",
-        "note2": "TraceNet does not execute or authorize financial transactions on behalf of users."
+        "title": "3. Beschreibung der Dienste",
+        "description": "Die Plattform bietet:",
+        "list1": "KI-basierte Transaktionsanalyse und Risikobewertung;",
+        "list2": "Integration mit Finanz- und Krypto-Institutionen über offizielle APIs;",
+        "list3": "Automatisierte Generierung von Compliance- und Audit-Berichten;",
+        "list4": "Optionale automatisierte Einleitung von Chargeback-, Rückruf- oder Disput-Anfragen, wenn vom Nutzer autorisiert.",
+        "note1": "Alle Aktionen werden im schreibgeschützten Modus durchgeführt.",
+        "note2": "TraceNet führt keine Finanztransaktionen im Namen der Nutzer aus oder autorisiert diese."
       },
       "responsibilities": {
-        "title": "4. User Responsibilities",
-        "description": "Users agree to:",
-        "list1": "Provide accurate and complete information during onboarding;",
-        "list2": "Maintain confidentiality of access credentials and API keys;",
-        "list3": "Use the Platform only for lawful and authorized purposes;",
-        "list4": "Not misuse, resell, or reverse-engineer any part of the Platform;",
-        "list5": "Immediately notify TraceNet of any unauthorized access or security incident.",
-        "note": "Users are solely responsible for actions performed under their credentials."
+        "title": "4. Nutzerverantwortlichkeiten",
+        "description": "Nutzer stimmen zu:",
+        "list1": "Genaue und vollständige Informationen während des Onboardings bereitzustellen;",
+        "list2": "Die Vertraulichkeit von Zugangskennungen und API-Schlüsseln zu wahren;",
+        "list3": "Die Plattform nur für rechtmäßige und autorisierte Zwecke zu nutzen;",
+        "list4": "Keinen Missbrauch, Weiterverkauf oder Reverse Engineering von Teilen der Plattform vorzunehmen;",
+        "list5": "TraceNet unverzüglich über jeden unbefugten Zugriff oder Sicherheitsvorfall zu informieren.",
+        "note": "Nutzer sind allein verantwortlich für Handlungen, die unter ihren Anmeldeinformationen ausgeführt werden."
       },
       "compliance": {
         "title": "5. Compliance Onboarding",
-        "description1": "To access advanced features or API integrations, users must complete a short compliance onboarding process, as required by international financial regulators.",
-        "description2": "This process may include:",
-        "list1": "Identity and institutional verification (KYC/KYB);",
-        "list2": "Acceptance of TraceNet's compliance terms;",
-        "list3": "Confirmation of lawful data usage and purpose.",
-        "note": "Access tokens are issued only upon successful completion of this process."
+        "description1": "Um auf erweiterte Funktionen oder API-Integrationen zuzugreifen, müssen Nutzer einen kurzen Compliance-Onboarding-Prozess absolvieren, wie er von internationalen Finanzaufsichtsbehörden gefordert wird.",
+        "description2": "Dieser Prozess kann umfassen:",
+        "list1": "Identitäts- und institutionelle Verifizierung (KYC/KYB);",
+        "list2": "Akzeptanz der Compliance-Bedingungen von TraceNet;",
+        "list3": "Bestätigung der rechtmäßigen Datennutzung und des Zwecks.",
+        "note": "Zugangstoken werden nur nach erfolgreichem Abschluss dieses Prozesses ausgestellt."
       },
       "ip": {
-        "title": "6. Intellectual Property",
-        "description1": "All intellectual property rights in the Platform, including software, models, text, design, and documentation, are owned by TraceNet Systems Ltd. or its licensors.",
-        "description2": "Users may not:",
-        "list1": "Copy, reproduce, or distribute any part of the Platform;",
-        "list2": "Use TraceNet's trademarks or branding without written permission;",
-        "list3": "Modify, decompile, or reverse-engineer the Platform or its AI models.",
-        "note": "All rights not expressly granted under these Terms are reserved by TraceNet."
+        "title": "6. Geistiges Eigentum",
+        "description1": "Alle geistigen Eigentumsrechte an der Plattform, einschließlich Software, Modellen, Text, Design und Dokumentation, sind Eigentum von TraceNet Systems Ltd. oder ihren Lizenzgebern.",
+        "description2": "Nutzer dürfen nicht:",
+        "list1": "Teile der Plattform kopieren, reproduzieren oder verbreiten;",
+        "list2": "Marken oder Branding von TraceNet ohne schriftliche Genehmigung verwenden;",
+        "list3": "Die Plattform oder ihre KI-Modelle modifizieren, dekompilieren oder Reverse Engineering betreiben.",
+        "note": "Alle Rechte, die nicht ausdrücklich unter diesen Bedingungen gewährt werden, sind TraceNet vorbehalten."
       },
       "dataUse": {
-        "title": "7. Data Usage and Privacy",
-        "description1": "All data processed through the Platform is handled in accordance with the Privacy Policy.",
-        "description2": "Users acknowledge and agree that:",
-        "list1": "Data access is limited to read-only connections;",
-        "list2": "Data may be analyzed for risk, compliance, and operational improvement;",
-        "list3": "TraceNet may store metadata and anonymized insights for model optimization;",
-        "list4": "All data handling complies with GDPR, AML, and other applicable laws.",
-        "note": "Users retain ownership of their input data and analytical outputs."
+        "title": "7. Datennutzung und Datenschutz",
+        "description1": "Alle über die Plattform verarbeiteten Daten werden in Übereinstimmung mit der Datenschutzrichtlinie behandelt.",
+        "description2": "Nutzer erkennen an und stimmen zu, dass:",
+        "list1": "Der Datenzugriff auf schreibgeschützte Verbindungen beschränkt ist;",
+        "list2": "Daten für Risiko, Compliance und operative Verbesserung analysiert werden können;",
+        "list3": "TraceNet Metadaten und anonymisierte Erkenntnisse zur Modelloptimierung speichern kann;",
+        "list4": "Die gesamte Datenverarbeitung der DSGVO, AML und anderen anwendbaren Gesetzen entspricht.",
+        "note": "Nutzer behalten das Eigentum an ihren Eingabedaten und Analyseergebnissen."
       },
       "security": {
-        "title": "8. Security",
-        "text1": "TraceNet implements industry-standard security protocols, including encryption, access control, and continuous monitoring.",
-        "text2": "However, no system is completely secure, and users acknowledge the inherent risks of data transmission over the internet.",
-        "text3": "TraceNet will not be liable for unauthorized access or incidents beyond its reasonable control."
+        "title": "8. Sicherheit",
+        "text1": "TraceNet implementiert branchenübliche Sicherheitsprotokolle, einschließlich Verschlüsselung, Zugriffskontrolle und kontinuierlicher Überwachung.",
+        "text2": "Jedoch ist kein System vollständig sicher, und Nutzer erkennen die inhärenten Risiken der Datenübertragung über das Internet an.",
+        "text3": "TraceNet haftet nicht für unbefugten Zugriff oder Vorfälle, die außerhalb seiner angemessenen Kontrolle liegen."
       },
       "availability": {
-        "title": "9. Service Availability",
-        "description": "The Platform is provided on an \"as-is\" and \"as-available\" basis.",
-        "note": "TraceNet reserves the right to:",
-        "list1": "Modify, suspend, or discontinue any feature or service;",
-        "list2": "Perform scheduled or unscheduled maintenance;",
-        "list3": "Restrict access when required by law or regulator.",
-        "note2": "TraceNet shall not be liable for downtime, delays, or data unavailability."
+        "title": "9. Serviceverfügbarkeit",
+        "description": "Die Plattform wird im „Ist-Zustand“ und „wie verfügbar“ bereitgestellt.",
+        "note": "TraceNet behält sich das Recht vor:",
+        "list1": "Funktionen oder Dienste zu ändern, auszusetzen oder einzustellen;",
+        "list2": "Geplante oder unplanmäßige Wartungen durchzuführen;",
+        "list3": "Den Zugang einzuschränken, wenn dies gesetzlich oder durch eine Aufsichtsbehörde erforderlich ist.",
+        "note2": "TraceNet haftet nicht für Ausfallzeiten, Verzögerungen oder Nichtverfügbarkeit von Daten."
       },
       "prohibited": {
-        "title": "10. Prohibited Activities",
-        "description": "Users may not:",
-        "list1": "Attempt to gain unauthorized access to the Platform or its data;",
-        "list2": "Upload or transmit malicious code or data;",
-        "list3": "Use the Platform for unlawful, deceptive, or fraudulent activity;",
-        "list4": "Interfere with network operations or system integrity;",
-        "list5": "Circumvent security or authentication mechanisms.",
-        "note": "Violation of these terms may result in immediate suspension or termination of access."
+        "title": "10. Verbotene Aktivitäten",
+        "description": "Nutzer dürfen nicht:",
+        "list1": "Versuchen, unbefugten Zugriff auf die Plattform oder ihre Daten zu erlangen;",
+        "list2": "Bösartigen Code oder Daten hochladen oder übertragen;",
+        "list3": "Die Plattform für unrechtmäßige, täuschende oder betrügerische Aktivitäten nutzen;",
+        "list4": "Netzwerkoperationen oder Systemintegrität stören;",
+        "list5": "Sicherheits- oder Authentifizierungsmechanismen umgehen.",
+        "note": "Ein Verstoß gegen diese Bedingungen kann zur sofortigen Aussetzung oder Beendigung des Zugangs führen."
       },
       "liability": {
-        "title": "11. Limitation of Liability",
-        "text1": "To the maximum extent permitted by law:",
-        "text2": "TraceNet shall not be liable for any indirect, incidental, consequential, or punitive damages, including loss of profits, data, or goodwill, arising from or related to the use of the Platform.",
-        "text3": "TraceNet's total liability shall not exceed the amount paid by the user (if any) in the preceding twelve months."
+        "title": "11. Haftungsbeschränkung",
+        "text1": "Im größtmöglichen gesetzlich zulässigen Umfang:",
+        "text2": "TraceNet haftet nicht für indirekte, zufällige, Folge- oder Strafschäden, einschließlich entgangenem Gewinn, Datenverlust oder Goodwill, die sich aus oder im Zusammenhang mit der Nutzung der Plattform ergeben.",
+        "text3": "Die Gesamthaftung von TraceNet übersteigt nicht den Betrag, den der Nutzer (falls vorhanden) in den vorangegangenen zwölf Monaten gezahlt hat."
       },
       "indemnification": {
-        "title": "12. Indemnification",
-        "description": "Users agree to indemnify and hold harmless TraceNet Systems Ltd., its affiliates, and employees from any claims, damages, or expenses arising out of:",
-        "list1": "Violation of these Terms;",
-        "list2": "Misuse of the Platform;",
-        "list3": "Breach of applicable law or regulation."
+        "title": "12. Freistellung",
+        "description": "Nutzer stimmen zu, TraceNet Systems Ltd., ihre verbundenen Unternehmen und Mitarbeiter von jeglichen Ansprüchen, Schäden oder Ausgaben freizustellen und schadlos zu halten, die sich aus:",
+        "list1": "Verstoß gegen diese Bedingungen;",
+        "list2": "Missbrauch der Plattform;",
+        "list3": "Verletzung anwendbaren Rechts oder Vorschriften ergeben.",
+        "note": "Diese Freistellung gilt auch nach Beendigung dieser Bedingungen oder der Nutzung der Plattform."
       },
       "termination": {
-        "title": "13. Termination",
-        "description": "TraceNet may suspend or terminate user access immediately if:",
-        "list1": "The user violates these Terms or compliance obligations;",
-        "list2": "The Platform is misused for illegal or non-compliant activity;",
-        "list3": "Required by a financial regulator or court order.",
-        "note": "Upon termination, all rights to use the Platform cease immediately."
+        "title": "13. Kündigung",
+        "description": "TraceNet kann den Nutzerzugang sofort aussetzen oder kündigen, wenn:",
+        "list1": "Der Nutzer gegen diese Bedingungen oder Compliance-Pflichten verstößt;",
+        "list2": "Die Plattform für illegale oder nicht konforme Aktivitäten missbraucht wird;",
+        "list3": "Von einer Finanzaufsichtsbehörde oder einem Gerichtsbeschluss gefordert.",
+        "note": "Nach der Kündigung erlöschen alle Rechte zur Nutzung der Plattform sofort."
       },
       "changes": {
-        "title": "14. Changes to These Terms",
-        "text1": "TraceNet may update these Terms periodically.",
-        "text2": "Revised Terms will be posted on this page with the updated \"Last Modified\" date.",
-        "text3": "Continued use of the Platform after updates constitutes acceptance of the revised Terms."
+        "title": "14. Änderungen dieser Bedingungen",
+        "text1": "TraceNet kann diese Bedingungen regelmäßig aktualisieren.",
+        "text2": "Überarbeitete Bedingungen werden auf dieser Seite mit dem aktualisierten Datum „Zuletzt aktualisiert“ veröffentlicht.",
+        "text3": "Die fortgesetzte Nutzung der Plattform nach Aktualisierungen stellt die Annahme der überarbeiteten Bedingungen dar."
       },
       "governingLaw": {
-        "title": "15. Governing Law and Jurisdiction",
-        "text1": "These Terms are governed by and construed under the laws of Israel, without regard to conflict-of-law principles.",
-        "text2": "Any dispute arising under these Terms shall be subject to the exclusive jurisdiction of the courts of Tel Aviv District, Israel."
+        "title": "15. Geltendes Recht und Gerichtsstand",
+        "text1": "Diese Bedingungen unterliegen den Gesetzen Israels und werden in Übereinstimmung mit diesen ausgelegt, unter Ausschluss der Kollisionsnormen.",
+        "text2": "Alle Streitigkeiten, die sich aus diesen Bedingungen ergeben, unterliegen der ausschließlichen Gerichtsbarkeit der Gerichte des Bezirks Tel Aviv, Israel."
       },
       "contact": {
-        "title": "16. Contact Information",
-        "description": "For any questions, notices, or legal correspondence regarding these Terms, please contact:",
+        "title": "16. Kontaktinformationen",
+        "description": "Für Fragen, Benachrichtigungen oder rechtliche Korrespondenz bezüglich dieser Bedingungen wenden Sie sich bitte an:",
         "email": "📧 legal@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
         "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
-        "compliantList": "GDPR (2016/679), AMLD6, Open Banking PSD2, ISO 27001, SOC 2 Type II, PCI DSS, and relevant Israeli corporate law."
+        "compliantLabel": "✅ Konform mit:",
+        "compliantList": "DSGVO (2016/679), AMLD6, Open Banking PSD2, ISO 27001, SOC 2 Typ II, PCI DSS und relevantem israelischem Gesellschaftsrecht."
       }
     }
   },
   "th": {
-    "title": "Thank you for your registration!",
-    "subtitle": "Our colleague will contact you soon",
-    "button": "Back to Home"
+    "title": "Vielen Dank für Ihre Registrierung!",
+    "subtitle": "Unser Kollege wird Sie in Kürze kontaktieren",
+    "button": "Zurück zur Startseite"
   },
   "contact": {
-    "title": "Technology That Strengthens Financial Integrity",
-    "subtitle": "Built on Google Gemini. Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
+    "title": "Technologie, die die Finanzintegrität stärkt",
+    "subtitle": "Basierend auf Google Gemini. Entwickelt, um das globale Finanz-Ökosystem transparenter, intelligenter und rechenschaftspflichtiger zu machen.",
     "form": {
-      "title": "Fill in your details below",
-      "firstName": "First Name*",
-      "lastName": "Last Name*",
-      "email": "Email*",
-      "phone": "Phone*",
-      "message": "Anything we should know before our call?",
-      "privacy": "By submitting this form I accept the <a href=\"privacy-policy.html\">privacy policy</a> terms",
-      "submit": "Explore the Architecture"
+      "title": "Geben Sie unten Ihre Daten ein",
+      "firstName": "Vorname*",
+      "lastName": "Nachname*",
+      "email": "E-Mail*",
+      "phone": "Telefon*",
+      "message": "Gibt es etwas, das wir vor unserem Gespräch wissen sollten?",
+      "privacy": "Mit dem Absenden dieses Formulars akzeptiere ich die <a href=\"privacy-policy.html\">Datenschutzbestimmungen</a>",
+      "submit": "Architektur erkunden"
     }
   },
   "awards": {
-    "title": "Awards and Recognitions"
+    "title": "Auszeichnungen und Anerkennungen"
   },
   "footer": {
-    "description": "Built on Google Gemini.<br>Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
-    "contact": "Contact Us",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Use",
-    "cookie": "Cookie Policy",
-    "legal": "The analyses published within the scope of this service were prepared on behalf of Bridgewise Analytics Ltd (the \"Company\")."
+    "description": "Basierend auf Google Gemini.<br>Entwickelt, um das globale Finanz-Ökosystem transparenter, intelligenter und rechenschaftspflichtiger zu machen.",
+    "contact": "Kontakt",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "cookie": "Cookie-Richtlinie",
+    "legal": "Die im Rahmen dieses Dienstes veröffentlichten Analysen wurden im Auftrag von Bridgewise Analytics Ltd (das „Unternehmen“) erstellt."
   },
   "cookie": {
-    "title": "This website uses cookies to improve the user experience and analyze traffic.",
-    "description": "By clicking the “Continue” button or by continuing to use the website, you consent to the use of cookies in your browser. You can manage cookies at any time in your browser settings. For more information, please read our Privacy Policy, Cookie Policy, and User Agreement.",
-    "close": "Close",
-    "accept": "Continue"
+    "title": "Diese Website verwendet Cookies, um die Benutzererfahrung zu verbessern und den Verkehr zu analysieren.",
+    "description": "Durch Klicken auf die Schaltfläche „Weiter“ oder durch die weitere Nutzung der Website stimmen Sie der Verwendung von Cookies in Ihrem Browser zu. Sie können Cookies jederzeit in Ihren Browsereinstellungen verwalten. Weitere Informationen finden Sie in unserer Datenschutzrichtlinie, Cookie-Richtlinie und Nutzungsvereinbarung.",
+    "close": "Schließen",
+    "accept": "Weiter"
   }
 }
-

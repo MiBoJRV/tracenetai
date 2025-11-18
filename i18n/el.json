@@ -1,727 +1,727 @@
 {
   "nav": {
-    "technology": "TECHNOLOGY",
-    "solutions": "SOLUTIONS",
-    "compliance": "COMPLIANCE & SECURITY",
-    "about": "ABOUT US",
-    "contact": "Contact us"
+    "technology": "ΤΕΧΝΟΛΟΓΙΑ",
+    "solutions": "ΛΥΣΕΙΣ",
+    "compliance": "ΣΥΜΜΟΡΦΩΣΗ & ΑΣΦΑΛΕΙΑ",
+    "about": "ΣΧΕΤΙΚΑ ΜΕ ΕΜΑΣ",
+    "contact": "Επικοινωνία"
   },
   "banner": {
-    "title": "AI Infrastructure for Global Transaction Transparency",
-    "description": "Powered by Google Gemini technology and integrated with banks and crypto platforms worldwide, our system provides real-time visibility into fund movements, risk scoring, and automated compliance actions.",
-    "cta": "Explore the Technology"
+    "title": "Υποδομή AI για Παγκόσμια Διαφάνεια Συναλλαγών",
+    "description": "Με την τεχνολογία Google Gemini και την ενσωμάτωση σε τράπεζες και πλατφόρμες κρύπτο παγκοσμίως, το σύστημά μας παρέχει ορατότητα σε πραγματικό χρόνο για τις κινήσεις κεφαλαίων, τη βαθμολογία κινδύνου και αυτοματοποιημένες ενέργειες συμμόρφωσης.",
+    "cta": "Εξερευνήστε την Τεχνολογία"
   },
   "about": {
-    "title": "Understanding the Platform",
-    "paragraph1": "The system combines large-scale financial data modeling, behavioral analytics, and regulatory intelligence to interpret the flow of money across connected accounts and digital assets.",
-    "paragraph2": "It operates as a neutral analytical layer — securely connected to financial institutions through verified APIs, providing structured insight into every transaction chain and its associated risk."
+    "title": "Κατανόηση της Πλατφόρμας",
+    "paragraph1": "Το σύστημα συνδυάζει μοντελοποίηση χρηματοοικονομικών δεδομένων μεγάλης κλίμακας, ανάλυση συμπεριφοράς και ρυθμιστική ευφυΐα για την ερμηνεία της ροής χρήματος σε συνδεδεμένους λογαριασμούς και ψηφιακά περιουσιακά στοιχεία.",
+    "paragraph2": "Λειτουργεί ως ένα ουδέτερο αναλυτικό επίπεδο — συνδεδεμένο με ασφάλεια σε χρηματοπιστωτικά ιδρύματα μέσω επαληθευμένων APIs, παρέχοντας δομημένη εικόνα για κάθε αλυσίδα συναλλαγών και τον σχετικό κίνδυνο."
   },
   "features": {
     "connectivity": {
-      "title": "Connectivity",
-      "text": "Direct API integrations with regulated banks and major crypto exchanges."
+      "title": "Συνδεσιμότητα",
+      "text": "Άμεσες ενσωματώσεις API με ρυθμιζόμενες τράπεζες και μεγάλα ανταλλακτήρια κρυπτονομισμάτων."
     },
     "intelligence": {
-      "title": "Intelligence",
-      "text": "Gemini-based models optimized for real-time financial reasoning."
+      "title": "Ευφυΐα",
+      "text": "Μοντέλα βασισμένα στο Gemini, βελτιστοποιημένα για χρηματοοικονομική συλλογιστική σε πραγματικό χρόνο."
     },
     "integrity": {
-      "title": "Integrity",
-      "text": "Fully compliant with GDPR, AMLD6, and open-banking frameworks."
+      "title": "Ακεραιότητα",
+      "text": "Πλήρως συμβατό με GDPR, AMLD6 και πλαίσια open-banking."
     }
   },
   "layers": {
-    "title": "Core Functional Layers",
+    "title": "Βασικά Λειτουργικά Επίπεδα",
     "analysis": {
-      "title": "Analysis",
-      "text": "Processes multi-channel financial data and identifies irregular activity using Gemini's contextual understanding."
+      "title": "Ανάλυση",
+      "text": "Επεξεργάζεται χρηματοοικονομικά δεδομένα πολλαπλών καναλιών και εντοπίζει μη κανονική δραστηριότητα χρησιμοποιώντας τη συμφραζόμενη κατανόηση του Gemini."
     },
     "risk": {
-      "title": "Risk Evaluation",
-      "text": "Applies AI-driven scoring and behavioral clustering to determine exposure to fraud, unauthorized use, or compliance breach."
+      "title": "Αξιολόγηση Κινδύνου",
+      "text": "Εφαρμόζει βαθμολόγηση βασισμένη σε AI και ομαδοποίηση συμπεριφοράς για τον προσδιορισμό της έκθεσης σε απάτη, μη εξουσιοδοτημένη χρήση ή παραβίαση συμμόρφωσης."
     },
     "response": {
-      "title": "Automated Response",
-      "text": "When risk thresholds are reached, the system can initiate authorized procedures — including chargeback, recall, or dispute actions — directly through institutional APIs."
+      "title": "Αυτοματοποιημένη Απόκριση",
+      "text": "Όταν επιτευχθούν τα όρια κινδύνου, το σύστημα μπορεί να ξεκινήσει εξουσιοδοτημένες διαδικασίες — συμπεριλαμβανομένων ενεργειών αντιστροφής χρέωσης (chargeback), ανάκλησης (recall) ή αμφισβήτησης — απευθείας μέσω των θεσμικών APIs."
     }
   },
   "benefit": {
-    "title": "Access and Regulatory Framework",
-    "item1": "Because the platform interacts with live financial networks, access is granted only after completion of a short compliance onboarding required by global regulators.",
-    "item2": "This ensures lawful data exchange, verified identity, and full accountability of every operation executed through the AI infrastructure.",
-    "footer": "Compliance is not an add-on — it's an integral part of the system design."
+    "title": "Πρόσβαση και Ρυθμιστικό Πλαίσιο",
+    "item1": "Επειδή η πλατφόρμα αλληλεπιδρά με ζωντανά χρηματοοικονομικά δίκτυα, η πρόσβαση χορηγείται μόνο μετά την ολοκλήρωση μιας σύντομης διαδικασίας εισαγωγής (onboarding) συμμόρφωσης που απαιτείται από τους παγκόσμιους ρυθμιστικούς φορείς.",
+    "item2": "Αυτό διασφαλίζει τη νόμιμη ανταλλαγή δεδομένων, την επαληθευμένη ταυτότητα και την πλήρη λογοδοσία για κάθε λειτουργία που εκτελείται μέσω της υποδομής AI.",
+    "footer": "Η συμμόρφωση δεν είναι ένα πρόσθετο (add-on) — είναι αναπόσπαστο μέρος του σχεδιασμού του συστήματος."
   },
   "transparency": {
-    "title": "Designed for Transparency, Built for Trust",
-    "text1": "The platform helps institutions and individuals detect irregular financial behavior, reduce exposure to fraud, and maintain full visibility over both fiat and digital transactions.",
-    "text2": "It functions as a permanent monitoring layer that ensures each movement of value is traceable, explainable, and compliant.",
-    "box1": "Real-time transaction interpretation across financial networks",
-    "box2": "Automated compliance checks and incident reporting",
-    "box3": "Secure, read-only API connections",
-    "box4": "Structured traceability for regulators and users alike"
+    "title": "Σχεδιασμένο για Διαφάνεια, Κατασκευασμένο για Εμπιστοσύνη",
+    "text1": "Η πλατφόρμα βοηθά τα ιδρύματα και τα άτομα να εντοπίσουν μη κανονική χρηματοοικονομική συμπεριφορά, να μειώσουν την έκθεση σε απάτη και να διατηρήσουν πλήρη ορατότητα τόσο στις παραστατικές (fiat) όσο και στις ψηφιακές συναλλαγές.",
+    "text2": "Λειτουργεί ως ένα μόνιμο επίπεδο παρακολούθησης που διασφαλίζει ότι κάθε κίνηση αξίας είναι ανιχνεύσιμη, εξηγήσιμη και συμβατή.",
+    "box1": "Ερμηνεία συναλλαγών σε πραγματικό χρόνο σε χρηματοοικονομικά δίκτυα",
+    "box2": "Αυτοματοποιημένοι έλεγχοι συμμόρφωσης και αναφορά περιστατικών",
+    "box3": "Ασφαλείς συνδέσεις API μόνο για ανάγνωση (read-only)",
+    "box4": "Δομημένη ανιχνευσιμότητα για ρυθμιστικούς φορείς και χρήστες"
   },
   "technology": {
     "hero": {
-      "title": "Gemini-Powered Financial Intelligence Architecture",
-      "description": "The system is powered by Google Gemini's multimodal AI framework — an infrastructure capable of analyzing structured and unstructured financial data at scale. Combined with proprietary risk and compliance logic, it enables continuous monitoring, contextual reasoning, and secure interaction with financial institutions and blockchain ecosystems.",
-      "summary": "At its core, the platform transforms complex transaction data into transparent, regulator-ready insights."
+      "title": "Αρχιτεκτονική Χρηματοοικονομικής Ευφυΐας με Τεχνολογία Gemini",
+      "description": "Το σύστημα λειτουργεί με το πολυτροπικό πλαίσιο AI της Google Gemini — μια υποδομή ικανή να αναλύει δομημένα και μη δομημένα χρηματοοικονομικά δεδομένα σε κλίμακα. Σε συνδυασμό με την αποκλειστική λογική κινδύνου και συμμόρφωσης, επιτρέπει τη συνεχή παρακολούθηση, τη συμφραζόμενη συλλογιστική και την ασφαλή αλληλεπίδραση με χρηματοπιστωτικά ιδρύματα και οικοσυστήματα blockchain.",
+      "summary": "Στον πυρήνα της, η πλατφόρμα μετατρέπει πολύπλοκα δεδομένα συναλλαγών σε διαφανείς, έτοιμες για ρυθμιστικούς φορείς πληροφορίες."
     },
     "architecture": {
-      "title": "System Architecture",
-      "description": "The technology stack is organized into five interconnected layers, each dedicated to a specific stage of financial data processing — from secure ingestion to regulatory action.",
+      "title": "Αρχιτεκτονική Συστήματος",
+      "description": "Η στοίβα τεχνολογίας είναι οργανωμένη σε πέντε διασυνδεδεμένα επίπεδα, καθένα αφιερωμένο σε ένα συγκεκριμένο στάδιο επεξεργασίας χρηματοοικονομικών δεδομένων — από την ασφαλή κατάποση έως τη ρυθμιστική ενέργεια.",
       "layers": {
         "data": {
-          "title": "Data Sources",
-          "text": "Read-only access to banks, payment processors, and crypto exchanges via verified APIs. Supports Open Banking, ISO 20022, and blockchain data streams."
+          "title": "Πηγές Δεδομένων",
+          "text": "Πρόσβαση μόνο για ανάγνωση σε τράπεζες, επεξεργαστές πληρωμών και ανταλλακτήρια κρυπτονομισμάτων μέσω επαληθευμένων APIs. Υποστηρίζει Open Banking, ISO 20022 και ροές δεδομένων blockchain."
         },
         "gemini": {
           "title": "Gemini AI Core",
-          "text": "Processes high-volume financial data using Gemini's multimodal reasoning capabilities. Performs natural-language interpretation of metadata, behavioral clustering, and entity correlation across accounts."
+          "text": "Επεξεργάζεται μεγάλους όγκους χρηματοοικονομικών δεδομένων χρησιμοποιώντας τις πολυτροπικές δυνατότητες συλλογιστικής του Gemini. Πραγματοποιεί ερμηνεία φυσικής γλώσσας μεταδεδομένων, ομαδοποίηση συμπεριφοράς και συσχέτιση οντοτήτων σε όλους τους λογαριασμούς."
         },
         "risk": {
-          "title": "Risk Engine",
-          "text": "Executes machine learning–based scoring logic that identifies anomalies, duplicate transfers, hidden subscriptions, and unauthorized activity. Each chain of transactions receives a dynamic risk profile updated in real time."
+          "title": "Μηχανή Κινδύνου (Risk Engine)",
+          "text": "Εκτελεί λογική βαθμολόγησης βασισμένη στη μηχανική μάθηση που εντοπίζει ανωμαλίες, διπλές μεταφορές, κρυφές συνδρομές και μη εξουσιοδοτημένη δραστηριότητα. Κάθε αλυσίδα συναλλαγών λαμβάνει ένα δυναμικό προφίλ κινδύνου που ενημερώνεται σε πραγματικό χρόνο."
         },
         "compliance": {
-          "title": "Compliance Layer",
-          "text": "Implements AML, KYC, GDPR, and regional data-protection standards. Ensures traceability and accountability of every decision generated by the AI. Provides audit logs compatible with regulatory review formats."
+          "title": "Επίπεδο Συμμόρφωσης",
+          "text": "Εφαρμόζει τα πρότυπα AML, KYC, GDPR και τα περιφερειακά πρότυπα προστασίας δεδομένων. Διασφαλίζει την ανιχνευσιμότητα και τη λογοδοσία για κάθε απόφαση που παράγεται από την AI. Παρέχει αρχεία καταγραφής ελέγχου (audit logs) συμβατά με μορφές ρυθμιστικής αναθεώρησης."
         },
         "response": {
-          "title": "Response API Gateway",
-          "text": "Acts as a secure communication channel between the platform and financial institutions. Authorized by compliance rules, it can initiate chargeback, recall, or dispute procedures when confirmed irregularities are detected."
+          "title": "Πύλη API Απόκρισης",
+          "text": "Λειτουργεί ως ασφαλές κανάλι επικοινωνίας μεταξύ της πλατφόρμας και των χρηματοπιστωτικών ιδρυμάτων. Εξουσιοδοτημένο από τους κανόνες συμμόρφωσης, μπορεί να ξεκινήσει διαδικασίες αντιστροφής χρέωσης (chargeback), ανάκλησης ή αμφισβήτησης όταν εντοπιστούν επιβεβαιωμένες παρατυπίες."
         }
       }
     },
     "secureData": {
-      "title": "Secure Data Handling",
-      "description": "All connected data flows operate in read-only mode.<br>The platform does not execute or store financial operations; it only interprets and reports them.",
+      "title": "Ασφαλής Διαχείριση Δεδομένων",
+      "description": "Όλες οι συνδεδεμένες ροές δεδομένων λειτουργούν σε λειτουργία μόνο για ανάγνωση (read-only).<br>Η πλατφόρμα δεν εκτελεί ούτε αποθηκεύει χρηματοοικονομικές λειτουργίες· απλώς τις ερμηνεύει και τις αναφέρει.",
       "accordion": {
-        "title": "Security measures:",
-        "text": "• TLS 1.3 and AES-256 end-to-end encryption<br>• Differential privacy in all data aggregation processes<br>• Region-based data segregation (EU / NA / APAC)<br>• Immutable audit trail stored in compliance-ready format"
+        "title": "Μέτρα ασφαλείας:",
+        "text": "• Κρυπτογράφηση από άκρο σε άκρο TLS 1.3 και AES-256<br>• Διαφορική ιδιωτικότητα σε όλες τις διαδικασίες συγκέντρωσης δεδομένων<br>• Διαχωρισμός δεδομένων με βάση την περιοχή (EU / NA / APAC)<br>• Αμετάβλητο ίχνος ελέγχου (audit trail) αποθηκευμένο σε μορφή έτοιμη για συμμόρφωση"
       }
     },
     "geminiRisk": {
-      "title": "Gemini Cognitive Risk Engine",
-      "description": "Using Gemini's reasoning capabilities, the platform interprets financial behavior not only through numerical anomalies, but also through semantic patterns — e.g. metadata, transaction descriptions, and behavioral correlations.",
+      "title": "Gemini Μηχανή Γνωστικού Κινδύνου",
+      "description": "Χρησιμοποιώντας τις δυνατότητες συλλογιστικής του Gemini, η πλατφόρμα ερμηνεύει τη χρηματοοικονομική συμπεριφορά όχι μόνο μέσω αριθμητικών ανωμαλιών, αλλά και μέσω σημασιολογικών προτύπων — π.χ. μεταδεδομένα, περιγραφές συναλλαγών και συσχετίσεις συμπεριφοράς.",
       "accordion": {
-        "title": "Capabilities:",
-        "text": "• Continuous anomaly detection across fiat and crypto ecosystems<br>• Behavior-based fraud scoring (0–100 scale)<br>• Contextual understanding of transaction purpose and counterpart behavior<br>• Adaptive learning: the model evolves as transaction networks change"
+        "title": "Δυνατότητες:",
+        "text": "• Συνεχής ανίχνευση ανωμαλιών σε οικοσυστήματα παραστατικών (fiat) και κρυπτονομισμάτων<br>• Βαθμολόγηση απάτης με βάση τη συμπεριφορά (κλίμακα 0–100)<br>• Συμφραζόμενη κατανόηση του σκοπού συναλλαγής και της συμπεριφοράς του αντισυμβαλλόμενου<br>• Προσαρμοστική μάθηση: το μοντέλο εξελίσσεται καθώς αλλάζουν τα δίκτυα συναλλαγών"
       }
     },
     "intelligentAction": {
-      "title": "Intelligent Action Framework",
-      "description": "When the AI identifies high-risk financial behavior, it prepares a structured incident report and — within the regulatory boundaries — triggers automated responses through partner APIs:",
+      "title": "Πλαίσιο Ευφυούς Δράσης",
+      "description": "Όταν η AI εντοπίζει χρηματοοικονομική συμπεριφορά υψηλού κινδύνου, προετοιμάζει μια δομημένη αναφορά περιστατικού και — εντός των ρυθμιστικών ορίων — ενεργοποιεί αυτοματοποιημένες αποκρίσεις μέσω των APIs συνεργατών:",
       "accordion": {
-        "title": "All actions are logged, timestamped, and approved within the compliance layer before execution.",
-        "text": "• Bank chargeback / recall requests for suspicious transfers<br>• Exchange dispute / refund submissions for fraudulent digital-asset activity<br>• Regulatory incident report generated for audit and supervision"
+        "title": "Όλες οι ενέργειες καταγράφονται, επισημαίνονται με χρονική σήμανση και εγκρίνονται εντός του επιπέδου συμμόρφωσης πριν από την εκτέλεση.",
+        "text": "• Αιτήματα αντιστροφής χρέωσης (chargeback) / ανάκλησης τράπεζας για ύποπτες μεταφορές<br>• Υποβολές αμφισβήτησης / επιστροφής χρημάτων ανταλλακτηρίου για δόλια δραστηριότητα ψηφιακών περιουσιακών στοιχείων<br>• Παραγωγή αναφοράς ρυθμιστικού περιστατικού για έλεγχο και επίβλεψη"
       }
     },
     "explainable": {
-      "title": "Explainable and Auditable AI",
-      "description": "Every output produced by the Gemini-based core includes explainability metadata: which variables influenced a decision, why the model classified an action as risky, and what regulatory framework the response aligns with.",
+      "title": "Επεξηγήσιμη και Ελέγξιμη AI",
+      "description": "Κάθε έξοδος που παράγεται από τον πυρήνα που βασίζεται στο Gemini περιλαμβάνει μεταδεδομένα επεξηγησιμότητας: ποιες μεταβλητές επηρέασαν μια απόφαση, γιατί το μοντέλο ταξινόμησε μια ενέργεια ως επικίνδυνη και με ποιο ρυθμιστικό πλαίσιο ευθυγραμμίζεται η απόκριση.",
       "accordion": {
-        "title": "Features:",
-        "text": "• Transparent model decisions for auditors and regulators<br>• Traceable reasoning chain for each incident<br>• Configurable sensitivity thresholds per user or institution"
+        "title": "Χαρακτηριστικά:",
+        "text": "• Διαφανείς αποφάσεις μοντέλου για ελεγκτές και ρυθμιστικούς φορείς<br>• Ανιχνεύσιμη αλυσίδα συλλογιστικής για κάθε περιστατικό<br>• Διαμορφώσιμα όρια ευαισθησίας ανά χρήστη ή ίδρυμα"
       }
     },
     "standards": {
-      "title": "Aligned with Global Standards",
-      "description": "The system adheres to the highest standards of security and financial data governance. All operations follow the principles of open banking, data minimalism, and regulator supervision.",
+      "title": "Ευθυγραμμισμένο με τα Παγκόσμια Πρότυπα",
+      "description": "Το σύστημα τηρεί τα υψηλότερα πρότυπα ασφάλειας και διακυβέρνησης χρηματοοικονομικών δεδομένων. Όλες οι λειτουργίες ακολουθούν τις αρχές του open banking, του μινιμαλισμού δεδομένων και της ρυθμιστικής επίβλεψης.",
       "accordion": {
-        "title": "Compliance frameworks:",
-        "text": "• GDPR (Europe)<br>• AMLD6 (EU directive)<br>• ISO 27001 (Information Security)<br>• SOC 2 (Data integrity and privacy)<br>• PCI DSS (Financial data protection)"
+        "title": "Πλαίσια συμμόρφωσης:",
+        "text": "• GDPR (Ευρώπη)<br>• AMLD6 (Οδηγία ΕΕ)<br>• ISO 27001 (Ασφάλεια Πληροφοριών)<br>• SOC 2 (Ακεραιότητα και ιδιωτικότητα δεδομένων)<br>• PCI DSS (Προστασία χρηματοοικονομικών δεδομένων)"
       }
     }
   },
   "solutions": {
     "hero": {
-      "title": "Applications Across the Financial Ecosystem",
-      "description": "The platform's modular architecture allows it to operate across multiple layers of the financial landscape — from individual account monitoring to institutional compliance infrastructure.<br>Built on Gemini's AI framework, it interprets transaction data, evaluates behavioral risk, and acts through verified financial APIs.",
-      "summary": "Different users. One system of transparency."
+      "title": "Εφαρμογές σε Όλο το Χρηματοοικονομικό Οικοσύστημα",
+      "description": "Η αρθρωτή αρχιτεκτονική της πλατφόρμας της επιτρέπει να λειτουργεί σε πολλαπλά επίπεδα του χρηματοοικονομικού τοπίου — από την παρακολούθηση μεμονωμένων λογαριασμών έως την υποδομή θεσμικής συμμόρφωσης.<br>Βασισμένη στο πλαίσιο AI του Gemini, ερμηνεύει δεδομένα συναλλαγών, αξιολογεί τον κίνδυνο συμπεριφοράς και δρα μέσω επαληθευμένων χρηματοοικονομικών API.",
+      "summary": "Διαφορετικοί χρήστες. Ένα σύστημα διαφάνειας."
     },
     "personal": {
-      "title": "Personal Financial Awareness and Protection",
-      "description": "For individual users, the system functions as a continuous monitoring environment that provides real-time visibility into every transaction. It identifies recurring charges, hidden subscriptions, and potential unauthorized activity—and, when required, initiates authorized refund or dispute requests through the user’s financial institution.",
+      "title": "Προσωπική Χρηματοοικονομική Επίγνωση και Προστασία",
+      "description": "Για μεμονωμένους χρήστες, το σύστημα λειτουργεί ως ένα περιβάλλον συνεχούς παρακολούθησης που παρέχει ορατότητα σε πραγματικό χρόνο σε κάθε συναλλαγή. Εντοπίζει επαναλαμβανόμενες χρεώσεις, κρυφές συνδρομές και πιθανή μη εξουσιοδοτημένη δραστηριότητα — και, όταν απαιτείται, ξεκινά εξουσιοδοτημένα αιτήματα επιστροφής χρημάτων ή αμφισβήτησης μέσω του χρηματοπιστωτικού ιδρύματος του χρήστη.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Detect recurring or duplicate payments<br>• Identify unauthorized transactions before they accumulate<br>• Receive structured reports with fraud scores and compliance context<br>• Automate chargeback or recall processes securely"
+        "title": "Περιπτώσεις χρήσης:",
+        "text": "• Εντοπισμός επαναλαμβανόμενων ή διπλών πληρωμών<br>• Αναγνώριση μη εξουσιοδοτημένων συναλλαγών πριν συσσωρευτούν<br>• Λήψη δομημένων αναφορών με βαθμολογίες απάτης και πλαίσιο συμμόρφωσης<br>• Αυτοματοποίηση διαδικασιών αντιστροφής χρέωσης (chargeback) ή ανάκλησης με ασφάλεια"
       },
-      "note": "Individuals gain clarity over their digital finances and reduce losses from unnoticed activity or subscription leakage."
+      "note": "Τα άτομα αποκτούν σαφήνεια στα ψηφιακά τους οικονομικά και μειώνουν τις απώλειες από μη παρατηρημένη δραστηριότητα ή διαρροή συνδρομών."
     },
     "corporate": {
-      "title": "Corporate Transaction Oversight",
-      "description": "For enterprises, the platform acts as a financial integrity layer—monitoring all outgoing and incoming transactions to ensure they align with internal policies, vendor agreements, and regional compliance standards.",
+      "title": "Εταιρική Επίβλεψη Συναλλαγών",
+      "description": "Για τις επιχειρήσεις, η πλατφόρμα λειτουργεί ως ένα επίπεδο χρηματοοικονομικής ακεραιότητας — παρακολουθώντας όλες τις εξερχόμενες και εισερχόμενες συναλλαγές για να διασφαλίσει ότι ευθυγραμμίζονται με τις εσωτερικές πολιτικές, τις συμφωνίες προμηθευτών και τα περιφερειακά πρότυπα συμμόρφωσης.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Detect unapproved or duplicate vendor payments<br>• Analyze financial exposure across accounts and subsidiaries<br>• Generate automated compliance and audit reports<br>• Identify early indicators of account misuse or insider fraud"
+        "title": "Περιπτώσεις χρήσης:",
+        "text": "• Εντοπισμός μη εγκεκριμένων ή διπλών πληρωμών προμηθευτών<br>• Ανάλυση χρηματοοικονομικής έκθεσης σε λογαριασμούς και θυγατρικές<br>• Δημιουργία αυτοματοποιημένων αναφορών συμμόρφωσης και ελέγχου<br>• Αναγνώριση πρώιμων ενδείξεων κακής χρήσης λογαριασμού ή απάτης από εμπιστευτικά άτομα"
       },
-      "note": "Financial institutions gain a scalable, regulator-aligned AI layer for fraud management and customer protection."
+      "note": "Τα χρηματοπιστωτικά ιδρύματα αποκτούν ένα κλιμακούμενο, ευθυγραμμισμένο με τους ρυθμιστικούς φορείς επίπεδο AI για τη διαχείριση της απάτης και την προστασία των πελατών."
     },
     "infrastructure": {
-      "title": "AI-Powered Fraud and Compliance Infrastructure",
-      "description": "Banks, fintech companies, and exchanges integrate the system through API to enhance their fraud detection, transaction traceability, and regulatory response capabilities. The Gemini-based core delivers contextual risk assessment for both fiat and crypto operations, improving precision and reducing false positives.",
+      "title": "Υποδομή Απάτης και Συμμόρφωσης με Τεχνολογία AI",
+      "description": "Οι τράπεζες, οι εταιρείες fintech και τα ανταλλακτήρια ενσωματώνουν το σύστημα μέσω API για να ενισχύσουν τις δυνατότητές τους ανίχνευσης απάτης, ανιχνευσιμότητας συναλλαγών και ρυθμιστικής απόκρισης. Ο πυρήνας που βασίζεται στο Gemini προσφέρει συμφραζόμενη αξιολόγηση κινδύνου τόσο για παραστατικές (fiat) όσο και για κρύπτο λειτουργίες, βελτιώνοντας την ακρίβεια και μειώνοντας τα ψευδή θετικά.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Real-time anomaly detection across payment networks<br>• Automated escalation of high-risk transaction chains<br>• Instant generation of incident reports for compliance teams<br>• Support for chargeback and dispute automation through regulated APIs"
+        "title": "Περιπτώσεις χρήσης:",
+        "text": "• Ανίχνευση ανωμαλιών σε πραγματικό χρόνο σε δίκτυα πληρωμών<br>• Αυτοματοποιημένη κλιμάκωση αλυσίδων συναλλαγών υψηλού κινδύνου<br>• Άμεση δημιουργία αναφορών περιστατικών για ομάδες συμμόρφωσης<br>• Υποστήριξη για αυτοματοποίηση αντιστροφής χρέωσης (chargeback) και αμφισβήτησης μέσω ρυθμιζόμενων API"
       },
-      "note": "Financial institutions gain a scalable, regulator-aligned AI layer for fraud management and customer protection."
+      "note": "Τα χρηματοπιστωτικά ιδρύματα αποκτούν ένα κλιμακούμενο, ευθυγραμμισμένο με τους ρυθμιστικούς φορείς επίπεδο AI για τη διαχείριση της απάτης και την προστασία των πελατών."
     },
     "regulatory": {
-      "title": "Transparent Oversight and Traceability",
-      "description": "For supervisory bodies and regulatory auditors, the platform provides a neutral AI-driven view of transaction networks—with explainable reasoning, immutable audit trails, and standardized data export formats.",
+      "title": "Διαφανής Επίβλεψη και Ανιχνευσιμότητα",
+      "description": "Για τα εποπτικά όργανα και τους ρυθμιστικούς ελεγκτές, η πλατφόρμα παρέχει μια ουδέτερη, καθοδηγούμενη από AI, άποψη των δικτύων συναλλαγών — με επεξηγήσιμη συλλογιστική, αμετάβλητα ίχνη ελέγχου και τυποποιημένες μορφές εξαγωγής δεδομένων.",
       "accordion": {
-        "title": "Use cases:",
-        "text": "• Cross-platform tracing of suspicious fund movement<br>• Automated AML/KYC anomaly detection<br>• Centralized visualization of institution-wide financial flows<br>• On-demand audit data with full explainability metadata"
+        "title": "Περιπτώσεις χρήσης:",
+        "text": "• Διασυνοριακή ανίχνευση ύποπτης κίνησης κεφαλαίων<br>• Αυτοματοποιημένη ανίχνευση ανωμαλιών AML/KYC<br>• Κεντρική οπτικοποίηση των ροών χρηματοδότησης σε όλο το ίδρυμα<br>• Δεδομένα ελέγχου κατ' απαίτηση με πλήρη μεταδεδομένα επεξηγησιμότητας"
       },
-      "note": "Regulators receive structured, verified, and explainable financial intelligence aligned with global compliance frameworks."
+      "note": "Οι ρυθμιστικοί φορείς λαμβάνουν δομημένη, επαληθευμένη και επεξηγήσιμη χρηματοοικονομική ευφυΐα ευθυγραμμισμένη με τα παγκόσμια πλαίσια συμμόρφωσης."
     },
     "connectivity": {
-      "title": "Unified Ecosystem Connectivity",
-      "description": "Through open APIs, the system connects to financial, blockchain, and compliance infrastructures — enabling data exchange between individual, corporate, and institutional layers without compromising privacy or regulatory boundaries.",
+      "title": "Ενοποιημένη Συνδεσιμότητα Οικοσυστήματος",
+      "description": "Μέσω ανοιχτών API, το σύστημα συνδέεται με χρηματοοικονομικές, blockchain και υποδομές συμμόρφωσης — επιτρέποντας την ανταλλαγή δεδομένων μεταξύ ατομικών, εταιρικών και θεσμικών επιπέδων χωρίς συμβιβασμούς στην ιδιωτικότητα ή στα ρυθμιστικά όρια.",
       "accordion": {
-        "title": "Integrations include:",
-        "text": "• Retail and commercial banks<br>• Payment gateways and acquirers<br>• Major crypto exchanges and custodians<br>• Compliance management systems<br>• Governmental AML & financial intelligence units"
+        "title": "Οι ενσωματώσεις περιλαμβάνουν:",
+        "text": "• Λιανικές και εμπορικές τράπεζες<br>• Πύλες πληρωμών και αποκτώντες<br>• Μεγάλα ανταλλακτήρια κρυπτονομισμάτων και θεματοφύλακες<br>• Συστήματα διαχείρισης συμμόρφωσης<br>• Κυβερνητικές μονάδες AML & χρηματοοικονομικής ευφυΐας"
       }
     },
     "impact": {
-      "title": "Impact Across All Stakeholders",
-      "description": "By introducing explainable AI into the financial ecosystem, the platform improves visibility, reduces systemic fraud, and enhances compliance efficiency across all participants.",
+      "title": "Αντίκτυπος σε Όλους τους Ενδιαφερόμενους",
+      "description": "Με την εισαγωγή επεξηγήσιμης AI στο χρηματοοικονομικό οικοσύστημα, η πλατφόρμα βελτιώνει την ορατότητα, μειώνει τη συστημική απάτη και ενισχύει την αποτελεσματικότητα της συμμόρφωσης σε όλους τους συμμετέχοντες.",
       "accordion": {
-        "title": "Shared benefits:",
-        "text": "• Unified fraud-risk framework across fiat and crypto ecosystems<br>• Automated compliance actions with regulator-approved logic<br>• Reduced operational costs for investigation and reporting<br>• Enhanced user trust through transparency and accountability"
+        "title": "Κοινά οφέλη:",
+        "text": "• Ενοποιημένο πλαίσιο κινδύνου απάτης σε οικοσυστήματα παραστατικών (fiat) και κρυπτονομισμάτων<br>• Αυτοματοποιημένες ενέργειες συμμόρφωσης με λογική εγκεκριμένη από ρυθμιστικούς φορείς<br>• Μειωμένα λειτουργικά κόστη για έρευνα και αναφορά<br>• Ενισχυμένη εμπιστοσύνη των χρηστών μέσω διαφάνειας και λογοδοσίας"
       }
     }
   },
   "compliance": {
     "hero": {
-      "title": "Compliance and Security by Design",
-      "description": "The platform is built on the principle that transparency and compliance are not external requirements — they are core components of the system’s architecture. From data encryption to regulatory verification, every process is designed to align with global standards of financial integrity and information security.",
-      "summary": "Security is engineered. Compliance is embedded."
+      "title": "Συμμόρφωση και Ασφάλεια εκ Σχεδιασμού (by Design)",
+      "description": "Η πλατφόρμα είναι χτισμένη πάνω στην αρχή ότι η διαφάνεια και η συμμόρφωση δεν είναι εξωτερικές απαιτήσεις — είναι βασικά στοιχεία της αρχιτεκτονικής του συστήματος. Από την κρυπτογράφηση δεδομένων έως τη ρυθμιστική επαλήθευση, κάθε διαδικασία έχει σχεδιαστεί για να ευθυγραμμίζεται με τα παγκόσμια πρότυπα χρηματοοικονομικής ακεραιότητας και ασφάλειας πληροφοριών.",
+      "summary": "Η ασφάλεια είναι μηχανική. Η συμμόρφωση είναι ενσωματωμένη."
     },
     "secureData": {
-      "title": "Secure Data Architecture",
-      "description": "All operations are conducted in a read-only mode to prevent any unauthorized changes, fund movements, or account access. The platform serves exclusively as an analytical layer, ensuring users’ and institutions’ financial data remain protected at every stage.",
+      "title": "Ασφαλής Αρχιτεκτονική Δεδομένων",
+      "description": "Όλες οι λειτουργίες διεξάγονται σε λειτουργία μόνο για ανάγνωση (read-only) για την αποτροπή τυχόν μη εξουσιοδοτημένων αλλαγών, κινήσεων κεφαλαίων ή πρόσβασης σε λογαριασμό. Η πλατφόρμα χρησιμεύει αποκλειστικά ως αναλυτικό επίπεδο, διασφαλίζοντας ότι τα χρηματοοικονομικά δεδομένα των χρηστών και των ιδρυμάτων παραμένουν προστατευμένα σε κάθε στάδιο.",
       "accordion": {
-        "title": "Key mechanisms:",
-        "text": "• End-to-end encryption (TLS 1.3 / AES-256)<br>• Zero data persistence for sensitive credentials<br>• Multi-region storage under data-localization laws<br>• Continuous vulnerability assessment and penetration testing<br>• Independent third-party security audits"
+        "title": "Βασικοί μηχανισμοί:",
+        "text": "• Κρυπτογράφηση από άκρο σε άκρο (TLS 1.3 / AES-256)<br>• Μηδενική διατήρηση δεδομένων για ευαίσθητα διαπιστευτήρια<br>• Αποθήκευση πολλαπλών περιοχών σύμφωνα με τους νόμους τοπικής προσαρμογής δεδομένων<br>• Συνεχής αξιολόγηση ευπάθειας και δοκιμές διείσδυσης<br>• Ανεξάρτητοι έλεγχοι ασφαλείας από τρίτους"
       }
     },
     "regulatory": {
-      "title": "Regulatory Alignment",
-      "description": "The compliance layer integrates international regulatory standards to ensure every data interaction, risk analysis, or automated response remains within the boundaries of financial law.",
+      "title": "Ρυθμιστική Ευθυγράμμιση",
+      "description": "Το επίπεδο συμμόρφωσης ενσωματώνει διεθνή ρυθμιστικά πρότυπα για να διασφαλίσει ότι κάθε αλληλεπίδραση δεδομένων, ανάλυση κινδύνου ή αυτοματοποιημένη απόκριση παραμένει εντός των ορίων του χρηματοοικονομικού νόμου.",
       "accordion": {
-        "title": "Supported frameworks:",
-        "text": "• GDPR — General Data Protection Regulation (EU)<br>• AMLD6 — Anti-Money Laundering Directive (EU)<br>• FATF — Financial Action Task Force recommendations<br>• ISO 27001 / SOC 2 — Information Security and Data Management<br>• PCI DSS — Payment Card Industry Data Security Standard<br>• Open Banking PSD2 — Secure API connectivity and user consent model"
+        "title": "Υποστηριζόμενα πλαίσια:",
+        "text": "• GDPR — Γενικός Κανονισμός Προστασίας Δεδομένων (ΕΕ)<br>• AMLD6 — Οδηγία κατά του Ξεπλύματος Χρήματος (ΕΕ)<br>• FATF — Συστάσεις Ομάδας Χρηματοοικονομικής Δράσης<br>• ISO 27001 / SOC 2 — Ασφάλεια Πληροφοριών και Διαχείριση Δεδομένων<br>• PCI DSS — Πρότυπο Ασφάλειας Δεδομένων Βιομηχανίας Πληρωμών<br>• Open Banking PSD2 — Ασφαλής συνδεσιμότητα API και μοντέλο συναίνεσης χρήστη"
       },
-      "note": "Every compliance operation is logged, auditable, and traceable for both internal review and regulator access."
+      "note": "Κάθε λειτουργία συμμόρφωσης καταγράφεται, ελέγχεται και είναι ανιχνεύσιμη τόσο για εσωτερική αναθεώρηση όσο και για πρόσβαση ρυθμιστικών φορέων."
     },
     "identity": {
-      "title": "Identity Verification and Authorization",
-      "description": "To maintain data integrity and prevent misuse, user access to the AI system is granted only after completing a mandatory compliance onboarding.<br><br>This short course, required by financial regulators, verifies user identity, purpose of use, and awareness of data-handling obligations.",
-      "stepsTitle": "Access procedure:",
-      "step1": "Identity and source verification (KYC)",
-      "step2": "Acceptance of compliance terms",
-      "step3": "Completion of automated onboarding",
-      "step4": "Tokenized API access granted under regulator supervision",
-      "note": "Each user operates within a verified and traceable framework, ensuring lawful access to AI-driven financial intelligence."
+      "title": "Επαλήθευση Ταυτότητας και Εξουσιοδότηση",
+      "description": "Για τη διατήρηση της ακεραιότητας των δεδομένων και την αποτροπή κακής χρήσης, η πρόσβαση του χρήστη στο σύστημα AI χορηγείται μόνο μετά την ολοκλήρωση μιας υποχρεωτικής εισαγωγής (onboarding) συμμόρφωσης.<br><br>Αυτή η σύντομη διαδικασία, που απαιτείται από τους χρηματοοικονομικούς ρυθμιστικούς φορείς, επαληθεύει την ταυτότητα του χρήστη, τον σκοπό χρήσης και την επίγνωση των υποχρεώσεων διαχείρισης δεδομένων.",
+      "stepsTitle": "Διαδικασία πρόσβασης:",
+      "step1": "Επαλήθευση ταυτότητας και πηγής (KYC)",
+      "step2": "Αποδοχή των όρων συμμόρφωσης",
+      "step3": "Ολοκλήρωση της αυτοματοποιημένης εισαγωγής",
+      "step4": "Χορήγηση πρόσβασης API με διακριτικό (tokenized) υπό ρυθμιστική επίβλεψη",
+      "note": "Κάθε χρήστης λειτουργεί εντός ενός επαληθευμένου και ανιχνεύσιμου πλαισίου, διασφαλίζοντας τη νόμιμη πρόσβαση σε χρηματοοικονομική ευφυΐα καθοδηγούμενη από AI."
     },
     "audit": {
-      "title": "Auditability and Accountability",
-      "description": "Every system action — from API request to AI decision — is recorded in an immutable audit log. This provides regulators, compliance officers, and auditors with full visibility over data flow and decision-making processes.",
+      "title": "Ελεγξιμότητα και Λογοδοσία",
+      "description": "Κάθε ενέργεια του συστήματος — από το αίτημα API έως την απόφαση AI — καταγράφεται σε ένα αμετάβλητο αρχείο καταγραφής ελέγχου (audit log). Αυτό παρέχει στους ρυθμιστικούς φορείς, τους υπεύθυνους συμμόρφωσης και τους ελεγκτές πλήρη ορατότητα στη ροή δεδομένων και τις διαδικασίες λήψης αποφάσεων.",
       "accordion": {
-        "title": "Capabilities:",
-        "text": "• Immutable timestamped event logs<br>• Accessed only by authorized regulators or internal compliance units<br>• Support for standard audit export formats (CSV, XML, XBRL)<br>• Automated generation of compliance reports"
+        "title": "Δυνατότητες:",
+        "text": "• Αμετάβλητα αρχεία καταγραφής συμβάντων με χρονική σήμανση<br>• Πρόσβαση μόνο από εξουσιοδοτημένους ρυθμιστικούς φορείς ή εσωτερικές μονάδες συμμόρφωσης<br>• Υποστήριξη για τυπικές μορφές εξαγωγής ελέγχου (CSV, XML, XBRL)<br>• Αυτοματοποιημένη δημιουργία αναφορών συμμόρφωσης"
       },
-      "note": "Nothing happens without a record."
+      "note": "Τίποτα δεν συμβαίνει χωρίς καταγραφή."
     },
     "threat": {
-      "title": "Real-Time Threat and Risk Management",
-      "description": "The platform continuously monitors its environment for security anomalies and abnormal access patterns. When potential risks are detected, automated alerts are issued to the internal compliance node, and appropriate actions are taken immediately to isolate or neutralize the threat.",
-      "process": "<strong style=\"display:block;\">Process:</strong>• Continuous behavioral monitoring of API traffic <br>• Multi-level anomaly scoring for security events<br>• Real-time alerting and mitigation protocol<br>• Forensic reporting to compliance and regulatory units"
+      "title": "Διαχείριση Απειλών και Κινδύνου σε Πραγματικό Χρόνο",
+      "description": "Η πλατφόρμα παρακολουθεί συνεχώς το περιβάλλον της για ανωμαλίες ασφαλείας και μη κανονικά πρότυπα πρόσβασης. Όταν εντοπίζονται πιθανοί κίνδυνοι, εκδίδονται αυτοματοποιημένες ειδοποιήσεις στον εσωτερικό κόμβο συμμόρφωσης και λαμβάνονται άμεσα οι κατάλληλες ενέργειες για την απομόνωση ή την εξουδετέρωση της απειλής.",
+      "process": "<strong style=\"display:block;\">Διαδικασία:</strong>• Συνεχής παρακολούθηση συμπεριφοράς της κυκλοφορίας API <br>• Βαθμολόγηση ανωμαλιών πολλαπλών επιπέδων για συμβάντα ασφαλείας<br>• Πρωτόκολλο ειδοποίησης και μετριασμού σε πραγματικό χρόνο<br>• Αναφορά εγκληματολογικής ανάλυσης σε μονάδες συμμόρφωσης και ρυθμιστικούς φορείς"
     },
     "collaborative": {
-      "title": "Collaborative Security Model",
-      "description": "The system is developed under a shared-responsibility model, where platform security, institutional compliance, and regulatory supervision coexist in a unified operational framework.",
+      "title": "Συνεργατικό Μοντέλο Ασφαλείας",
+      "description": "Το σύστημα αναπτύσσεται υπό ένα μοντέλο κοινής ευθύνης, όπου η ασφάλεια της πλατφόρμας, η θεσμική συμμόρφωση και η ρυθμιστική επίβλεψη συνυπάρχουν σε ένα ενοποιημένο λειτουργικό πλαίσιο.",
       "accordion": {
-        "title": "Partnership ecosystem:",
-        "text": "• Financial institutions (banks, acquirers, payment processors)<br>• Crypto exchanges and custodians<br>• Regulatory bodies and financial intelligence units (FIUs)<br>• Independent audit and data-certification partners"
+        "title": "Οικοσύστημα συνεργασίας:",
+        "text": "• Χρηματοπιστωτικά ιδρύματα (τράπεζες, αποκτώντες, επεξεργαστές πληρωμών)<br>• Ανταλλακτήρια κρυπτονομισμάτων και θεματοφύλακες<br>• Ρυθμιστικοί φορείς και μονάδες χρηματοοικονομικής ευφυΐας (FIUs)<br>• Ανεξάρτητοι συνεργάτες ελέγχου και πιστοποίησης δεδομένων"
       },
-      "note": "Transparency is achieved not in isolation, but through collaboration."
+      "note": "Η διαφάνεια επιτυγχάνεται όχι μεμονωμένα, αλλά μέσω συνεργασίας."
     },
     "certification": {
-      "title": "Verification and Certification",
-      "description": "To ensure trust and global interoperability, the platform undergoes continuous certification and audit cycles conducted by accredited external firms.",
+      "title": "Επαλήθευση και Πιστοποίηση",
+      "description": "Για τη διασφάλιση της εμπιστοσύνης και της παγκόσμιας διαλειτουργικότητας, η πλατφόρμα υποβάλλεται σε συνεχείς κύκλους πιστοποίησης και ελέγχου που διεξάγονται από διαπιστευμένες εξωτερικές εταιρείες.",
       "accordion": {
-        "title": "Certifications in progress or obtained:",
-        "text": "• ISO/IEC 27001 — Information Security Management<br>• SOC 2 Type II — Data integrity and operational resilience<br>• PCI DSS — Financial data handling<br>• GDPR compliance verified by EU-based independent assessors"
+        "title": "Πιστοποιήσεις σε εξέλιξη ή αποκτηθείσες:",
+        "text": "• ISO/IEC 27001 — Διαχείριση Ασφάλειας Πληροφοριών<br>• SOC 2 Type II — Ακεραιότητα δεδομένων και λειτουργική ανθεκτικότητα<br>• PCI DSS — Διαχείριση χρηματοοικονομικών δεδομένων<br>• Συμμόρφωση με GDPR επαληθευμένη από ανεξάρτητους αξιολογητές με έδρα την ΕΕ"
       },
-      "note": "Security standards are not claims — they are verifications."
+      "note": "Τα πρότυπα ασφαλείας δεν είναι ισχυρισμοί — είναι επαληθεύσεις."
     },
     "learn": {
-      "title": "Building Trust Through Transparency",
-      "text": "By embedding regulatory compliance and security architecture into every level of its infrastructure, the system establishes a foundation for responsible, explainable, and auditable AI in financial ecosystems.",
-      "cta": "Learn About the Company"
+      "title": "Οικοδόμηση Εμπιστοσύνης μέσω Διαφάνειας",
+      "text": "Με την ενσωμάτωση της ρυθμιστικής συμμόρφωσης και της αρχιτεκτονικής ασφάλειας σε κάθε επίπεδο της υποδομής του, το σύστημα θέτει τα θεμέλια για υπεύθυνη, επεξηγήσιμη και ελέγξιμη AI στα χρηματοοικονομικά οικοσυστήματα.",
+      "cta": "Μάθετε για την Εταιρεία"
     }
   },
   "aboutPage": {
     "hero": {
-      "title": "Building the Infrastructure of Financial Transparency",
-      "description": "We develop AI-driven infrastructure designed to bring traceability, accountability, and explainability into global financial systems. Our mission is to enable institutions, regulators, and individuals to understand how value moves — securely, lawfully, and intelligently.",
-      "summary": "We believe that transparency is not an outcome — it is architecture."
+      "title": "Οικοδόμηση της Υποδομής Χρηματοοικονομικής Διαφάνειας",
+      "description": "Αναπτύσσουμε υποδομή βασισμένη σε AI, σχεδιασμένη για να φέρει την ανιχνευσιμότητα, τη λογοδοσία και την επεξηγησιμότητα στα παγκόσμια χρηματοοικονομικά συστήματα. Η αποστολή μας είναι να επιτρέψουμε στα ιδρύματα, στους ρυθμιστικούς φορείς και στα άτομα να κατανοήσουν πώς κινείται η αξία — με ασφάλεια, νομιμότητα και ευφυΐα.",
+      "summary": "Πιστεύουμε ότι η διαφάνεια δεν είναι αποτέλεσμα — είναι αρχιτεκτονική."
     },
     "mission": {
-      "title": "Mission",
-      "description": "To create a universal technological framework that ensures every financial action — whether executed by an individual, a business, or an algorithm — remains traceable, auditable, and compliant with the law.",
-      "highlight": "A global financial environment where every transaction can be understood, verified, and trusted."
+      "title": "Αποστολή",
+      "description": "Να δημιουργήσουμε ένα καθολικό τεχνολογικό πλαίσιο που διασφαλίζει ότι κάθε χρηματοοικονομική ενέργεια — είτε εκτελείται από ένα άτομο, μια επιχείρηση ή έναν αλγόριθμο — παραμένει ανιχνεύσιμη, ελέγξιμη και συμβατή με το νόμο.",
+      "highlight": "Ένα παγκόσμιο χρηματοοικονομικό περιβάλλον όπου κάθε συναλλαγή μπορεί να γίνει κατανοητή, να επαληθευτεί και να εμπιστευθεί."
     },
     "operation": {
-      "title": "How We Operate",
-      "description": "We combine AI research, financial forensics, and regulatory engineering to bridge the gap between innovation and compliance. Our interdisciplinary teams design systems that interpret financial behavior and act within the strictest standards of data governance.",
+      "title": "Πώς Λειτουργούμε",
+      "description": "Συνδυάζουμε έρευνα AI, χρηματοοικονομική εγκληματολογική ανάλυση και ρυθμιστική μηχανική για να γεφυρώσουμε το χάσμα μεταξύ καινοτομίας και συμμόρφωσης. Οι διεπιστημονικές μας ομάδες σχεδιάζουν συστήματα που ερμηνεύουν τη χρηματοοικονομική συμπεριφορά και δρουν εντός των αυστηρότερων προτύπων διακυβέρνησης δεδομένων.",
       "accordion": {
-        "title": "Core principles:",
-        "text": "• Integrity: Data must always serve truth and transparency.<br>• Security: Protection of user and institutional data is fundamental.<br>• Accountability: Every decision — human or algorithmic — must be explainable.<br>• Collaboration: Financial systems can only be secured through cooperation across sectors."
+        "title": "Βασικές αρχές:",
+        "text": "• Ακεραιότητα: Τα δεδομένα πρέπει πάντα να εξυπηρετούν την αλήθεια και τη διαφάνεια.<br>• Ασφάλεια: Η προστασία των δεδομένων χρήστη και θεσμικών δεδομένων είναι θεμελιώδης.<br>• Λογοδοσία: Κάθε απόφαση — ανθρώπινη ή αλγοριθμική — πρέπει να είναι επεξηγήσιμη.<br>• Συνεργασία: Τα χρηματοοικονομικά συστήματα μπορούν να ασφαλιστούν μόνο μέσω συνεργασίας σε όλους τους τομείς."
       }
     },
     "leadership": {
-      "title": "Leadership and Expertise",
-      "description": "Our team unites specialists in AI architecture, financial technology, risk modeling, and regulatory compliance. Each division works collaboratively to design, validate, and monitor every aspect of the platform — from data infrastructure to ethical AI deployment.",
+      "title": "Ηγεσία και Εξειδίκευση",
+      "description": "Η ομάδα μας ενώνει ειδικούς στην αρχιτεκτονική AI, τη χρηματοοικονομική τεχνολογία, τη μοντελοποίηση κινδύνου και τη ρυθμιστική συμμόρφωση. Κάθε τμήμα συνεργάζεται για τον σχεδιασμό, την επικύρωση και την παρακολούθηση κάθε πτυχής της πλατφόρμας — από την υποδομή δεδομένων έως την ηθική ανάπτυξη AI.",
       "accordion": {
-        "title": "Grid-style:",
-        "text": "• AI Research & Modeling<br>• Financial Compliance Engineering<br>• Data Infrastructure & Security<br>• Regulatory Affairs<br>• Operations & Governance"
+        "title": "Στυλ πλέγματος (Grid-style):",
+        "text": "• Έρευνα & Μοντελοποίηση AI<br>• Μηχανική Χρηματοοικονομικής Συμμόρφωσης<br>• Υποδομή & Ασφάλεια Δεδομένων<br>• Ρυθμιστικές Υποθέσεις<br>• Λειτουργίες & Διακυβέρνηση"
       },
-      "note": "We build technology with accountability — from algorithm to executive level."
+      "note": "Κατασκευάζουμε τεχνολογία με λογοδοσία — από τον αλγόριθμο έως το εκτελεστικό επίπεδο."
     },
     "collaborative": {
-      "title": "Collaborative Infrastructure",
-      "description": "The platform is developed in partnership with leading financial institutions, blockchain analytics firms, and data-security organizations committed to the same principle: that transparency and protection must coexist in the digital economy.",
+      "title": "Συνεργατική Υποδομή",
+      "description": "Η πλατφόρμα αναπτύσσεται σε συνεργασία με κορυφαία χρηματοπιστωτικά ιδρύματα, εταιρείες ανάλυσης blockchain και οργανισμούς ασφάλειας δεδομένων που δεσμεύονται στην ίδια αρχή: ότι η διαφάνεια και η προστασία πρέπει να συνυπάρχουν στην ψηφιακή οικονομία.",
       "accordion": {
-        "title": "Partnership ecosystem includes:",
-        "text": "• Regulated banks and payment processors<br>• Licensed crypto exchanges and custodians<br>• Data privacy and compliance organizations<br>• Independent audit and certification partners"
+        "title": "Το οικοσύστημα συνεργασίας περιλαμβάνει:",
+        "text": "• Ρυθμιζόμενες τράπεζες και επεξεργαστές πληρωμών<br>• Αδειοδοτημένα ανταλλακτήρια κρυπτονομισμάτων και θεματοφύλακες<br>• Οργανισμούς ιδιωτικότητας δεδομένων και συμμόρφωσης<br>• Ανεξάρτητους συνεργάτες ελέγχου και πιστοποίησης"
       },
-      "note": "Every integration strengthens the collective trust network."
+      "note": "Κάθε ενσωμάτωση ενισχύει το συλλογικό δίκτυο εμπιστοσύνης."
     },
     "innovation": {
-      "title": "Continuous Innovation",
-      "paragraph1": "Research is at the center of everything we do.<br>Our R&D division explores advanced AI methodologies for financial reasoning, anomaly detection, and explainable decision-making.<br>We collaborate with academic institutions and regulatory technology labs to continuously align innovation with evolving compliance standards.",
-      "paragraph2": "<span class=\"h3\"> Focus areas:</span>• Multimodal reasoning in financial systems<br>• Adaptive fraud-detection algorithms<br>• Autonomous compliance reporting<br>• Human-AI collaboration for interpretability"
+      "title": "Συνεχής Καινοτομία",
+      "paragraph1": "Η έρευνα βρίσκεται στο επίκεντρο όλων όσων κάνουμε.<br>Το τμήμα Έρευνας & Ανάπτυξης εξερευνά προηγμένες μεθοδολογίες AI για χρηματοοικονομική συλλογιστική, ανίχνευση ανωμαλιών και επεξηγήσιμη λήψη αποφάσεων.<br>Συνεργαζόμαστε με ακαδημαϊκά ιδρύματα και εργαστήρια ρυθμιστικής τεχνολογίας για τη συνεχή ευθυγράμμιση της καινοτομίας με τα εξελισσόμενα πρότυπα συμμόρφωσης.",
+      "paragraph2": "<span class=\"h3\"> Περιοχές εστίασης:</span>• Πολυτροπική συλλογιστική σε χρηματοοικονομικά συστήματα<br>• Προσαρμοστικοί αλγόριθμοι ανίχνευσης απάτης<br>• Αυτόνομη αναφορά συμμόρφωσης<br>• Συνεργασία Ανθρώπου-AI για ερμηνευσιμότητα"
     },
     "responsible": {
-      "title": "Responsible Intelligence",
-      "description": "We are committed to the responsible use of AI in financial analytics. All models are designed with transparency, reversibility, and auditability as foundational principles. No autonomous action is executed without traceable human oversight and regulatory logic.",
+      "title": "Υπεύθυνη Ευφυΐα",
+      "description": "Δεσμευόμαστε για την υπεύθυνη χρήση της AI στις χρηματοοικονομικές αναλύσεις. Όλα τα μοντέλα έχουν σχεδιαστεί με τη διαφάνεια, την αναστρεψιμότητα και την ελεγξιμότητα ως θεμελιώδεις αρχές. Καμία αυτόνομη ενέργεια δεν εκτελείται χωρίς ανιχνεύσιμη ανθρώπινη επίβλεψη και ρυθμιστική λογική.",
       "accordion": {
-        "title": "Ethical framework:",
-        "text": "• Human-centered decision verification<br>• No opaque or unexplainable model outcomes<br>• Continuous monitoring for bias and data drift<br>• Internal ethics review board overseeing model updates"
+        "title": "Ηθικό πλαίσιο:",
+        "text": "• Επαλήθευση αποφάσεων με επίκεντρο τον άνθρωπο<br>• Όχι αδιαφανή ή μη επεξηγήσιμα αποτελέσματα μοντέλου<br>• Συνεχής παρακολούθηση για μεροληψία και μετατόπιση δεδομένων<br>• Εσωτερική επιτροπή ηθικής αναθεώρησης που επιβλέπει τις ενημερώσεις μοντέλου"
       }
     },
     "contact": {
-      "title": "Contact Us",
-      "description": "For partnership inquiries, press relations, or regulatory coordination, please contact us at:<br><span class=\"email-link\">📧<a class=\"link\" href=\"mailto:support@tracenetai.com\">support@tracenetai.com</a></span> or use the secure contact form below.",
-      "note": "All communications are encrypted and reviewed under our data-protection framework."
+      "title": "Επικοινωνήστε Μαζί Μας",
+      "description": "Για ερωτήματα συνεργασίας, σχέσεις με τον τύπο ή ρυθμιστικό συντονισμό, επικοινωνήστε μαζί μας στη διεύθυνση:<br><span class=\"email-link\">📧<a class=\"link\" href=\"mailto:support@tracenetai.com\">support@tracenetai.com</a></span> ή χρησιμοποιήστε την ασφαλή φόρμα επικοινωνίας παρακάτω.",
+      "note": "Όλες οι επικοινωνίες είναι κρυπτογραφημένες και αναθεωρούνται υπό το πλαίσιο προστασίας δεδομένων μας."
     },
     "cta": {
-      "partnership": "Request Partnership",
-      "press": "Press Inquiries",
-      "regulatory": "Regulatory Coordination"
+      "partnership": "Αίτημα Συνεργασίας",
+      "press": "Ερωτήματα Τύπου",
+      "regulatory": "Ρυθμιστικός Συντονισμός"
     }
   },
   "privacy": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "This Privacy Policy explains how TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"our,\" or \"the Company\") collects, uses, protects, and discloses personal and financial data processed through our platform and related services.",
-    "intro2": "Our mission is to enable financial transparency and security through AI-driven data intelligence, while maintaining strict compliance with international data-protection and financial-regulatory laws.",
+    "lastUpdated": "Τελευταία Ενημέρωση: Οκτώβριος 2025",
+    "intro1": "Αυτή η Πολιτική Απορρήτου εξηγεί πώς η TraceNet Systems Ltd. («TraceNet», «εμείς», «μας», ή «η Εταιρεία») συλλέγει, χρησιμοποιεί, προστατεύει και αποκαλύπτει προσωπικά και χρηματοοικονομικά δεδομένα που επεξεργάζονται μέσω της πλατφόρμας μας και των σχετικών υπηρεσιών.",
+    "intro2": "Η αποστολή μας είναι να επιτρέψουμε τη χρηματοοικονομική διαφάνεια και ασφάλεια μέσω ευφυΐας δεδομένων βασισμένης σε AI, διατηρώντας ταυτόχρονα αυστηρή συμμόρφωση με τους διεθνείς νόμους προστασίας δεδομένων και χρηματοοικονομικής ρύθμισης.",
     "sections": {
       "scope": {
-        "title": "1. Scope and Application",
-        "description1": "This Policy applies to all users of TraceNet's platform — including individuals, businesses, and institutional partners — and covers data processed through:",
-        "list1": "Our websites and web applications;",
-        "list2": "API integrations with banks, payment providers, and crypto exchanges;",
-        "list3": "Customer support, onboarding, and communication channels.",
-        "description2": "It also applies to employees, contractors, and affiliates acting on behalf of TraceNet in processing user data."
+        "title": "1. Πεδίο Εφαρμογής και Εφαρμογή",
+        "description1": "Αυτή η Πολιτική ισχύει για όλους τους χρήστες της πλατφόρμας της TraceNet — συμπεριλαμβανομένων ατόμων, επιχειρήσεων και θεσμικών συνεργατών — και καλύπτει δεδομένα που επεξεργάζονται μέσω:",
+        "list1": "Των ιστοτόπων μας και των διαδικτυακών εφαρμογών μας·",
+        "list2": "Ενσωματώσεων API με τράπεζες, παρόχους πληρωμών και ανταλλακτήρια κρυπτονομισμάτων·",
+        "list3": "Υποστήριξης πελατών, εισαγωγής (onboarding) και καναλιών επικοινωνίας.",
+        "description2": "Ισχύει επίσης για υπαλλήλους, εργολάβους και θυγατρικές που ενεργούν εκ μέρους της TraceNet κατά την επεξεργασία δεδομένων χρήστη."
       },
       "data": {
-        "title": "2. Data We Collect",
-        "description": "We collect only the data necessary to operate our services, ensure compliance, and improve system performance.",
+        "title": "2. Δεδομένα που Συλλέγουμε",
+        "description": "Συλλέγουμε μόνο τα δεδομένα που είναι απαραίτητα για τη λειτουργία των υπηρεσιών μας, τη διασφάλιση της συμμόρφωσης και τη βελτίωση της απόδοσης του συστήματος.",
         "userData": {
-          "title": "2.1 Data Provided by Users",
-          "list1": "Identity and contact details provided during compliance onboarding (e.g., full name, email address, institution, verification documents).",
-          "list2": "Account connection metadata (API keys, institution IDs — tokenized and encrypted).",
-          "list3": "User consent records and compliance declarations."
+          "title": "2.1 Δεδομένα που Παρέχονται από τους Χρήστες",
+          "list1": "Στοιχεία ταυτότητας και επικοινωνίας που παρέχονται κατά την εισαγωγή (onboarding) συμμόρφωσης (π.χ. πλήρες όνομα, διεύθυνση ηλεκτρονικού ταχυδρομείου, ίδρυμα, έγγραφα επαλήθευσης).",
+          "list2": "Μεταδεδομένα σύνδεσης λογαριασμού (κλειδιά API, IDs ιδρύματος — με διακριτικό (tokenized) και κρυπτογραφημένα).",
+          "list3": "Αρχεία συναίνεσης χρήστη και δηλώσεις συμμόρφωσης."
         },
         "autoData": {
-          "title": "2.2 Data Collected Automatically",
-          "list1": "Technical information (IP address, device type, browser configuration, session time).",
-          "list2": "API call metadata and system performance logs.",
-          "list3": "Anonymized financial data retrieved via read-only connections."
+          "title": "2.2 Δεδομένα που Συλλέγονται Αυτόματα",
+          "list1": "Τεχνικές πληροφορίες (διεύθυνση IP, τύπος συσκευής, διαμόρφωση προγράμματος περιήγησης, χρόνος συνεδρίας).",
+          "list2": "Μεταδεδομένα κλήσεων API και αρχεία καταγραφής απόδοσης συστήματος.",
+          "list3": "Ανώνυμα χρηματοοικονομικά δεδομένα που ανακτώνται μέσω συνδέσεων μόνο για ανάγνωση (read-only)."
         },
         "sensitive": {
-          "title": "2.3 Sensitive Financial Data",
-          "text1": "When connecting with banks or exchanges, TraceNet retrieves only read-only transactional data.",
-          "text2": "We never store authorization credentials, passwords, or payment instruments."
+          "title": "2.3 Ευαίσθητα Χρηματοοικονομικά Δεδομένα",
+          "text1": "Κατά τη σύνδεση με τράπεζες ή ανταλλακτήρια, η TraceNet ανακτά μόνο δεδομένα συναλλαγών μόνο για ανάγνωση (read-only).",
+          "text2": "Ποτέ δεν αποθηκεύουμε διαπιστευτήρια εξουσιοδότησης, κωδικούς πρόσβασης ή μέσα πληρωμής."
         }
       },
       "usage": {
-        "title": "3. How We Use Data",
-        "description": "We use collected data to:",
-        "list1": "Operate, maintain, and improve the platform;",
-        "list2": "Analyze transaction activity and detect potential fraud or irregular behavior;",
-        "list3": "Generate anonymized analytical and compliance reports;",
-        "list4": "Communicate with users and provide technical or regulatory support;",
-        "list5": "Fulfil legal and anti-money-laundering (AML) obligations;",
-        "list6": "Enhance the accuracy of our AI-based analytical models.",
-        "note": "TraceNet does not sell or share data for marketing or advertising purposes."
+        "title": "3. Πώς Χρησιμοποιούμε τα Δεδομένα",
+        "description": "Χρησιμοποιούμε τα συλλεχθέντα δεδομένα για να:",
+        "list1": "Λειτουργούμε, διατηρούμε και βελτιώνουμε την πλατφόρμα·",
+        "list2": "Αναλύουμε τη δραστηριότητα συναλλαγών και ανιχνεύουμε πιθανή απάτη ή μη κανονική συμπεριφορά·",
+        "list3": "Δημιουργούμε ανώνυμες αναφορές ανάλυσης και συμμόρφωσης·",
+        "list4": "Επικοινωνούμε με τους χρήστες και παρέχουμε τεχνική ή ρυθμιστική υποστήριξη·",
+        "list5": "Εκπληρώνουμε νομικές υποχρεώσεις και υποχρεώσεις κατά του ξεπλύματος χρήματος (AML)·",
+        "list6": "Ενισχύουμε την ακρίβεια των αναλυτικών μοντέλων μας που βασίζονται σε AI.",
+        "note": "Η TraceNet δεν πωλεί ούτε μοιράζεται δεδομένα για σκοπούς μάρκετινγκ ή διαφήμισης."
       },
       "legalBasis": {
-        "title": "4. Legal Basis for Processing",
-        "description": "Data is processed under one or more of the following legal bases:",
-        "list1": "User consent — explicit authorization to connect financial accounts or submit verification data;",
-        "list2": "Legitimate interest — fraud detection, data security, and service improvement;",
-        "list3": "Legal obligation — compliance with AML/KYC and data-retention laws;",
-        "list4": "Contractual necessity — enabling user access and platform functionality."
+        "title": "4. Νομική Βάση για την Επεξεργασία",
+        "description": "Τα δεδομένα επεξεργάζονται βάσει μίας ή περισσοτέρων από τις ακόλουθες νομικές βάσεις:",
+        "list1": "Συναίνεση χρήστη — ρητή εξουσιοδότηση για σύνδεση χρηματοοικονομικών λογαριασμών ή υποβολή δεδομένων επαλήθευσης·",
+        "list2": "Έννομο συμφέρον — ανίχνευση απάτης, ασφάλεια δεδομένων και βελτίωση υπηρεσιών·",
+        "list3": "Νομική υποχρέωση — συμμόρφωση με τους νόμους AML/KYC και διατήρησης δεδομένων·",
+        "list4": "Συμβατική αναγκαιότητα — ενεργοποίηση της πρόσβασης του χρήστη και της λειτουργικότητας της πλατφόρμας."
       },
       "retention": {
-        "title": "5. Data Retention",
-        "description": "Data is retained only for as long as necessary to:",
-        "list1": "Deliver platform functionality and services;",
-        "list2": "Comply with applicable financial regulations;",
-        "list3": "Resolve disputes or enforce contractual obligations.",
-        "note": "Once no longer required, data is securely deleted or irreversibly anonymized."
+        "title": "5. Διατήρηση Δεδομένων",
+        "description": "Τα δεδομένα διατηρούνται μόνο για όσο διάστημα είναι απαραίτητο για να:",
+        "list1": "Παρέχεται η λειτουργικότητα και οι υπηρεσίες της πλατφόρμας·",
+        "list2": "Συμμορφωνόμαστε με τους ισχύοντες χρηματοοικονομικούς κανονισμούς·",
+        "list3": "Επιλύονται διαφορές ή επιβάλλονται συμβατικές υποχρεώσεις.",
+        "note": "Μόλις δεν απαιτούνται πλέον, τα δεδομένα διαγράφονται με ασφάλεια ή ανωνυμοποιούνται αμετάκλητα."
       },
       "security": {
-        "title": "6. Data Security",
-        "description": "We employ advanced security measures to safeguard all user information:",
-        "list1": "AES-256 and TLS 1.3 encryption for data at rest and in transit;",
-        "list2": "Multi-region data hosting with restricted access controls;",
-        "list3": "Continuous penetration testing and vulnerability monitoring;",
-        "list4": "Immutable audit logs for all access and data operations.",
-        "note": "All integrations are read-only and compliant with ISO 27001, SOC 2 Type II, and Open Banking PSD2 standards."
+        "title": "6. Ασφάλεια Δεδομένων",
+        "description": "Εφαρμόζουμε προηγμένα μέτρα ασφαλείας για τη διαφύλαξη όλων των πληροφοριών χρήστη:",
+        "list1": "Κρυπτογράφηση AES-256 και TLS 1.3 για δεδομένα σε ηρεμία και σε μεταφορά·",
+        "list2": "Φιλοξενία δεδομένων πολλαπλών περιοχών με περιορισμένους ελέγχους πρόσβασης·",
+        "list3": "Συνεχής δοκιμή διείσδυσης και παρακολούθηση ευπάθειας·",
+        "list4": "Αμετάβλητα αρχεία καταγραφής ελέγχου για όλες τις λειτουργίες πρόσβασης και δεδομένων.",
+        "note": "Όλες οι ενσωματώσεις είναι μόνο για ανάγνωση (read-only) και συμβατές με τα πρότυπα ISO 27001, SOC 2 Type II και Open Banking PSD2."
       },
       "sharing": {
-        "title": "7. Data Sharing and Disclosure",
-        "description": "We share data only where strictly necessary and under secure, regulated conditions:",
-        "list1": "Financial institutions and exchanges — to process authorized analytical or recall/dispute requests.",
-        "list2": "Regulatory authorities — when legally required for compliance with AML, KYC, or supervisory obligations.",
-        "list3": "Infrastructure providers — for hosting, compliance monitoring, or auditing, under confidentiality agreements.",
-        "note": "TraceNet never discloses user data for commercial resale, behavioral profiling, or advertising."
+        "title": "7. Κοινή Χρήση και Αποκάλυψη Δεδομένων",
+        "description": "Κοινοποιούμε δεδομένα μόνο όπου είναι απολύτως απαραίτητο και υπό ασφαλείς, ρυθμιζόμενες συνθήκες:",
+        "list1": "Χρηματοπιστωτικά ιδρύματα και ανταλλακτήρια — για την επεξεργασία εξουσιοδοτημένων αιτημάτων ανάλυσης ή ανάκλησης/αμφισβήτησης.",
+        "list2": "Ρυθμιστικές αρχές — όταν απαιτείται νομικά για συμμόρφωση με υποχρεώσεις AML, KYC ή εποπτείας.",
+        "list3": "Πάροχοι υποδομής — για φιλοξενία, παρακολούθηση συμμόρφωσης ή έλεγχο, βάσει συμφωνιών εμπιστευτικότητας.",
+        "note": "Η TraceNet δεν αποκαλύπτει ποτέ δεδομένα χρήστη για εμπορική μεταπώληση, ανάλυση συμπεριφοράς ή διαφήμιση."
       },
       "transfers": {
-        "title": "8. International Data Transfers",
-        "description": "Where data is transferred internationally, TraceNet applies appropriate safeguards, including:",
-        "list1": "Standard Contractual Clauses (SCCs) under GDPR;",
-        "list2": "Regional data storage for EU, UK, and Canadian users;",
-        "list3": "Encryption and pseudonymization prior to transfer.",
-        "note": "Our primary data-processing centers are located in the European Union, United Kingdom, Canada, and Israel."
+        "title": "8. Διεθνείς Μεταφορές Δεδομένων",
+        "description": "Όπου δεδομένα μεταφέρονται διεθνώς, η TraceNet εφαρμόζει κατάλληλες διασφαλίσεις, συμπεριλαμβανομένων:",
+        "list1": "Τυποποιημένων Συμβατικών Ρητρών (SCCs) σύμφωνα με τον GDPR·",
+        "list2": "Περιφερειακής αποθήκευσης δεδομένων για χρήστες ΕΕ, ΗΒ και Καναδά·",
+        "list3": "Κρυπτογράφησης και ψευδωνυμοποίησης πριν από τη μεταφορά.",
+        "note": "Τα κύρια κέντρα επεξεργασίας δεδομένων μας βρίσκονται στην Ευρωπαϊκή Ένωση, το Ηνωμένο Βασίλειο, τον Καναδά και το Ισραήλ."
       },
       "rights": {
-        "title": "9. User Rights",
-        "description": "Under applicable privacy regulations (including GDPR and UK DPA 2018), users have the right to:",
-        "list1": "Access their personal data;",
-        "list2": "Request correction or deletion;",
-        "list3": "Restrict or object to processing;",
-        "list4": "Request data portability;",
-        "list5": "Withdraw consent at any time without affecting prior lawful processing.",
-        "note": "Requests can be submitted to privacy@tracenetsystems.com, and TraceNet will respond within 30 days of verification."
+        "title": "9. Δικαιώματα Χρηστών",
+        "description": "Σύμφωνα με τους ισχύοντες κανονισμούς απορρήτου (συμπεριλαμβανομένων των GDPR και UK DPA 2018), οι χρήστες έχουν το δικαίωμα να:",
+        "list1": "Έχουν πρόσβαση στα προσωπικά τους δεδομένα·",
+        "list2": "Ζητούν διόρθωση ή διαγραφή·",
+        "list3": "Περιορίζουν ή αντιτίθενται στην επεξεργασία·",
+        "list4": "Ζητούν φορητότητα δεδομένων·",
+        "list5": "Αποσύρουν τη συναίνεση ανά πάσα στιγμή χωρίς να επηρεάζεται η προηγούμενη νόμιμη επεξεργασία.",
+        "note": "Τα αιτήματα μπορούν να υποβληθούν στο privacy@tracenetsystems.com και η TraceNet θα απαντήσει εντός 30 ημερών από την επαλήθευση."
       },
       "cookies": {
-        "title": "10. Cookies and Tracking",
-        "description1": "Our website uses minimal cookies essential for functionality and analytics.",
-        "description2": "Detailed information on cookie types and consent management is available in our Cookie Policy."
+        "title": "10. Cookies και Παρακολούθηση",
+        "description1": "Ο ιστότοπός μας χρησιμοποιεί ελάχιστα cookies απαραίτητα για τη λειτουργικότητα και την ανάλυση.",
+        "description2": "Λεπτομερείς πληροφορίες σχετικά με τους τύπους cookies και τη διαχείριση της συναίνεσης διατίθενται στην Πολιτική Cookies μας."
       },
       "dpo": {
-        "title": "11. Data Protection Officer (DPO)",
-        "description": "TraceNet has appointed a Data Protection Officer responsible for oversight of privacy practices and compliance.",
-        "contact": "📧 DPO Contact: dpo@tracenetsystems.com",
-        "address": "📍 Address: TraceNet Systems Ltd., 14 HaGefen St., Ramat Gan, Israel"
+        "title": "11. Υπεύθυνος Προστασίας Δεδομένων (DPO)",
+        "description": "Η TraceNet έχει ορίσει έναν Υπεύθυνο Προστασίας Δεδομένων που είναι υπεύθυνος για την επίβλεψη των πρακτικών απορρήτου και της συμμόρφωσης.",
+        "contact": "📧 Επικοινωνία DPO: dpo@tracenetsystems.com",
+        "address": "📍 Διεύθυνση: TraceNet Systems Ltd., 14 HaGefen St., Ramat Gan, Ισραήλ"
       },
       "updates": {
-        "title": "12. Updates to This Policy",
-        "description1": "This Policy may be updated periodically to reflect changes in regulation, technology, or corporate operations.",
-        "description2": "Revisions will be posted on this page with the updated \"Last Modified\" date.",
-        "description3": "For material updates, users will be notified via email or in-platform alert."
+        "title": "12. Ενημερώσεις σε Αυτήν την Πολιτική",
+        "description1": "Αυτή η Πολιτική ενδέχεται να ενημερώνεται περιοδικά για να αντικατοπτρίζει αλλαγές σε κανονισμούς, τεχνολογία ή εταιρικές λειτουργίες.",
+        "description2": "Οι αναθεωρήσεις θα δημοσιεύονται σε αυτήν τη σελίδα με την ενημερωμένη ημερομηνία «Τελευταία Ενημέρωση».",
+        "description3": "Για ουσιώδεις ενημερώσεις, οι χρήστες θα ειδοποιούνται μέσω email ή ειδοποίησης εντός της πλατφόρμας."
       },
       "contact": {
-        "title": "13. Contact",
-        "description": "For any questions, privacy concerns, or regulatory correspondence, please contact:",
+        "title": "13. Επικοινωνία",
+        "description": "Για τυχόν ερωτήσεις, ανησυχίες σχετικά με την ιδιωτικότητα ή ρυθμιστική αλληλογραφία, επικοινωνήστε:",
         "email": "📧 privacy@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
         "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
+        "compliantLabel": "✅ Συμβατό με:",
         "compliantList": "GDPR (2016/679), UK DPA 2018, CCPA, AMLD6, ISO 27001, SOC 2 Type II, PCI DSS, Open Banking PSD2."
       }
     }
   },
   "cookiePolicy": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "This Cookie Policy explains how TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"our,\" or \"us\") uses cookies and similar technologies on our websites and web applications.",
-    "intro2": "It should be read together with our Privacy Policy, which explains how we collect, process, and protect your personal data.",
+    "lastUpdated": "Τελευταία Ενημέρωση: Οκτώβριος 2025",
+    "intro1": "Αυτή η Πολιτική Cookies εξηγεί πώς η TraceNet Systems Ltd. («TraceNet», «εμείς», «μας») χρησιμοποιεί cookies και παρόμοιες τεχνολογίες στους ιστότοπους και στις διαδικτυακές εφαρμογές μας.",
+    "intro2": "Πρέπει να διαβαστεί μαζί με την Πολιτική Απορρήτου μας, η οποία εξηγεί πώς συλλέγουμε, επεξεργαζόμαστε και προστατεύουμε τα προσωπικά σας δεδομένα.",
     "sections": {
       "what": {
-        "title": "1. What Are Cookies",
-        "text1": "Cookies are small text files that are stored on your device (computer, tablet, or smartphone) when you visit a website.",
-        "text2": "They help websites recognize your device, remember your preferences, and improve your user experience.",
-        "text3": "Cookies may also be used for analytics, performance tracking, and — where permitted — marketing and advertising purposes."
+        "title": "1. Τι είναι τα Cookies",
+        "text1": "Τα cookies είναι μικρά αρχεία κειμένου που αποθηκεύονται στη συσκευή σας (υπολογιστή, tablet ή smartphone) όταν επισκέπτεστε έναν ιστότοπο.",
+        "text2": "Βοηθούν τους ιστότοπους να αναγνωρίζουν τη συσκευή σας, να θυμούνται τις προτιμήσεις σας και να βελτιώνουν την εμπειρία χρήστη σας.",
+        "text3": "Τα cookies μπορούν επίσης να χρησιμοποιηθούν για ανάλυση, παρακολούθηση απόδοσης και — όπου επιτρέπεται — σκοπούς μάρκετινγκ και διαφήμισης."
       },
       "usage": {
-        "title": "2. How We Use Cookies",
-        "description": "We use cookies to:",
-        "list1": "Ensure the proper functioning of our website;",
-        "list2": "Remember user preferences and language settings;",
-        "list3": "Improve the performance, speed, and usability of our site;",
-        "list4": "Collect anonymous usage statistics to help us improve our services;",
-        "list5": "Support security and compliance monitoring;",
-        "list6": "(If consented) enable analytics and advertising integrations.",
-        "note": "We do not use cookies to store sensitive financial or personal information."
+        "title": "2. Πώς Χρησιμοποιούμε τα Cookies",
+        "description": "Χρησιμοποιούμε cookies για να:",
+        "list1": "Διασφαλίσουμε τη σωστή λειτουργία του ιστοτόπου μας·",
+        "list2": "Θυμόμαστε τις προτιμήσεις χρήστη και τις ρυθμίσεις γλώσσας·",
+        "list3": "Βελτιώνουμε την απόδοση, την ταχύτητα και τη χρηστικότητα του ιστοτόπου μας·",
+        "list4": "Συλλέγουμε ανώνυμα στατιστικά στοιχεία χρήσης για να μας βοηθήσουν να βελτιώσουμε τις υπηρεσίες μας·",
+        "list5": "Υποστηρίζουμε την παρακολούθηση ασφάλειας και συμμόρφωσης·",
+        "list6": "(Εάν συναινέσετε) επιτρέπουμε ενσωματώσεις ανάλυσης και διαφήμισης.",
+        "note": "Δεν χρησιμοποιούμε cookies για την αποθήκευση ευαίσθητων χρηματοοικονομικών ή προσωπικών πληροφοριών."
       },
       "types": {
-        "title": "3. Types of Cookies We Use",
+        "title": "3. Τύποι Cookies που Χρησιμοποιούμε",
         "necessary": {
-          "title": "3.1 Strictly Necessary Cookies",
-          "text1": "These cookies are essential for the website to function properly and cannot be disabled.",
-          "text2": "They include session identifiers, authentication tokens, and security-related cookies.",
-          "text3": "Examples:",
-          "list1": "Session management and navigation;",
-          "list2": "User authentication and access control;",
-          "list3": "Compliance and consent tracking."
+          "title": "3.1 Απολύτως Απαραίτητα Cookies",
+          "text1": "Αυτά τα cookies είναι απαραίτητα για τη σωστή λειτουργία του ιστοτόπου και δεν μπορούν να απενεργοποιηθούν.",
+          "text2": "Περιλαμβάνουν αναγνωριστικά συνεδρίας, διακριτικά ελέγχου ταυτότητας και cookies σχετικά με την ασφάλεια.",
+          "text3": "Παραδείγματα:",
+          "list1": "Διαχείριση συνεδρίας και πλοήγηση·",
+          "list2": "Έλεγχος ταυτότητας χρήστη και έλεγχος πρόσβασης·",
+          "list3": "Παρακολούθηση συμμόρφωσης και συναίνεσης."
         },
         "functional": {
-          "title": "3.2 Functional Cookies",
-          "text1": "These cookies enable enhanced functionality and personalization, such as remembering your settings or language preferences.",
-          "text2": "They may be set by us or by third-party tools integrated into our platform."
+          "title": "3.2 Λειτουργικά Cookies",
+          "text1": "Αυτά τα cookies επιτρέπουν βελτιωμένη λειτουργικότητα και εξατομίκευση, όπως η απομνημόνευση των ρυθμίσεων ή των προτιμήσεων γλώσσας σας.",
+          "text2": "Μπορούν να οριστούν από εμάς ή από εργαλεία τρίτων που είναι ενσωματωμένα στην πλατφόρμα μας."
         },
         "analytics": {
-          "title": "3.3 Analytics and Performance Cookies",
-          "text1": "These cookies allow us to measure traffic and usage patterns.",
-          "text2": "The information is aggregated and anonymous, helping us understand how visitors interact with our website.",
-          "text3": "Examples of third-party analytics tools (if enabled):",
+          "title": "3.3 Cookies Ανάλυσης και Απόδοσης",
+          "text1": "Αυτά τα cookies μας επιτρέπουν να μετράμε την κίνηση και τα πρότυπα χρήσης.",
+          "text2": "Οι πληροφορίες συγκεντρώνονται και είναι ανώνυμες, βοηθώντας μας να κατανοήσουμε πώς οι επισκέπτες αλληλεπιδρούν με τον ιστότοπό μας.",
+          "text3": "Παραδείγματα εργαλείων ανάλυσης τρίτων (εάν είναι ενεργοποιημένα):",
           "list1": "Google Analytics",
           "list2": "Meta (Facebook) Pixel",
-          "list3": "Hotjar or equivalent performance analytics tools",
-          "note": "You may choose to disable these cookies without affecting essential functionality."
+          "list3": "Hotjar ή ισοδύναμα εργαλεία ανάλυσης απόδοσης",
+          "note": "Μπορείτε να επιλέξετε να απενεργοποιήσετε αυτά τα cookies χωρίς να επηρεαστεί η βασική λειτουργικότητα."
         },
         "marketing": {
-          "title": "3.4 Marketing and Tracking Cookies (Optional)",
-          "text1": "These cookies may be used to deliver relevant ads or track campaign performance.",
-          "text2": "They are only activated after your explicit consent.",
-          "text3": "We currently use minimal or no marketing cookies, but we include this category for transparency."
+          "title": "3.4 Cookies Μάρκετινγκ και Παρακολούθησης (Προαιρετικά)",
+          "text1": "Αυτά τα cookies μπορούν να χρησιμοποιηθούν για την προβολή σχετικών διαφημίσεων ή την παρακολούθηση της απόδοσης της καμπάνιας.",
+          "text2": "Ενεργοποιούνται μόνο μετά από τη ρητή συγκατάθεσή σας.",
+          "text3": "Προς το παρόν χρησιμοποιούμε ελάχιστα ή καθόλου cookies μάρκετινγκ, αλλά συμπεριλαμβάνουμε αυτήν την κατηγορία για λόγους διαφάνειας."
         }
       },
       "duration": {
-        "title": "4. Duration of Cookies",
-        "description": "Cookies may be either:",
-        "list1": "Session cookies — deleted when you close your browser; or",
-        "list2": "Persistent cookies — remain on your device until they expire or are manually deleted.",
-        "note": "We retain cookies only as long as necessary for their intended purpose, usually between 1 day and 12 months."
+        "title": "4. Διάρκεια των Cookies",
+        "description": "Τα cookies μπορεί να είναι είτε:",
+        "list1": "Cookies συνεδρίας — διαγράφονται όταν κλείνετε το πρόγραμμα περιήγησής σας· είτε",
+        "list2": "Μόνιμα cookies — παραμένουν στη συσκευή σας μέχρι να λήξουν ή να διαγραφούν χειροκίνητα.",
+        "note": "Διατηρούμε τα cookies μόνο για όσο διάστημα είναι απαραίτητο για τον επιδιωκόμενο σκοπό τους, συνήθως μεταξύ 1 ημέρας και 12 μηνών."
       },
       "thirdParty": {
-        "title": "5. Third-Party Cookies",
-        "description1": "Some cookies may be placed by trusted third-party providers that supply analytics, performance, or compliance tools.",
-        "description2": "These providers act as independent data controllers for their respective services.",
-        "description3": "Examples include:",
+        "title": "5. Cookies Τρίτων",
+        "description1": "Ορισμένα cookies ενδέχεται να τοποθετούνται από αξιόπιστους τρίτους παρόχους που παρέχουν εργαλεία ανάλυσης, απόδοσης ή συμμόρφωσης.",
+        "description2": "Αυτοί οι πάροχοι ενεργούν ως ανεξάρτητοι υπεύθυνοι επεξεργασίας δεδομένων για τις αντίστοιχες υπηρεσίες τους.",
+        "description3": "Παραδείγματα περιλαμβάνουν:",
         "list1": "Google Ireland Ltd. (Google Analytics, Tag Manager)",
-        "list2": "Meta Platforms Inc. (Meta Pixel for campaign attribution)",
-        "list3": "Cloudflare Inc. (security and performance optimization)",
-        "note": "Each third party has its own privacy and cookie policies, which we encourage users to review."
+        "list2": "Meta Platforms Inc. (Meta Pixel για την απόδοση καμπάνιας)",
+        "list3": "Cloudflare Inc. (ασφάλεια και βελτιστοποίηση απόδοσης)",
+        "note": "Κάθε τρίτος έχει τις δικές του πολιτικές απορρήτου και cookies, τις οποίες ενθαρρύνουμε τους χρήστες να αναθεωρήσουν."
       },
       "manage": {
-        "title": "6. Managing Cookie Preferences",
-        "description": "You can manage or withdraw your consent to non-essential cookies at any time through:",
-        "list1": "The cookie consent banner displayed when you first visit our site;",
-        "list2": "The \"Manage Preferences\" link available in the footer of our website;",
-        "list3": "Your browser's cookie settings.",
-        "browserTitle": "Browser Settings:",
-        "browserText1": "Most browsers allow you to block or delete cookies.",
-        "browserText2": "You can find detailed instructions in the \"Help\" section of your browser.",
-        "note": "Please note: disabling essential cookies may affect the functionality of our website."
+        "title": "6. Διαχείριση Προτιμήσεων Cookies",
+        "description": "Μπορείτε να διαχειριστείτε ή να αποσύρετε τη συναίνεσή σας σε μη απαραίτητα cookies ανά πάσα στιγμή μέσω:",
+        "list1": "Το πλαίσιο συναίνεσης cookies που εμφανίζεται όταν επισκέπτεστε για πρώτη φορά τον ιστότοπό μας·",
+        "list2": "Τον σύνδεσμο «Διαχείριση Προτιμήσεων» που είναι διαθέσιμος στο υποσέλιδο του ιστοτόπου μας·",
+        "list3": "Τις ρυθμίσεις cookies του προγράμματος περιήγησής σας.",
+        "browserTitle": "Ρυθμίσεις Προγράμματος Περιήγησης:",
+        "browserText1": "Τα περισσότερα προγράμματα περιήγησης σάς επιτρέπουν να αποκλείσετε ή να διαγράψετε cookies.",
+        "browserText2": "Μπορείτε να βρείτε λεπτομερείς οδηγίες στην ενότητα «Βοήθεια» του προγράμματος περιήγησής σας.",
+        "note": "Σημειώστε: η απενεργοποίηση των βασικών cookies ενδέχεται να επηρεάσει τη λειτουργικότητα του ιστοτόπου μας."
       },
       "changes": {
-        "title": "7. Changes to This Policy",
-        "description1": "We may update this Cookie Policy from time to time to reflect changes in technology, regulation, or operational needs.",
-        "description2": "All updates will be posted on this page with the updated \"Last Modified\" date.",
-        "description3": "Significant changes will be communicated through a website notice or banner."
+        "title": "7. Αλλαγές σε Αυτήν την Πολιτική",
+        "description1": "Ενδέχεται να ενημερώνουμε αυτήν την Πολιτική Cookies από καιρό σε καιρό για να αντικατοπτρίσουμε αλλαγές στην τεχνολογία, τους κανονισμούς ή τις λειτουργικές ανάγκες.",
+        "description2": "Όλες οι ενημερώσεις θα δημοσιεύονται σε αυτήν τη σελίδα με την ενημερωμένη ημερομηνία «Τελευταία Ενημέρωση».",
+        "description3": "Σημαντικές αλλαγές θα κοινοποιούνται μέσω ειδοποίησης ή banner του ιστοτόπου."
       },
       "contact": {
-        "title": "8. Contact",
-        "description": "If you have any questions about this Cookie Policy or our data practices, please contact:",
+        "title": "8. Επικοινωνία",
+        "description": "Εάν έχετε οποιεσδήποτε ερωτήσεις σχετικά με αυτήν την Πολιτική Cookies ή τις πρακτικές δεδομένων μας, επικοινωνήστε:",
         "email": "📧 privacy@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
         "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
-        "compliantList": "GDPR (2016/679), ePrivacy Directive, UK DPA 2018, CCPA, and Israeli Privacy Protection Law (PPL)."
+        "compliantLabel": "✅ Συμβατό με:",
+        "compliantList": "GDPR (2016/679), Οδηγία ePrivacy, UK DPA 2018, CCPA, και Ισραηλινός Νόμος Προστασίας Ιδιωτικότητας (PPL)."
       }
     }
   },
   "terms": {
-    "lastUpdated": "Last Updated: October 2025",
-    "intro1": "These Terms of Use (\"Terms\") govern your access to and use of the platform, products, and services (collectively, the \"Platform\") provided by TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"us,\" or \"our\").",
-    "intro2": "By accessing or using the Platform, you agree to be bound by these Terms. If you do not agree, you may not use the Platform.",
+    "lastUpdated": "Τελευταία Ενημέρωση: Οκτώβριος 2025",
+    "intro1": "Αυτοί οι Όροι Χρήσης («Όροι») διέπουν την πρόσβαση και τη χρήση της πλατφόρμας, των προϊόντων και των υπηρεσιών (συλλογικά, η «Πλατφόρμα») που παρέχονται από την TraceNet Systems Ltd. («TraceNet», «εμείς», «μας»).",
+    "intro2": "Με την πρόσβαση ή τη χρήση της Πλατφόρμας, συμφωνείτε ότι δεσμεύεστε από αυτούς τους Όρους. Εάν δεν συμφωνείτε, δεν επιτρέπεται να χρησιμοποιήσετε την Πλατφόρμα.",
     "sections": {
       "about": {
-        "title": "1. About TraceNet",
-        "text1": "TraceNet Systems Ltd. is a technology company that provides AI-driven financial analytics and compliance infrastructure.",
-        "text2": "The Platform enables users to analyze transaction data, identify irregularities, and generate reports through read-only integrations with banks, payment systems, and digital-asset exchanges.",
-        "text3": "TraceNet is not a financial institution, broker, or money-service business.",
-        "text4": "We do not store, transfer, or control user funds."
+        "title": "1. Σχετικά με την TraceNet",
+        "text1": "Η TraceNet Systems Ltd. είναι μια εταιρεία τεχνολογίας που παρέχει χρηματοοικονομική ανάλυση βασισμένη σε AI και υποδομή συμμόρφωσης.",
+        "text2": "Η Πλατφόρμα επιτρέπει στους χρήστες να αναλύουν δεδομένα συναλλαγών, να εντοπίζουν παρατυπίες και να δημιουργούν αναφορές μέσω ενσωματώσεων μόνο για ανάγνωση (read-only) με τράπεζες, συστήματα πληρωμών και ανταλλακτήρια ψηφιακών περιουσιακών στοιχείων.",
+        "text3": "Η TraceNet δεν είναι χρηματοπιστωτικό ίδρυμα, μεσίτης ή επιχείρηση υπηρεσιών χρημάτων.",
+        "text4": "Δεν αποθηκεύουμε, μεταφέρουμε ή ελέγχουμε κεφάλαια χρηστών."
       },
       "eligibility": {
-        "title": "2. Eligibility",
-        "description": "By using the Platform, you represent and warrant that:",
-        "list1": "You are at least 18 years old or of legal age in your jurisdiction;",
-        "list2": "You have the authority to enter into these Terms;",
-        "list3": "Your use of the Platform complies with all applicable laws, including financial and data-protection regulations.",
-        "note": "Access may be restricted or revoked if compliance obligations are not met or if false information is provided."
+        "title": "2. Επιλεξιμότητα",
+        "description": "Με τη χρήση της Πλατφόρμας, δηλώνετε και εγγυάστε ότι:",
+        "list1": "Είστε τουλάχιστον 18 ετών ή της νόμιμης ηλικίας στη δικαιοδοσία σας·",
+        "list2": "Έχετε την εξουσία να συνάψετε αυτούς τους Όρους·",
+        "list3": "Η χρήση της Πλατφόρμας συμμορφώνεται με όλους τους ισχύοντες νόμους, συμπεριλαμβανομένων των χρηματοοικονομικών κανονισμών και των κανονισμών προστασίας δεδομένων.",
+        "note": "Η πρόσβαση μπορεί να περιοριστεί ή να ανακληθεί εάν δεν πληρούνται οι υποχρεώσεις συμμόρφωσης ή εάν παρέχονται ψευδείς πληροφορίες."
       },
       "services": {
-        "title": "3. Description of Services",
-        "description": "The Platform provides:",
-        "list1": "AI-based transaction analysis and risk scoring;",
-        "list2": "Integration with financial and crypto institutions via official APIs;",
-        "list3": "Automated generation of compliance and audit reports;",
-        "list4": "Optional automated initiation of chargeback, recall, or dispute requests when authorized by the user.",
-        "note1": "All actions are performed in read-only mode.",
-        "note2": "TraceNet does not execute or authorize financial transactions on behalf of users."
+        "title": "3. Περιγραφή Υπηρεσιών",
+        "description": "Η Πλατφόρμα παρέχει:",
+        "list1": "Ανάλυση συναλλαγών βασισμένη σε AI και βαθμολόγηση κινδύνου·",
+        "list2": "Ενσωμάτωση με χρηματοοικονομικά και κρύπτο ιδρύματα μέσω επίσημων API·",
+        "list3": "Αυτοματοποιημένη δημιουργία αναφορών συμμόρφωσης και ελέγχου·",
+        "list4": "Προαιρετική αυτοματοποιημένη έναρξη αιτημάτων αντιστροφής χρέωσης (chargeback), ανάκλησης ή αμφισβήτησης όταν εξουσιοδοτηθεί από τον χρήστη.",
+        "note1": "Όλες οι ενέργειες εκτελούνται σε λειτουργία μόνο για ανάγνωση (read-only).",
+        "note2": "Η TraceNet δεν εκτελεί ούτε εξουσιοδοτεί χρηματοοικονομικές συναλλαγές για λογαριασμό των χρηστών."
       },
       "responsibilities": {
-        "title": "4. User Responsibilities",
-        "description": "Users agree to:",
-        "list1": "Provide accurate and complete information during onboarding;",
-        "list2": "Maintain confidentiality of access credentials and API keys;",
-        "list3": "Use the Platform only for lawful and authorized purposes;",
-        "list4": "Not misuse, resell, or reverse-engineer any part of the Platform;",
-        "list5": "Immediately notify TraceNet of any unauthorized access or security incident.",
-        "note": "Users are solely responsible for actions performed under their credentials."
+        "title": "4. Ευθύνες Χρηστών",
+        "description": "Οι χρήστες συμφωνούν να:",
+        "list1": "Παρέχουν ακριβείς και πλήρεις πληροφορίες κατά την εισαγωγή (onboarding)·",
+        "list2": "Διατηρούν την εμπιστευτικότητα των διαπιστευτηρίων πρόσβασης και των κλειδιών API·",
+        "list3": "Χρησιμοποιούν την Πλατφόρμα μόνο για νόμιμους και εξουσιοδοτημένους σκοπούς·",
+        "list4": "Δεν κάνουν κακή χρήση, μεταπώληση ή αντίστροφη μηχανική σε οποιοδήποτε μέρος της Πλατφόρμας·",
+        "list5": "Ειδοποιούν αμέσως την TraceNet για οποιαδήποτε μη εξουσιοδοτημένη πρόσβαση ή περιστατικό ασφαλείας.",
+        "note": "Οι χρήστες είναι αποκλειστικά υπεύθυνοι για ενέργειες που εκτελούνται υπό τα διαπιστευτήριά τους."
       },
       "compliance": {
-        "title": "5. Compliance Onboarding",
-        "description1": "To access advanced features or API integrations, users must complete a short compliance onboarding process, as required by international financial regulators.",
-        "description2": "This process may include:",
-        "list1": "Identity and institutional verification (KYC/KYB);",
-        "list2": "Acceptance of TraceNet's compliance terms;",
-        "list3": "Confirmation of lawful data usage and purpose.",
-        "note": "Access tokens are issued only upon successful completion of this process."
+        "title": "5. Εισαγωγή (Onboarding) Συμμόρφωσης",
+        "description1": "Για πρόσβαση σε προηγμένα χαρακτηριστικά ή ενσωματώσεις API, οι χρήστες πρέπει να ολοκληρώσουν μια σύντομη διαδικασία εισαγωγής συμμόρφωσης, όπως απαιτείται από τους διεθνείς χρηματοοικονομικούς ρυθμιστικούς φορείς.",
+        "description2": "Αυτή η διαδικασία μπορεί να περιλαμβάνει:",
+        "list1": "Επαλήθευση ταυτότητας και ιδρύματος (KYC/KYB)·",
+        "list2": "Αποδοχή των όρων συμμόρφωσης της TraceNet·",
+        "list3": "Επιβεβαίωση της νόμιμης χρήσης και του σκοπού των δεδομένων.",
+        "note": "Τα διακριτικά πρόσβασης (access tokens) εκδίδονται μόνο μετά την επιτυχή ολοκλήρωση αυτής της διαδικασίας."
       },
       "ip": {
-        "title": "6. Intellectual Property",
-        "description1": "All intellectual property rights in the Platform, including software, models, text, design, and documentation, are owned by TraceNet Systems Ltd. or its licensors.",
-        "description2": "Users may not:",
-        "list1": "Copy, reproduce, or distribute any part of the Platform;",
-        "list2": "Use TraceNet's trademarks or branding without written permission;",
-        "list3": "Modify, decompile, or reverse-engineer the Platform or its AI models.",
-        "note": "All rights not expressly granted under these Terms are reserved by TraceNet."
+        "title": "6. Πνευματική Ιδιοκτησία",
+        "description1": "Όλα τα δικαιώματα πνευματικής ιδιοκτησίας στην Πλατφόρμα, συμπεριλαμβανομένου λογισμικού, μοντέλων, κειμένου, σχεδιασμού και τεκμηρίωσης, ανήκουν στην TraceNet Systems Ltd. ή στους δικαιοπαρόχους της.",
+        "description2": "Οι χρήστες δεν επιτρέπεται να:",
+        "list1": "Αντιγράφουν, αναπαράγουν ή διανέμουν οποιοδήποτε μέρος της Πλατφόρμας·",
+        "list2": "Χρησιμοποιούν εμπορικά σήματα ή επωνυμία της TraceNet χωρίς γραπτή άδεια·",
+        "list3": "Τροποποιούν, απομεταγλωττίζουν ή κάνουν αντίστροφη μηχανική στην Πλατφόρμα ή στα μοντέλα AI της.",
+        "note": "Όλα τα δικαιώματα που δεν χορηγούνται ρητά βάσει αυτών των Όρων επιφυλάσσονται από την TraceNet."
       },
       "dataUse": {
-        "title": "7. Data Usage and Privacy",
-        "description1": "All data processed through the Platform is handled in accordance with the Privacy Policy.",
-        "description2": "Users acknowledge and agree that:",
-        "list1": "Data access is limited to read-only connections;",
-        "list2": "Data may be analyzed for risk, compliance, and operational improvement;",
-        "list3": "TraceNet may store metadata and anonymized insights for model optimization;",
-        "list4": "All data handling complies with GDPR, AML, and other applicable laws.",
-        "note": "Users retain ownership of their input data and analytical outputs."
+        "title": "7. Χρήση Δεδομένων και Ιδιωτικότητα",
+        "description1": "Όλα τα δεδομένα που επεξεργάζονται μέσω της Πλατφόρμας διαχειρίζονται σύμφωνα με την Πολιτική Απορρήτου.",
+        "description2": "Οι χρήστες αναγνωρίζουν και συμφωνούν ότι:",
+        "list1": "Η πρόσβαση στα δεδομένα περιορίζεται σε συνδέσεις μόνο για ανάγνωση (read-only)·",
+        "list2": "Τα δεδομένα ενδέχεται να αναλύονται για κίνδυνο, συμμόρφωση και λειτουργική βελτίωση·",
+        "list3": "Η TraceNet μπορεί να αποθηκεύει μεταδεδομένα και ανώνυμες πληροφορίες για τη βελτιστοποίηση του μοντέλου·",
+        "list4": "Όλη η διαχείριση δεδομένων συμμορφώνεται με τους GDPR, AML και άλλους ισχύοντες νόμους.",
+        "note": "Οι χρήστες διατηρούν την κυριότητα των δεδομένων εισόδου τους και των αναλυτικών εξόδων."
       },
       "security": {
-        "title": "8. Security",
-        "text1": "TraceNet implements industry-standard security protocols, including encryption, access control, and continuous monitoring.",
-        "text2": "However, no system is completely secure, and users acknowledge the inherent risks of data transmission over the internet.",
-        "text3": "TraceNet will not be liable for unauthorized access or incidents beyond its reasonable control."
+        "title": "8. Ασφάλεια",
+        "text1": "Η TraceNet εφαρμόζει πρωτόκολλα ασφαλείας βιομηχανικού προτύπου, συμπεριλαμβανομένης της κρυπτογράφησης, του ελέγχου πρόσβασης και της συνεχούς παρακολούθησης.",
+        "text2": "Ωστόσο, κανένα σύστημα δεν είναι απολύτως ασφαλές και οι χρήστες αναγνωρίζουν τους εγγενείς κινδύνους της μετάδοσης δεδομένων μέσω του διαδικτύου.",
+        "text3": "Η TraceNet δεν θα ευθύνεται για μη εξουσιοδοτημένη πρόσβαση ή περιστατικά πέρα ​​από τον εύλογο έλεγχό της."
       },
       "availability": {
-        "title": "9. Service Availability",
-        "description": "The Platform is provided on an \"as-is\" and \"as-available\" basis.",
-        "note": "TraceNet reserves the right to:",
-        "list1": "Modify, suspend, or discontinue any feature or service;",
-        "list2": "Perform scheduled or unscheduled maintenance;",
-        "list3": "Restrict access when required by law or regulator.",
-        "note2": "TraceNet shall not be liable for downtime, delays, or data unavailability."
+        "title": "9. Διαθεσιμότητα Υπηρεσίας",
+        "description": "Η Πλατφόρμα παρέχεται σε βάση «ως έχει» και «ως διαθέσιμη».",
+        "note": "Η TraceNet διατηρεί το δικαίωμα να:",
+        "list1": "Τροποποιεί, αναστέλλει ή διακόπτει οποιοδήποτε χαρακτηριστικό ή υπηρεσία·",
+        "list2": "Πραγματοποιεί προγραμματισμένη ή μη προγραμματισμένη συντήρηση·",
+        "list3": "Περιορίζει την πρόσβαση όταν απαιτείται από το νόμο ή ρυθμιστικό φορέα.",
+        "note2": "Η TraceNet δεν φέρει ευθύνη για διακοπή λειτουργίας, καθυστερήσεις ή μη διαθεσιμότητα δεδομένων."
       },
       "prohibited": {
-        "title": "10. Prohibited Activities",
-        "description": "Users may not:",
-        "list1": "Attempt to gain unauthorized access to the Platform or its data;",
-        "list2": "Upload or transmit malicious code or data;",
-        "list3": "Use the Platform for unlawful, deceptive, or fraudulent activity;",
-        "list4": "Interfere with network operations or system integrity;",
-        "list5": "Circumvent security or authentication mechanisms.",
-        "note": "Violation of these terms may result in immediate suspension or termination of access."
+        "title": "10. Απαγορευμένες Δραστηριότητες",
+        "description": "Οι χρήστες δεν επιτρέπεται να:",
+        "list1": "Επιχειρούν να αποκτήσουν μη εξουσιοδοτημένη πρόσβαση στην Πλατφόρμα ή στα δεδομένα της·",
+        "list2": "Ανεβάζουν ή μεταδίδουν κακόβουλο κώδικα ή δεδομένα·",
+        "list3": "Χρησιμοποιούν την Πλατφόρμα για παράνομη, παραπλανητική ή δόλια δραστηριότητα·",
+        "list4": "Παρεμβαίνουν στις λειτουργίες δικτύου ή στην ακεραιότητα του συστήματος·",
+        "list5": "Παρακάμπτουν μηχανισμούς ασφαλείας ή ελέγχου ταυτότητας.",
+        "note": "Η παραβίαση αυτών των όρων μπορεί να οδηγήσει σε άμεση αναστολή ή τερματισμό της πρόσβασης."
       },
       "liability": {
-        "title": "11. Limitation of Liability",
-        "text1": "To the maximum extent permitted by law:",
-        "text2": "TraceNet shall not be liable for any indirect, incidental, consequential, or punitive damages, including loss of profits, data, or goodwill, arising from or related to the use of the Platform.",
-        "text3": "TraceNet's total liability shall not exceed the amount paid by the user (if any) in the preceding twelve months."
+        "title": "11. Περιορισμός Ευθύνης",
+        "text1": "Στο μέγιστο βαθμό που επιτρέπεται από το νόμο:",
+        "text2": "Η TraceNet δεν φέρει ευθύνη για τυχόν έμμεσες, παρεπόμενες, επακόλουθες ή ποινικές ζημίες, συμπεριλαμβανομένης της απώλειας κερδών, δεδομένων ή υπεραξίας, που προκύπτουν από ή σχετίζονται με τη χρήση της Πλατφόρμας.",
+        "text3": "Η συνολική ευθύνη της TraceNet δεν υπερβαίνει το ποσό που καταβλήθηκε από τον χρήστη (εάν υπάρχει) τους προηγούμενους δώδεκα μήνες."
       },
       "indemnification": {
-        "title": "12. Indemnification",
-        "description": "Users agree to indemnify and hold harmless TraceNet Systems Ltd., its affiliates, and employees from any claims, damages, or expenses arising out of:",
-        "list1": "Violation of these Terms;",
-        "list2": "Misuse of the Platform;",
-        "list3": "Breach of applicable law or regulation."
+        "title": "12. Αποζημίωση",
+        "description": "Οι χρήστες συμφωνούν να αποζημιώσουν και να απαλλάξουν την TraceNet Systems Ltd., τις θυγατρικές της και τους υπαλλήλους της από τυχόν αξιώσεις, ζημίες ή έξοδα που προκύπτουν από:",
+        "list1": "Παραβίαση αυτών των Όρων·",
+        "list2": "Κακή χρήση της Πλατφόρμας·",
+        "list3": "Παραβίαση ισχύοντος νόμου ή κανονισμού.",
+        "note": "Οι χρήστες είναι αποκλειστικά υπεύθυνοι για ενέργειες που εκτελούνται υπό τα διαπιστευτήριά τους."
       },
       "termination": {
-        "title": "13. Termination",
-        "description": "TraceNet may suspend or terminate user access immediately if:",
-        "list1": "The user violates these Terms or compliance obligations;",
-        "list2": "The Platform is misused for illegal or non-compliant activity;",
-        "list3": "Required by a financial regulator or court order.",
-        "note": "Upon termination, all rights to use the Platform cease immediately."
+        "title": "13. Τερματισμός",
+        "description": "Η TraceNet μπορεί να αναστείλει ή να τερματίσει την πρόσβαση του χρήστη αμέσως εάν:",
+        "list1": "Ο χρήστης παραβιάζει αυτούς τους Όρους ή τις υποχρεώσεις συμμόρφωσης·",
+        "list2": "Η Πλατφόρμα χρησιμοποιείται κακώς για παράνομη ή μη συμβατή δραστηριότητα·",
+        "list3": "Απαιτείται από χρηματοοικονομικό ρυθμιστικό φορέα ή δικαστική εντολή.",
+        "note": "Μετά τον τερματισμό, όλα τα δικαιώματα χρήσης της Πλατφόρμας παύουν αμέσως."
       },
       "changes": {
-        "title": "14. Changes to These Terms",
-        "text1": "TraceNet may update these Terms periodically.",
-        "text2": "Revised Terms will be posted on this page with the updated \"Last Modified\" date.",
-        "text3": "Continued use of the Platform after updates constitutes acceptance of the revised Terms."
+        "title": "14. Αλλαγές σε Αυτούς τους Όρους",
+        "text1": "Η TraceNet μπορεί να ενημερώνει αυτούς τους Όρους περιοδικά.",
+        "text2": "Οι αναθεωρημένοι Όροι θα δημοσιεύονται σε αυτήν τη σελίδα με την ενημερωμένη ημερομηνία «Τελευταία Ενημέρωση».",
+        "text3": "Η συνεχής χρήση της Πλατφόρμας μετά τις ενημερώσεις συνιστά αποδοχή των αναθεωρημένων Όρων."
       },
       "governingLaw": {
-        "title": "15. Governing Law and Jurisdiction",
-        "text1": "These Terms are governed by and construed under the laws of Israel, without regard to conflict-of-law principles.",
-        "text2": "Any dispute arising under these Terms shall be subject to the exclusive jurisdiction of the courts of Tel Aviv District, Israel."
+        "title": "15. Διέπον Δίκαιο και Δικαιοδοσία",
+        "text1": "Αυτοί οι Όροι διέπονται και ερμηνεύονται σύμφωνα με τους νόμους του Ισραήλ, χωρίς αναφορά σε αρχές σύγκρουσης νόμων.",
+        "text2": "Οποιαδήποτε διαφορά προκύπτει από αυτούς τους Όρους υπόκειται στην αποκλειστική δικαιοδοσία των δικαστηρίων της Περιφέρειας Τελ Αβίβ, Ισραήλ."
       },
       "contact": {
-        "title": "16. Contact Information",
-        "description": "For any questions, notices, or legal correspondence regarding these Terms, please contact:",
+        "title": "16. Στοιχεία Επικοινωνίας",
+        "description": "Για τυχόν ερωτήσεις, ειδοποιήσεις ή νομική αλληλογραφία σχετικά με αυτούς τους Όρους, επικοινωνήστε:",
         "email": "📧 legal@tracenetsystems.com",
         "company": "📍 TraceNet Systems Ltd.",
         "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
         "separator": "⸻",
-        "compliantLabel": "✅ Compliant with:",
-        "compliantList": "GDPR (2016/679), AMLD6, Open Banking PSD2, ISO 27001, SOC 2 Type II, PCI DSS, and relevant Israeli corporate law."
+        "compliantLabel": "✅ Συμβατό με:",
+        "compliantList": "GDPR (2016/679), AMLD6, Open Banking PSD2, ISO 27001, SOC 2 Type II, PCI DSS, και σχετικό εταιρικό δίκαιο του Ισραήλ."
       }
     }
   },
   "th": {
-    "title": "Thank you for your registration!",
-    "subtitle": "Our colleague will contact you soon",
-    "button": "Back to Home"
+    "title": "Σας ευχαριστούμε για την εγγραφή σας!",
+    "subtitle": "Ο συνάδελφός μας θα επικοινωνήσει μαζί σας σύντομα",
+    "button": "Επιστροφή στην Αρχική"
   },
   "contact": {
-    "title": "Technology That Strengthens Financial Integrity",
-    "subtitle": "Built on Google Gemini. Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
+    "title": "Τεχνολογία που Ενισχύει τη Χρηματοοικονομική Ακεραιότητα",
+    "subtitle": "Βασισμένη στο Google Gemini. Σχεδιασμένη για να καταστήσει το παγκόσμιο χρηματοοικονομικό οικοσύστημα πιο διαφανές, ευφυές και υπόλογο.",
     "form": {
-      "title": "Fill in your details below",
-      "firstName": "First Name*",
-      "lastName": "Last Name*",
+      "title": "Συμπληρώστε τα στοιχεία σας παρακάτω",
+      "firstName": "Όνομα*",
+      "lastName": "Επώνυμο*",
       "email": "Email*",
-      "phone": "Phone*",
-      "message": "Anything we should know before our call?",
-      "privacy": "By submitting this form I accept the <a href=\"privacy-policy.html\">privacy policy</a> terms",
-      "submit": "Explore the Architecture"
+      "phone": "Τηλέφωνο*",
+      "message": "Κάτι που πρέπει να γνωρίζουμε πριν την κλήση μας;",
+      "privacy": "Με την υποβολή αυτής της φόρμας αποδέχομαι τους όρους της <a href=\"privacy-policy.html\">πολιτικής απορρήτου</a>",
+      "submit": "Εξερευνήστε την Αρχιτεκτονική"
     }
   },
   "awards": {
-    "title": "Awards and Recognitions"
+    "title": "Βραβεία και Αναγνωρίσεις"
   },
   "footer": {
-    "description": "Built on Google Gemini.<br>Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
-    "contact": "Contact Us",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Use",
-    "cookie": "Cookie Policy",
-    "legal": "The analyses published within the scope of this service were prepared on behalf of Bridgewise Analytics Ltd (the \"Company\")."
+    "description": "Βασισμένη στο Google Gemini.<br>Σχεδιασμένη για να καταστήσει το παγκόσμιο χρηματοοικονομικό οικοσύστημα πιο διαφανές, ευφυές και υπόλογο.",
+    "contact": "Επικοινωνήστε Μαζί Μας",
+    "privacy": "Πολιτική Απορρήτου",
+    "terms": "Όροι Χρήσης",
+    "cookie": "Πολιτική Cookies",
+    "legal": "Οι αναλύσεις που δημοσιεύονται στο πλαίσιο αυτής της υπηρεσίας προετοιμάστηκαν για λογαριασμό της Bridgewise Analytics Ltd («η Εταιρεία»)."
   },
   "cookie": {
-    "title": "This website uses cookies to improve the user experience and analyze traffic.",
-    "description": "By clicking the “Continue” button or by continuing to use the website, you consent to the use of cookies in your browser. You can manage cookies at any time in your browser settings. For more information, please read our Privacy Policy, Cookie Policy, and User Agreement.",
-    "close": "Close",
-    "accept": "Continue"
+    "title": "Αυτός ο ιστότοπος χρησιμοποιεί cookies για τη βελτίωση της εμπειρίας χρήστη και την ανάλυση της κίνησης.",
+    "description": "Κάνοντας κλικ στο κουμπί «Συνέχεια» ή συνεχίζοντας να χρησιμοποιείτε τον ιστότοπο, συναινείτε στη χρήση cookies στο πρόγραμμα περιήγησής σας. Μπορείτε να διαχειριστείτε τα cookies ανά πάσα στιγμή στις ρυθμίσεις του προγράμματος περιήγησής σας. Για περισσότερες πληροφορίες, διαβάστε την Πολιτική Απορρήτου, την Πολιτική Cookies και τη Συμφωνία Χρήστη.",
+    "close": "Κλείσιμο",
+    "accept": "Συνέχεια"
   }
 }
-
