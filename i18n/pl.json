@@ -1,0 +1,727 @@
+{
+  "nav": {
+    "technology": "TECHNOLOGIA",
+    "solutions": "ROZWIĄZANIA",
+    "compliance": "ZGODNOŚĆ I BEZPIECZEŃSTWO",
+    "about": "O NAS",
+    "contact": "Kontakt"
+  },
+  "banner": {
+    "title": "Infrastruktura AI dla Globalnej Przejrzystości Transakcji",
+    "description": "Nasz system, oparty na technologii Google Gemini i zintegrowany z bankami oraz platformami kryptowalut na całym świecie, zapewnia widoczność przepływu środków w czasie rzeczywistym, ocenę ryzyka i automatyczne działania zapewniające zgodność z przepisami.",
+    "cta": "Odkryj Technologię"
+  },
+  "about": {
+    "title": "Zrozumienie Platformy",
+    "paragraph1": "System łączy wielkoskalowe modelowanie danych finansowych, analitykę behawioralną i wywiad regulacyjny, aby interpretować przepływ pieniędzy w połączonych kontach i aktywach cyfrowych.",
+    "paragraph2": "Działa jako neutralna warstwa analityczna — bezpiecznie połączona z instytucjami finansowymi poprzez zweryfikowane interfejsy API, zapewniając ustrukturyzowany wgląd w każdy łańcuch transakcji i związane z nim ryzyko."
+  },
+  "features": {
+    "connectivity": {
+      "title": "Łączność",
+      "text": "Bezpośrednie integracje API z regulowanymi bankami i głównymi giełdami kryptowalut."
+    },
+    "intelligence": {
+      "title": "Inteligencja",
+      "text": "Modele oparte na Gemini, zoptymalizowane pod kątem rozumowania finansowego w czasie rzeczywistym."
+    },
+    "integrity": {
+      "title": "Integralność",
+      "text": "W pełni zgodny z GDPR, AMLD6 i ramami otwartej bankowości (open-banking)."
+    }
+  },
+  "layers": {
+    "title": "Podstawowe Warstwy Funkcjonalne",
+    "analysis": {
+      "title": "Analiza",
+      "text": "Przetwarza wielokanałowe dane finansowe i identyfikuje nieregularne działania, wykorzystując kontekstowe rozumienie Gemini."
+    },
+    "risk": {
+      "title": "Ocena Ryzyka",
+      "text": "Stosuje scoring oparty na AI i klastrowanie behawioralne, aby określić narażenie na oszustwa, nieautoryzowane użycie lub naruszenie zgodności z przepisami."
+    },
+    "response": {
+      "title": "Automatyczna Reakcja",
+      "text": "Po osiągnięciu progów ryzyka system może inicjować autoryzowane procedury — w tym działania typu chargeback, recall lub dispute — bezpośrednio poprzez instytucjonalne API."
+    }
+  },
+  "benefit": {
+    "title": "Dostęp i Ramy Regulacyjne",
+    "item1": "Ponieważ platforma wchodzi w interakcje z aktywnymi sieciami finansowymi, dostęp jest przyznawany dopiero po zakończeniu krótkiego procesu wdrożenia (onboarding) wymaganego przez globalnych regulatorów.",
+    "item2": "Zapewnia to zgodną z prawem wymianę danych, zweryfikowaną tożsamość i pełną odpowiedzialność za każdą operację wykonaną za pośrednictwem infrastruktury AI.",
+    "footer": "Zgodność z przepisami nie jest dodatkiem — jest integralną częścią projektu systemu."
+  },
+  "transparency": {
+    "title": "Zaprojektowany dla Przejrzystości, Zbudowany dla Zaufania",
+    "text1": "Platforma pomaga instytucjom i osobom prywatnym wykrywać nieregularne zachowania finansowe, ograniczać narażenie na oszustwa i utrzymywać pełną widoczność zarówno transakcji fiducjarnych, jak i cyfrowych.",
+    "text2": "Funkcjonuje jako stała warstwa monitorująca, która zapewnia, że każdy przepływ wartości jest możliwy do śledzenia, wytłumaczalny i zgodny z przepisami.",
+    "box1": "Interpretacja transakcji w czasie rzeczywistym w sieciach finansowych",
+    "box2": "Automatyczne sprawdzanie zgodności i raportowanie incydentów",
+    "box3": "Bezpieczne połączenia API tylko do odczytu",
+    "box4": "Ustrukturyzowana identyfikowalność zarówno dla regulatorów, jak i użytkowników"
+  },
+  "technology": {
+    "hero": {
+      "title": "Architektura Inteligencji Finansowej Oparta na Gemini",
+      "description": "System jest oparty na wielomodalnym frameworku AI Google Gemini — infrastrukturze zdolnej do analizowania ustrukturyzowanych i nieustrukturyzowanych danych finansowych na dużą skalę. W połączeniu z zastrzeżoną logiką ryzyka i zgodności, umożliwia ciągłe monitorowanie, rozumowanie kontekstowe i bezpieczną interakcję z instytucjami finansowymi i ekosystemami blockchain.",
+      "summary": "Platforma przekształca złożone dane transakcyjne w przejrzyste, gotowe dla regulatorów wglądy."
+    },
+    "architecture": {
+      "title": "Architektura Systemu",
+      "description": "Stos technologiczny jest zorganizowany w pięć wzajemnie połączonych warstw, z których każda jest dedykowana określonemu etapowi przetwarzania danych finansowych — od bezpiecznego pozyskiwania po działania regulacyjne.",
+      "layers": {
+        "data": {
+          "title": "Źródła Danych",
+          "text": "Dostęp tylko do odczytu do banków, procesorów płatności i giełd kryptowalut za pośrednictwem zweryfikowanych interfejsów API. Obsługuje Open Banking, ISO 20022 i strumienie danych blockchain."
+        },
+        "gemini": {
+          "title": "Rdzeń AI Gemini",
+          "text": "Przetwarza duże ilości danych finansowych, wykorzystując możliwości rozumowania wielomodalnego Gemini. Wykonuje interpretację metadanych w języku naturalnym, klastrowanie behawioralne i korelację podmiotów w różnych kontach."
+        },
+        "risk": {
+          "title": "Silnik Ryzyka",
+          "text": "Wykonuje logikę scoringową opartą na uczeniu maszynowym, która identyfikuje anomalie, zduplikowane przelewy, ukryte subskrypcje i nieautoryzowane działania. Każdy łańcuch transakcji otrzymuje dynamiczny profil ryzyka aktualizowany w czasie rzeczywistym."
+        },
+        "compliance": {
+          "title": "Warstwa Zgodności",
+          "text": "Implementuje AML, KYC, GDPR i regionalne standardy ochrony danych. Zapewnia identyfikowalność i odpowiedzialność za każdą decyzję wygenerowaną przez AI. Dostarcza dzienniki audytu zgodne z formatami przeglądu regulacyjnego."
+        },
+        "response": {
+          "title": "Brama API Odpowiedzi",
+          "text": "Działa jako bezpieczny kanał komunikacji między platformą a instytucjami finansowymi. Autoryzowana przez zasady zgodności, może inicjować procedury chargeback, recall lub dispute w przypadku wykrycia potwierdzonych nieprawidłowości."
+        }
+      }
+    },
+    "secureData": {
+      "title": "Bezpieczne Przetwarzanie Danych",
+      "description": "Wszystkie połączone strumienie danych działają w trybie tylko do odczytu.<br>Platforma nie wykonuje ani nie przechowuje operacji finansowych; jedynie je interpretuje i raportuje.",
+      "accordion": {
+        "title": "Środki bezpieczeństwa:",
+        "text": "• Szyfrowanie end-to-end TLS 1.3 i AES-256<br>• Prywatność różnicowa we wszystkich procesach agregacji danych<br>• Segregacja danych oparta na regionach (UE / NA / APAC)<br>• Niezmienny ślad audytu przechowywany w formacie gotowym do celów zgodności"
+      }
+    },
+    "geminiRisk": {
+      "title": "Kognitywny Silnik Ryzyka Gemini",
+      "description": "Wykorzystując możliwości rozumowania Gemini, platforma interpretuje zachowania finansowe nie tylko poprzez anomalie numeryczne, ale także poprzez wzorce semantyczne — np. metadane, opisy transakcji i korelacje behawioralne.",
+      "accordion": {
+        "title": "Możliwości:",
+        "text": "• Ciągłe wykrywanie anomalii w ekosystemach fiducjarnych i kryptowalut<br>• Scoring oszustw oparty na zachowaniu (skala 0–100)<br>• Kontekstowe rozumienie celu transakcji i zachowania kontrahenta<br>• Adaptacyjne uczenie się: model ewoluuje wraz ze zmianą sieci transakcyjnych"
+      }
+    },
+    "intelligentAction": {
+      "title": "Ramy Inteligentnego Działania",
+      "description": "Gdy AI zidentyfikuje zachowanie finansowe wysokiego ryzyka, przygotowuje ustrukturyzowany raport incydentu i — w granicach regulacyjnych — uruchamia zautomatyzowane odpowiedzi za pośrednictwem partnerskich API:",
+      "accordion": {
+        "title": "Wszystkie działania są rejestrowane, oznaczane czasem i zatwierdzane w warstwie zgodności przed wykonaniem.",
+        "text": "• Wnioski o chargeback / recall bankowy dla podejrzanych przelewów<br>• Zgłoszenia dispute / zwrotu giełdowego dla oszukańczej działalności w zakresie aktywów cyfrowych<br>• Generowanie regulacyjnego raportu incydentu do celów audytu i nadzoru"
+      }
+    },
+    "explainable": {
+      "title": "Wytłumaczalna i Podlegająca Audytowi AI",
+      "description": "Każdy wynik generowany przez rdzeń oparty na Gemini zawiera metadane dotyczące wytłumaczalności: które zmienne wpłynęły na decyzję, dlaczego model zaklasyfikował działanie jako ryzykowne i z jakim ramami regulacyjnymi jest zgodna reakcja.",
+      "accordion": {
+        "title": "Funkcje:",
+        "text": "• Przejrzyste decyzje modelu dla audytorów i regulatorów<br>• Identyfikowalny łańcuch rozumowania dla każdego incydentu<br>• Konfigurowalne progi czułości dla każdego użytkownika lub instytucji"
+      }
+    },
+    "standards": {
+      "title": "Dostosowany do Globalnych Standardów",
+      "description": "System przestrzega najwyższych standardów bezpieczeństwa i zarządzania danymi finansowymi. Wszystkie operacje są zgodne z zasadami otwartej bankowości, minimalizmu danych i nadzoru regulacyjnego.",
+      "accordion": {
+        "title": "Ramy zgodności:",
+        "text": "• RODO (Europa)<br>• AMLD6 (dyrektywa UE)<br>• ISO 27001 (Bezpieczeństwo Informacji)<br>• SOC 2 (Integralność i prywatność danych)<br>• PCI DSS (Ochrona danych finansowych)"
+      }
+    }
+  },
+  "solutions": {
+    "hero": {
+      "title": "Zastosowania w Ekosystemie Finansowym",
+      "description": "Modułowa architektura platformy pozwala jej działać na wielu warstwach krajobrazu finansowego — od monitorowania kont indywidualnych po instytucjonalną infrastrukturę zgodności z przepisami.<br>Zbudowana na frameworku AI Gemini, interpretuje dane transakcyjne, ocenia ryzyko behawioralne i działa za pośrednictwem zweryfikowanych interfejsów API.",
+      "summary": "Różni użytkownicy. Jeden system przejrzystości."
+    },
+    "personal": {
+      "title": "Osobista Świadomość i Ochrona Finansowa",
+      "description": "Dla indywidualnych użytkowników system funkcjonuje jako ciągłe środowisko monitorowania, które zapewnia widoczność każdej transakcji w czasie rzeczywistym. Identyfikuje cykliczne opłaty, ukryte subskrypcje i potencjalną nieautoryzowaną aktywność — a w razie potrzeby inicjuje autoryzowane wnioski o zwrot lub spór za pośrednictwem instytucji finansowej użytkownika.",
+      "accordion": {
+        "title": "Przypadki użycia:",
+        "text": "• Wykrywanie cyklicznych lub zduplikowanych płatności<br>• Identyfikowanie nieautoryzowanych transakcji zanim się nagromadzą<br>• Odbieranie ustrukturyzowanych raportów z wynikami oszustw i kontekstem zgodności<br>• Bezpieczna automatyzacja procesów chargeback lub recall"
+      },
+      "note": "Osoby fizyczne zyskują przejrzystość w zakresie swoich finansów cyfrowych i zmniejszają straty spowodowane niezauważoną aktywnością lub wyciekiem subskrypcji."
+    },
+    "corporate": {
+      "title": "Nadzór nad Transakcjami Korporacyjnymi",
+      "description": "Dla przedsiębiorstw platforma działa jako warstwa integralności finansowej — monitorując wszystkie wychodzące i przychodzące transakcje, aby zapewnić ich zgodność z wewnętrznymi politykami, umowami z dostawcami i regionalnymi standardami zgodności.",
+      "accordion": {
+        "title": "Przypadki użycia:",
+        "text": "• Wykrywanie niezatwierdzonych lub zduplikowanych płatności dla dostawców<br>• Analiza ekspozycji finansowej w różnych kontach i oddziałach<br>• Generowanie automatycznych raportów zgodności i audytu<br>• Identyfikowanie wczesnych wskaźników niewłaściwego użycia konta lub oszustw wewnętrznych"
+      },
+      "note": "Instytucje finansowe zyskują skalowalną, dostosowaną do wymagań regulatorów warstwę AI do zarządzania oszustwami i ochrony klientów."
+    },
+    "infrastructure": {
+      "title": "Infrastruktura Zwalczania Oszustw i Zgodności Oparta na AI",
+      "description": "Banki, firmy fintech i giełdy integrują system poprzez API, aby zwiększyć swoje możliwości wykrywania oszustw, identyfikowalności transakcji i reakcji regulacyjnej. Rdzeń oparty na Gemini dostarcza kontekstową ocenę ryzyka zarówno dla operacji fiducjarnych, jak i kryptowalut, poprawiając precyzję i redukując fałszywe alarmy.",
+      "accordion": {
+        "title": "Przypadki użycia:",
+        "text": "• Wykrywanie anomalii w czasie rzeczywistym w sieciach płatniczych<br>• Automatyczna eskalacja łańcuchów transakcji wysokiego ryzyka<br>• Natychmiastowe generowanie raportów incydentów dla zespołów ds. zgodności<br>• Wsparcie dla automatyzacji chargeback i dispute poprzez regulowane API"
+      },
+      "note": "Instytucje finansowe zyskują skalowalną, dostosowaną do wymagań regulatorów warstwę AI do zarządzania oszustwami i ochrony klientów."
+    },
+    "regulatory": {
+      "title": "Przejrzysty Nadzór i Identyfikowalność",
+      "description": "Organom nadzorczym i audytorom regulacyjnym platforma zapewnia neutralny, oparty na AI widok sieci transakcyjnych — z wytłumaczalnym rozumowaniem, niezmiennymi śladami audytu i ustandaryzowanymi formatami eksportu danych.",
+      "accordion": {
+        "title": "Przypadki użycia:",
+        "text": "• Śledzenie podejrzanego przepływu środków w różnych platformach<br>• Automatyczne wykrywanie anomalii AML/KYC<br>• Scentralizowana wizualizacja przepływów finansowych w całej instytucji<br>• Dane audytu na żądanie z pełnymi metadanymi wytłumaczalności"
+      },
+      "note": "Regulatorzy otrzymują ustrukturyzowaną, zweryfikowaną i wytłumaczalną inteligencję finansową zgodną z globalnymi ramami zgodności."
+    },
+    "connectivity": {
+      "title": "Ujednolicona Łączność Ekosystemu",
+      "description": "Za pośrednictwem otwartych interfejsów API system łączy się z infrastrukturami finansowymi, blockchain i zgodności — umożliwiając wymianę danych między warstwami indywidualnymi, korporacyjnymi i instytucjonalnymi bez naruszania prywatności lub granic regulacyjnych.",
+      "accordion": {
+        "title": "Integracje obejmują:",
+        "text": "• Banki detaliczne i komercyjne<br>• Bramy płatnicze i akceptanci<br>• Główne giełdy i depozytariusze kryptowalut<br>• Systemy zarządzania zgodnością<br>• Rządowe jednostki wywiadu finansowego i AML"
+      }
+    },
+    "impact": {
+      "title": "Wpływ na Wszystkich Interesariuszy",
+      "description": "Wprowadzając wytłumaczalną AI do ekosystemu finansowego, platforma poprawia widoczność, redukuje oszustwa systemowe i zwiększa efektywność zgodności we wszystkich uczestnikach.",
+      "accordion": {
+        "title": "Wspólne korzyści:",
+        "text": "• Ujednolicone ramy ryzyka oszustw w ekosystemach fiducjarnych i kryptowalut<br>• Zautomatyzowane działania zgodności z logiką zatwierdzoną przez regulatorów<br>• Zmniejszone koszty operacyjne dochodzeń i raportowania<br>• Zwiększone zaufanie użytkowników dzięki przejrzystości i odpowiedzialności"
+      }
+    }
+  },
+  "compliance": {
+    "hero": {
+      "title": "Zgodność i Bezpieczeństwo w Projekcie",
+      "description": "Platforma jest zbudowana w oparciu o zasadę, że przejrzystość i zgodność nie są wymogami zewnętrznymi — są one podstawowymi elementami architektury systemu. Od szyfrowania danych po weryfikację regulacyjną, każdy proces jest zaprojektowany tak, aby był zgodny z globalnymi standardami integralności finansowej i bezpieczeństwa informacji.",
+      "summary": "Bezpieczeństwo jest projektowane. Zgodność jest wbudowana."
+    },
+    "secureData": {
+      "title": "Bezpieczna Architektura Danych",
+      "description": "Wszystkie operacje są przeprowadzane w trybie tylko do odczytu, aby zapobiec nieautoryzowanym zmianom, przepływom środków lub dostępowi do konta. Platforma służy wyłącznie jako warstwa analityczna, zapewniając ochronę danych finansowych użytkowników i instytucji na każdym etapie.",
+      "accordion": {
+        "title": "Kluczowe mechanizmy:",
+        "text": "• Szyfrowanie end-to-end (TLS 1.3 / AES-256)<br>• Zerowa trwałość danych dla wrażliwych poświadczeń<br>• Przechowywanie w wielu regionach zgodnie z przepisami dotyczącymi lokalizacji danych<br>• Ciągła ocena podatności i testy penetracyjne<br>• Niezależne audyty bezpieczeństwa przeprowadzane przez strony trzecie"
+      }
+    },
+    "regulatory": {
+      "title": "Dostosowanie Regulacyjne",
+      "description": "Warstwa zgodności integruje międzynarodowe standardy regulacyjne, aby zapewnić, że każda interakcja z danymi, analiza ryzyka lub automatyczna odpowiedź pozostaje w granicach prawa finansowego.",
+      "accordion": {
+        "title": "Obsługiwane ramy:",
+        "text": "• RODO — Ogólne Rozporządzenie o Ochronie Danych (UE)<br>• AMLD6 — Szósta Dyrektywa w sprawie Przeciwdziałania Praniu Pieniędzy (UE)<br>• FATF — Rekomendacje Grupy Zadaniowej ds. Przeciwdziałania Praniu Pieniędzy<br>• ISO 27001 / SOC 2 — Bezpieczeństwo Informacji i Zarządzanie Danymi<br>• PCI DSS — Standard Bezpieczeństwa Danych Branży Kart Płatniczych<br>• Open Banking PSD2 — Bezpieczna łączność API i model zgody użytkownika"
+      },
+      "note": "Każda operacja zgodności jest rejestrowana, podlega audytowi i jest identyfikowalna zarówno do przeglądu wewnętrznego, jak i dostępu regulatora."
+    },
+    "identity": {
+      "title": "Weryfikacja Tożsamości i Autoryzacja",
+      "description": "Aby utrzymać integralność danych i zapobiec niewłaściwemu użyciu, dostęp użytkownika do systemu AI jest przyznawany dopiero po zakończeniu obowiązkowego wdrożenia zgodności.<br><br>Ten krótki kurs, wymagany przez regulatorów finansowych, weryfikuje tożsamość użytkownika, cel użycia i świadomość obowiązków związanych z przetwarzaniem danych.",
+      "stepsTitle": "Procedura dostępu:",
+      "step1": "Weryfikacja tożsamości i źródła (KYC)",
+      "step2": "Akceptacja warunków zgodności",
+      "step3": "Zakończenie automatycznego wdrożenia",
+      "step4": "Przyznanie dostępu API z tokenem pod nadzorem regulatora",
+      "note": "Każdy użytkownik działa w zweryfikowanych i identyfikowalnych ramach, zapewniając zgodny z prawem dostęp do inteligencji finansowej opartej na AI."
+    },
+    "audit": {
+      "title": "Podległość Audytowi i Odpowiedzialność",
+      "description": "Każde działanie systemu — od żądania API do decyzji AI — jest rejestrowane w niezmiennym dzienniku audytu. Zapewnia to regulatorom, pracownikom ds. zgodności i audytorom pełną widoczność przepływu danych i procesów decyzyjnych.",
+      "accordion": {
+        "title": "Możliwości:",
+        "text": "• Niezmienne dzienniki zdarzeń z sygnaturą czasową<br>• Dostępne tylko dla autoryzowanych regulatorów lub wewnętrznych jednostek ds. zgodności<br>• Obsługa standardowych formatów eksportu audytu (CSV, XML, XBRL)<br>• Automatyczne generowanie raportów zgodności"
+      },
+      "note": "Nic nie dzieje się bez zapisu."
+    },
+    "threat": {
+      "title": "Zarządzanie Zagrożeniami i Ryzykiem w Czasie Rzeczywistym",
+      "description": "Platforma stale monitoruje swoje środowisko pod kątem anomalii bezpieczeństwa i nietypowych wzorców dostępu. W przypadku wykrycia potencjalnych zagrożeń, automatyczne alerty są wysyłane do wewnętrznego węzła zgodności, a odpowiednie działania są podejmowane natychmiast, aby wyizolować lub zneutralizować zagrożenie.",
+      "process": "<strong style=\"display:block;\">Proces:</strong>• Ciągłe monitorowanie behawioralne ruchu API<br>• Wielopoziomowy scoring anomalii dla zdarzeń bezpieczeństwa<br>• Protokół alarmowania i łagodzenia zagrożeń w czasie rzeczywistym<br>• Raportowanie sądowe do jednostek ds. zgodności i regulacyjnych"
+    },
+    "collaborative": {
+      "title": "Wspólny Model Bezpieczeństwa",
+      "description": "System jest rozwijany w ramach modelu współodpowiedzialności, w którym bezpieczeństwo platformy, zgodność instytucjonalna i nadzór regulacyjny współistnieją w ujednoliconych ramach operacyjnych.",
+      "accordion": {
+        "title": "Ekosystem partnerski:",
+        "text": "• Instytucje finansowe (banki, akceptanci, procesory płatności)<br>• Giełdy i depozytariusze kryptowalut<br>• Organy regulacyjne i jednostki wywiadu finansowego (FIU)<br>• Niezależni partnerzy audytowi i certyfikujący dane"
+      },
+      "note": "Przejrzystość osiąga się nie w izolacji, ale poprzez współpracę."
+    },
+    "certification": {
+      "title": "Weryfikacja i Certyfikacja",
+      "description": "Aby zapewnić zaufanie i globalną interoperacyjność, platforma przechodzi ciągłe cykle certyfikacji i audytu przeprowadzane przez akredytowane firmy zewnętrzne.",
+      "accordion": {
+        "title": "Certyfikaty w toku lub uzyskane:",
+        "text": "• ISO/IEC 27001 — Zarządzanie Bezpieczeństwem Informacji<br>• SOC 2 Type II — Integralność danych i odporność operacyjna<br>• PCI DSS — Przetwarzanie danych finansowych<br>• Zgodność z RODO zweryfikowana przez niezależnych asesorów z UE"
+      },
+      "note": "Standardy bezpieczeństwa nie są twierdzeniami — są weryfikacjami."
+    },
+    "learn": {
+      "title": "Budowanie Zaufania Poprzez Przejrzystość",
+      "text": "Wbudowując zgodność regulacyjną i architekturę bezpieczeństwa w każdy poziom swojej infrastruktury, system ustanawia podstawę dla odpowiedzialnej, wytłumaczalnej i podlegającej audytowi AI w ekosystemach finansowych.",
+      "cta": "Dowiedz się Więcej o Firmie"
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "Budowanie Infrastruktury Przejrzystości Finansowej",
+      "description": "Tworzymy infrastrukturę opartą na AI, zaprojektowaną w celu wprowadzenia identyfikowalności, odpowiedzialności i wytłumaczalności do globalnych systemów finansowych. Naszą misją jest umożliwienie instytucjom, regulatorom i osobom fizycznym zrozumienia, jak przemieszcza się wartość — bezpiecznie, zgodnie z prawem i inteligentnie.",
+      "summary": "Wierzymy, że przejrzystość nie jest wynikiem — jest architekturą."
+    },
+    "mission": {
+      "title": "Misja",
+      "description": "Stworzenie uniwersalnych ram technologicznych, które zapewnią, że każda akcja finansowa — niezależnie od tego, czy jest wykonana przez osobę fizyczną, firmę czy algorytm — pozostanie identyfikowalna, podlegająca audytowi i zgodna z prawem.",
+      "highlight": "Globalne środowisko finansowe, w którym każda transakcja może być zrozumiana, zweryfikowana i zaufana."
+    },
+    "operation": {
+      "title": "Jak Działamy",
+      "description": "Łączymy badania nad AI, ekspertyzę finansową (financial forensics) i inżynierię regulacyjną, aby wypełnić lukę między innowacją a zgodnością z przepisami. Nasze interdyscyplinarne zespoły projektują systemy, które interpretują zachowania finansowe i działają zgodnie z najsurowszymi standardami zarządzania danymi.",
+      "accordion": {
+        "title": "Podstawowe zasady:",
+        "text": "• Integralność: Dane zawsze muszą służyć prawdzie i przejrzystości.<br>• Bezpieczeństwo: Ochrona danych użytkowników i instytucji jest fundamentalna.<br>• Odpowiedzialność: Każda decyzja — ludzka lub algorytmiczna — musi być wytłumaczalna.<br>• Współpraca: Systemy finansowe mogą być zabezpieczone tylko poprzez współpracę między sektorami."
+      }
+    },
+    "leadership": {
+      "title": "Przywództwo i Ekspertyza",
+      "description": "Nasz zespół łączy specjalistów w zakresie architektury AI, technologii finansowej, modelowania ryzyka i zgodności regulacyjnej. Każdy dział współpracuje przy projektowaniu, walidacji i monitorowaniu każdego aspektu platformy — od infrastruktury danych po etyczne wdrażanie AI.",
+      "accordion": {
+        "title": "Styl siatki:",
+        "text": "• Badania i Modelowanie AI<br>• Inżynieria Zgodności Finansowej<br>• Infrastruktura Danych i Bezpieczeństwo<br>• Sprawy Regulacyjne<br>• Operacje i Zarządzanie"
+      },
+      "note": "Budujemy technologię z odpowiedzialnością — od algorytmu po poziom wykonawczy."
+    },
+    "collaborative": {
+      "title": "Wspólna Infrastruktura",
+      "description": "Platforma jest rozwijana we współpracy z wiodącymi instytucjami finansowymi, firmami analitycznymi blockchain i organizacjami ds. bezpieczeństwa danych, które są zaangażowane w tę samą zasadę: że przejrzystość i ochrona muszą współistnieć w gospodarce cyfrowej.",
+      "accordion": {
+        "title": "Ekosystem partnerski obejmuje:",
+        "text": "• Regulowane banki i procesory płatności<br>• Licencjonowane giełdy i depozytariusze kryptowalut<br>• Organizacje ds. prywatności danych i zgodności<br>• Niezależni partnerzy audytowi i certyfikujący"
+      },
+      "note": "Każda integracja wzmacnia zbiorową sieć zaufania."
+    },
+    "innovation": {
+      "title": "Ciągła Innowacja",
+      "paragraph1": "Badania są w centrum wszystkiego, co robimy.<br>Nasz dział R&D bada zaawansowane metodologie AI dla rozumowania finansowego, wykrywania anomalii i wytłumaczalnego podejmowania decyzji.<br>Współpracujemy z instytucjami akademickimi i laboratoriami technologii regulacyjnej, aby stale dostosowywać innowacje do ewoluujących standardów zgodności.",
+      "paragraph2": "<span class=\"h3\"> Obszary zainteresowania:</span>• Rozumowanie wielomodalne w systemach finansowych<br>• Adaptacyjne algorytmy wykrywania oszustw<br>• Autonomiczne raportowanie zgodności<br>• Współpraca Człowiek-AI w celu interpretowalności"
+    },
+    "responsible": {
+      "title": "Odpowiedzialna Inteligencja",
+      "description": "Jesteśmy zaangażowani w odpowiedzialne wykorzystanie AI w analityce finansowej. Wszystkie modele są zaprojektowane z przejrzystością, odwracalnością i podległością audytowi jako podstawowymi zasadami. Żadne autonomiczne działanie nie jest wykonywane bez identyfikowalnego nadzoru człowieka i logiki regulacyjnej.",
+      "accordion": {
+        "title": "Ramy etyczne:",
+        "text": "• Weryfikacja decyzji skoncentrowana na człowieku<br>• Brak nieprzejrzystych lub niewytłumaczalnych wyników modelu<br>• Ciągłe monitorowanie pod kątem stronniczości i dryfu danych<br>• Wewnętrzna rada ds. etyki nadzorująca aktualizacje modeli"
+      }
+    },
+    "contact": {
+      "title": "Skontaktuj Się z Nami",
+      "description": "W sprawie zapytań dotyczących partnerstwa, relacji z mediami lub koordynacji regulacyjnej, skontaktuj się z nami pod adresem:<br><span class=\"email-link\">📧<a class=\"link\" href=\"mailto:support@tracenetai.com\">support@tracenetsystems.com</a></span> lub skorzystaj z bezpiecznego formularza kontaktowego poniżej.",
+      "note": "Cała komunikacja jest szyfrowana i sprawdzana w ramach naszych ram ochrony danych."
+    },
+    "cta": {
+      "partnership": "Poproś o Partnerstwo",
+      "press": "Zapytania Prasowe",
+      "regulatory": "Koordynacja Regulacyjna"
+    }
+  },
+  "privacy": {
+    "lastUpdated": "Ostatnia Aktualizacja: Październik 2025",
+    "intro1": "Niniejsza Polityka Prywatności wyjaśnia, w jaki sposób TraceNet Systems Ltd. („TraceNet,” „my,” „nasz” lub „Firma”) gromadzi, wykorzystuje, chroni i ujawnia dane osobowe i finansowe przetwarzane za pośrednictwem naszej platformy i powiązanych usług.",
+    "intro2": "Naszą misją jest umożliwienie przejrzystości i bezpieczeństwa finansowego poprzez inteligencję danych opartą na AI, przy jednoczesnym zachowaniu ścisłej zgodności z międzynarodowymi przepisami dotyczącymi ochrony danych i regulacji finansowych.",
+    "sections": {
+      "scope": {
+        "title": "1. Zakres i Zastosowanie",
+        "description1": "Niniejsza Polityka dotyczy wszystkich użytkowników platformy TraceNet — w tym osób fizycznych, firm i partnerów instytucjonalnych — i obejmuje dane przetwarzane za pośrednictwem:",
+        "list1": "Naszych stron internetowych i aplikacji internetowych;",
+        "list2": "Integracji API z bankami, dostawcami płatności i giełdami kryptowalut;",
+        "list3": "Wsparcia klienta, wdrożenia i kanałów komunikacji.",
+        "description2": "Dotyczy to również pracowników, kontrahentów i podmiotów stowarzyszonych działających w imieniu TraceNet w zakresie przetwarzania danych użytkowników."
+      },
+      "data": {
+        "title": "2. Dane, Które Gromadzimy",
+        "description": "Gromadzimy tylko dane niezbędne do obsługi naszych usług, zapewnienia zgodności i poprawy wydajności systemu.",
+        "userData": {
+          "title": "2.1 Dane Dostarczone przez Użytkowników",
+          "list1": "Dane identyfikacyjne i kontaktowe podane podczas wdrożenia zgodności (np. pełne imię i nazwisko, adres e-mail, instytucja, dokumenty weryfikacyjne).",
+          "list2": "Metadane połączenia z kontem (klucze API, identyfikatory instytucji — tokenizowane i szyfrowane).",
+          "list3": "Zapisy zgody użytkownika i deklaracje zgodności."
+        },
+        "autoData": {
+          "title": "2.2 Dane Gromadzone Automatycznie",
+          "list1": "Informacje techniczne (adres IP, typ urządzenia, konfiguracja przeglądarki, czas trwania sesji).",
+          "list2": "Metadane wywołań API i dzienniki wydajności systemu.",
+          "list3": "Anonimizowane dane finansowe pobrane za pośrednictwem połączeń tylko do odczytu."
+        },
+        "sensitive": {
+          "title": "2.3 Wrażliwe Dane Finansowe",
+          "text1": "Podczas łączenia się z bankami lub giełdami TraceNet pobiera tylko dane transakcyjne tylko do odczytu.",
+          "text2": "Nigdy nie przechowujemy poświadczeń autoryzacyjnych, haseł ani instrumentów płatniczych."
+        }
+      },
+      "usage": {
+        "title": "3. Jak Wykorzystujemy Dane",
+        "description": "Wykorzystujemy zgromadzone dane do:",
+        "list1": "Obsługi, utrzymania i ulepszania platformy;",
+        "list2": "Analizowania aktywności transakcyjnej i wykrywania potencjalnych oszustw lub nieregularnych zachowań;",
+        "list3": "Generowania anonimowych raportów analitycznych i zgodności;",
+        "list4": "Komunikowania się z użytkownikami i świadczenia wsparcia technicznego lub regulacyjnego;",
+        "list5": "Wypełniania zobowiązań prawnych i związanych z przeciwdziałaniem praniu pieniędzy (AML);",
+        "list6": "Poprawy dokładności naszych modeli analitycznych opartych na AI.",
+        "note": "TraceNet nie sprzedaje ani nie udostępnia danych w celach marketingowych lub reklamowych."
+      },
+      "legalBasis": {
+        "title": "4. Podstawa Prawna Przetwarzania",
+        "description": "Dane są przetwarzane na jednej lub więcej z następujących podstaw prawnych:",
+        "list1": "Zgoda użytkownika — wyraźne upoważnienie do łączenia kont finansowych lub przesyłania danych weryfikacyjnych;",
+        "list2": "Uzasadniony interes — wykrywanie oszustw, bezpieczeństwo danych i ulepszanie usług;",
+        "list3": "Obowiązek prawny — zgodność z przepisami AML/KYC i przepisami dotyczącymi retencji danych;",
+        "list4": "Konieczność kontraktowa — umożliwienie dostępu użytkownika i funkcjonalności platformy."
+      },
+      "retention": {
+        "title": "5. Retencja Danych",
+        "description": "Dane są przechowywane tylko tak długo, jak jest to konieczne do:",
+        "list1": "Świadczenia funkcjonalności i usług platformy;",
+        "list2": "Przestrzegania obowiązujących przepisów finansowych;",
+        "list3": "Rozstrzygania sporów lub egzekwowania zobowiązań umownych.",
+        "note": "Gdy dane nie są już wymagane, są bezpiecznie usuwane lub nieodwracalnie anonimizowane."
+      },
+      "security": {
+        "title": "6. Bezpieczeństwo Danych",
+        "description": "Stosujemy zaawansowane środki bezpieczeństwa w celu ochrony wszystkich informacji użytkownika:",
+        "list1": "Szyfrowanie AES-256 i TLS 1.3 dla danych w spoczynku i w transmisji;",
+        "list2": "Hosting danych w wielu regionach z ograniczonymi kontrolami dostępu;",
+        "list3": "Ciągłe testy penetracyjne i monitorowanie podatności;",
+        "list4": "Niezmienne dzienniki audytu dla wszystkich operacji dostępu i danych.",
+        "note": "Wszystkie integracje są tylko do odczytu i zgodne z normami ISO 27001, SOC 2 Type II i Open Banking PSD2."
+      },
+      "sharing": {
+        "title": "7. Udostępnianie i Ujawnianie Danych",
+        "description": "Udostępniamy dane tylko wtedy, gdy jest to ściśle konieczne i na bezpiecznych, regulowanych warunkach:",
+        "list1": "Instytucje finansowe i giełdy — w celu przetworzenia autoryzowanych żądań analitycznych lub recall/dispute.",
+        "list2": "Organy regulacyjne — gdy jest to prawnie wymagane do przestrzegania zobowiązań AML, KYC lub nadzorczych.",
+        "list3": "Dostawcy infrastruktury — do hostingu, monitorowania zgodności lub audytu, w ramach umów o zachowaniu poufności.",
+        "note": "TraceNet nigdy nie ujawnia danych użytkownika w celu odsprzedaży komercyjnej, profilowania behawioralnego lub reklamy."
+      },
+      "transfers": {
+        "title": "8. Międzynarodowe Transfery Danych",
+        "description": "W przypadku międzynarodowego transferu danych TraceNet stosuje odpowiednie zabezpieczenia, w tym:",
+        "list1": "Standardowe Klauzule Umowne (SCC) zgodnie z RODO;",
+        "list2": "Regionalne przechowywanie danych dla użytkowników z UE, Wielkiej Brytanii i Kanady;",
+        "list3": "Szyfrowanie i pseudonimizacja przed transferem.",
+        "note": "Nasze główne centra przetwarzania danych znajdują się w Unii Europejskiej, Wielkiej Brytanii, Kanadzie i Izraelu."
+      },
+      "rights": {
+        "title": "9. Prawa Użytkownika",
+        "description": "Zgodnie z obowiązującymi przepisami dotyczącymi prywatności (w tym RODO i UK DPA 2018), użytkownicy mają prawo do:",
+        "list1": "Dostępu do swoich danych osobowych;",
+        "list2": "Żądania sprostowania lub usunięcia;",
+        "list3": "Ograniczenia lub wniesienia sprzeciwu wobec przetwarzania;",
+        "list4": "Żądania przenoszenia danych;",
+        "list5": "Wycofania zgody w dowolnym momencie bez wpływu na wcześniejsze zgodne z prawem przetwarzanie.",
+        "note": "Wnioski można składać na adres privacy@tracenetsystems.com, a TraceNet odpowie w ciągu 30 dni od weryfikacji."
+      },
+      "cookies": {
+        "title": "10. Pliki Cookie i Śledzenie",
+        "description1": "Nasza strona internetowa używa minimalnej liczby plików cookie niezbędnych do funkcjonowania i analityki.",
+        "description2": "Szczegółowe informacje na temat typów plików cookie i zarządzania zgodą są dostępne w naszej Polityce Cookie."
+      },
+      "dpo": {
+        "title": "11. Inspektor Ochrony Danych (IOD)",
+        "description": "TraceNet powołał Inspektora Ochrony Danych odpowiedzialnego za nadzór nad praktykami prywatności i zgodnością.",
+        "contact": "📧 Kontakt z IOD: dpo@tracenetsystems.com",
+        "address": "📍 Adres: TraceNet Systems Ltd., 14 HaGefen St., Ramat Gan, Izrael"
+      },
+      "updates": {
+        "title": "12. Aktualizacje Niniejszej Polityki",
+        "description1": "Niniejsza Polityka może być okresowo aktualizowana w celu odzwierciedlenia zmian w przepisach, technologii lub operacjach korporacyjnych.",
+        "description2": "Poprawki zostaną opublikowane na tej stronie ze zaktualizowaną datą „Ostatnia Aktualizacja”.",
+        "description3": "W przypadku istotnych aktualizacji użytkownicy zostaną powiadomieni za pośrednictwem poczty e-mail lub alertu na platformie."
+      },
+      "contact": {
+        "title": "13. Kontakt",
+        "description": "W przypadku jakichkolwiek pytań, obaw dotyczących prywatności lub korespondencji regulacyjnej, prosimy o kontakt:",
+        "email": "📧 privacy@tracenetsystems.com",
+        "company": "📍 TraceNet Systems Ltd.",
+        "address": "14 HaGefen Street, Ramat Gan, 5252174, Izrael",
+        "separator": "⸻",
+        "compliantLabel": "✅ Zgodny z:",
+        "compliantList": "RODO (2016/679), UK DPA 2018, CCPA, AMLD6, ISO 27001, SOC 2 Type II, PCI DSS, Open Banking PSD2."
+      }
+    }
+  },
+  "cookiePolicy": {
+    "lastUpdated": "Ostatnia Aktualizacja: Październik 2025",
+    "intro1": "Niniejsza Polityka Cookie wyjaśnia, w jaki sposób TraceNet Systems Ltd. („TraceNet,” „my,” „nasz” lub „nas”) używa plików cookie i podobnych technologii na naszych stronach internetowych i aplikacjach internetowych.",
+    "intro2": "Należy ją czytać łącznie z naszą Polityką Prywatności, która wyjaśnia, w jaki sposób gromadzimy, przetwarzamy i chronimy Twoje dane osobowe.",
+    "sections": {
+      "what": {
+        "title": "1. Czym Są Pliki Cookie",
+        "text1": "Pliki cookie to małe pliki tekstowe, które są przechowywane na Twoim urządzeniu (komputerze, tablecie lub smartfonie) podczas odwiedzania strony internetowej.",
+        "text2": "Pomagają stronom internetowym rozpoznać Twoje urządzenie, zapamiętać Twoje preferencje i poprawić Twoje doświadczenia użytkownika.",
+        "text3": "Pliki cookie mogą być również wykorzystywane do analityki, śledzenia wydajności oraz — w przypadku zgody — celów marketingowych i reklamowych."
+      },
+      "usage": {
+        "title": "2. Jak Wykorzystujemy Pliki Cookie",
+        "description": "Używamy plików cookie, aby:",
+        "list1": "Zapewnić prawidłowe funkcjonowanie naszej strony internetowej;",
+        "list2": "Zapamiętać preferencje użytkownika i ustawienia językowe;",
+        "list3": "Poprawić wydajność, szybkość i użyteczność naszej strony;",
+        "list4": "Gromadzić anonimowe statystyki użytkowania, aby pomóc nam ulepszać nasze usługi;",
+        "list5": "Wspierać monitorowanie bezpieczeństwa i zgodności;",
+        "list6": "(Jeśli wyrażono zgodę) włączyć integracje analityczne i reklamowe.",
+        "note": "Nie używamy plików cookie do przechowywania wrażliwych informacji finansowych ani osobowych."
+      },
+      "types": {
+        "title": "3. Rodzaje Używanych Przez Nas Plików Cookie",
+        "necessary": {
+          "title": "3.1 Niezbędne Pliki Cookie",
+          "text1": "Te pliki cookie są kluczowe dla prawidłowego funkcjonowania strony internetowej i nie można ich wyłączyć.",
+          "text2": "Obejmują one identyfikatory sesji, tokeny uwierzytelniania i pliki cookie związane z bezpieczeństwem.",
+          "text3": "Przykłady:",
+          "list1": "Zarządzanie sesją i nawigacja;",
+          "list2": "Uwierzytelnianie użytkownika i kontrola dostępu;",
+          "list3": "Śledzenie zgodności i zgody."
+        },
+        "functional": {
+          "title": "3.2 Funkcjonalne Pliki Cookie",
+          "text1": "Te pliki cookie umożliwiają rozszerzoną funkcjonalność i personalizację, taką jak zapamiętywanie Twoich ustawień lub preferencji językowych.",
+          "text2": "Mogą być ustawiane przez nas lub przez narzędzia stron trzecich zintegrowane z naszą platformą."
+        },
+        "analytics": {
+          "title": "3.3 Analityczne i Wydajnościowe Pliki Cookie",
+          "text1": "Te pliki cookie pozwalają nam mierzyć ruch i wzorce użytkowania.",
+          "text2": "Informacje są agregowane i anonimowe, co pomaga nam zrozumieć, jak odwiedzający wchodzą w interakcję z naszą stroną internetową.",
+          "text3": "Przykłady narzędzi analitycznych stron trzecich (jeśli są włączone):",
+          "list1": "Google Analytics",
+          "list2": "Meta (Facebook) Pixel",
+          "list3": "Hotjar lub równoważne narzędzia analityki wydajności",
+          "note": "Możesz wyłączyć te pliki cookie bez wpływu na podstawową funkcjonalność."
+        },
+        "marketing": {
+          "title": "3.4 Marketingowe i Śledzące Pliki Cookie (Opcjonalne)",
+          "text1": "Te pliki cookie mogą być używane do dostarczania odpowiednich reklam lub śledzenia wydajności kampanii.",
+          "text2": "Są one aktywowane tylko po wyraźnej zgodzie.",
+          "text3": "Obecnie używamy minimalnej liczby lub w ogóle nie używamy marketingowych plików cookie, ale uwzględniamy tę kategorię dla przejrzystości."
+        }
+      },
+      "duration": {
+        "title": "4. Czas Trwania Plików Cookie",
+        "description": "Pliki cookie mogą być:",
+        "list1": "Sesyjnymi plikami cookie — usuwanymi po zamknięciu przeglądarki; lub",
+        "list2": "Trwałymi plikami cookie — pozostają na Twoim urządzeniu do momentu wygaśnięcia lub ręcznego usunięcia.",
+        "note": "Przechowujemy pliki cookie tylko tak długo, jak jest to konieczne do ich zamierzonego celu, zazwyczaj od 1 dnia do 12 miesięcy."
+      },
+      "thirdParty": {
+        "title": "5. Pliki Cookie Stron Trzecich",
+        "description1": "Niektóre pliki cookie mogą być umieszczane przez zaufanych dostawców zewnętrznych, którzy dostarczają narzędzia analityczne, wydajnościowe lub zgodności.",
+        "description2": "Ci dostawcy działają jako niezależni administratorzy danych dla swoich odpowiednich usług.",
+        "description3": "Przykłady obejmują:",
+        "list1": "Google Ireland Ltd. (Google Analytics, Tag Manager)",
+        "list2": "Meta Platforms Inc. (Meta Pixel do atrybucji kampanii)",
+        "list3": "Cloudflare Inc. (optymalizacja bezpieczeństwa i wydajności)",
+        "note": "Każda strona trzecia ma własne polityki prywatności i cookie, do których zapoznania się zachęcamy użytkowników."
+      },
+      "manage": {
+        "title": "6. Zarządzanie Preferencjami Cookie",
+        "description": "Możesz zarządzać swoją zgodą na nieistotne pliki cookie lub ją wycofać w dowolnym momencie za pośrednictwem:",
+        "list1": "Baneru zgody na pliki cookie wyświetlanego podczas pierwszej wizyty na naszej stronie;",
+        "list2": "Linku „Zarządzaj Preferencjami” dostępnego w stopce naszej strony internetowej;",
+        "list3": "Ustawień plików cookie w Twojej przeglądarce.",
+        "browserTitle": "Ustawienia Przeglądarki:",
+        "browserText1": "Większość przeglądarek umożliwia blokowanie lub usuwanie plików cookie.",
+        "browserText2": "Szczegółowe instrukcje można znaleźć w sekcji „Pomoc” Twojej przeglądarki.",
+        "note": "Uwaga: wyłączenie niezbędnych plików cookie może wpłynąć na funkcjonalność naszej strony internetowej."
+      },
+      "changes": {
+        "title": "7. Zmiany w Niniejszej Polityce",
+        "description1": "Możemy okresowo aktualizować niniejszą Politykę Cookie w celu odzwierciedlenia zmian w technologii, przepisach lub potrzebach operacyjnych.",
+        "description2": "Wszystkie aktualizacje zostaną opublikowane na tej stronie ze zaktualizowaną datą „Ostatnia Aktualizacja”.",
+        "description3": "Istotne zmiany zostaną zakomunikowane za pośrednictwem powiadomienia lub baneru na stronie internetowej."
+      },
+      "contact": {
+        "title": "8. Kontakt",
+        "description": "Jeśli masz jakiekolwiek pytania dotyczące niniejszej Polityki Cookie lub naszych praktyk dotyczących danych, prosimy o kontakt:",
+        "email": "📧 privacy@tracenetsystems.com",
+        "company": "📍 TraceNet Systems Ltd.",
+        "address": "14 HaGefen Street, Ramat Gan, 5252174, Izrael",
+        "separator": "⸻",
+        "compliantLabel": "✅ Zgodny z:",
+        "compliantList": "RODO (2016/679), Dyrektywa ePrivacy, UK DPA 2018, CCPA i Izraelska Ustawa o Ochronie Prywatności (PPL)."
+      }
+    }
+  },
+  "terms": {
+    "lastUpdated": "Ostatnia Aktualizacja: Październik 2025",
+    "intro1": "Niniejsze Warunki Użytkowania („Warunki”) regulują dostęp i korzystanie z platformy, produktów i usług (łącznie „Platforma”) świadczonych przez TraceNet Systems Ltd. („TraceNet,” „my,” „nas” lub „nasz”).",
+    "intro2": "Uzyskując dostęp do Platformy lub korzystając z niej, zgadzasz się na przestrzeganie niniejszych Warunków. Jeśli nie zgadzasz się, nie możesz korzystać z Platformy.",
+    "sections": {
+      "about": {
+        "title": "1. O TraceNet",
+        "text1": "TraceNet Systems Ltd. to firma technologiczna, która zapewnia analitykę finansową opartą na AI i infrastrukturę zgodności.",
+        "text2": "Platforma umożliwia użytkownikom analizowanie danych transakcyjnych, identyfikowanie nieprawidłowości i generowanie raportów poprzez integracje tylko do odczytu z bankami, systemami płatności i giełdami aktywów cyfrowych.",
+        "text3": "TraceNet nie jest instytucją finansową, brokerem ani firmą świadczącą usługi pieniężne.",
+        "text4": "Nie przechowujemy, nie transferujemy ani nie kontrolujemy środków użytkowników."
+      },
+      "eligibility": {
+        "title": "2. Kwalifikowalność",
+        "description": "Korzystając z Platformy, oświadczasz i gwarantujesz, że:",
+        "list1": "Masz co najmniej 18 lat lub osiągnąłeś pełnoletność w swojej jurysdykcji;",
+        "list2": "Masz upoważnienie do zawarcia niniejszych Warunków;",
+        "list3": "Korzystanie przez Ciebie z Platformy jest zgodne ze wszystkimi obowiązującymi przepisami prawa, w tym regulacjami finansowymi i dotyczącymi ochrony danych.",
+        "note": "Dostęp może zostać ograniczony lub cofnięty, jeśli nie zostaną spełnione zobowiązania dotyczące zgodności lub jeśli zostaną podane fałszywe informacje."
+      },
+      "services": {
+        "title": "3. Opis Usług",
+        "description": "Platforma zapewnia:",
+        "list1": "Analizę transakcji i scoring ryzyka oparty na AI;",
+        "list2": "Integrację z instytucjami finansowymi i kryptowalutowymi za pośrednictwem oficjalnych interfejsów API;",
+        "list3": "Automatyczne generowanie raportów zgodności i audytu;",
+        "list4": "Opcjonalne automatyczne inicjowanie żądań chargeback, recall lub dispute, gdy jest to autoryzowane przez użytkownika.",
+        "note1": "Wszystkie działania są wykonywane w trybie tylko do odczytu.",
+        "note2": "TraceNet nie wykonuje ani nie autoryzuje transakcji finansowych w imieniu użytkowników."
+      },
+      "responsibilities": {
+        "title": "4. Obowiązki Użytkownika",
+        "description": "Użytkownicy zgadzają się:",
+        "list1": "Dostarczać dokładne i kompletne informacje podczas wdrożenia;",
+        "list2": "Zachować poufność poświadczeń dostępu i kluczy API;",
+        "list3": "Korzystać z Platformy wyłącznie w celach zgodnych z prawem i autoryzowanych;",
+        "list4": "Nie używać niezgodnie z przeznaczeniem, nie odsprzedawać ani nie dokonywać inżynierii odwrotnej żadnej części Platformy;",
+        "list5": "Niezwłocznie powiadomić TraceNet o każdym nieautoryzowanym dostępie lub incydencie bezpieczeństwa.",
+        "note": "Użytkownicy ponoszą wyłączną odpowiedzialność za działania wykonywane pod ich poświadczeniami."
+      },
+      "compliance": {
+        "title": "5. Wdrożenie Zgodności",
+        "description1": "Aby uzyskać dostęp do zaawansowanych funkcji lub integracji API, użytkownicy muszą ukończyć krótki proces wdrożenia zgodności, zgodnie z wymogami międzynarodowych regulatorów finansowych.",
+        "description2": "Proces ten może obejmować:",
+        "list1": "Weryfikację tożsamości i instytucji (KYC/KYB);",
+        "list2": "Akceptację warunków zgodności TraceNet;",
+        "list3": "Potwierdzenie zgodnego z prawem wykorzystania i celu danych.",
+        "note": "Tokeny dostępu są wydawane tylko po pomyślnym zakończeniu tego procesu."
+      },
+      "ip": {
+        "title": "6. Własność Intelektualna",
+        "description1": "Wszystkie prawa własności intelektualnej do Platformy, w tym oprogramowanie, modele, tekst, projekt i dokumentacja, należą do TraceNet Systems Ltd. lub jej licencjodawców.",
+        "description2": "Użytkownicy nie mogą:",
+        "list1": "Kopiować, powielać ani rozpowszechniać żadnej części Platformy;",
+        "list2": "Używać znaków towarowych lub brandingu TraceNet bez pisemnej zgody;",
+        "list3": "Modyfikować, dekompilować lub dokonywać inżynierii odwrotnej Platformy lub jej modeli AI.",
+        "note": "Wszystkie prawa, które nie zostały wyraźnie przyznane w niniejszych Warunkach, są zastrzeżone przez TraceNet."
+      },
+      "dataUse": {
+        "title": "7. Wykorzystanie Danych i Prywatność",
+        "description1": "Wszystkie dane przetwarzane za pośrednictwem Platformy są obsługiwane zgodnie z Polityką Prywatności.",
+        "description2": "Użytkownicy potwierdzają i zgadzają się, że:",
+        "list1": "Dostęp do danych jest ograniczony do połączeń tylko do odczytu;",
+        "list2": "Dane mogą być analizowane pod kątem ryzyka, zgodności i poprawy operacyjnej;",
+        "list3": "TraceNet może przechowywać metadane i anonimizowane wglądy w celu optymalizacji modelu;",
+        "list4": "Całe przetwarzanie danych jest zgodne z RODO, AML i innymi obowiązującymi przepisami.",
+        "note": "Użytkownicy zachowują własność swoich danych wejściowych i wyników analitycznych."
+      },
+      "security": {
+        "title": "8. Bezpieczeństwo",
+        "text1": "TraceNet wdraża standardowe w branży protokoły bezpieczeństwa, w tym szyfrowanie, kontrolę dostępu i ciągłe monitorowanie.",
+        "text2": "Jednak żaden system nie jest całkowicie bezpieczny, a użytkownicy potwierdzają nieodłączne ryzyko transmisji danych przez Internet.",
+        "text3": "TraceNet nie ponosi odpowiedzialności za nieautoryzowany dostęp lub incydenty poza jego rozsądną kontrolą."
+      },
+      "availability": {
+        "title": "9. Dostępność Usługi",
+        "description": "Platforma jest świadczona na zasadzie „taka, jaka jest” i „w miarę dostępności”.",
+        "note": "TraceNet zastrzega sobie prawo do:",
+        "list1": "Modyfikowania, zawieszania lub zaprzestania świadczenia dowolnej funkcji lub usługi;",
+        "list2": "Wykonywania planowanej lub nieplanowanej konserwacji;",
+        "list3": "Ograniczenia dostępu, gdy jest to wymagane przez prawo lub regulatora.",
+        "note2": "TraceNet nie ponosi odpowiedzialności za przestoje, opóźnienia lub niedostępność danych."
+      },
+      "prohibited": {
+        "title": "10. Zabronione Działania",
+        "description": "Użytkownicy nie mogą:",
+        "list1": "Próbować uzyskać nieautoryzowany dostęp do Platformy lub jej danych;",
+        "list2": "Przesyłać ani transmitować złośliwego kodu lub danych;",
+        "list3": "Używać Platformy do nielegalnej, zwodniczej lub oszukańczej działalności;",
+        "list4": "Zakłócać działania sieci lub integralności systemu;",
+        "list5": "Omijać mechanizmów bezpieczeństwa lub uwierzytelniania.",
+        "note": "Naruszenie niniejszych warunków może skutkować natychmiastowym zawieszeniem lub zakończeniem dostępu."
+      },
+      "liability": {
+        "title": "11. Ograniczenie Odpowiedzialności",
+        "text1": "W maksymalnym zakresie dozwolonym przez prawo:",
+        "text2": "TraceNet nie ponosi odpowiedzialności za jakiekolwiek szkody pośrednie, przypadkowe, wtórne lub karne, w tym utratę zysków, danych lub wartości firmy, wynikające z użytkowania Platformy lub z nim związane.",
+        "text3": "Całkowita odpowiedzialność TraceNet nie przekroczy kwoty zapłaconej przez użytkownika (jeśli taka istnieje) w ciągu poprzednich dwunastu miesięcy."
+      },
+      "indemnification": {
+        "title": "12. Odszkodowanie",
+        "description": "Użytkownicy zgadzają się zwolnić i chronić TraceNet Systems Ltd., jej podmioty stowarzyszone i pracowników przed wszelkimi roszczeniami, szkodami lub wydatkami wynikającymi z:",
+        "list1": "Naruszenia niniejszych Warunków;",
+        "list2": "Niewłaściwego użycia Platformy;",
+        "list3": "Naruszenia obowiązującego prawa lub regulacji.",
+        "note": "Użytkownicy ponoszą wyłączną odpowiedzialność za działania wykonywane pod ich poświadczeniami."
+      },
+      "termination": {
+        "title": "13. Wypowiedzenie",
+        "description": "TraceNet może natychmiast zawiesić lub wypowiedzieć dostęp użytkownika, jeśli:",
+        "list1": "Użytkownik naruszy niniejsze Warunki lub zobowiązania dotyczące zgodności;",
+        "list2": "Platforma zostanie niewłaściwie użyta do działalności nielegalnej lub niezgodnej z przepisami;",
+        "list3": "Wymaga tego regulator finansowy lub nakaz sądowy.",
+        "note": "Po wypowiedzeniu wszelkie prawa do korzystania z Platformy natychmiast wygasają."
+      },
+      "changes": {
+        "title": "14. Zmiany w Niniejszych Warunkach",
+        "text1": "TraceNet może okresowo aktualizować niniejsze Warunki.",
+        "text2": "Poprawione Warunki zostaną opublikowane na tej stronie ze zaktualizowaną datą „Ostatnia Aktualizacja”.",
+        "text3": "Dalsze korzystanie z Platformy po aktualizacjach oznacza akceptację zmienionych Warunków."
+      },
+      "governingLaw": {
+        "title": "15. Prawo Właściwe i Jurysdykcja",
+        "text1": "Niniejsze Warunki podlegają i są interpretowane zgodnie z prawem Izraela, bez względu na zasady kolizji praw.",
+        "text2": "Wszelkie spory wynikające z niniejszych Warunków podlegają wyłącznej jurysdykcji sądów Okręgu Tel Awiwu, Izrael."
+      },
+      "contact": {
+        "title": "16. Informacje Kontaktowe",
+        "description": "W przypadku jakichkolwiek pytań, powiadomień lub korespondencji prawnej dotyczącej niniejszych Warunków, prosimy o kontakt:",
+        "email": "📧 legal@tracenetsystems.com",
+        "company": "📍 TraceNet Systems Ltd.",
+        "address": "14 HaGefen Street, Ramat Gan, 5252174, Izrael",
+        "separator": "⸻",
+        "compliantLabel": "✅ Zgodny z:",
+        "compliantList": "RODO (2016/679), AMLD6, Open Banking PSD2, ISO 27001, SOC 2 Type II, PCI DSS i odpowiednim izraelskim prawem korporacyjnym."
+      }
+    }
+  },
+  "th": {
+    "title": "Dziękujemy za rejestrację!",
+    "subtitle": "Nasz współpracownik skontaktuje się z Tobą wkrótce",
+    "button": "Powrót do Strony Głównej"
+  },
+  "contact": {
+    "title": "Technologia, Która Wzmacnia Integralność Finansową",
+    "subtitle": "Zbudowany na Google Gemini. Zaprojektowany, aby globalny ekosystem finansowy był bardziej przejrzysty, inteligentny i odpowiedzialny.",
+    "form": {
+      "title": "Wypełnij swoje dane poniżej",
+      "firstName": "Imię*",
+      "lastName": "Nazwisko*",
+      "email": "E-mail*",
+      "phone": "Telefon*",
+      "message": "Czy powinniśmy coś wiedzieć przed naszą rozmową?",
+      "privacy": "Przesyłając ten formularz, akceptuję warunki <a href=\"privacy-policy.html\">polityki prywatności</a>",
+      "submit": "Odkryj Architekturę"
+    }
+  },
+  "awards": {
+    "title": "Nagrody i Wyróżnienia"
+  },
+  "footer": {
+    "description": "Zbudowany na Google Gemini.<br>Zaprojektowany, aby globalny ekosystem finansowy był bardziej przejrzysty, inteligentny i odpowiedzialny.",
+    "contact": "Skontaktuj Się z Nami",
+    "privacy": "Polityka Prywatności",
+    "terms": "Warunki Użytkowania",
+    "cookie": "Polityka Cookie",
+    "legal": "Analizy opublikowane w ramach tej usługi zostały przygotowane w imieniu Bridgewise Analytics Ltd (dalej „Spółka”)."
+  },
+  "cookie": {
+    "title": "Ta strona używa plików cookie, aby poprawić doświadczenie użytkownika i analizować ruch.",
+    "description": "Klikając przycisk „Kontynuuj” lub kontynuując korzystanie z witryny, wyrażasz zgodę na używanie plików cookie w Twojej przeglądarce. W każdej chwili możesz zarządzać plikami cookie w ustawieniach przeglądarki. Aby uzyskać więcej informacji, prosimy o zapoznanie się z naszą Polityką Prywatności, Polityką Cookie i Umową Użytkownika.",
+    "close": "Zamknij",
+    "accept": "Kontynuuj"
+  }
+}
