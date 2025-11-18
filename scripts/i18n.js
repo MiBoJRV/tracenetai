@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const supportedLanguages = ['en', 'fr'];
-    const languageLabels = { en: 'EN', fr: 'FR' };
+    const supportedLanguages = ['en', 'fr', 'es'];
+    const languageLabels = { en: 'EN', fr: 'FR', es: 'ES' };
     const defaultLanguage = 'en';
     const storageKey = 'siteLanguage';
     const translationsCache = {};
