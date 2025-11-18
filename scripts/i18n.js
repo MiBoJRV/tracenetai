@@ -1,9 +1,55 @@
 document.addEventListener('DOMContentLoaded', function () {
     const supportedLanguages = ['en', 'fr'];
+    const languageLabels = { en: 'EN', fr: 'FR' };
     const defaultLanguage = 'en';
     const storageKey = 'siteLanguage';
     const translationsCache = {};
     let currentLanguage = defaultLanguage;
+    let dropdownsInitialized = false;
+
+    function closeAllLanguageDropdowns() {
+        const dropdowns = document.querySelectorAll('.language-switcher');
+        dropdowns.forEach((dropdown) => {
+            dropdown.classList.remove('open');
+            const toggle = dropdown.querySelector('.language-switcher-toggle');
+            if (toggle) {
+                toggle.setAttribute('aria-expanded', 'false');
+            }
+        });
+    }
+
+    function initLanguageDropdowns() {
+        if (dropdownsInitialized) {
+            return;
+        }
+        dropdownsInitialized = true;
+        const dropdowns = document.querySelectorAll('.language-switcher');
+        dropdowns.forEach((dropdown) => {
+            const toggle = dropdown.querySelector('.language-switcher-toggle');
+            const menu = dropdown.querySelector('.language-switcher-menu');
+            if (!toggle || !menu) {
+                return;
+            }
+            toggle.addEventListener('click', (event) => {
+                event.stopPropagation();
+                const isOpen = dropdown.classList.contains('open');
+                closeAllLanguageDropdowns();
+                if (!isOpen) {
+                    dropdown.classList.add('open');
+                    toggle.setAttribute('aria-expanded', 'true');
+                }
+            });
+            menu.addEventListener('click', (event) => {
+                event.stopPropagation();
+            });
+        });
+        document.addEventListener('click', closeAllLanguageDropdowns);
+        document.addEventListener('keydown', (event) => {
+            if (event.key === 'Escape') {
+                closeAllLanguageDropdowns();
+            }
+        });
+    }
 
     function getValueByKey(dictionary, key) {
         if (!dictionary || !key) {
@@ -53,11 +99,17 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function updateLanguageButtons(language) {
+        const label = languageLabels[language] || language.toUpperCase();
         const buttons = document.querySelectorAll('[data-lang-option]');
         buttons.forEach((button) => {
             const isActive = button.getAttribute('data-lang-option') === language;
             button.classList.toggle('active', isActive);
             button.setAttribute('aria-pressed', String(isActive));
+            button.setAttribute('aria-selected', String(isActive));
+        });
+        const currentLabels = document.querySelectorAll('[data-current-language]');
+        currentLabels.forEach((node) => {
+            node.textContent = label;
         });
     }
 
@@ -69,12 +121,14 @@ document.addEventListener('DOMContentLoaded', function () {
                 currentLanguage = language;
                 localStorage.setItem(storageKey, language);
                 updateLanguageButtons(language);
+                closeAllLanguageDropdowns();
             })
             .catch(() => {
                 if (language !== defaultLanguage) {
                     currentLanguage = defaultLanguage;
                     updateLanguageButtons(defaultLanguage);
                     applyTranslations(translationsCache[defaultLanguage], translationsCache[defaultLanguage]);
+                    closeAllLanguageDropdowns();
                 }
             });
     }
@@ -96,6 +150,7 @@ document.addEventListener('DOMContentLoaded', function () {
             applyTranslations(dictionary, dictionary);
             currentLanguage = defaultLanguage;
             initLanguageSwitcher();
+            initLanguageDropdowns();
             const savedLanguage = localStorage.getItem(storageKey);
             const languageToLoad = savedLanguage && supportedLanguages.includes(savedLanguage) ? savedLanguage : defaultLanguage;
             updateLanguageButtons(languageToLoad);
@@ -106,6 +161,7 @@ document.addEventListener('DOMContentLoaded', function () {
         })
         .catch(() => {
             initLanguageSwitcher();
+            initLanguageDropdowns();
             updateLanguageButtons(defaultLanguage);
         });
 });
