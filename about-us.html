@@ -26,14 +26,24 @@
                     <nav>
                         <div class="ul">
                             <div class="nav-list">
-                                <div class="li"><a href="technology.html">TECHNOLOGY</a></div>
-                                <div class="li"><a href="solutions.html">SOLUTIONS</a></div>
-                                <div class="li"><a href="compliance-security.html">COMPLIANCE & SECURITY</a></div>
-                                <div class="li"><a href="about-us.html">ABOUT US</a></div>
+                                <div class="li"><a data-i18n="nav.technology" href="technology.html">TECHNOLOGY</a></div>
+                                <div class="li"><a data-i18n="nav.solutions" href="solutions.html">SOLUTIONS</a></div>
+                                <div class="li"><a data-i18n="nav.compliance" href="compliance-security.html">COMPLIANCE & SECURITY</a></div>
+                                <div class="li"><a data-i18n="nav.about" href="about-us.html">ABOUT US</a></div>
                             </div>
                             <div class="nav-btn">
                                 <div class="button-survey li">
-                                    <a href="index.html#contact-form-section">Contact us</a>
+                                    <a data-i18n="nav.contact" href="#contact-form-section">Contact us</a>
+                                </div>
+                            </div>
+                            <div class="language-switcher">
+                                <button class="language-switcher-toggle" aria-expanded="false" aria-haspopup="listbox" type="button">
+                                    <span data-current-language>EN</span>
+                                    <span class="language-switcher-icon"></span>
+                                </button>
+                                <div class="language-switcher-menu" role="listbox">
+                                    <button class="language-option" data-lang-option="en" role="option" type="button">EN</button>
+                                    <button class="language-option" data-lang-option="fr" role="option" type="button">FR</button>
                                 </div>
                             </div>
                         </div>
@@ -58,16 +68,16 @@
                 <div class="menu">
                     <nav>
                         <ul>
-                            <li><a href="technology.html">TECHNOLOGY</a></li>
-                            <li><a href="solutions.html">SOLUTIONS</a></li>
-                            <li><a href="compliance-security.html">COMPLIANCE & SECURITY</a></li>
-                            <li><a href="about-us.html">ABOUT US</a></li>
+                            <li><a data-i18n="nav.technology" href="technology.html">TECHNOLOGY</a></li>
+                            <li><a data-i18n="nav.solutions" href="solutions.html">SOLUTIONS</a></li>
+                            <li><a data-i18n="nav.compliance" href="compliance-security.html">COMPLIANCE & SECURITY</a></li>
+                            <li><a data-i18n="nav.about" href="about-us.html">ABOUT US</a></li>
                         </ul>
                     </nav>
                 </div>
             </div>
             <div class="button-survey">
-                <a href="index.html#contact-form-section">Contact us</a>
+                <a data-i18n="nav.contact" href="#contact-form-section">Contact us</a>
             </div>
         </div>
     </header>
@@ -78,17 +88,17 @@
                 <div class="flex-7">
                     <div class="frame-1000000946">
                         <div class="frame-1000000947">
-                            <h2 class="title-gemini">
+                            <h2 class="title-gemini" data-i18n="aboutPage.hero.title">
                                 Building the Infrastructure of Financial Transparency
                             </h2>
-                            <p class="description-gemini">
+                            <p class="description-gemini" data-i18n="aboutPage.hero.description">
                                 We develop AI-driven infrastructure designed to bring traceability, accountability, and
                                 explainability into global financial systems.
                                 Our mission is to enable institutions, regulators, and individuals to understand how
                                 value moves — securely, lawfully, and intelligently.
                             </p>
                         </div>
-                        <p class="summary-gemini">
+                        <p class="summary-gemini" data-i18n="aboutPage.hero.summary">
                             We believe that transparency is not an outcome — it is architecture.
                         </p>
                     </div>
@@ -98,14 +108,14 @@
         <section class="section-mission">
             <div class="content">
                 <div class="mission-container">
-                    <h2 class="mission-title">Mission</h2>
-                    <p class="mission-description">
+                    <h2 class="mission-title" data-i18n="aboutPage.mission.title">Mission</h2>
+                    <p class="mission-description" data-i18n="aboutPage.mission.description">
                         To create a universal technological framework that ensures every financial action —
                         whether executed by an individual, a business, or an algorithm —
                         remains traceable, auditable, and compliant with the law.
                     </p>
                     <div class="mission-highlight">
-                        <p>
+                        <p data-i18n="aboutPage.mission.highlight">
                             A global financial environment where every transaction can be understood, verified, and
                             trusted.
                         </p>
@@ -116,10 +126,10 @@
         <section class="section-gemini-risk-engine">
             <div class="section-gemini-risk-container">
                 <div class="section-gemini-risk-header">
-                    <h2 class="section-gemini-risk-title">
+                    <h2 class="section-gemini-risk-title" data-i18n="aboutPage.operation.title">
                         How We Operate
                     </h2>
-                    <p class="section-gemini-risk-description">
+                    <p class="section-gemini-risk-description" data-i18n="aboutPage.operation.description">
                         We combine AI research, financial forensics, and regulatory engineering to bridge the gap
                         between innovation and compliance.
                         Our interdisciplinary teams design systems that interpret financial behavior and act within the
@@ -129,9 +139,9 @@
                 <div class="section-gemini-risk-content">
                     <div class="gemini-risk-accordion">
                         <div class="accordion-item-risk">
-                            <h3 class="accordion-header-risk">Core principles:</h3>
+                            <h3 class="accordion-header-risk" data-i18n="aboutPage.operation.accordion.title">Core principles:</h3>
                             <div class="accordion-content-risk">
-                                <p>
+                                <p data-i18n="aboutPage.operation.accordion.text" data-i18n-html="true">
                                     • Integrity: Data must always serve truth and transparency. <br>
                                     • Security: Protection of user and institutional data is fundamental.<br>
                                     • Accountability: Every decision — human or algorithmic — must be explainable.<br>
@@ -150,10 +160,10 @@
         <section class="section-secure-data-handling">
             <div class="section-secure-data-container">
                 <div class="section-secure-data-header">
-                    <h2 class="section-secure-data-title">
+                    <h2 class="section-secure-data-title" data-i18n="aboutPage.leadership.title">
                         Leadership and Expertise
                     </h2>
-                    <p class="section-secure-data-description">
+                    <p class="section-secure-data-description" data-i18n="aboutPage.leadership.description">
                         Our team unites specialists in AI architecture, financial technology, risk modeling, and
                         regulatory compliance.
                         Each division works collaboratively to design, validate, and monitor every aspect of the
@@ -166,10 +176,10 @@
                     </div>
                     <div class="secure-data-accordion">
                         <div class="accordion-item">
-                            <h3 class="accordion-header">Grid-style:</h3>
+                            <h3 class="accordion-header" data-i18n="aboutPage.leadership.accordion.title">Grid-style:</h3>
                             <div class="accordion-content">
 
-                                <p>
+                                <p data-i18n="aboutPage.leadership.accordion.text" data-i18n-html="true">
                                     • AI Research & Modeling <br>
                                     • Financial Compliance Engineering<br>
                                     • Data Infrastructure & Security<br>
@@ -181,17 +191,17 @@
                     </div>
                 </div>
             </div>
-            <p class="text-italic">
+            <p class="text-italic" data-i18n="aboutPage.leadership.note">
                 We build technology with accountability — from algorithm to executive level.
             </p>
         </section>
         <section class="section-gemini-risk-engine">
             <div class="section-gemini-risk-container">
                 <div class="section-gemini-risk-header">
-                    <h2 class="section-gemini-risk-title">
+                    <h2 class="section-gemini-risk-title" data-i18n="aboutPage.collaborative.title">
                         Collaborative Infrastructure
                     </h2>
-                    <p class="section-gemini-risk-description">
+                    <p class="section-gemini-risk-description" data-i18n="aboutPage.collaborative.description">
                         The platform is developed in partnership with leading financial institutions, blockchain
                         analytics firms,
                         and data-security organizations committed to the same principle:
@@ -201,9 +211,9 @@
                 <div class="section-gemini-risk-content">
                     <div class="gemini-risk-accordion">
                         <div class="accordion-item-risk">
-                            <h3 class="accordion-header-risk">Partnership ecosystem includes:</h3>
+                            <h3 class="accordion-header-risk" data-i18n="aboutPage.collaborative.accordion.title">Partnership ecosystem includes:</h3>
                             <div class="accordion-content-risk">
-                                <p>
+                                <p data-i18n="aboutPage.collaborative.accordion.text" data-i18n-html="true">
                                     • Regulated banks and payment processors <br>
                                     • Licensed crypto exchanges and custodians<br>
                                     • Data privacy and compliance organizations<br>
@@ -217,7 +227,7 @@
                         <img alt="Gemini Cognitive Risk Engine" src="images/a4.png">
                     </div>
                 </div>
-                <p class="text-italic">
+                <p class="text-italic" data-i18n="aboutPage.collaborative.note">
                     Every integration strengthens the collective trust network.
                 </p>
 
@@ -229,9 +239,9 @@
             </div>
             <div class="section-about-content">
                 <div class="text-content">
-                    <h2 class="section-title">Continuous Innovation</h2>
+                    <h2 class="section-title" data-i18n="aboutPage.innovation.title">Continuous Innovation</h2>
                     <div class="text-paragraphs">
-                        <p class="paragraph-1">
+                        <p class="paragraph-1" data-i18n="aboutPage.innovation.paragraph1" data-i18n-html="true">
                             Research is at the center of everything we do. <br>
                             Our R&D division explores advanced AI methodologies for financial <br> reasoning, anomaly
                             detection, and explainable decision-making.<br>
@@ -239,7 +249,7 @@
                             align innovation with evolving compliance <br> standards.
 
                         </p>
-                        <p class="paragraph-2">
+                        <p class="paragraph-2" data-i18n="aboutPage.innovation.paragraph2" data-i18n-html="true">
                             <span class="h3"> Focus areas:</span>
                             • Multimodal reasoning in financial systems <br>
                             • Adaptive fraud-detection algorithms<br>
@@ -253,10 +263,10 @@
         <section class="section-secure-data-handling">
             <div class="section-secure-data-container">
                 <div class="section-secure-data-header">
-                    <h2 class="section-secure-data-title">
+                    <h2 class="section-secure-data-title" data-i18n="aboutPage.responsible.title">
                         Responsible Intelligence
                     </h2>
-                    <p class="section-secure-data-description">
+                    <p class="section-secure-data-description" data-i18n="aboutPage.responsible.description">
                         We are committed to the responsible use of AI in financial analytics.
                         All models are designed with transparency, reversibility, and auditability as foundational
                         principles.
@@ -269,9 +279,9 @@
                     </div>
                     <div class="secure-data-accordion">
                         <div class="accordion-item">
-                            <h3 class="accordion-header">Ethical framework:</h3>
+                            <h3 class="accordion-header" data-i18n="aboutPage.responsible.accordion.title">Ethical framework:</h3>
                             <div class="accordion-content">
-                                <p>
+                                <p data-i18n="aboutPage.responsible.accordion.text" data-i18n-html="true">
                                     • Human-centered decision verification <br>
                                     • No opaque or unexplainable model outcomes<br>
                                     • Continuous monitoring for bias and data drift<br>
@@ -286,8 +296,8 @@
         <section class="section-contact">
             <div class="content">
                 <div class="frame-cta">
-                    <h2 class="title-gemini">Contact Us</h2>
-                    <p class="description-gemini">
+                    <h2 class="title-gemini" data-i18n="aboutPage.contact.title">Contact Us</h2>
+                    <p class="description-gemini" data-i18n="aboutPage.contact.description" data-i18n-html="true">
                         For partnership inquiries, press relations, or regulatory coordination, please contact us
                         at:<br>
                         <span class="email-link">
@@ -297,7 +307,7 @@
                         </span>
                         or use the secure contact form below.
                     </p>
-                    <p class="summary-gemini text-italic">
+                    <p class="summary-gemini text-italic" data-i18n="aboutPage.contact.note">
                         All communications are encrypted and reviewed under our data-protection framework.
                     </p>
 
@@ -307,9 +317,9 @@
 
         <section class="cta">
             <div class="cta-buttons">
-                <a class="cta-button" href="index.html#contact-form-section">Request Partnership</a>
-                <a class="cta-button" href="index.html#contact-form-section">Press Inquiries</a>
-                <a class="cta-button" href="index.html#contact-form-section">Regulatory Coordination</a>
+                <a class="cta-button" data-i18n="aboutPage.cta.partnership" href="#contact-form-section">Request Partnership</a>
+                <a class="cta-button" data-i18n="aboutPage.cta.press" href="#contact-form-section">Press Inquiries</a>
+                <a class="cta-button" data-i18n="aboutPage.cta.regulatory" href="#contact-form-section">Regulatory Coordination</a>
             </div>
         </section>
     </main>
@@ -321,28 +331,28 @@
                     <div class="footer-logo">
                         <img alt="traceNet AI Logo" src="images/footer-logo.svg">
                     </div>
-                    <p class="footer-description">
+                    <p class="footer-description" data-i18n="footer.description" data-i18n-html="true">
                         Built on Google Gemini.<br>
                         Designed to make the global financial ecosystem more transparent, intelligent, and accountable.
                     </p>
-                    <a class="footer-contact-btn" href="index.html#contact-form-section">Contact Us</a>
+                    <a class="footer-contact-btn" data-i18n="footer.contact" href="#contact-form-section">Contact Us</a>
                 </div>
                 <div class="footer-menu">
                     <nav class="footer-nav">
-                        <a class="footer-nav-link" href="technology.html">TECHNOLOGY</a>
-                        <a class="footer-nav-link" href="solutions.html">SOLUTIONS</a>
-                        <a class="footer-nav-link" href="compliance-security.html">COMPLIANCE & SECURITY</a>
-                        <a class="footer-nav-link" href="about-us.html">ABOUT US</a>
+                        <a class="footer-nav-link" data-i18n="nav.technology" href="technology.html">TECHNOLOGY</a>
+                        <a class="footer-nav-link" data-i18n="nav.solutions" href="solutions.html">SOLUTIONS</a>
+                        <a class="footer-nav-link" data-i18n="nav.compliance" href="compliance-security.html">COMPLIANCE & SECURITY</a>
+                        <a class="footer-nav-link" data-i18n="nav.about" href="about-us.html">ABOUT US</a>
                     </nav>
                 </div>
                 <div class="footer-sub-menu">
-                    <a class="footer-sub-link" href="privacy-policy.html">Privacy Policy</a>
-                    <a class="footer-sub-link" href="terms-of-use.html">Terms of Use</a>
-                    <a class="footer-sub-link" href="cookie-policy.html">Cookie Policy</a>
+                    <a class="footer-sub-link" data-i18n="footer.privacy" href="privacy-policy.html">Privacy Policy</a>
+                    <a class="footer-sub-link" data-i18n="footer.terms" href="terms-of-use.html">Terms of Use</a>
+                    <a class="footer-sub-link" data-i18n="footer.cookie" href="cookie-policy.html">Cookie Policy</a>
                 </div>
             </div>
             <div class="footer-legal">
-                <p>The analyses published within the scope of this service were prepared on behalf of Bridgewise
+                <p data-i18n="footer.legal">The analyses published within the scope of this service were prepared on behalf of Bridgewise
                     Analytics Ltd (the "Company").</p>
             </div>
         </div>
@@ -351,18 +361,18 @@
     <div class="cookie-banner" id="cookieBanner">
         <div class="cookie-banner-content">
             <div class="cookie-banner-text">
-                <h5>
+                <h5 data-i18n="cookie.title">
                     This website uses cookies to improve the user experience and analyze traffic.
                 </h5>
-                <p>
+                <p data-i18n="cookie.description">
                     By clicking the "Continue" button or by continuing to use the website, you consent to the use of
                     cookies in your browser. You can manage cookies at any time in your browser settings. For more
                     information, please read our Privacy Policy, Cookie Policy, and User Agreement.
                 </p>
             </div>
             <div class="cookie-banner-buttons">
-                <button class="cookie-banner-btn cookie-banner-btn-primary" id="closeCookies">Close</button>
-                <button class="cookie-banner-btn cookie-banner-btn-secondary" id="acceptAllCookies">Continue</button>
+                <button class="cookie-banner-btn cookie-banner-btn-primary" data-i18n="cookie.close" id="closeCookies">Close</button>
+                <button class="cookie-banner-btn cookie-banner-btn-secondary" data-i18n="cookie.accept" id="acceptAllCookies">Continue</button>
             </div>
         </div>
     </div>
@@ -370,6 +380,7 @@
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script src="scripts/main.js"></script>
+<script src="scripts/i18n.js"></script>
 
 </body>
 </html>

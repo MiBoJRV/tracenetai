@@ -198,6 +198,19 @@
       "description": "La plateforme repose sur le principe que transparence et conformité ne sont pas des exigences externes, mais des composants essentiels de l’architecture. Du chiffrement des données à la vérification réglementaire, chaque processus est aligné sur les standards internationaux d’intégrité financière et de sécurité de l’information.",
       "summary": "La sécurité est conçue. La conformité est intégrée."
     },
+    "learn": {
+      "title": "Construire la confiance par la transparence",
+      "text": "En intégrant la conformité réglementaire... (existing)"
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "Construire l’infrastructure de la transparence financière",
+      "description": "Nous développons une infrastructure alimentée par l’IA pour apporter traçabilité, responsabilité et explicabilité aux systèmes financiers mondiaux. Notre mission : permettre aux institutions, régulateurs et particuliers de comprendre comment la valeur circule — de manière sécurisée, légale et intelligente.",
+      "summary": "Nous pensons que la transparence n’est pas un résultat : c’est une architecture."
+    },
+    ...
+  }
     "secureData": {
       "title": "Architecture des données sécurisée",
       "description": "Toutes les opérations sont effectuées en mode lecture seule afin d’empêcher toute modification non autorisée, mouvement de fonds ou accès aux comptes. La plateforme agit exclusivement comme une couche analytique, garantissant la protection des données financières des utilisateurs et institutions à chaque étape.",

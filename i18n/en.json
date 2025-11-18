@@ -263,6 +263,67 @@
       "cta": "Learn About the Company"
     }
   },
+  "aboutPage": {
+    "hero": {
+      "title": "Building the Infrastructure of Financial Transparency",
+      "description": "We develop AI-driven infrastructure designed to bring traceability, accountability, and explainability into global financial systems. Our mission is to enable institutions, regulators, and individuals to understand how value moves — securely, lawfully, and intelligently.",
+      "summary": "We believe that transparency is not an outcome — it is architecture."
+    },
+    "mission": {
+      "title": "Mission",
+      "description": "To create a universal technological framework that ensures every financial action — whether executed by an individual, a business, or an algorithm — remains traceable, auditable, and compliant with the law.",
+      "highlight": "A global financial environment where every transaction can be understood, verified, and trusted."
+    },
+    "operation": {
+      "title": "How We Operate",
+      "description": "We combine AI research, financial forensics, and regulatory engineering to bridge the gap between innovation and compliance. Our interdisciplinary teams design systems that interpret financial behavior and act within the strictest standards of data governance.",
+      "accordion": {
+        "title": "Core principles:",
+        "text": "• Integrity: Data must always serve truth and transparency.<br>• Security: Protection of user and institutional data is fundamental.<br>• Accountability: Every decision — human or algorithmic — must be explainable.<br>• Collaboration: Financial systems can only be secured through cooperation across sectors."
+      }
+    },
+    "leadership": {
+      "title": "Leadership and Expertise",
+      "description": "Our team unites specialists in AI architecture, financial technology, risk modeling, and regulatory compliance. Each division works collaboratively to design, validate, and monitor every aspect of the platform — from data infrastructure to ethical AI deployment.",
+      "accordion": {
+        "title": "Grid-style:",
+        "text": "• AI Research & Modeling<br>• Financial Compliance Engineering<br>• Data Infrastructure & Security<br>• Regulatory Affairs<br>• Operations & Governance"
+      },
+      "note": "We build technology with accountability — from algorithm to executive level."
+    },
+    "collaborative": {
+      "title": "Collaborative Infrastructure",
+      "description": "The platform is developed in partnership with leading financial institutions, blockchain analytics firms, and data-security organizations committed to the same principle: that transparency and protection must coexist in the digital economy.",
+      "accordion": {
+        "title": "Partnership ecosystem includes:",
+        "text": "• Regulated banks and payment processors<br>• Licensed crypto exchanges and custodians<br>• Data privacy and compliance organizations<br>• Independent audit and certification partners"
+      },
+      "note": "Every integration strengthens the collective trust network."
+    },
+    "innovation": {
+      "title": "Continuous Innovation",
+      "paragraph1": "Research is at the center of everything we do.<br>Our R&D division explores advanced AI methodologies for financial reasoning, anomaly detection, and explainable decision-making.<br>We collaborate with academic institutions and regulatory technology labs to continuously align innovation with evolving compliance standards.",
+      "paragraph2": "<span class=\"h3\"> Focus areas:</span>• Multimodal reasoning in financial systems<br>• Adaptive fraud-detection algorithms<br>• Autonomous compliance reporting<br>• Human-AI collaboration for interpretability"
+    },
+    "responsible": {
+      "title": "Responsible Intelligence",
+      "description": "We are committed to the responsible use of AI in financial analytics. All models are designed with transparency, reversibility, and auditability as foundational principles. No autonomous action is executed without traceable human oversight and regulatory logic.",
+      "accordion": {
+        "title": "Ethical framework:",
+        "text": "• Human-centered decision verification<br>• No opaque or unexplainable model outcomes<br>• Continuous monitoring for bias and data drift<br>• Internal ethics review board overseeing model updates"
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "For partnership inquiries, press relations, or regulatory coordination, please contact us at:<br><span class=\"email-link\">📧<a class=\"link\" href=\"mailto:support@tracenetai.com\">support@tracenetai.com</a></span> or use the secure contact form below.",
+      "note": "All communications are encrypted and reviewed under our data-protection framework."
+    },
+    "cta": {
+      "partnership": "Request Partnership",
+      "press": "Press Inquiries",
+      "regulatory": "Regulatory Coordination"
+    }
+  },
   "contact": {
     "title": "Technology That Strengthens Financial Integrity",
     "subtitle": "Built on Google Gemini. Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
