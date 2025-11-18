@@ -60,6 +60,79 @@
     "box3": "Connexions API sécurisées en lecture seule",
     "box4": "Traçabilité structurée pour les régulateurs et les utilisateurs"
   },
+  "technology": {
+    "hero": {
+      "title": "Architecture d'intelligence financière propulsée par Gemini",
+      "description": "Le système s'appuie sur le framework IA multimodal de Google Gemini — une infrastructure capable d'analyser, à grande échelle, des données financières structurées et non structurées. Associée à une logique propriétaire de risque et de conformité, elle permet une surveillance continue, un raisonnement contextuel et une interaction sécurisée avec les institutions financières et les écosystèmes blockchain.",
+      "summary": "Au cœur de la plateforme, les données transactionnelles complexes deviennent des informations transparentes et prêtes pour les régulateurs."
+    },
+    "architecture": {
+      "title": "Architecture du système",
+      "description": "La pile technologique est organisée en cinq couches interconnectées, chacune dédiée à une étape précise du traitement des données financières — de l'ingestion sécurisée jusqu'à l'action réglementaire.",
+      "layers": {
+        "data": {
+          "title": "Sources de données",
+          "text": "Accès en lecture seule aux banques, prestataires de paiement et plateformes crypto via des API vérifiées. Compatible Open Banking, ISO 20022 et flux blockchain."
+        },
+        "gemini": {
+          "title": "Noyau IA Gemini",
+          "text": "Traite des volumes élevés de données financières grâce aux capacités de raisonnement multimodal de Gemini. Interprète le langage naturel des métadonnées, effectue un clustering comportemental et relie les entités entre comptes."
+        },
+        "risk": {
+          "title": "Moteur de risque",
+          "text": "Exécute des logiques de scoring basées sur le machine learning pour détecter anomalies, doublons, abonnements masqués et activités non autorisées. Chaque chaîne de transactions reçoit un profil de risque dynamique mis à jour en temps réel."
+        },
+        "compliance": {
+          "title": "Couche de conformité",
+          "text": "Applique les normes AML, KYC, RGPD et exigences régionales de protection des données. Garantit la traçabilité et la responsabilité de chaque décision générée par l'IA, avec des journaux d'audit compatibles régulateurs."
+        },
+        "response": {
+          "title": "Passerelle API de réponse",
+          "text": "Assure une communication sécurisée entre la plateforme et les institutions financières. Autorisée par les règles de conformité, elle peut lancer des procédures de rétrofacturation, rappel ou contestation dès qu'une irrégularité est confirmée."
+        }
+      }
+    },
+    "secureData": {
+      "title": "Gestion sécurisée des données",
+      "description": "Tous les flux connectés fonctionnent en mode lecture seule.<br>La plateforme n'exécute ni ne stocke d'opérations financières ; elle les interprète et les rapporte uniquement.",
+      "accordion": {
+        "title": "Mesures de sécurité :",
+        "text": "• Chiffrement de bout en bout TLS 1.3 et AES‑256<br>• Confidentialité différentielle dans tous les processus d'agrégation<br>• Ségrégation des données par région (UE / NA / APAC)<br>• Traçabilité immuable archivée dans un format prêt pour la conformité"
+      }
+    },
+    "geminiRisk": {
+      "title": "Moteur cognitif de risque Gemini",
+      "description": "Grâce aux capacités de raisonnement de Gemini, la plateforme interprète les comportements financiers non seulement via des anomalies numériques, mais aussi via des motifs sémantiques — métadonnées, descriptions de transactions et corrélations comportementales.",
+      "accordion": {
+        "title": "Capacités :",
+        "text": "• Détection continue des anomalies sur les écosystèmes fiat et crypto<br>• Scoring de fraude comportemental (échelle 0–100)<br>• Compréhension contextuelle de l'objet des transactions et du comportement des contreparties<br>• Apprentissage adaptatif : le modèle évolue avec les réseaux de transactions"
+      }
+    },
+    "intelligentAction": {
+      "title": "Cadre d'action intelligent",
+      "description": "Lorsque l'IA identifie un comportement financier à haut risque, elle prépare un rapport d'incident structuré et — dans le cadre réglementaire — déclenche des réponses automatisées via les API partenaires :",
+      "accordion": {
+        "title": "Toutes les actions sont journalisées, horodatées et approuvées dans la couche de conformité avant exécution.",
+        "text": "• Demandes de rétrofacturation/rappel bancaire pour transferts suspects<br>• Litiges ou remboursements automatisés auprès des plateformes d'actifs numériques<br>• Rapport d'incident réglementaire généré pour audit et supervision"
+      }
+    },
+    "explainable": {
+      "title": "IA explicable et auditée",
+      "description": "Chaque résultat produit par le noyau basé sur Gemini inclut des métadonnées d'explicabilité : variables influentes, raisons de la classification d'un risque, et cadre réglementaire associé à la réponse.",
+      "accordion": {
+        "title": "Fonctionnalités :",
+        "text": "• Décisions du modèle transparentes pour auditeurs et régulateurs<br>• Chaîne de raisonnement traçable pour chaque incident<br>• Seuils de sensibilité configurables par utilisateur ou institution"
+      }
+    },
+    "standards": {
+      "title": "Alignée sur les normes internationales",
+      "description": "Le système respecte les standards les plus élevés de sécurité et de gouvernance des données financières. Toutes les opérations suivent les principes de l'open banking, du minimalisme des données et de la supervision réglementaire.",
+      "accordion": {
+        "title": "Cadres de conformité :",
+        "text": "• RGPD (Europe)<br>• AMLD6 (directive européenne)<br>• ISO 27001 (sécurité de l'information)<br>• SOC 2 (intégrité et confidentialité des données)<br>• PCI DSS (protection des données financières)"
+      }
+    }
+  },
   "contact": {
     "title": "Une technologie qui renforce l'intégrité financière",
     "subtitle": "Propulsée par Google Gemini. Conçue pour rendre l'écosystème financier mondial plus transparent, intelligent et responsable.",
