@@ -449,6 +449,107 @@
       }
     }
   },
+  "cookiePolicy": {
+    "lastUpdated": "Dernière mise à jour : octobre 2025",
+    "intro1": "La présente Politique relative aux cookies explique comment TraceNet Systems Ltd. (« TraceNet », « nous » ou « notre ») utilise les cookies et technologies similaires sur ses sites web et applications.",
+    "intro2": "Elle doit être lue conjointement avec notre Politique de confidentialité, qui détaille la manière dont nous collectons, traitons et protégeons vos données personnelles.",
+    "sections": {
+      "what": {
+        "title": "1. Qu’est-ce qu’un cookie ?",
+        "text1": "Un cookie est un petit fichier texte stocké sur votre appareil (ordinateur, tablette, smartphone) lorsque vous visitez un site web.",
+        "text2": "Il aide le site à reconnaître votre appareil, mémoriser vos préférences et améliorer votre expérience.",
+        "text3": "Les cookies peuvent également servir à l’analyse, au suivi des performances et, lorsque la loi le permet, à des fins marketing."
+      },
+      "usage": {
+        "title": "2. Comment nous utilisons les cookies",
+        "description": "Nous utilisons des cookies afin de :",
+        "list1": "Assurer le bon fonctionnement de notre site ;",
+        "list2": "Mémoriser les préférences d’affichage et de langue ;",
+        "list3": "Améliorer les performances, la rapidité et l’ergonomie ;",
+        "list4": "Collecter des statistiques anonymes pour perfectionner nos services ;",
+        "list5": "Renforcer la sécurité et le suivi de conformité ;",
+        "list6": "(Sur consentement) activer certaines intégrations analytiques ou publicitaires.",
+        "note": "Nous n’utilisons pas les cookies pour stocker des informations personnelles ou financières sensibles."
+      },
+      "types": {
+        "title": "3. Types de cookies utilisés",
+        "necessary": {
+          "title": "3.1 Cookies strictement nécessaires",
+          "text1": "Indispensables au fonctionnement du site et ne pouvant être désactivés.",
+          "text2": "Ils incluent les identifiants de session, les jetons d’authentification et les cookies de sécurité.",
+          "text3": "Exemples :",
+          "list1": "Gestion de session et navigation ;",
+          "list2": "Authentification et contrôle d’accès ;",
+          "list3": "Suivi de la conformité et du consentement."
+        },
+        "functional": {
+          "title": "3.2 Cookies fonctionnels",
+          "text1": "Permettent une personnalisation avancée (souvenir des paramètres, langue, etc.).",
+          "text2": "Ils peuvent être déposés par nos soins ou par des outils tiers intégrés."
+        },
+        "analytics": {
+          "title": "3.3 Cookies d’analyse et de performance",
+          "text1": "Mesurent le trafic et les parcours d’utilisation.",
+          "text2": "Les données récoltées sont agrégées et anonymes, nous aidant à comprendre l’usage du site.",
+          "text3": "Exemples d’outils tiers (si activés) :",
+          "list1": "Google Analytics",
+          "list2": "Meta (Facebook) Pixel",
+          "list3": "Hotjar ou outils équivalents",
+          "note": "Vous pouvez désactiver ces cookies sans impacter les fonctionnalités essentielles."
+        },
+        "marketing": {
+          "title": "3.4 Cookies marketing et de suivi (optionnels)",
+          "text1": "Peuvent servir à diffuser des annonces pertinentes ou mesurer des campagnes.",
+          "text2": "Activés uniquement après votre consentement explicite.",
+          "text3": "Nous en utilisons peu ou pas, mais mentionnons cette catégorie par transparence."
+        }
+      },
+      "duration": {
+        "title": "4. Durée de conservation",
+        "description": "Les cookies peuvent être :",
+        "list1": "De session — supprimés à la fermeture du navigateur ;",
+        "list2": "Persistants — conservés jusqu’à expiration ou suppression manuelle.",
+        "note": "Nous ne conservons les cookies que pour leur finalité initiale, généralement entre 1 jour et 12 mois."
+      },
+      "thirdParty": {
+        "title": "5. Cookies de tiers",
+        "description1": "Certains cookies proviennent de fournisseurs tiers de confiance (analytique, performance, conformité).",
+        "description2": "Ces fournisseurs agissent comme responsables de traitement indépendants.",
+        "description3": "Exemples :",
+        "list1": "Google Ireland Ltd. (Google Analytics, Tag Manager)",
+        "list2": "Meta Platforms Inc. (Meta Pixel pour l’attribution de campagnes)",
+        "list3": "Cloudflare Inc. (sécurité et optimisation des performances)",
+        "note": "Chaque tiers possède sa propre politique de confidentialité et de cookies, que nous recommandons de consulter."
+      },
+      "manage": {
+        "title": "6. Gestion des préférences",
+        "description": "Vous pouvez gérer ou retirer votre consentement aux cookies non essentiels via :",
+        "list1": "La bannière de consentement affichée lors de votre première visite ;",
+        "list2": "Le lien « Gérer les préférences » présent en pied de page ;",
+        "list3": "Les paramètres de votre navigateur.",
+        "browserTitle": "Paramètres du navigateur :",
+        "browserText1": "La plupart des navigateurs permettent de bloquer ou supprimer les cookies.",
+        "browserText2": "Consultez la rubrique « Aide » de votre navigateur pour des instructions détaillées.",
+        "note": "Désactiver les cookies essentiels peut altérer le fonctionnement du site."
+      },
+      "changes": {
+        "title": "7. Modifications de cette politique",
+        "description1": "Nous pouvons mettre à jour cette politique pour refléter l’évolution technologique, réglementaire ou opérationnelle.",
+        "description2": "Toute mise à jour est publiée sur cette page avec la nouvelle date « Dernière mise à jour ».",
+        "description3": "Les changements majeurs sont signalés via une bannière ou un avis sur le site."
+      },
+      "contact": {
+        "title": "8. Contact",
+        "description": "Pour toute question concernant cette Politique relative aux cookies ou nos pratiques, veuillez contacter :",
+        "email": "📧 privacy@tracenetsystems.com",
+        "company": "📍 TraceNet Systems Ltd.",
+        "address": "14 HaGefen Street, Ramat Gan, 5252174, Israël",
+        "separator": "⸻",
+        "compliantLabel": "✅ Conforme à :",
+        "compliantList": "RGPD (2016/679), directive ePrivacy, UK DPA 2018, CCPA et loi israélienne sur la protection de la vie privée (PPL)."
+      }
+    }
+  },
   "contact": {
     "title": "Une technologie qui renforce l'intégrité financière",
     "subtitle": "Propulsée par Google Gemini. Conçue pour rendre l'écosystème financier mondial plus transparent, intelligent et responsable.",
