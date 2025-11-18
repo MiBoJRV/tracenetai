@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "technology": "TECHNOLOGIE",
+    "solutions": "SOLUTIONS",
+    "compliance": "CONFORMITÉ ET SÉCURITÉ",
+    "about": "À PROPOS",
+    "contact": "Contactez-nous"
+  },
+  "banner": {
+    "title": "Infrastructure IA pour la transparence mondiale des transactions",
+    "description": "Propulsée par Google Gemini et connectée aux banques ainsi qu'aux plateformes crypto du monde entier, notre solution offre une visibilité en temps réel sur les flux financiers, l'évaluation des risques et l'automatisation des actions de conformité.",
+    "cta": "Découvrir la technologie"
+  },
+  "about": {
+    "title": "Comprendre la plateforme",
+    "paragraph1": "Le système combine modélisation financière à grande échelle, analyses comportementales et intelligence réglementaire pour interpréter les flux monétaires entre comptes et actifs numériques connectés.",
+    "paragraph2": "Il fonctionne comme une couche analytique neutre — connectée en toute sécurité aux institutions financières via des API vérifiées — afin de fournir une vue structurée de chaque chaîne de transactions et de son niveau de risque."
+  },
+  "features": {
+    "connectivity": {
+      "title": "Connectivité",
+      "text": "Intégrations API directes avec des banques régulées et les principaux échanges crypto."
+    },
+    "intelligence": {
+      "title": "Intelligence",
+      "text": "Modèles basés sur Gemini, optimisés pour le raisonnement financier en temps réel."
+    },
+    "integrity": {
+      "title": "Intégrité",
+      "text": "Conforme au RGPD, à l'AMLD6 et aux cadres open-banking."
+    }
+  },
+  "layers": {
+    "title": "Couches fonctionnelles clés",
+    "analysis": {
+      "title": "Analyse",
+      "text": "Traite les données financières multi-canaux et détecte les activités irrégulières grâce à la compréhension contextuelle de Gemini."
+    },
+    "risk": {
+      "title": "Évaluation des risques",
+      "text": "Applique un scoring piloté par l'IA et un clustering comportemental pour déterminer l'exposition à la fraude, aux usages non autorisés ou aux violations de conformité."
+    },
+    "response": {
+      "title": "Réponse automatisée",
+      "text": "Lorsque les seuils de risque sont atteints, la plateforme déclenche les procédures autorisées — rétrofacturation, rappel ou contestation — directement via les API institutionnelles."
+    }
+  },
+  "benefit": {
+    "title": "Cadre d'accès et de conformité",
+    "item1": "Parce que la plateforme interagit avec des réseaux financiers actifs, l'accès n'est accordé qu'après un court processus d'onboarding de conformité exigé par les régulateurs mondiaux.",
+    "item2": "Cela garantit un échange légal des données, une identité vérifiée et la traçabilité complète de chaque opération exécutée via l'infrastructure IA.",
+    "footer": "La conformité n'est pas un module additionnel — elle est intégrée dès la conception."
+  },
+  "transparency": {
+    "title": "Conçue pour la transparence, bâtie pour la confiance",
+    "text1": "La plateforme aide les institutions et les particuliers à détecter les comportements financiers irréguliers, à réduire l'exposition à la fraude et à garder une visibilité totale sur les transactions fiat et numériques.",
+    "text2": "Elle agit comme une couche de surveillance permanente garantissant que chaque mouvement de valeur reste traçable, explicable et conforme.",
+    "box1": "Interprétation des transactions en temps réel sur les réseaux financiers",
+    "box2": "Contrôles de conformité automatisés et rapports d'incident",
+    "box3": "Connexions API sécurisées en lecture seule",
+    "box4": "Traçabilité structurée pour les régulateurs et les utilisateurs"
+  },
+  "contact": {
+    "title": "Une technologie qui renforce l'intégrité financière",
+    "subtitle": "Propulsée par Google Gemini. Conçue pour rendre l'écosystème financier mondial plus transparent, intelligent et responsable.",
+    "form": {
+      "title": "Complétez vos informations ci-dessous",
+      "firstName": "Prénom*",
+      "lastName": "Nom*",
+      "email": "Email*",
+      "phone": "Téléphone*",
+      "message": "Des informations à partager avant notre appel ?",
+      "privacy": "En soumettant ce formulaire, j'accepte les conditions de la <a href=\"privacy-policy.html\">politique de confidentialité</a>",
+      "submit": "Découvrir l'architecture"
+    }
+  },
+  "awards": {
+    "title": "Prix et distinctions"
+  },
+  "footer": {
+    "description": "Propulsé par Google Gemini.<br>Conçu pour rendre l'écosystème financier mondial plus transparent, intelligent et responsable.",
+    "contact": "Nous contacter",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "cookie": "Politique de cookies",
+    "legal": "Les analyses publiées dans le cadre de ce service ont été préparées pour Bridgewise Analytics Ltd (« la Société »)."
+  },
+  "cookie": {
+    "title": "Ce site utilise des cookies pour améliorer l'expérience utilisateur et analyser le trafic.",
+    "description": "En cliquant sur « Continuer » ou en poursuivant votre navigation, vous acceptez l'utilisation des cookies. Vous pouvez les gérer à tout moment dans les paramètres de votre navigateur. Pour en savoir plus, consultez notre Politique de confidentialité, notre Politique de cookies et notre Accord utilisateur.",
+    "close": "Fermer",
+    "accept": "Continuer"
+  }
+}
+

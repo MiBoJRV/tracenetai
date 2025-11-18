@@ -25,15 +25,19 @@
                     <nav>
                         <div class="ul">
                             <div class="nav-list">
-                                <div class="li"><a href="technology.html">TECHNOLOGY</a></div>
-                                <div class="li"><a href="solutions.html">SOLUTIONS</a></div>
-                                <div class="li"><a href="compliance-security.html">COMPLIANCE & SECURITY</a></div>
-                                <div class="li"><a href="about-us.html">ABOUT US</a></div>
+                                <div class="li"><a data-i18n="nav.technology" href="technology.html">TECHNOLOGY</a></div>
+                                <div class="li"><a data-i18n="nav.solutions" href="solutions.html">SOLUTIONS</a></div>
+                                <div class="li"><a data-i18n="nav.compliance" href="compliance-security.html">COMPLIANCE & SECURITY</a></div>
+                                <div class="li"><a data-i18n="nav.about" href="about-us.html">ABOUT US</a></div>
                             </div>
                             <div class="nav-btn">
                                 <div class="button-survey li">
-                                    <a href="#contact-form-section">Contact us</a>
+                                    <a data-i18n="nav.contact" href="#contact-form-section">Contact us</a>
                                 </div>
+                            </div>
+                            <div class="language-switcher">
+                                <button class="language-button active" data-lang-option="en" type="button">EN</button>
+                                <button class="language-button" data-lang-option="fr" type="button">FR</button>
                             </div>
                         </div>
                     </nav>
@@ -57,26 +61,30 @@
                 <div class="menu">
                     <nav>
                         <ul>
-                            <li><a href="technology.html">TECHNOLOGY</a></li>
-                            <li><a href="solutions.html">SOLUTIONS</a></li>
-                            <li><a href="compliance-security.html">COMPLIANCE & SECURITY</a></li>
-                            <li><a href="about-us.html">ABOUT US</a></li>
+                            <li><a data-i18n="nav.technology" href="technology.html">TECHNOLOGY</a></li>
+                            <li><a data-i18n="nav.solutions" href="solutions.html">SOLUTIONS</a></li>
+                            <li><a data-i18n="nav.compliance" href="compliance-security.html">COMPLIANCE & SECURITY</a></li>
+                            <li><a data-i18n="nav.about" href="about-us.html">ABOUT US</a></li>
                         </ul>
                     </nav>
                 </div>
+                <div class="language-switcher mobile">
+                    <button class="language-button active" data-lang-option="en" type="button">EN</button>
+                    <button class="language-button" data-lang-option="fr" type="button">FR</button>
+                </div>
             </div>
             <div class="button-survey">
-                <a href="#contact-form-section">Contact us</a>
+                <a data-i18n="nav.contact" href="#contact-form-section">Contact us</a>
             </div>
         </div>
     </header>
     <div class="banner">
         <div class="banner-content">
             <div class="banner-text">
-                <h1>
+                <h1 data-i18n="banner.title">
                     AI Infrastructure for Global Transaction Transparency
                 </h1>
-                <p>
+                <p data-i18n="banner.description">
                     Powered by Google Gemini technology and integrated with banks and crypto platforms worldwide,
                     our system provides real-time visibility into fund movements, risk scoring, and automated compliance
                     actions.
@@ -84,7 +92,7 @@
                 </p>
                 <div class="banner-bottom">
                     <div class="button-survey">
-                        <a href="#contact-form-section">
+                        <a data-i18n="banner.cta" href="#contact-form-section">
                             Explore the Technology
                         </a>
                     </div>
@@ -144,12 +152,12 @@
             </div>
             <div class="section-about-content">
                 <div class="text-content">
-                    <h2 class="section-title">Understanding the Platform</h2>
+                    <h2 class="section-title" data-i18n="about.title">Understanding the Platform</h2>
                     <div class="text-paragraphs">
-                        <p class="paragraph-1">The system combines large-scale financial data modeling, behavioral
+                        <p class="paragraph-1" data-i18n="about.paragraph1">The system combines large-scale financial data modeling, behavioral
                             analytics,and regulatory intelligence to interpret the flow of money across connected
                             accounts and digital assets.</p>
-                        <p class="paragraph-2">It operates as a neutral analytical layer — securely connected to
+                        <p class="paragraph-2" data-i18n="about.paragraph2">It operates as a neutral analytical layer — securely connected to
                             financial institutions through verified APIs, providing structured insight into every
                             transaction chain and its associated risk.</p>
                     </div>
@@ -163,25 +171,25 @@
                     <div class="feature-box">
                         <div class="feature-heading">
                             <img alt="Connectivity" class="feature-icon" src="images/connectivity-icon.png">
-                            <h3>Connectivity</h3>
+                            <h3 data-i18n="features.connectivity.title">Connectivity</h3>
                         </div>
-                        <p class="feature-description">Direct API integrations with regulated banks and major crypto
+                        <p class="feature-description" data-i18n="features.connectivity.text">Direct API integrations with regulated banks and major crypto
                             exchanges.</p>
                     </div>
                     <div class="feature-box">
                         <div class="feature-heading">
                             <img alt="Intelligence" class="feature-icon" src="images/intelligence-icon.svg">
-                            <h3>Intelligence</h3>
+                            <h3 data-i18n="features.intelligence.title">Intelligence</h3>
                         </div>
-                        <p class="feature-description">Gemini-based models optimized for real-time financial
+                        <p class="feature-description" data-i18n="features.intelligence.text">Gemini-based models optimized for real-time financial
                             reasoning.</p>
                     </div>
                     <div class="feature-box">
                         <div class="feature-heading">
                             <img alt="Integrity" class="feature-icon" src="images/integrity-icon.svg">
-                            <h3>Integrity</h3>
+                            <h3 data-i18n="features.integrity.title">Integrity</h3>
                         </div>
-                        <p class="feature-description">Fully compliant with GDPR, AMLD6, and open-banking
+                        <p class="feature-description" data-i18n="features.integrity.text">Fully compliant with GDPR, AMLD6, and open-banking
                             frameworks.</p>
                     </div>
                 </div>
@@ -190,15 +198,15 @@
 
         <section class="section-functional-layers">
             <div class="section-functional-layers-container">
-                <h2 class="section-functional-layers-title">Core Functional Layers</h2>
+                <h2 class="section-functional-layers-title" data-i18n="layers.title">Core Functional Layers</h2>
                 <div class="functional-layers-content">
                     <div class="functional-layer-card">
                         <div class="functional-layer-image">
                             <img alt="Analysis" src="images/analysis-image.png">
                         </div>
                         <div class="functional-layer-content-wrapper">
-                            <h3>Analysis</h3>
-                            <p>Processes multi-channel financial data and identifies irregular activity using Gemini's
+                            <h3 data-i18n="layers.analysis.title">Analysis</h3>
+                            <p data-i18n="layers.analysis.text">Processes multi-channel financial data and identifies irregular activity using Gemini's
                                 contextual understanding.</p>
                         </div>
                     </div>
@@ -207,8 +215,8 @@
                             <img alt="Risk Evaluation" src="images/risk-evaluation-image.png">
                         </div>
                         <div class="functional-layer-content-wrapper">
-                            <h3>Risk Evaluation</h3>
-                            <p>Applies AI-driven scoring and behavioral clustering to determine exposure to fraud,
+                            <h3 data-i18n="layers.risk.title">Risk Evaluation</h3>
+                            <p data-i18n="layers.risk.text">Applies AI-driven scoring and behavioral clustering to determine exposure to fraud,
                                 unauthorized use, or compliance breach.</p>
                         </div>
                     </div>
@@ -217,8 +225,8 @@
                             <img alt="Automated Response" src="images/automated-response-image.png">
                         </div>
                         <div class="functional-layer-content-wrapper">
-                            <h3>Automated Response</h3>
-                            <p>When risk thresholds are reached, the system can initiate authorized procedures —
+                            <h3 data-i18n="layers.response.title">Automated Response</h3>
+                            <p data-i18n="layers.response.text">When risk thresholds are reached, the system can initiate authorized procedures —
                                 including chargeback, recall, or dispute actions — directly through institutional
                                 APIs.</p>
                         </div>
@@ -229,13 +237,13 @@
 
         <section class="section-benefit">
             <div class="section-benefit-content">
-                <h2 class="section-benefit-title">Access and Regulatory Framework</h2>
+                <h2 class="section-benefit-title" data-i18n="benefit.title">Access and Regulatory Framework</h2>
                 <div class="benefit-wrapper">
                     <div class="benefit-list">
                         <div class="benefit-icon">
                             <img alt="Benefit Icon 2" src="images/benefit-icon-2.png">
                         </div>
-                        <p class="benefit-text">Because the platform interacts with live financial networks, access is
+                        <p class="benefit-text" data-i18n="benefit.item1">Because the platform interacts with live financial networks, access is
                             granted only after completion of a short compliance onboarding required by global
                             regulators.</p>
                     </div>
@@ -243,11 +251,11 @@
                         <div class="benefit-icon">
                             <img alt="Benefit Icon 1" src="images/benefit-icon-1.png">
                         </div>
-                        <h3 class="benefit-text">This ensures lawful data exchange, verified identity, and full
+                        <h3 class="benefit-text" data-i18n="benefit.item2">This ensures lawful data exchange, verified identity, and full
                             accountability of every operation executed through the AI infrastructure.</h3>
                     </div>
 
-                    <p class="benefit-footer-text">Compliance is not an add-on — it's an integral part of the system
+                    <p class="benefit-footer-text" data-i18n="benefit.footer">Compliance is not an add-on — it's an integral part of the system
                         design.</p>
                 </div>
             </div>
@@ -256,38 +264,38 @@
         <section class="section-transparency">
             <div class="section-transparency-container">
                 <div class="section-transparency-header">
-                    <h2 class="section-transparency-title">Designed for Transparency, Built for Trust</h2>
-                    <p class="section-transparency-text">
+                    <h2 class="section-transparency-title" data-i18n="transparency.title">Designed for Transparency, Built for Trust</h2>
+                    <p class="section-transparency-text" data-i18n="transparency.text1">
                         The platform helps institutions and individuals detect irregular financial behavior,
                         reduce exposure to fraud, and maintain full visibility over both fiat and digital transactions.
                     </p>
-                    <p class="section-transparency-text section-transparency-text-narrow">
+                    <p class="section-transparency-text section-transparency-text-narrow" data-i18n="transparency.text2">
                         It functions as a permanent monitoring layer that ensures each movement of value is traceable,
                         explainable, and compliant.
                     </p>
                 </div>
                 <div class="section-transparency-content">
                     <div class="transparency-box transparency-box-1">
-                        <h3 class="transparency-box-title">Real-time transaction interpretation across financial
+                        <h3 class="transparency-box-title" data-i18n="transparency.box1">Real-time transaction interpretation across financial
                             networks</h3>
                         <div class="transparency-box-icon">
                             <img alt="Transaction Interpretation" src="images/transparency-icon-1.png">
                         </div>
                     </div>
                     <div class="transparency-box transparency-box-2">
-                        <h3 class="transparency-box-title">Automated compliance checks and incident reporting</h3>
+                        <h3 class="transparency-box-title" data-i18n="transparency.box2">Automated compliance checks and incident reporting</h3>
                         <div class="transparency-box-icon">
                             <img alt="Compliance Checks" src="images/transparency-icon-2.png">
                         </div>
                     </div>
                     <div class="transparency-box transparency-box-3">
-                        <h3 class="transparency-box-title">Secure, read-only API connections</h3>
+                        <h3 class="transparency-box-title" data-i18n="transparency.box3">Secure, read-only API connections</h3>
                         <div class="transparency-box-icon">
                             <img alt="API Connections" src="images/transparency-icon-3.png">
                         </div>
                     </div>
                     <div class="transparency-box transparency-box-4">
-                        <h3 class="transparency-box-title">Structured traceability for regulators and users alike</h3>
+                        <h3 class="transparency-box-title" data-i18n="transparency.box4">Structured traceability for regulators and users alike</h3>
                         <div class="transparency-box-icon">
                             <img alt="Traceability" src="images/transparency-icon-4.svg">
                         </div>
@@ -304,10 +312,10 @@
                 <div class="contact-section-container">
                     <div class="contact-section-wrapper">
                         <div class="contact-section-text">
-                            <h2 class="contact-section-title">
+                            <h2 class="contact-section-title" data-i18n="contact.title">
                                 Technology That Strengthens Financial Integrity
                             </h2>
-                            <p class="contact-section-subtitle">
+                            <p class="contact-section-subtitle" data-i18n="contact.subtitle">
                                 Built on Google Gemini. Designed to make the global financial ecosystem more
                                 transparent, intelligent, and accountable.
                             </p>
@@ -315,44 +323,44 @@
 
                         <div class="contact-form-wrapper">
                             <div class="contact-form-header">
-                                <h3>Fill in your details below</h3>
+                                <h3 data-i18n="contact.form.title">Fill in your details below</h3>
                             </div>
 
                             <form class="contact-form" id="contactForm" novalidate>
                                 <div class="form-row">
                                     <div class="form-group" style="position: static!important;">
-                                        <label for="first_name">First Name*</label>
+                                        <label data-i18n="contact.form.firstName" for="first_name">First Name*</label>
                                         <input id="first_name" name="first_name" placeholder="" required type="text">
                                     </div>
                                     <div class="form-group" style="position: static!important;">
-                                        <label for="last_name">Last Name*</label>
+                                        <label data-i18n="contact.form.lastName" for="last_name">Last Name*</label>
                                         <input id="last_name" name="last_name" placeholder="" required type="text">
                                     </div>
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="email">Email*</label>
+                                    <label data-i18n="contact.form.email" for="email">Email*</label>
                                     <input id="email" name="email" placeholder="" required type="email">
                                 </div>
 
                                 <div class="form-group phone-group">
-                                    <label for="phone">Phone*</label>
+                                    <label data-i18n="contact.form.phone" for="phone">Phone*</label>
                                     <div class="phone-input-wrapper">
                                         <input id="phone" name="phone" placeholder="" required type="tel">
                                     </div>
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="message">Anything we should know before our call?</label>
+                                    <label data-i18n="contact.form.message" for="message">Anything we should know before our call?</label>
                                     <textarea id="message" name="message" placeholder="" rows="4"></textarea>
                                 </div>
 
-                                <p class="privacy-text">
+                                <p class="privacy-text" data-i18n="contact.form.privacy" data-i18n-html="true">
                                     By submitting this form I accept the <a href="privacy-policy.html">privacy
                                     policy</a> terms
                                 </p>
 
-                                <button class="submit-btn" type="submit">Explore the Architecture</button>
+                                <button class="submit-btn" data-i18n="contact.form.submit" type="submit">Explore the Architecture</button>
                             </form>
                         </div>
                     </div>
@@ -362,7 +370,7 @@
         <section class="awards-section">
             <div class="awards-container">
                 <div class="awards-content-container">
-                    <h2 class="awards-title">Awards and Recognitions</h2>
+                    <h2 class="awards-title" data-i18n="awards.title">Awards and Recognitions</h2>
                     <div class="awards-images">
                         <div class="award-item">
                             <img alt="Award 1" src="images/awards/award-1.png">
@@ -389,28 +397,28 @@
                     <div class="footer-logo">
                         <img alt="traceNet AI Logo" src="images/footer-logo.svg">
                     </div>
-                    <p class="footer-description">
+                    <p class="footer-description" data-i18n="footer.description" data-i18n-html="true">
                         Built on Google Gemini.<br>
                         Designed to make the global financial ecosystem more transparent, intelligent, and accountable.
                     </p>
-                    <a class="footer-contact-btn" href="#contact-form-section">Contact Us</a>
+                    <a class="footer-contact-btn" data-i18n="footer.contact" href="#contact-form-section">Contact Us</a>
                 </div>
                 <div class="footer-menu">
                     <nav class="footer-nav">
-                        <a class="footer-nav-link" href="technology.html">TECHNOLOGY</a>
-                        <a class="footer-nav-link" href="solutions.html">SOLUTIONS</a>
-                        <a class="footer-nav-link" href="compliance-security.html">COMPLIANCE & SECURITY</a>
-                        <a class="footer-nav-link" href="about-us.html">ABOUT US</a>
+                        <a class="footer-nav-link" data-i18n="nav.technology" href="technology.html">TECHNOLOGY</a>
+                        <a class="footer-nav-link" data-i18n="nav.solutions" href="solutions.html">SOLUTIONS</a>
+                        <a class="footer-nav-link" data-i18n="nav.compliance" href="compliance-security.html">COMPLIANCE & SECURITY</a>
+                        <a class="footer-nav-link" data-i18n="nav.about" href="about-us.html">ABOUT US</a>
                     </nav>
                 </div>
                 <div class="footer-sub-menu">
-                    <a class="footer-sub-link" href="privacy-policy.html">Privacy Policy</a>
-                    <a class="footer-sub-link" href="terms-of-use.html">Terms of Use</a>
-                    <a class="footer-sub-link" href="cookie-policy.html">Cookie Policy</a>
+                    <a class="footer-sub-link" data-i18n="footer.privacy" href="privacy-policy.html">Privacy Policy</a>
+                    <a class="footer-sub-link" data-i18n="footer.terms" href="terms-of-use.html">Terms of Use</a>
+                    <a class="footer-sub-link" data-i18n="footer.cookie" href="cookie-policy.html">Cookie Policy</a>
                 </div>
             </div>
             <div class="footer-legal">
-                <p>The analyses published within the scope of this service were prepared on behalf of Bridgewise
+                <p data-i18n="footer.legal">The analyses published within the scope of this service were prepared on behalf of Bridgewise
                     Analytics Ltd (the "Company").</p>
             </div>
         </div>
@@ -419,18 +427,18 @@
     <div class="cookie-banner" id="cookieBanner">
         <div class="cookie-banner-content">
             <div class="cookie-banner-text">
-                <h5>
+                <h5 data-i18n="cookie.title">
                     This website uses cookies to improve the user experience and analyze traffic.
                 </h5>
-                <p>
+                <p data-i18n="cookie.description">
                     By clicking the “Continue” button or by continuing to use the website, you consent to the use of
                     cookies in your browser. You can manage cookies at any time in your browser settings. For more
                     information, please read our Privacy Policy, Cookie Policy, and User Agreement.
                 </p>
             </div>
             <div class="cookie-banner-buttons">
-                <button class="cookie-banner-btn cookie-banner-btn-primary" id="closeCookies">Close</button>
-                <button class="cookie-banner-btn cookie-banner-btn-secondary" id="acceptAllCookies">Continue</button>
+                <button class="cookie-banner-btn cookie-banner-btn-primary" data-i18n="cookie.close" id="closeCookies">Close</button>
+                <button class="cookie-banner-btn cookie-banner-btn-secondary" data-i18n="cookie.accept" id="acceptAllCookies">Continue</button>
             </div>
         </div>
     </div>
@@ -442,6 +450,7 @@
 <link href="https://cdn.jsdelivr.net/npm/intl-tel-input@25.3.2/build/css/intlTelInput.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/intl-tel-input@25.3.2/build/js/intlTelInput.min.js"></script>
 <script src="scripts/contact-form.js"></script>
+<script src="scripts/i18n.js"></script>
 
 
 </body>

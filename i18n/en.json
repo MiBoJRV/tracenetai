@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "technology": "TECHNOLOGY",
+    "solutions": "SOLUTIONS",
+    "compliance": "COMPLIANCE & SECURITY",
+    "about": "ABOUT US",
+    "contact": "Contact us"
+  },
+  "banner": {
+    "title": "AI Infrastructure for Global Transaction Transparency",
+    "description": "Powered by Google Gemini technology and integrated with banks and crypto platforms worldwide, our system provides real-time visibility into fund movements, risk scoring, and automated compliance actions.",
+    "cta": "Explore the Technology"
+  },
+  "about": {
+    "title": "Understanding the Platform",
+    "paragraph1": "The system combines large-scale financial data modeling, behavioral analytics, and regulatory intelligence to interpret the flow of money across connected accounts and digital assets.",
+    "paragraph2": "It operates as a neutral analytical layer — securely connected to financial institutions through verified APIs, providing structured insight into every transaction chain and its associated risk."
+  },
+  "features": {
+    "connectivity": {
+      "title": "Connectivity",
+      "text": "Direct API integrations with regulated banks and major crypto exchanges."
+    },
+    "intelligence": {
+      "title": "Intelligence",
+      "text": "Gemini-based models optimized for real-time financial reasoning."
+    },
+    "integrity": {
+      "title": "Integrity",
+      "text": "Fully compliant with GDPR, AMLD6, and open-banking frameworks."
+    }
+  },
+  "layers": {
+    "title": "Core Functional Layers",
+    "analysis": {
+      "title": "Analysis",
+      "text": "Processes multi-channel financial data and identifies irregular activity using Gemini's contextual understanding."
+    },
+    "risk": {
+      "title": "Risk Evaluation",
+      "text": "Applies AI-driven scoring and behavioral clustering to determine exposure to fraud, unauthorized use, or compliance breach."
+    },
+    "response": {
+      "title": "Automated Response",
+      "text": "When risk thresholds are reached, the system can initiate authorized procedures — including chargeback, recall, or dispute actions — directly through institutional APIs."
+    }
+  },
+  "benefit": {
+    "title": "Access and Regulatory Framework",
+    "item1": "Because the platform interacts with live financial networks, access is granted only after completion of a short compliance onboarding required by global regulators.",
+    "item2": "This ensures lawful data exchange, verified identity, and full accountability of every operation executed through the AI infrastructure.",
+    "footer": "Compliance is not an add-on — it's an integral part of the system design."
+  },
+  "transparency": {
+    "title": "Designed for Transparency, Built for Trust",
+    "text1": "The platform helps institutions and individuals detect irregular financial behavior, reduce exposure to fraud, and maintain full visibility over both fiat and digital transactions.",
+    "text2": "It functions as a permanent monitoring layer that ensures each movement of value is traceable, explainable, and compliant.",
+    "box1": "Real-time transaction interpretation across financial networks",
+    "box2": "Automated compliance checks and incident reporting",
+    "box3": "Secure, read-only API connections",
+    "box4": "Structured traceability for regulators and users alike"
+  },
+  "contact": {
+    "title": "Technology That Strengthens Financial Integrity",
+    "subtitle": "Built on Google Gemini. Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
+    "form": {
+      "title": "Fill in your details below",
+      "firstName": "First Name*",
+      "lastName": "Last Name*",
+      "email": "Email*",
+      "phone": "Phone*",
+      "message": "Anything we should know before our call?",
+      "privacy": "By submitting this form I accept the <a href=\"privacy-policy.html\">privacy policy</a> terms",
+      "submit": "Explore the Architecture"
+    }
+  },
+  "awards": {
+    "title": "Awards and Recognitions"
+  },
+  "footer": {
+    "description": "Built on Google Gemini.<br>Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
+    "contact": "Contact Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "cookie": "Cookie Policy",
+    "legal": "The analyses published within the scope of this service were prepared on behalf of Bridgewise Analytics Ltd (the \"Company\")."
+  },
+  "cookie": {
+    "title": "This website uses cookies to improve the user experience and analyze traffic.",
+    "description": "By clicking the “Continue” button or by continuing to use the website, you consent to the use of cookies in your browser. You can manage cookies at any time in your browser settings. For more information, please read our Privacy Policy, Cookie Policy, and User Agreement.",
+    "close": "Close",
+    "accept": "Continue"
+  }
+}
+
