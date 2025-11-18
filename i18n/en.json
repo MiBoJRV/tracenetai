@@ -192,6 +192,77 @@
       }
     }
   },
+  "compliance": {
+    "hero": {
+      "title": "Compliance and Security by Design",
+      "description": "The platform is built on the principle that transparency and compliance are not external requirements — they are core components of the system’s architecture. From data encryption to regulatory verification, every process is designed to align with global standards of financial integrity and information security.",
+      "summary": "Security is engineered. Compliance is embedded."
+    },
+    "secureData": {
+      "title": "Secure Data Architecture",
+      "description": "All operations are conducted in a read-only mode to prevent any unauthorized changes, fund movements, or account access. The platform serves exclusively as an analytical layer, ensuring users’ and institutions’ financial data remain protected at every stage.",
+      "accordion": {
+        "title": "Key mechanisms:",
+        "text": "• End-to-end encryption (TLS 1.3 / AES-256)<br>• Zero data persistence for sensitive credentials<br>• Multi-region storage under data-localization laws<br>• Continuous vulnerability assessment and penetration testing<br>• Independent third-party security audits"
+      }
+    },
+    "regulatory": {
+      "title": "Regulatory Alignment",
+      "description": "The compliance layer integrates international regulatory standards to ensure every data interaction, risk analysis, or automated response remains within the boundaries of financial law.",
+      "accordion": {
+        "title": "Supported frameworks:",
+        "text": "• GDPR — General Data Protection Regulation (EU)<br>• AMLD6 — Anti-Money Laundering Directive (EU)<br>• FATF — Financial Action Task Force recommendations<br>• ISO 27001 / SOC 2 — Information Security and Data Management<br>• PCI DSS — Payment Card Industry Data Security Standard<br>• Open Banking PSD2 — Secure API connectivity and user consent model"
+      },
+      "note": "Every compliance operation is logged, auditable, and traceable for both internal review and regulator access."
+    },
+    "identity": {
+      "title": "Identity Verification and Authorization",
+      "description": "To maintain data integrity and prevent misuse, user access to the AI system is granted only after completing a mandatory compliance onboarding.<br><br>This short course, required by financial regulators, verifies user identity, purpose of use, and awareness of data-handling obligations.",
+      "stepsTitle": "Access procedure:",
+      "step1": "Identity and source verification (KYC)",
+      "step2": "Acceptance of compliance terms",
+      "step3": "Completion of automated onboarding",
+      "step4": "Tokenized API access granted under regulator supervision",
+      "note": "Each user operates within a verified and traceable framework, ensuring lawful access to AI-driven financial intelligence."
+    },
+    "audit": {
+      "title": "Auditability and Accountability",
+      "description": "Every system action — from API request to AI decision — is recorded in an immutable audit log. This provides regulators, compliance officers, and auditors with full visibility over data flow and decision-making processes.",
+      "accordion": {
+        "title": "Capabilities:",
+        "text": "• Immutable timestamped event logs<br>• Accessed only by authorized regulators or internal compliance units<br>• Support for standard audit export formats (CSV, XML, XBRL)<br>• Automated generation of compliance reports"
+      },
+      "note": "Nothing happens without a record."
+    },
+    "threat": {
+      "title": "Real-Time Threat and Risk Management",
+      "description": "The platform continuously monitors its environment for security anomalies and abnormal access patterns. When potential risks are detected, automated alerts are issued to the internal compliance node, and appropriate actions are taken immediately to isolate or neutralize the threat.",
+      "process": "<strong style=\"display:block;\">Process:</strong>• Continuous behavioral monitoring of API traffic <br>• Multi-level anomaly scoring for security events<br>• Real-time alerting and mitigation protocol<br>• Forensic reporting to compliance and regulatory units"
+    },
+    "collaborative": {
+      "title": "Collaborative Security Model",
+      "description": "The system is developed under a shared-responsibility model, where platform security, institutional compliance, and regulatory supervision coexist in a unified operational framework.",
+      "accordion": {
+        "title": "Partnership ecosystem:",
+        "text": "• Financial institutions (banks, acquirers, payment processors)<br>• Crypto exchanges and custodians<br>• Regulatory bodies and financial intelligence units (FIUs)<br>• Independent audit and data-certification partners"
+      },
+      "note": "Transparency is achieved not in isolation, but through collaboration."
+    },
+    "certification": {
+      "title": "Verification and Certification",
+      "description": "To ensure trust and global interoperability, the platform undergoes continuous certification and audit cycles conducted by accredited external firms.",
+      "accordion": {
+        "title": "Certifications in progress or obtained:",
+        "text": "• ISO/IEC 27001 — Information Security Management<br>• SOC 2 Type II — Data integrity and operational resilience<br>• PCI DSS — Financial data handling<br>• GDPR compliance verified by EU-based independent assessors"
+      },
+      "note": "Security standards are not claims — they are verifications."
+    },
+    "learn": {
+      "title": "Building Trust Through Transparency",
+      "text": "By embedding regulatory compliance and security architecture into every level of its infrastructure, the system establishes a foundation for responsible, explainable, and auditable AI in financial ecosystems.",
+      "cta": "Learn About the Company"
+    }
+  },
   "contact": {
     "title": "Technology That Strengthens Financial Integrity",
     "subtitle": "Built on Google Gemini. Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",

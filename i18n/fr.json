@@ -192,6 +192,77 @@
       }
     }
   },
+  "compliance": {
+    "hero": {
+      "title": "Conformité et sécurité dès la conception",
+      "description": "La plateforme repose sur le principe que transparence et conformité ne sont pas des exigences externes, mais des composants essentiels de l’architecture. Du chiffrement des données à la vérification réglementaire, chaque processus est aligné sur les standards internationaux d’intégrité financière et de sécurité de l’information.",
+      "summary": "La sécurité est conçue. La conformité est intégrée."
+    },
+    "secureData": {
+      "title": "Architecture des données sécurisée",
+      "description": "Toutes les opérations sont effectuées en mode lecture seule afin d’empêcher toute modification non autorisée, mouvement de fonds ou accès aux comptes. La plateforme agit exclusivement comme une couche analytique, garantissant la protection des données financières des utilisateurs et institutions à chaque étape.",
+      "accordion": {
+        "title": "Mécanismes clés :",
+        "text": "• Chiffrement de bout en bout (TLS 1.3 / AES-256)<br>• Aucune persistance des identifiants sensibles<br>• Stockage multi-régions selon les lois de localisation des données<br>• Évaluations de vulnérabilité et tests d’intrusion continus<br>• Audits de sécurité indépendants par des tiers"
+      }
+    },
+    "regulatory": {
+      "title": "Alignement réglementaire",
+      "description": "La couche de conformité intègre les standards réglementaires internationaux pour garantir que chaque interaction de données, analyse de risque ou réponse automatisée respecte le cadre légal financier.",
+      "accordion": {
+        "title": "Cadres pris en charge :",
+        "text": "• RGPD — Règlement général sur la protection des données (UE)<br>• AMLD6 — Directive anti-blanchiment (UE)<br>• GAFI — Recommandations du Groupe d’action financière<br>• ISO 27001 / SOC 2 — Sécurité de l’information et gestion des données<br>• PCI DSS — Norme de sécurité des données de l’industrie des paiements<br>• PSD2 Open Banking — API sécurisées et modèle de consentement utilisateur"
+      },
+      "note": "Chaque opération de conformité est journalisée, auditable et traçable pour les revues internes comme pour les régulateurs."
+    },
+    "identity": {
+      "title": "Vérification d’identité et autorisation",
+      "description": "Pour préserver l’intégrité des données et prévenir les abus, l’accès au système IA n’est accordé qu’après un onboarding de conformité obligatoire.<br><br>Ce court module, exigé par les régulateurs financiers, vérifie l’identité de l’utilisateur, la finalité d’usage et la compréhension des obligations de gestion des données.",
+      "stepsTitle": "Procédure d’accès :",
+      "step1": "Vérification d’identité et de provenance (KYC)",
+      "step2": "Acceptation des conditions de conformité",
+      "step3": "Achèvement de l’onboarding automatisé",
+      "step4": "Accès API tokenisé accordé sous supervision du régulateur",
+      "note": "Chaque utilisateur opère dans un cadre vérifié et traçable, garantissant un accès légal à l’intelligence financière IA."
+    },
+    "audit": {
+      "title": "Auditabilité et responsabilité",
+      "description": "Chaque action du système — de la requête API à la décision IA — est enregistrée dans un journal d’audit immuable. Les régulateurs, responsables conformité et auditeurs disposent ainsi d’une visibilité totale sur les flux de données et le processus décisionnel.",
+      "accordion": {
+        "title": "Capacités :",
+        "text": "• Journaux d’événements horodatés et immuables<br>• Accès réservé aux régulateurs autorisés ou aux unités internes de conformité<br>• Support des formats standards d’export d’audit (CSV, XML, XBRL)<br>• Génération automatisée de rapports de conformité"
+      },
+      "note": "Rien ne se produit sans trace."
+    },
+    "threat": {
+      "title": "Gestion en temps réel des menaces et des risques",
+      "description": "La plateforme surveille en continu son environnement pour détecter les anomalies de sécurité et comportements d’accès anormaux. Lorsqu’un risque potentiel est identifié, des alertes automatisées sont envoyées au nœud de conformité interne et des actions immédiates sont déclenchées pour isoler ou neutraliser la menace.",
+      "process": "<strong style=\"display:block;\">Processus :</strong>• Surveillance comportementale continue du trafic API<br>• Scoring multi-niveaux des événements de sécurité<br>• Alertes et protocoles d’atténuation en temps réel<br>• Rapports forensiques vers les unités de conformité et les régulateurs"
+    },
+    "collaborative": {
+      "title": "Modèle de sécurité collaboratif",
+      "description": "Le système est développé selon un modèle de responsabilité partagée où sécurité de la plateforme, conformité institutionnelle et supervision réglementaire coexistent dans un cadre opérationnel unifié.",
+      "accordion": {
+        "title": "Écosystème de partenariat :",
+        "text": "• Institutions financières (banques, acquéreurs, processeurs de paiement)<br>• Plateformes crypto et dépositaires<br>• Organismes de régulation et cellules de renseignement financier (FIU)<br>• Partenaires indépendants d’audit et de certification des données"
+      },
+      "note": "La transparence se construit par la collaboration, pas en isolation."
+    },
+    "certification": {
+      "title": "Vérification et certification",
+      "description": "Pour garantir la confiance et l’interopérabilité mondiale, la plateforme suit des cycles continus de certification et d’audit menés par des cabinets externes accrédités.",
+      "accordion": {
+        "title": "Certifications en cours ou obtenues :",
+        "text": "• ISO/IEC 27001 — Management de la sécurité de l’information<br>• SOC 2 Type II — Intégrité des données et résilience opérationnelle<br>• PCI DSS — Gestion des données financières<br>• Conformité RGPD vérifiée par des évaluateurs indépendants basés dans l’UE"
+      },
+      "note": "Les normes de sécurité ne sont pas des déclarations — ce sont des vérifications."
+    },
+    "learn": {
+      "title": "Construire la confiance par la transparence",
+      "text": "En intégrant la conformité réglementaire et l’architecture de sécurité à chaque niveau, la plateforme pose les bases d’une IA responsable, explicable et auditable dans les écosystèmes financiers.",
+      "cta": "Découvrir l’entreprise"
+    }
+  },
   "contact": {
     "title": "Une technologie qui renforce l'intégrité financière",
     "subtitle": "Propulsée par Google Gemini. Conçue pour rendre l'écosystème financier mondial plus transparent, intelligent et responsable.",

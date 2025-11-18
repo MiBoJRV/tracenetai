@@ -26,14 +26,24 @@
                     <nav>
                         <div class="ul">
                             <div class="nav-list">
-                                <div class="li"><a href="technology.html">TECHNOLOGY</a></div>
-                                <div class="li"><a href="solutions.html">SOLUTIONS</a></div>
-                                <div class="li"><a href="compliance-security.html">COMPLIANCE & SECURITY</a></div>
-                                <div class="li"><a href="about-us.html">ABOUT US</a></div>
+                                <div class="li"><a data-i18n="nav.technology" href="technology.html">TECHNOLOGY</a></div>
+                                <div class="li"><a data-i18n="nav.solutions" href="solutions.html">SOLUTIONS</a></div>
+                                <div class="li"><a data-i18n="nav.compliance" href="compliance-security.html">COMPLIANCE & SECURITY</a></div>
+                                <div class="li"><a data-i18n="nav.about" href="about-us.html">ABOUT US</a></div>
                             </div>
                             <div class="nav-btn">
                                 <div class="button-survey li">
-                                    <a href="index.html#contact-form-section">Contact us</a>
+                                    <a data-i18n="nav.contact" href="#contact-form-section">Contact us</a>
+                                </div>
+                            </div>
+                            <div class="language-switcher">
+                                <button class="language-switcher-toggle" aria-expanded="false" aria-haspopup="listbox" type="button">
+                                    <span data-current-language>EN</span>
+                                    <span class="language-switcher-icon"></span>
+                                </button>
+                                <div class="language-switcher-menu" role="listbox">
+                                    <button class="language-option" data-lang-option="en" role="option" type="button">EN</button>
+                                    <button class="language-option" data-lang-option="fr" role="option" type="button">FR</button>
                                 </div>
                             </div>
                         </div>
@@ -58,16 +68,26 @@
                 <div class="menu">
                     <nav>
                         <ul>
-                            <li><a href="technology.html">TECHNOLOGY</a></li>
-                            <li><a href="solutions.html">SOLUTIONS</a></li>
-                            <li><a href="compliance-security.html">COMPLIANCE & SECURITY</a></li>
-                            <li><a href="about-us.html">ABOUT US</a></li>
+                            <li><a data-i18n="nav.technology" href="technology.html">TECHNOLOGY</a></li>
+                            <li><a data-i18n="nav.solutions" href="solutions.html">SOLUTIONS</a></li>
+                            <li><a data-i18n="nav.compliance" href="compliance-security.html">COMPLIANCE & SECURITY</a></li>
+                            <li><a data-i18n="nav.about" href="about-us.html">ABOUT US</a></li>
                         </ul>
                     </nav>
                 </div>
+                <div class="language-switcher mobile">
+                    <button class="language-switcher-toggle" aria-expanded="false" aria-haspopup="listbox" type="button">
+                        <span data-current-language>EN</span>
+                        <span class="language-switcher-icon"></span>
+                    </button>
+                    <div class="language-switcher-menu" role="listbox">
+                        <button class="language-option" data-lang-option="en" role="option" type="button">EN</button>
+                        <button class="language-option" data-lang-option="fr" role="option" type="button">FR</button>
+                    </div>
+                </div>
             </div>
             <div class="button-survey">
-                <a href="index.html#contact-form-section">Contact us</a>
+                <a data-i18n="nav.contact" href="#contact-form-section">Contact us</a>
             </div>
         </div>
     </header>
@@ -78,17 +98,17 @@
                 <div class="flex-7">
                     <div class="frame-1000000946">
                         <div class="frame-1000000947">
-                            <h2 class="title-gemini">
+                            <h2 class="title-gemini" data-i18n="compliance.hero.title">
                                 Compliance and Security by Design
                             </h2>
-                            <p class="description-gemini">
-                                he platform is built on the principle that transparency and compliance are not external
-                                requirements —they are core components of the system’s architecture.
+                            <p class="description-gemini" data-i18n="compliance.hero.description">
+                                The platform is built on the principle that transparency and compliance are not external
+                                requirements — they are core components of the system’s architecture.
                                 From data encryption to regulatory verification, every process is designed to align with
                                 global standards of financial integrity and information security.
                             </p>
                         </div>
-                        <p class="summary-gemini">
+                        <p class="summary-gemini" data-i18n="compliance.hero.summary">
                             Security is engineered. Compliance is embedded.
                         </p>
                     </div>
@@ -99,10 +119,10 @@
         <section class="section-secure-data-handling">
             <div class="section-secure-data-container">
                 <div class="section-secure-data-header">
-                    <h2 class="section-secure-data-title">
+                    <h2 class="section-secure-data-title" data-i18n="compliance.secureData.title">
                         Secure Data Architecture
                     </h2>
-                    <p class="section-secure-data-description">
+                    <p class="section-secure-data-description" data-i18n="compliance.secureData.description">
                         All operations are conducted in a read-only mode to prevent any unauthorized changes, fund
                         movements, or account access.
                         The platform serves exclusively as an analytical layer, ensuring users’ and institutions’
@@ -115,9 +135,9 @@
                     </div>
                     <div class="secure-data-accordion">
                         <div class="accordion-item">
-                            <h3 class="accordion-header">Key mechanisms:</h3>
+                            <h3 class="accordion-header" data-i18n="compliance.secureData.accordion.title">Key mechanisms:</h3>
                             <div class="accordion-content">
-                                <p>
+                                <p data-i18n="compliance.secureData.accordion.text" data-i18n-html="true">
                                     • End-to-end encryption (TLS 1.3 / AES-256) <br>
                                     • Zero data persistence for sensitive credentials<br>
                                     • Multi-region storage under data-localization laws<br>
@@ -134,10 +154,10 @@
         <section class="section-gemini-risk-engine" id="sgre">
             <div class="section-gemini-risk-container">
                 <div class="section-gemini-risk-header">
-                    <h2 class="section-gemini-risk-title">
+                    <h2 class="section-gemini-risk-title" data-i18n="compliance.regulatory.title">
                         Regulatory Alignment
                     </h2>
-                    <p class="section-gemini-risk-description">
+                    <p class="section-gemini-risk-description" data-i18n="compliance.regulatory.description">
                         The compliance layer integrates international regulatory standards to ensure every data
                         interaction, risk analysis, or automated response remains within the boundaries of financial
                         law.
@@ -146,9 +166,9 @@
                 <div class="section-gemini-risk-content">
                     <div class="gemini-risk-accordion">
                         <div class="accordion-item-risk">
-                            <h3 class="accordion-header-risk">Supported frameworks:</h3>
+                            <h3 class="accordion-header-risk" data-i18n="compliance.regulatory.accordion.title">Supported frameworks:</h3>
                             <div class="accordion-content-risk">
-                                <p>
+                                <p data-i18n="compliance.regulatory.accordion.text" data-i18n-html="true">
                                     • GDPR — General Data Protection Regulation (EU) <br>
                                     • AMLD6 — Anti-Money Laundering Directive (EU)<br>
                                     • FATF — Financial Action Task Force recommendations<br>
@@ -160,11 +180,11 @@
                         </div>
                     </div>
                     <div class="gemini-risk-image-container">
-                        <img alt="Gemini Cognitive Risk Engine" src="images/c2.png">
+                        <img alt="Regulatory Alignment" src="images/c2.png">
                     </div>
                 </div>
             </div>
-            <p class="text-italic">
+            <p class="text-italic" data-i18n="compliance.regulatory.note">
                 Every compliance operation is logged, auditable, and traceable for both internal review and regulator
                 access.
             </p>
@@ -173,58 +193,53 @@
         <section class="section-identity-access">
             <div class="section-identity-access-container">
                 <div class="section-identity-access-header">
-                    <h2 class="section-identity-access-title">
+                    <h2 class="section-identity-access-title" data-i18n="compliance.identity.title">
                         Identity Verification and Authorization
                     </h2>
-                    <p class="section-identity-access-description">
+                    <p class="section-identity-access-description" data-i18n="compliance.identity.description" data-i18n-html="true">
                         To maintain data integrity and prevent misuse, user access to the AI system is granted only
-                        after
-                        completing a mandatory compliance onboarding.
-                        <br><br>
+                        after completing a mandatory compliance onboarding.<br><br>
                         This short course, required by financial regulators, verifies user identity, purpose of use, and
                         awareness of data-handling obligations.
                     </p>
                 </div>
                 <div class="section-identity-access-content">
                     <div class="identity-access-block">
-                        <h3 class="identity-access-heading">Access procedure:</h3>
+                        <h3 class="identity-access-heading" data-i18n="compliance.identity.stepsTitle">Access procedure:</h3>
                         <div class="identity-access-cards">
                             <div class="identity-access-card">
                                 <div class="identity-access-card-counter">1</div>
-                                <div class="identity-access-card-text">Identity and source verification (KYC)</div>
+                                <div class="identity-access-card-text" data-i18n="compliance.identity.step1">Identity and source verification (KYC)</div>
                             </div>
                             <div class="identity-access-card">
                                 <div class="identity-access-card-counter">2</div>
-                                <div class="identity-access-card-text">Acceptance of compliance terms</div>
+                                <div class="identity-access-card-text" data-i18n="compliance.identity.step2">Acceptance of compliance terms</div>
                             </div>
                             <div class="identity-access-card">
                                 <div class="identity-access-card-counter">3</div>
-                                <div class="identity-access-card-text">Completion of automated onboarding</div>
+                                <div class="identity-access-card-text" data-i18n="compliance.identity.step3">Completion of automated onboarding</div>
                             </div>
                             <div class="identity-access-card">
                                 <div class="identity-access-card-counter">4</div>
-                                <div class="identity-access-card-text">Tokenized API access granted under regulator
-                                    supervision
-                                </div>
+                                <div class="identity-access-card-text" data-i18n="compliance.identity.step4">Tokenized API access granted under regulator supervision</div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <p class="text-italic">
+                <p class="text-italic" data-i18n="compliance.identity.note">
                     Each user operates within a verified and traceable framework, ensuring lawful access to AI-driven
                     financial intelligence.
                 </p>
             </div>
-
         </section>
 
         <section class="section-gemini-risk-engine">
             <div class="section-gemini-risk-container">
                 <div class="section-gemini-risk-header">
-                    <h2 class="section-gemini-risk-title">
+                    <h2 class="section-gemini-risk-title" data-i18n="compliance.audit.title">
                         Auditability and Accountability
                     </h2>
-                    <p class="section-gemini-risk-description">
+                    <p class="section-gemini-risk-description" data-i18n="compliance.audit.description">
                         Every system action — from API request to AI decision — is recorded in an immutable audit log.
                         This provides regulators, compliance officers, and auditors with full visibility over data flow
                         and decision-making processes.
@@ -233,9 +248,9 @@
                 <div class="section-gemini-risk-content">
                     <div class="gemini-risk-accordion">
                         <div class="accordion-item-risk">
-                            <h3 class="accordion-header-risk">Capabilities:</h3>
+                            <h3 class="accordion-header-risk" data-i18n="compliance.audit.accordion.title">Capabilities:</h3>
                             <div class="accordion-content-risk">
-                                <p>
+                                <p data-i18n="compliance.audit.accordion.text" data-i18n-html="true">
                                     • Immutable timestamped event logs<br>
                                     • Accessed only by authorized regulators or internal compliance units<br>
                                     • Support for standard audit export formats (CSV, XML, XBRL)<br>
@@ -245,31 +260,31 @@
                         </div>
                     </div>
                     <div class="gemini-risk-image-container">
-                        <img alt="Gemini Cognitive Risk Engine" src="images/c3.png">
+                        <img alt="Auditability" src="images/c3.png">
                     </div>
                 </div>
             </div>
-            <p class="text-italic">
+            <p class="text-italic" data-i18n="compliance.audit.note">
                 Nothing happens without a record.
             </p>
         </section>
 
-        <section class="section-video ">
+        <section class="section-video">
             <div class="content text">
                 <div class="flex-7">
                     <div class="frame-1000000946">
                         <div class="frame-1000000947">
-                            <h3 class="title-gemini h3">
+                            <h3 class="title-gemini h3" data-i18n="compliance.threat.title">
                                 Real-Time Threat and Risk Management
                             </h3>
-                            <p class="description-gemini">
+                            <p class="description-gemini" data-i18n="compliance.threat.description">
                                 The platform continuously monitors its environment for security anomalies and abnormal
                                 access patterns. When potential risks are detected, automated alerts are issued to the
                                 internal compliance node, and appropriate actions are taken immediately to isolate or
                                 neutralize the threat.
                             </p>
                         </div>
-                        <p class="summary-gemini text-italic">
+                        <p class="summary-gemini text-italic" data-i18n="compliance.threat.process" data-i18n-html="true">
                             <strong style="display:block;">Process:</strong>
                             • Continuous behavioral monitoring of API traffic <br>
                             • Multi-level anomaly scoring for security events<br>
@@ -284,10 +299,10 @@
         <section class="section-secure-data-handling">
             <div class="section-secure-data-container">
                 <div class="section-secure-data-header">
-                    <h2 class="section-secure-data-title">
+                    <h2 class="section-secure-data-title" data-i18n="compliance.collaborative.title">
                         Collaborative Security Model
                     </h2>
-                    <p class="section-secure-data-description">
+                    <p class="section-secure-data-description" data-i18n="compliance.collaborative.description">
                         The system is developed under a shared-responsibility model,
                         where platform security, institutional compliance, and regulatory supervision coexist in a
                         unified operational framework.
@@ -299,10 +314,9 @@
                     </div>
                     <div class="secure-data-accordion">
                         <div class="accordion-item">
-                            <h3 class="accordion-header">Partnership ecosystem:</h3>
+                            <h3 class="accordion-header" data-i18n="compliance.collaborative.accordion.title">Partnership ecosystem:</h3>
                             <div class="accordion-content">
-
-                                <p>
+                                <p data-i18n="compliance.collaborative.accordion.text" data-i18n-html="true">
                                     • Financial institutions (banks, acquirers, payment processors) <br>
                                     • Crypto exchanges and custodians<br>
                                     • Regulatory bodies and financial intelligence units (FIUs)<br>
@@ -313,7 +327,7 @@
                     </div>
                 </div>
             </div>
-            <p class="text-italic">
+            <p class="text-italic" data-i18n="compliance.collaborative.note">
                 Transparency is achieved not in isolation, but through collaboration.
             </p>
         </section>
@@ -321,20 +335,20 @@
         <section class="section-gemini-risk-engine">
             <div class="section-gemini-risk-container">
                 <div class="section-gemini-risk-header">
-                    <h2 class="section-gemini-risk-title">
+                    <h2 class="section-gemini-risk-title" data-i18n="compliance.certification.title">
                         Verification and Certification
                     </h2>
-                    <p class="section-gemini-risk-description">
+                    <p class="section-gemini-risk-description" data-i18n="compliance.certification.description">
                         To ensure trust and global interoperability, the platform undergoes continuous certification and
                         audit cycles conducted by accredited external firms.
                     </p>
                 </div>
                 <div class="section-gemini-risk-content">
-                    <div class="gemini-risk-accordion">
+                    <div class="gemини-risk-accordion">
                         <div class="accordion-item-risk">
-                            <h3 class="accordion-header-risk">Certifications in progress or obtained:</h3>
+                            <h3 class="accordion-header-risk" data-i18n="compliance.certification.accordion.title">Certifications in progress or obtained:</h3>
                             <div class="accordion-content-risk">
-                                <p>
+                                <p data-i18n="compliance.certification.accordion.text" data-i18n-html="true">
                                     • ISO/IEC 27001 — Information Security Management <br>
                                     • SOC 2 Type II — Data integrity and operational resilience<br>
                                     • PCI DSS — Financial data handling<br>
@@ -344,38 +358,34 @@
                         </div>
                     </div>
                     <div class="gemini-risk-image-container">
-                        <img alt="Gemini Cognitive Risk Engine" src="images/c5.png">
+                        <img alt="Verification" src="images/c5.png">
                     </div>
                 </div>
             </div>
-            <p class="text-italic">
+            <p class="text-italic" data-i18n="compliance.certification.note">
                 Security standards are not claims — they are verifications.
             </p>
         </section>
 
-        <div class="p">
-            <section class="section-learn">
-                <!-- Decorative stars -->
-                <img alt="" aria-hidden="true" class="form-star form-star-top-right" src="images/star-s.svg">
-                <img alt="" aria-hidden="true" class="form-star form-star-bottom-left" src="images/star-b.svg">
-                <img alt="" aria-hidden="true" class="form-star form-star-top-right-b" src="images/star-b.svg">
-                <h3>
-                    Building Trust Through Transparency
-                </h3>
-
-                <div class="content">
-                    <p>
-                        By embedding regulatory compliance and security architecture into every level of its infrastructure,
-                        the system establishes a foundation for responsible, explainable, and auditable AI in financial ecosystems.
-                    </p>
-                    <div class="button-survey">
-                        <a href="about-us.html">
-                            Learn About the Company
-                        </a>
-                    </div>
+        <section class="section-learn">
+            <img alt="" aria-hidden="true" class="form-star form-star-top-right" src="images/star-s.svg">
+            <img alt="" aria-hidden="true" class="form-star form-star-bottom-left" src="images/star-b.svg">
+            <img alt="" aria-hidden="true" class="form-star form-star-top-right-b" src="images/star-b.svg">
+            <h3 data-i18n="compliance.learn.title">
+                Building Trust Through Transparency
+            </h3>
+            <div class="content">
+                <p data-i18n="compliance.learn.text">
+                    By embedding regulatory compliance and security architecture into every level of its infrastructure,
+                    the system establishes a foundation for responsible, explainable, and auditable AI in financial ecosystems.
+                </p>
+                <div class="button-survey">
+                    <a data-i18n="compliance.learn.cta" href="about-us.html">
+                        Learn About the Company
+                    </a>
                 </div>
-            </section>
-        </div>
+            </div>
+        </section>
     </main>
 
     <footer class="site-footer">
@@ -385,28 +395,28 @@
                     <div class="footer-logo">
                         <img alt="traceNet AI Logo" src="images/footer-logo.svg">
                     </div>
-                    <p class="footer-description">
+                    <p class="footer-description" data-i18n="footer.description" data-i18n-html="true">
                         Built on Google Gemini.<br>
                         Designed to make the global financial ecosystem more transparent, intelligent, and accountable.
                     </p>
-                    <a class="footer-contact-btn" href="index.html#contact-form-section">Contact Us</a>
+                    <a class="footer-contact-btn" data-i18n="footer.contact" href="#contact-form-section">Contact Us</a>
                 </div>
                 <div class="footer-menu">
                     <nav class="footer-nav">
-                        <a class="footer-nav-link" href="technology.html">TECHNOLOGY</a>
-                        <a class="footer-nav-link" href="solutions.html">SOLUTIONS</a>
-                        <a class="footer-nav-link" href="compliance-security.html">COMPLIANCE & SECURITY</a>
-                        <a class="footer-nav-link" href="about-us.html">ABOUT US</a>
+                        <a class="footer-nav-link" data-i18n="nav.technology" href="technology.html">TECHNOLOGY</a>
+                        <a class="footer-nav-link" data-i18n="nav.solutions" href="solutions.html">SOLUTIONS</a>
+                        <a class="footer-nav-link" data-i18n="nav.compliance" href="compliance-security.html">COMPLIANCE & SECURITY</a>
+                        <a class="footer-nav-link" data-i18n="nav.about" href="about-us.html">ABOUT US</a>
                     </nav>
                 </div>
                 <div class="footer-sub-menu">
-                    <a class="footer-sub-link" href="privacy-policy.html">Privacy Policy</a>
-                    <a class="footer-sub-link" href="terms-of-use.html">Terms of Use</a>
-                    <a class="footer-sub-link" href="cookie-policy.html">Cookie Policy</a>
+                    <a class="footer-sub-link" data-i18n="footer.privacy" href="privacy-policy.html">Privacy Policy</a>
+                    <a class="footer-sub-link" data-i18n="footer.terms" href="terms-of-use.html">Terms of Use</a>
+                    <a class="footer-sub-link" data-i18n="footer.cookie" href="cookie-policy.html">Cookie Policy</a>
                 </div>
             </div>
             <div class="footer-legal">
-                <p>The analyses published within the scope of this service were prepared on behalf of Bridgewise
+                <p data-i18n="footer.legal">The analyses published within the scope of this service were prepared on behalf of Bridgewise
                     Analytics Ltd (the "Company").</p>
             </div>
         </div>
@@ -415,18 +425,18 @@
     <div class="cookie-banner" id="cookieBanner">
         <div class="cookie-banner-content">
             <div class="cookie-banner-text">
-                <h5>
+                <h5 data-i18n="cookie.title">
                     This website uses cookies to improve the user experience and analyze traffic.
                 </h5>
-                <p>
+                <p data-i18n="cookie.description">
                     By clicking the "Continue" button or by continuing to use the website, you consent to the use of
                     cookies in your browser. You can manage cookies at any time in your browser settings. For more
                     information, please read our Privacy Policy, Cookie Policy, and User Agreement.
                 </p>
             </div>
             <div class="cookie-banner-buttons">
-                <button class="cookie-banner-btn cookie-banner-btn-primary" id="closeCookies">Close</button>
-                <button class="cookie-banner-btn cookie-banner-btn-secondary" id="acceptAllCookies">Continue</button>
+                <button class="cookie-banner-btn cookie-banner-btn-primary" data-i18n="cookie.close" id="closeCookies">Close</button>
+                <button class="cookie-banner-btn cookie-banner-btn-secondary" data-i18n="cookie.accept" id="acceptAllCookies">Continue</button>
             </div>
         </div>
     </div>
@@ -434,7 +444,10 @@
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script src="scripts/main.js"></script>
+<script src="scripts/i18n.js"></script>
 
 </body>
 </html>
+<!doctype html>
+
 
