@@ -550,6 +550,143 @@
       }
     }
   },
+  "terms": {
+    "lastUpdated": "Dernière mise à jour : octobre 2025",
+    "intro1": "Les présentes Conditions d’utilisation (« Conditions ») régissent votre accès à la plateforme, aux produits et aux services (collectivement, la « Plateforme ») proposés par TraceNet Systems Ltd. (« TraceNet », « nous » ou « notre »).",
+    "intro2": "En accédant ou en utilisant la Plateforme, vous acceptez d’être lié par ces Conditions. Si vous n’êtes pas d’accord, vous ne pouvez pas utiliser la Plateforme.",
+    "sections": {
+      "about": {
+        "title": "1. À propos de TraceNet",
+        "text1": "TraceNet Systems Ltd. est une société technologique fournissant une infrastructure de conformité et d’analytique financière pilotée par l’IA.",
+        "text2": "La Plateforme permet d’analyser les transactions, détecter les irrégularités et générer des rapports via des intégrations en lecture seule avec banques, systèmes de paiement et plateformes d’actifs numériques.",
+        "text3": "TraceNet n’est pas une institution financière, un courtier ou un service de transfert de fonds.",
+        "text4": "Nous ne stockons, ne transférons, ni ne contrôlons les fonds des utilisateurs."
+      },
+      "eligibility": {
+        "title": "2. Conditions d’éligibilité",
+        "description": "En utilisant la Plateforme, vous déclarez et garantissez que :",
+        "list1": "Vous avez au moins 18 ans ou l’âge légal dans votre juridiction ;",
+        "list2": "Vous êtes habilité à accepter ces Conditions ;",
+        "list3": "Votre utilisation respecte l’ensemble des lois applicables, y compris financières et relatives à la protection des données.",
+        "note": "L’accès pourra être restreint ou révoqué si les exigences de conformité ne sont pas remplies ou si des informations fausses sont fournies."
+      },
+      "services": {
+        "title": "3. Description des services",
+        "description": "La Plateforme propose :",
+        "list1": "Analyse transactionnelle et scoring de risque basés sur l’IA ;",
+        "list2": "Intégration avec institutions financières et crypto via API officielles ;",
+        "list3": "Génération automatisée de rapports de conformité et d’audit ;",
+        "list4": "Initiation optionnelle de demandes de rétrofacturation, rappel ou litige lorsqu’elle est autorisée par l’utilisateur.",
+        "note1": "Toutes les actions sont réalisées en lecture seule.",
+        "note2": "TraceNet n’exécute ni n’autorise de transactions financières pour le compte des utilisateurs."
+      },
+      "responsibilities": {
+        "title": "4. Responsabilités de l’utilisateur",
+        "description": "Les utilisateurs s’engagent à :",
+        "list1": "Fournir des informations exactes et complètes lors de l’onboarding ;",
+        "list2": "Protéger leurs identifiants et clés API ;",
+        "list3": "Utiliser la Plateforme uniquement à des fins légales et autorisées ;",
+        "list4": "Ne pas détourner, revendre ou rétroconcevoir la Plateforme ;",
+        "list5": "Informer immédiatement TraceNet de tout accès non autorisé ou incident de sécurité.",
+        "note": "L’utilisateur est seul responsable des actions effectuées sous ses identifiants."
+      },
+      "compliance": {
+        "title": "5. Onboarding de conformité",
+        "description1": "Pour accéder aux fonctionnalités avancées ou aux intégrations API, un court processus de conformité peut être requis par les régulateurs financiers.",
+        "description2": "Ce processus peut inclure :",
+        "list1": "Vérification d’identité ou institutionnelle (KYC/KYB) ;",
+        "list2": "Acceptation des conditions de conformité TraceNet ;",
+        "list3": "Validation de l’usage légal des données et de leur finalité.",
+        "note": "Les jetons d’accès ne sont délivrés qu’après validation de ce processus."
+      },
+      "ip": {
+        "title": "6. Propriété intellectuelle",
+        "description1": "Tous les droits de propriété intellectuelle de la Plateforme (logiciels, modèles, textes, designs, documentation) appartiennent à TraceNet Systems Ltd. ou à ses licenciés.",
+        "description2": "Il est interdit aux utilisateurs de :",
+        "list1": "Copier, reproduire ou distribuer la Plateforme ;",
+        "list2": "Utiliser les marques TraceNet sans autorisation écrite ;",
+        "list3": "Modifier, décompiler ou rétroconcevoir la Plateforme ou ses modèles.",
+        "note": "Tous les droits non expressément accordés restent la propriété de TraceNet."
+      },
+      "dataUse": {
+        "title": "7. Utilisation des données et confidentialité",
+        "description1": "Toute donnée traitée est gérée conformément à la Politique de confidentialité.",
+        "description2": "L’utilisateur reconnaît que :",
+        "list1": "L’accès aux données est limité à des connexions en lecture seule ;",
+        "list2": "Les données peuvent être analysées à des fins de risque, conformité ou amélioration opérationnelle ;",
+        "list3": "TraceNet peut stocker des métadonnées ou insights anonymisés pour optimiser ses modèles ;",
+        "list4": "Tout traitement respecte le RGPD, les lois AML et autres réglementations applicables.",
+        "note": "L’utilisateur conserve la propriété de ses données et des résultats analytiques."
+      },
+      "security": {
+        "title": "8. Sécurité",
+        "text1": "TraceNet applique des protocoles de sécurité industriels (chiffrement, contrôle d’accès, monitoring continu).",
+        "text2": "Aucun système n’étant totalement sûr, l’utilisateur accepte les risques inhérents aux transmissions Internet.",
+        "text3": "TraceNet ne saurait être responsable des accès non autorisés hors de son contrôle raisonnable."
+      },
+      "availability": {
+        "title": "9. Disponibilité du service",
+        "description": "La Plateforme est fournie « en l’état » et « selon disponibilité ».",
+        "note": "TraceNet se réserve le droit de :",
+        "list1": "Modifier, suspendre ou arrêter toute fonctionnalité ;",
+        "list2": "Effectuer de la maintenance planifiée ou non ;",
+        "list3": "Restreindre l’accès sur obligation légale ou réglementaire.",
+        "note2": "TraceNet n’est pas responsable des indisponibilités ou pertes de données."
+      },
+      "prohibited": {
+        "title": "10. Activités interdites",
+        "description": "Les utilisateurs ne doivent pas :",
+        "list1": "Chercher à accéder illégalement à la Plateforme ou à ses données ;",
+        "list2": "Uploader ou transmettre des codes malveillants ;",
+        "list3": "Utiliser la Plateforme à des fins illicites ou frauduleuses ;",
+        "list4": "Perturber le réseau ou l’intégrité du système ;",
+        "list5": "Contourner les mécanismes de sécurité.",
+        "note": "Toute violation peut entraîner une suspension ou résiliation immédiate."
+      },
+      "liability": {
+        "title": "11. Limitation de responsabilité",
+        "text1": "Dans la mesure permise par la loi :",
+        "text2": "TraceNet décline toute responsabilité pour les dommages indirects, spéciaux ou consécutifs (perte de profits, données, réputation) liés à l’usage de la Plateforme.",
+        "text3": "La responsabilité totale de TraceNet est limitée aux montants versés (le cas échéant) par l’utilisateur durant les douze derniers mois."
+      },
+      "indemnification": {
+        "title": "12. Indemnisation",
+        "description": "L’utilisateur s’engage à indemniser TraceNet Systems Ltd., ses affiliés et employés contre toute réclamation résultant de :",
+        "list1": "Violation des présentes Conditions ;",
+        "list2": "Mauvais usage de la Plateforme ;",
+        "list3": "Infraction aux lois ou réglementations applicables."
+      },
+      "termination": {
+        "title": "13. Résiliation",
+        "description": "TraceNet peut suspendre ou résilier l’accès immédiatement en cas :",
+        "list1": "De violation des Conditions ou des obligations de conformité ;",
+        "list2": "D’utilisation illégale ou non conforme de la Plateforme ;",
+        "list3": "D’exigence d’un régulateur ou d’un tribunal.",
+        "note": "Après résiliation, tout droit d’accès à la Plateforme cesse immédiatement."
+      },
+      "changes": {
+        "title": "14. Modifications des Conditions",
+        "text1": "TraceNet peut mettre à jour ces Conditions périodiquement.",
+        "text2": "Les versions mises à jour seront publiées ici avec la nouvelle date « Dernière mise à jour ».",
+        "text3": "Le fait de continuer à utiliser la Plateforme vaut acceptation des nouvelles Conditions."
+      },
+      "governingLaw": {
+        "title": "15. Droit applicable et juridiction",
+        "text1": "Ces Conditions sont régies par les lois d’Israël, indépendamment des principes de conflit de lois.",
+        "text2": "Tout litige sera soumis à la compétence exclusive des tribunaux du district de Tel Aviv, Israël."
+      },
+      "contact": {
+        "title": "16. Contact",
+        "description": "Pour toute question, notification ou correspondance juridique concernant ces Conditions :",
+        "email": "📧 legal@tracenetsystems.com",
+        "company": "📍 TraceNet Systems Ltd.",
+        "address": "14 HaGefen Street, Ramat Gan, 5252174, Israël",
+        "separator": "⸻",
+        "compliantLabel": "✅ Conforme à :",
+        "compliantList": "RGPD (2016/679), AMLD6, PSD2, ISO 27001, SOC 2 Type II, PCI DSS et droit israélien pertinent."
+      }
+    }
+  },
   "contact": {
     "title": "Une technologie qui renforce l'intégrité financière",
     "subtitle": "Propulsée par Google Gemini. Conçue pour rendre l'écosystème financier mondial plus transparent, intelligent et responsable.",

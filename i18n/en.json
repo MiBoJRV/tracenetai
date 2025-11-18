@@ -550,6 +550,143 @@
       }
     }
   },
+  "terms": {
+    "lastUpdated": "Last Updated: October 2025",
+    "intro1": "These Terms of Use (\"Terms\") govern your access to and use of the platform, products, and services (collectively, the \"Platform\") provided by TraceNet Systems Ltd. (\"TraceNet,\" \"we,\" \"us,\" or \"our\").",
+    "intro2": "By accessing or using the Platform, you agree to be bound by these Terms. If you do not agree, you may not use the Platform.",
+    "sections": {
+      "about": {
+        "title": "1. About TraceNet",
+        "text1": "TraceNet Systems Ltd. is a technology company that provides AI-driven financial analytics and compliance infrastructure.",
+        "text2": "The Platform enables users to analyze transaction data, identify irregularities, and generate reports through read-only integrations with banks, payment systems, and digital-asset exchanges.",
+        "text3": "TraceNet is not a financial institution, broker, or money-service business.",
+        "text4": "We do not store, transfer, or control user funds."
+      },
+      "eligibility": {
+        "title": "2. Eligibility",
+        "description": "By using the Platform, you represent and warrant that:",
+        "list1": "You are at least 18 years old or of legal age in your jurisdiction;",
+        "list2": "You have the authority to enter into these Terms;",
+        "list3": "Your use of the Platform complies with all applicable laws, including financial and data-protection regulations.",
+        "note": "Access may be restricted or revoked if compliance obligations are not met or if false information is provided."
+      },
+      "services": {
+        "title": "3. Description of Services",
+        "description": "The Platform provides:",
+        "list1": "AI-based transaction analysis and risk scoring;",
+        "list2": "Integration with financial and crypto institutions via official APIs;",
+        "list3": "Automated generation of compliance and audit reports;",
+        "list4": "Optional automated initiation of chargeback, recall, or dispute requests when authorized by the user.",
+        "note1": "All actions are performed in read-only mode.",
+        "note2": "TraceNet does not execute or authorize financial transactions on behalf of users."
+      },
+      "responsibilities": {
+        "title": "4. User Responsibilities",
+        "description": "Users agree to:",
+        "list1": "Provide accurate and complete information during onboarding;",
+        "list2": "Maintain confidentiality of access credentials and API keys;",
+        "list3": "Use the Platform only for lawful and authorized purposes;",
+        "list4": "Not misuse, resell, or reverse-engineer any part of the Platform;",
+        "list5": "Immediately notify TraceNet of any unauthorized access or security incident.",
+        "note": "Users are solely responsible for actions performed under their credentials."
+      },
+      "compliance": {
+        "title": "5. Compliance Onboarding",
+        "description1": "To access advanced features or API integrations, users must complete a short compliance onboarding process, as required by international financial regulators.",
+        "description2": "This process may include:",
+        "list1": "Identity and institutional verification (KYC/KYB);",
+        "list2": "Acceptance of TraceNet's compliance terms;",
+        "list3": "Confirmation of lawful data usage and purpose.",
+        "note": "Access tokens are issued only upon successful completion of this process."
+      },
+      "ip": {
+        "title": "6. Intellectual Property",
+        "description1": "All intellectual property rights in the Platform, including software, models, text, design, and documentation, are owned by TraceNet Systems Ltd. or its licensors.",
+        "description2": "Users may not:",
+        "list1": "Copy, reproduce, or distribute any part of the Platform;",
+        "list2": "Use TraceNet's trademarks or branding without written permission;",
+        "list3": "Modify, decompile, or reverse-engineer the Platform or its AI models.",
+        "note": "All rights not expressly granted under these Terms are reserved by TraceNet."
+      },
+      "dataUse": {
+        "title": "7. Data Usage and Privacy",
+        "description1": "All data processed through the Platform is handled in accordance with the Privacy Policy.",
+        "description2": "Users acknowledge and agree that:",
+        "list1": "Data access is limited to read-only connections;",
+        "list2": "Data may be analyzed for risk, compliance, and operational improvement;",
+        "list3": "TraceNet may store metadata and anonymized insights for model optimization;",
+        "list4": "All data handling complies with GDPR, AML, and other applicable laws.",
+        "note": "Users retain ownership of their input data and analytical outputs."
+      },
+      "security": {
+        "title": "8. Security",
+        "text1": "TraceNet implements industry-standard security protocols, including encryption, access control, and continuous monitoring.",
+        "text2": "However, no system is completely secure, and users acknowledge the inherent risks of data transmission over the internet.",
+        "text3": "TraceNet will not be liable for unauthorized access or incidents beyond its reasonable control."
+      },
+      "availability": {
+        "title": "9. Service Availability",
+        "description": "The Platform is provided on an \"as-is\" and \"as-available\" basis.",
+        "note": "TraceNet reserves the right to:",
+        "list1": "Modify, suspend, or discontinue any feature or service;",
+        "list2": "Perform scheduled or unscheduled maintenance;",
+        "list3": "Restrict access when required by law or regulator.",
+        "note2": "TraceNet shall not be liable for downtime, delays, or data unavailability."
+      },
+      "prohibited": {
+        "title": "10. Prohibited Activities",
+        "description": "Users may not:",
+        "list1": "Attempt to gain unauthorized access to the Platform or its data;",
+        "list2": "Upload or transmit malicious code or data;",
+        "list3": "Use the Platform for unlawful, deceptive, or fraudulent activity;",
+        "list4": "Interfere with network operations or system integrity;",
+        "list5": "Circumvent security or authentication mechanisms.",
+        "note": "Violation of these terms may result in immediate suspension or termination of access."
+      },
+      "liability": {
+        "title": "11. Limitation of Liability",
+        "text1": "To the maximum extent permitted by law:",
+        "text2": "TraceNet shall not be liable for any indirect, incidental, consequential, or punitive damages, including loss of profits, data, or goodwill, arising from or related to the use of the Platform.",
+        "text3": "TraceNet's total liability shall not exceed the amount paid by the user (if any) in the preceding twelve months."
+      },
+      "indemnification": {
+        "title": "12. Indemnification",
+        "description": "Users agree to indemnify and hold harmless TraceNet Systems Ltd., its affiliates, and employees from any claims, damages, or expenses arising out of:",
+        "list1": "Violation of these Terms;",
+        "list2": "Misuse of the Platform;",
+        "list3": "Breach of applicable law or regulation."
+      },
+      "termination": {
+        "title": "13. Termination",
+        "description": "TraceNet may suspend or terminate user access immediately if:",
+        "list1": "The user violates these Terms or compliance obligations;",
+        "list2": "The Platform is misused for illegal or non-compliant activity;",
+        "list3": "Required by a financial regulator or court order.",
+        "note": "Upon termination, all rights to use the Platform cease immediately."
+      },
+      "changes": {
+        "title": "14. Changes to These Terms",
+        "text1": "TraceNet may update these Terms periodically.",
+        "text2": "Revised Terms will be posted on this page with the updated \"Last Modified\" date.",
+        "text3": "Continued use of the Platform after updates constitutes acceptance of the revised Terms."
+      },
+      "governingLaw": {
+        "title": "15. Governing Law and Jurisdiction",
+        "text1": "These Terms are governed by and construed under the laws of Israel, without regard to conflict-of-law principles.",
+        "text2": "Any dispute arising under these Terms shall be subject to the exclusive jurisdiction of the courts of Tel Aviv District, Israel."
+      },
+      "contact": {
+        "title": "16. Contact Information",
+        "description": "For any questions, notices, or legal correspondence regarding these Terms, please contact:",
+        "email": "📧 legal@tracenetsystems.com",
+        "company": "📍 TraceNet Systems Ltd.",
+        "address": "14 HaGefen Street, Ramat Gan, 5252174, Israel",
+        "separator": "⸻",
+        "compliantLabel": "✅ Compliant with:",
+        "compliantList": "GDPR (2016/679), AMLD6, Open Banking PSD2, ISO 27001, SOC 2 Type II, PCI DSS, and relevant Israeli corporate law."
+      }
+    }
+  },
   "contact": {
     "title": "Technology That Strengthens Financial Integrity",
     "subtitle": "Built on Google Gemini. Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
