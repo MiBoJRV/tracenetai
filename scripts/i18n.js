@@ -1,6 +1,19 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const supportedLanguages = ['en', 'fr', 'es', 'pl'];
-    const languageLabels = { en: 'EN', fr: 'FR', es: 'ES', pl: 'PL' };
+    const supportedLanguages = ['en', 'fr', 'es', 'pl', 'hr', 'cz', 'it', 'pt', 'de', 'ru', 'tr', 'el'];
+    const languageLabels = {
+        en: 'EN',
+        fr: 'FR',
+        es: 'ES',
+        pl: 'PL',
+        hr: 'HR',
+        cz: 'CZ',
+        it: 'IT',
+        pt: 'PT',
+        de: 'DE',
+        ru: 'RU',
+        tr: 'TR',
+        el: 'EL'
+    };
     const defaultLanguage = 'en';
     const storageKey = 'siteLanguage';
     const translationsCache = {};
