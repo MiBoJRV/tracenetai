@@ -198,19 +198,6 @@
       "description": "La plateforme repose sur le principe que transparence et conformité ne sont pas des exigences externes, mais des composants essentiels de l’architecture. Du chiffrement des données à la vérification réglementaire, chaque processus est aligné sur les standards internationaux d’intégrité financière et de sécurité de l’information.",
       "summary": "La sécurité est conçue. La conformité est intégrée."
     },
-    "learn": {
-      "title": "Construire la confiance par la transparence",
-      "text": "En intégrant la conformité réglementaire... (existing)"
-    }
-  },
-  "aboutPage": {
-    "hero": {
-      "title": "Construire l’infrastructure de la transparence financière",
-      "description": "Nous développons une infrastructure alimentée par l’IA pour apporter traçabilité, responsabilité et explicabilité aux systèmes financiers mondiaux. Notre mission : permettre aux institutions, régulateurs et particuliers de comprendre comment la valeur circule — de manière sécurisée, légale et intelligente.",
-      "summary": "Nous pensons que la transparence n’est pas un résultat : c’est une architecture."
-    },
-    ...
-  }
     "secureData": {
       "title": "Architecture des données sécurisée",
       "description": "Toutes les opérations sont effectuées en mode lecture seule afin d’empêcher toute modification non autorisée, mouvement de fonds ou accès aux comptes. La plateforme agit exclusivement comme une couche analytique, garantissant la protection des données financières des utilisateurs et institutions à chaque étape.",
@@ -250,7 +237,7 @@
     "threat": {
       "title": "Gestion en temps réel des menaces et des risques",
       "description": "La plateforme surveille en continu son environnement pour détecter les anomalies de sécurité et comportements d’accès anormaux. Lorsqu’un risque potentiel est identifié, des alertes automatisées sont envoyées au nœud de conformité interne et des actions immédiates sont déclenchées pour isoler ou neutraliser la menace.",
-      "process": "<strong style=\"display:block;\">Processus :</strong>• Surveillance comportementale continue du trafic API<br>• Scoring multi-niveaux des événements de sécurité<br>• Alertes et protocoles d’atténuation en temps réel<br>• Rapports forensiques vers les unités de conformité et les régulateurs"
+      "process": "<strong style=\\\"display:block;\\\">Processus :</strong>• Surveillance comportementale continue du trafic API<br>• Scoring multi-niveaux des événements de sécurité<br>• Alertes et protocoles d’atténuation en temps réel<br>• Rapports forensiques vers les unités de conformité et les régulateurs"
     },
     "collaborative": {
       "title": "Modèle de sécurité collaboratif",
@@ -274,6 +261,67 @@
       "title": "Construire la confiance par la transparence",
       "text": "En intégrant la conformité réglementaire et l’architecture de sécurité à chaque niveau, la plateforme pose les bases d’une IA responsable, explicable et auditable dans les écosystèmes financiers.",
       "cta": "Découvrir l’entreprise"
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "Construire l’infrastructure de la transparence financière",
+      "description": "Nous développons une infrastructure alimentée par l’IA pour apporter traçabilité, responsabilité et explicabilité aux systèmes financiers mondiaux. Notre mission : permettre aux institutions, régulateurs et particuliers de comprendre comment la valeur circule — de manière sécurisée, légale et intelligente.",
+      "summary": "Nous pensons que la transparence n’est pas un résultat : c’est une architecture."
+    },
+    "mission": {
+      "title": "Mission",
+      "description": "Créer un cadre technologique universel garantissant que chaque action financière — qu’elle soit réalisée par un individu, une entreprise ou un algorithme — reste traçable, vérifiable et conforme à la loi.",
+      "highlight": "Un environnement financier global où chaque transaction peut être comprise, vérifiée et digne de confiance."
+    },
+    "operation": {
+      "title": "Notre mode de fonctionnement",
+      "description": "Nous combinons recherche en IA, expertise financière et ingénierie réglementaire pour rapprocher innovation et conformité. Nos équipes interdisciplinaires conçoivent des systèmes qui interprètent le comportement financier en respectant les standards les plus stricts de gouvernance des données.",
+      "accordion": {
+        "title": "Principes clés :",
+        "text": "• Intégrité : les données doivent servir la vérité et la transparence.<br>• Sécurité : la protection des données utilisateurs et institutionnelles est fondamentale.<br>• Responsabilité : chaque décision — humaine ou algorithmique — doit être explicable.<br>• Collaboration : seules des coopérations intersectorielles peuvent sécuriser les systèmes financiers."
+      }
+    },
+    "leadership": {
+      "title": "Leadership et expertise",
+      "description": "Notre équipe réunit des spécialistes en architecture IA, technologies financières, modélisation des risques et conformité réglementaire. Chaque division collabore pour concevoir, valider et superviser chaque aspect de la plateforme — de l’infrastructure de données au déploiement éthique de l’IA.",
+      "accordion": {
+        "title": "Organisation :",
+        "text": "• Recherche et modélisation IA<br>• Ingénierie de conformité financière<br>• Infrastructure de données et sécurité<br>• Affaires réglementaires<br>• Opérations et gouvernance"
+      },
+      "note": "Nous construisons une technologie responsable — de l’algorithme jusqu’à la direction."
+    },
+    "collaborative": {
+      "title": "Infrastructure collaborative",
+      "description": "La plateforme est développée en partenariat avec des institutions financières, des acteurs de la blockchain analytique et des organisations de cybersécurité partageant la même vision : transparence et protection doivent coexister dans l’économie numérique.",
+      "accordion": {
+        "title": "Écosystème de partenariats :",
+        "text": "• Banques réglementées et processeurs de paiement<br>• Plateformes crypto licenciées et dépositaires<br>• Organisations dédiées à la confidentialité et la conformité des données<br>• Partenaires indépendants d’audit et de certification"
+      },
+      "note": "Chaque intégration renforce le réseau collectif de confiance."
+    },
+    "innovation": {
+      "title": "Innovation continue",
+      "paragraph1": "La recherche est au cœur de tout ce que nous faisons.<br>Notre division R&D explore des méthodologies IA avancées pour le raisonnement financier, la détection d’anomalies et la prise de décision explicable.<br>Nous collaborons avec des institutions académiques et des laboratoires RegTech afin d’aligner en permanence l’innovation sur les normes de conformité émergentes.",
+      "paragraph2": "<span class=\"h3\"> Axes prioritaires :</span>• Raisonnement multimodal appliqué aux systèmes financiers<br>• Algorithmes adaptatifs de détection de fraude<br>• Reporting de conformité autonome<br>• Collaboration humain-IA pour l’interprétabilité"
+    },
+    "responsible": {
+      "title": "Intelligence responsable",
+      "description": "Nous nous engageons pour un usage responsable de l’IA dans l’analyse financière. Tous les modèles sont conçus avec la transparence, la réversibilité et l’auditabilité comme principes fondateurs. Aucune action autonome n’est exécutée sans supervision humaine traçable ni logique réglementaire.",
+      "accordion": {
+        "title": "Cadre éthique :",
+        "text": "• Vérification humaine des décisions sensibles<br>• Aucun résultat opaque ou inexplicable<br>• Surveillance continue des biais et dérives de données<br>• Comité interne d’éthique supervisant les mises à jour de modèles"
+      }
+    },
+    "contact": {
+      "title": "Contactez-nous",
+      "description": "Pour toute demande de partenariat, relations presse ou coordination réglementaire, écrivez-nous à :<br><span class=\"email-link\">📧<a class=\"link\" href=\"mailto:support@tracenetai.com\">support@tracenetai.com</a></span> ou utilisez le formulaire sécurisé ci-dessous.",
+      "note": "Toutes les communications sont chiffrées et analysées dans le cadre de notre politique de protection des données."
+    },
+    "cta": {
+      "partnership": "Demander un partenariat",
+      "press": "Contact presse",
+      "regulatory": "Coordination réglementaire"
     }
   },
   "contact": {
