@@ -26,14 +26,24 @@
                     <nav>
                         <div class="ul">
                             <div class="nav-list">
-                                <div class="li"><a href="technology.html">TECHNOLOGY</a></div>
-                                <div class="li"><a href="solutions.html">SOLUTIONS</a></div>
-                                <div class="li"><a href="compliance-security.html">COMPLIANCE & SECURITY</a></div>
-                                <div class="li"><a href="about-us.html">ABOUT US</a></div>
+                                <div class="li"><a data-i18n="nav.technology" href="technology.html">TECHNOLOGY</a></div>
+                                <div class="li"><a data-i18n="nav.solutions" href="solutions.html">SOLUTIONS</a></div>
+                                <div class="li"><a data-i18n="nav.compliance" href="compliance-security.html">COMPLIANCE & SECURITY</a></div>
+                                <div class="li"><a data-i18n="nav.about" href="about-us.html">ABOUT US</a></div>
                             </div>
                             <div class="nav-btn">
                                 <div class="button-survey li">
-                                    <a href="index.html#contact-form-section">Contact us</a>
+                                    <a data-i18n="nav.contact" href="#contact-form-section">Contact us</a>
+                                </div>
+                            </div>
+                            <div class="language-switcher">
+                                <button class="language-switcher-toggle" aria-expanded="false" aria-haspopup="listbox" type="button">
+                                    <span data-current-language>EN</span>
+                                    <span class="language-switcher-icon"></span>
+                                </button>
+                                <div class="language-switcher-menu" role="listbox">
+                                    <button class="language-option" data-lang-option="en" role="option" type="button">EN</button>
+                                    <button class="language-option" data-lang-option="fr" role="option" type="button">FR</button>
                                 </div>
                             </div>
                         </div>
@@ -58,16 +68,26 @@
                 <div class="menu">
                     <nav>
                         <ul>
-                            <li><a href="technology.html">TECHNOLOGY</a></li>
-                            <li><a href="solutions.html">SOLUTIONS</a></li>
-                            <li><a href="compliance-security.html">COMPLIANCE & SECURITY</a></li>
-                            <li><a href="about-us.html">ABOUT US</a></li>
+                            <li><a data-i18n="nav.technology" href="technology.html">TECHNOLOGY</a></li>
+                            <li><a data-i18n="nav.solutions" href="solutions.html">SOLUTIONS</a></li>
+                            <li><a data-i18n="nav.compliance" href="compliance-security.html">COMPLIANCE & SECURITY</a></li>
+                            <li><a data-i18n="nav.about" href="about-us.html">ABOUT US</a></li>
                         </ul>
                     </nav>
                 </div>
+                <div class="language-switcher mobile">
+                    <button class="language-switcher-toggle" aria-expanded="false" aria-haspopup="listbox" type="button">
+                        <span data-current-language>EN</span>
+                        <span class="language-switcher-icon"></span>
+                    </button>
+                    <div class="language-switcher-menu" role="listbox">
+                        <button class="language-option" data-lang-option="en" role="option" type="button">EN</button>
+                        <button class="language-option" data-lang-option="fr" role="option" type="button">FR</button>
+                    </div>
+                </div>
             </div>
             <div class="button-survey">
-                <a href="index.html#contact-form-section">Contact us</a>
+                <a data-i18n="nav.contact" href="#contact-form-section">Contact us</a>
             </div>
         </div>
     </header>
@@ -78,8 +98,8 @@
                 <div class="flex-7">
                     <div class="frame-1000000946">
                         <div class="frame-1000000947">
-                            <h2 class="title-gemini">Applications Across the Financial Ecosystem</h2>
-                            <p class="description-gemini">
+                            <h2 class="title-gemini" data-i18n="solutions.hero.title">Applications Across the Financial Ecosystem</h2>
+                            <p class="description-gemini" data-i18n="solutions.hero.description" data-i18n-html="true">
                                 The platform's modular architecture allows it to operate across multiple layers of the
                                 financial landscape —from individual account monitoring to institutional compliance
                                 infrastructure.<br>
@@ -87,7 +107,7 @@
                                 risk, and acts through verified financial APIs.
                             </p>
                         </div>
-                        <p class="summary-gemini">
+                        <p class="summary-gemini" data-i18n="solutions.hero.summary">
                             Different users. One system of transparency.
                         </p>
                     </div>
@@ -98,8 +118,8 @@
         <section class="section-secure-data-handling">
             <div class="section-secure-data-container">
                 <div class="section-secure-data-header">
-                    <h2 class="section-secure-data-title">Personal Financial Awareness and Protection</h2>
-                    <p class="section-secure-data-description">
+                    <h2 class="section-secure-data-title" data-i18n="solutions.personal.title">Personal Financial Awareness and Protection</h2>
+                    <p class="section-secure-data-description" data-i18n="solutions.personal.description">
                         For individual users, the system functions as a continuous monitoring environment that provides
                         real-time visibility into every transaction.
                         It identifies recurring charges, hidden subscriptions, and potential unauthorized activity —
@@ -113,10 +133,10 @@
                     </div>
                     <div class="secure-data-accordion">
                         <div class="accordion-item">
-                            <h3 class="accordion-header">Use cases:</h3>
+                            <h3 class="accordion-header" data-i18n="solutions.personal.accordion.title">Use cases:</h3>
                             <div class="accordion-content">
 
-                                <p>
+                                <p data-i18n="solutions.personal.accordion.text" data-i18n-html="true">
                                     • Detect recurring or duplicate payments<br>
                                     • Identify unauthorized transactions before they accumulate<br>
                                     • Receive structured reports with fraud scores and compliance context<br>
@@ -127,15 +147,15 @@
                     </div>
                 </div>
             </div>
-            <p class="text-italic">Individuals gain clarity over their digital finances and reduce losses from unnoticed
+            <p class="text-italic" data-i18n="solutions.personal.note">Individuals gain clarity over their digital finances and reduce losses from unnoticed
                 activity or subscription leakage.</p>
         </section>
 
         <section class="section-gemini-risk-engine">
             <div class="section-gemini-risk-container">
                 <div class="section-gemini-risk-header">
-                    <h2 class="section-gemini-risk-title">Corporate Transaction Oversight</h2>
-                    <p class="section-gemini-risk-description">
+                    <h2 class="section-gemini-risk-title" data-i18n="solutions.corporate.title">Corporate Transaction Oversight</h2>
+                    <p class="section-gemini-risk-description" data-i18n="solutions.corporate.description">
                         For enterprises, the platform acts as a financial integrity layer —
                         monitoring all outgoing and incoming transactions to ensure they align with internal policies,
                         vendor agreements, and regional compliance standards.
@@ -144,9 +164,9 @@
                 <div class="section-gemini-risk-content">
                     <div class="gemini-risk-accordion">
                         <div class="accordion-item-risk">
-                            <h3 class="accordion-header-risk">Use cases:</h3>
+                            <h3 class="accordion-header-risk" data-i18n="solutions.corporate.accordion.title">Use cases:</h3>
                             <div class="accordion-content-risk">
-                                <p>
+                                <p data-i18n="solutions.corporate.accordion.text" data-i18n-html="true">
                                     • Detect unapproved or duplicate vendor payments <br>
                                     • Analyze financial exposure across accounts and subsidiaries<br>
                                     • Generate automated compliance and audit reports<br>
@@ -160,7 +180,7 @@
                     </div>
                 </div>
             </div>
-            <p class="text-italic">
+            <p class="text-italic" data-i18n="solutions.corporate.note">
                 Financial institutions gain a scalable, regulator-aligned AI layer for fraud management and customer
                 protection.
             </p>
@@ -169,8 +189,8 @@
         <section class="section-secure-data-handling">
             <div class="section-secure-data-container">
                 <div class="section-secure-data-header">
-                    <h2 class="section-secure-data-title">AI-Powered Fraud and Compliance Infrastructure</h2>
-                    <p class="section-secure-data-description">
+                    <h2 class="section-secure-data-title" data-i18n="solutions.infrastructure.title">AI-Powered Fraud and Compliance Infrastructure</h2>
+                    <p class="section-secure-data-description" data-i18n="solutions.infrastructure.description">
                         Banks, fintech companies, and exchanges integrate the system through API to enhance their fraud
                         detection, transaction traceability, and regulatory response capabilities.
                         The Gemini-based core delivers contextual risk assessment for both fiat and crypto operations,
@@ -183,10 +203,10 @@
                     </div>
                     <div class="secure-data-accordion">
                         <div class="accordion-item">
-                            <h3 class="accordion-header">Use cases:</h3>
+                            <h3 class="accordion-header" data-i18n="solutions.infrastructure.accordion.title">Use cases:</h3>
                             <div class="accordion-content">
 
-                                <p>
+                                <p data-i18n="solutions.infrastructure.accordion.text" data-i18n-html="true">
                                     • Real-time anomaly detection across payment networks<br>
                                     • Automated escalation of high-risk transaction chains<br>
                                     • Instant generation of incident reports for compliance teams<br>
@@ -197,15 +217,15 @@
                     </div>
                 </div>
             </div>
-            <p class="text-italic">Financial institutions gain a scalable, regulator-aligned AI layer for fraud
+            <p class="text-italic" data-i18n="solutions.infrastructure.note">Financial institutions gain a scalable, regulator-aligned AI layer for fraud
                 management and customer protection. </p>
         </section>
 
         <section class="section-gemini-risk-engine">
             <div class="section-gemini-risk-container">
                 <div class="section-gemini-risk-header">
-                    <h2 class="section-gemini-risk-title">Transparent Oversight and Traceability</h2>
-                    <p class="section-gemini-risk-description">
+                    <h2 class="section-gemini-risk-title" data-i18n="solutions.regulatory.title">Transparent Oversight and Traceability</h2>
+                    <p class="section-gemini-risk-description" data-i18n="solutions.regulatory.description">
                         For supervisory bodies and regulatory auditors, the platform provides a neutral AI-driven view
                         of transaction networks —with explainable reasoning, immutable audit trails, and standardized
                         data export formats.
@@ -214,9 +234,9 @@
                 <div class="section-gemini-risk-content">
                     <div class="gemini-risk-accordion">
                         <div class="accordion-item-risk">
-                            <h3 class="accordion-header-risk">Use cases:</h3>
+                            <h3 class="accordion-header-risk" data-i18n="solutions.regulatory.accordion.title">Use cases:</h3>
                             <div class="accordion-content-risk">
-                                <p>
+                                <p data-i18n="solutions.regulatory.accordion.text" data-i18n-html="true">
                                     • Cross-platform tracing of suspicious fund movement <br>
                                     • Automated AML/KYC anomaly detection<br>
                                     • Centralized visualization of institution-wide financial flows<br>
@@ -230,7 +250,7 @@
                     </div>
                 </div>
             </div>
-            <p class="text-italic">
+            <p class="text-italic" data-i18n="solutions.regulatory.note">
                 Regulators receive structured, verified, and explainable financial intelligence aligned with global
                 compliance frameworks.
             </p>
@@ -239,8 +259,8 @@
         <section class="section-secure-data-handling">
             <div class="section-secure-data-container">
                 <div class="section-secure-data-header">
-                    <h2 class="section-secure-data-title">Unified Ecosystem Connectivity</h2>
-                    <p class="section-secure-data-description">
+                    <h2 class="section-secure-data-title" data-i18n="solutions.connectivity.title">Unified Ecosystem Connectivity</h2>
+                    <p class="section-secure-data-description" data-i18n="solutions.connectivity.description">
                         Through open APIs, the system connects to financial, blockchain, and compliance infrastructures
                         — enabling data exchange between individual, corporate, and institutional layers without
                         compromising privacy or regulatory boundaries.
@@ -252,10 +272,10 @@
                     </div>
                     <div class="secure-data-accordion">
                         <div class="accordion-item">
-                            <h3 class="accordion-header">Integrations include:</h3>
+                            <h3 class="accordion-header" data-i18n="solutions.connectivity.accordion.title">Integrations include:</h3>
                             <div class="accordion-content">
 
-                                <p>
+                                <p data-i18n="solutions.connectivity.accordion.text" data-i18n-html="true">
                                     • Retail and commercial banks <br>
                                     • Payment gateways and acquirers <br>
                                     • Major crypto exchanges and custodians <br>
@@ -272,8 +292,8 @@
         <section class="section-gemini-risk-engine">
             <div class="section-gemini-risk-container">
                 <div class="section-gemini-risk-header">
-                    <h2 class="section-gemini-risk-title">Impact Across All Stakeholders</h2>
-                    <p class="section-gemini-risk-description">
+                    <h2 class="section-gemini-risk-title" data-i18n="solutions.impact.title">Impact Across All Stakeholders</h2>
+                    <p class="section-gemini-risk-description" data-i18n="solutions.impact.description">
                         By introducing explainable AI into the financial ecosystem,
                         the platform improves visibility, reduces systemic fraud, and enhances compliance efficiency across all participants.
                     </p>
@@ -281,9 +301,9 @@
                 <div class="section-gemini-risk-content">
                     <div class="gemini-risk-accordion">
                         <div class="accordion-item-risk">
-                            <h3 class="accordion-header-risk">Shared benefits:</h3>
+                            <h3 class="accordion-header-risk" data-i18n="solutions.impact.accordion.title">Shared benefits:</h3>
                             <div class="accordion-content-risk">
-                                <p>
+                                <p data-i18n="solutions.impact.accordion.text" data-i18n-html="true">
                                     • Unified fraud-risk framework across fiat and crypto ecosystems <br>
                                     • Automated compliance actions with regulator-approved logic<br>
                                     • Reduced operational costs for investigation and reporting<br>
@@ -308,10 +328,10 @@
                 <div class="contact-section-container">
                     <div class="contact-section-wrapper">
                         <div class="contact-section-text">
-                            <h2 class="contact-section-title">
+                            <h2 class="contact-section-title" data-i18n="contact.title">
                                 Technology That Strengthens Financial Integrity
                             </h2>
-                            <p class="contact-section-subtitle">
+                            <p class="contact-section-subtitle" data-i18n="contact.subtitle">
                                 Built on Google Gemini. Designed to make the global financial ecosystem more
                                 transparent, intelligent, and accountable.
                             </p>
@@ -319,44 +339,44 @@
 
                         <div class="contact-form-wrapper">
                             <div class="contact-form-header">
-                                <h3>Fill in your details below</h3>
+                                <h3 data-i18n="contact.form.title">Fill in your details below</h3>
                             </div>
 
                             <form class="contact-form" id="contactForm" novalidate>
                                 <div class="form-row">
                                     <div class="form-group" style="position: static!important;">
-                                        <label for="first_name">First Name*</label>
+                                        <label data-i18n="contact.form.firstName" for="first_name">First Name*</label>
                                         <input id="first_name" name="first_name" placeholder="" required type="text">
                                     </div>
                                     <div class="form-group" style="position: static!important;">
-                                        <label for="last_name">Last Name*</label>
+                                        <label data-i18n="contact.form.lastName" for="last_name">Last Name*</label>
                                         <input id="last_name" name="last_name" placeholder="" required type="text">
                                     </div>
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="email">Email*</label>
+                                    <label data-i18n="contact.form.email" for="email">Email*</label>
                                     <input id="email" name="email" placeholder="" required type="email">
                                 </div>
 
                                 <div class="form-group phone-group">
-                                    <label for="phone">Phone*</label>
+                                    <label data-i18n="contact.form.phone" for="phone">Phone*</label>
                                     <div class="phone-input-wrapper">
                                         <input id="phone" name="phone" placeholder="" required type="tel">
                                     </div>
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="message">Anything we should know before our call?</label>
+                                    <label data-i18n="contact.form.message" for="message">Anything we should know before our call?</label>
                                     <textarea id="message" name="message" placeholder="" rows="4"></textarea>
                                 </div>
 
-                                <p class="privacy-text">
+                                <p class="privacy-text" data-i18n="contact.form.privacy" data-i18n-html="true">
                                     By submitting this form I accept the <a href="privacy-policy.html">privacy
                                     policy</a> terms
                                 </p>
 
-                                <button class="submit-btn" type="submit">Explore the Architecture</button>
+                                <button class="submit-btn" data-i18n="contact.form.submit" type="submit">Explore the Architecture</button>
                             </form>
                         </div>
                     </div>
@@ -372,28 +392,28 @@
                     <div class="footer-logo">
                         <img alt="traceNet AI Logo" src="images/footer-logo.svg">
                     </div>
-                    <p class="footer-description">
+                    <p class="footer-description" data-i18n="footer.description" data-i18n-html="true">
                         Built on Google Gemini.<br>
                         Designed to make the global financial ecosystem more transparent, intelligent, and accountable.
                     </p>
-                    <a class="footer-contact-btn" href="index.html#contact-form-section">Contact Us</a>
+                    <a class="footer-contact-btn" data-i18n="footer.contact" href="#contact-form-section">Contact Us</a>
                 </div>
                 <div class="footer-menu">
                     <nav class="footer-nav">
-                        <a class="footer-nav-link" href="technology.html">TECHNOLOGY</a>
-                        <a class="footer-nav-link" href="solutions.html">SOLUTIONS</a>
-                        <a class="footer-nav-link" href="compliance-security.html">COMPLIANCE & SECURITY</a>
-                        <a class="footer-nav-link" href="about-us.html">ABOUT US</a>
+                        <a class="footer-nav-link" data-i18n="nav.technology" href="technology.html">TECHNOLOGY</a>
+                        <a class="footer-nav-link" data-i18n="nav.solutions" href="solutions.html">SOLUTIONS</a>
+                        <a class="footer-nav-link" data-i18n="nav.compliance" href="compliance-security.html">COMPLIANCE & SECURITY</a>
+                        <a class="footer-nav-link" data-i18n="nav.about" href="about-us.html">ABOUT US</a>
                     </nav>
                 </div>
                 <div class="footer-sub-menu">
-                    <a class="footer-sub-link" href="privacy-policy.html">Privacy Policy</a>
-                    <a class="footer-sub-link" href="terms-of-use.html">Terms of Use</a>
-                    <a class="footer-sub-link" href="cookie-policy.html">Cookie Policy</a>
+                    <a class="footer-sub-link" data-i18n="footer.privacy" href="privacy-policy.html">Privacy Policy</a>
+                    <a class="footer-sub-link" data-i18n="footer.terms" href="terms-of-use.html">Terms of Use</a>
+                    <a class="footer-sub-link" data-i18n="footer.cookie" href="cookie-policy.html">Cookie Policy</a>
                 </div>
             </div>
             <div class="footer-legal">
-                <p>The analyses published within the scope of this service were prepared on behalf of Bridgewise
+                <p data-i18n="footer.legal">The analyses published within the scope of this service were prepared on behalf of Bridgewise
                     Analytics Ltd (the "Company").</p>
             </div>
         </div>
@@ -402,18 +422,18 @@
     <div class="cookie-banner" id="cookieBanner">
         <div class="cookie-banner-content">
             <div class="cookie-banner-text">
-                <h5>
+                <h5 data-i18n="cookie.title">
                     This website uses cookies to improve the user experience and analyze traffic.
                 </h5>
-                <p>
+                <p data-i18n="cookie.description">
                     By clicking the "Continue" button or by continuing to use the website, you consent to the use of
                     cookies in your browser. You can manage cookies at any time in your browser settings. For more
                     information, please read our Privacy Policy, Cookie Policy, and User Agreement.
                 </p>
             </div>
             <div class="cookie-banner-buttons">
-                <button class="cookie-banner-btn cookie-banner-btn-primary" id="closeCookies">Close</button>
-                <button class="cookie-banner-btn cookie-banner-btn-secondary" id="acceptAllCookies">Continue</button>
+                <button class="cookie-banner-btn cookie-banner-btn-primary" data-i18n="cookie.close" id="closeCookies">Close</button>
+                <button class="cookie-banner-btn cookie-banner-btn-secondary" data-i18n="cookie.accept" id="acceptAllCookies">Continue</button>
             </div>
         </div>
     </div>
@@ -425,6 +445,7 @@
 <link href="https://cdn.jsdelivr.net/npm/intl-tel-input@25.3.2/build/css/intlTelInput.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/intl-tel-input@25.3.2/build/js/intlTelInput.min.js"></script>
 <script src="scripts/contact-form.js"></script>
+<script src="scripts/i18n.js"></script>
 
 </body>
 </html>

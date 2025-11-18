@@ -133,6 +133,65 @@
       }
     }
   },
+  "solutions": {
+    "hero": {
+      "title": "Applications dans l’écosystème financier",
+      "description": "L’architecture modulaire de la plateforme lui permet d’opérer sur plusieurs couches du paysage financier — de la surveillance des comptes individuels aux infrastructures de conformité institutionnelle.<br>Construite sur le framework IA de Gemini, elle interprète les données de transaction, évalue les risques comportementaux et agit via des API financières vérifiées.",
+      "summary": "Des utilisateurs différents. Un seul système de transparence."
+    },
+    "personal": {
+      "title": "Sensibilisation et protection financières personnelles",
+      "description": "Pour les particuliers, le système agit comme un environnement de surveillance continue offrant une visibilité en temps réel sur chaque transaction. Il identifie les prélèvements récurrents, abonnements cachés et activités potentiellement non autorisées — et, si nécessaire, initie des demandes de remboursement ou de litige autorisées via l’institution financière de l’utilisateur.",
+      "accordion": {
+        "title": "Cas d’usage :",
+        "text": "• Détecter les paiements récurrents ou en double<br>• Identifier les transactions non autorisées avant qu’elles ne s’accumulent<br>• Recevoir des rapports structurés avec scores de fraude et contexte de conformité<br>• Automatiser en toute sécurité les processus de rétrofacturation ou de rappel"
+      },
+      "note": "Les particuliers gagnent en clarté sur leurs finances numériques et réduisent les pertes dues aux activités inaperçues ou aux abonnements oubliés."
+    },
+    "corporate": {
+      "title": "Surveillance des transactions d’entreprise",
+      "description": "Pour les entreprises, la plateforme agit comme une couche d’intégrité financière — surveillant tous les flux sortants et entrants afin de vérifier leur alignement avec les politiques internes, les contrats fournisseurs et les normes de conformité régionales.",
+      "accordion": {
+        "title": "Cas d’usage :",
+        "text": "• Détecter les paiements fournisseurs non approuvés ou en double<br>• Analyser l’exposition financière entre comptes et filiales<br>• Générer automatiquement des rapports de conformité et d’audit<br>• Identifier les premiers signaux d’abus de compte ou de fraude interne"
+      },
+      "note": "Les institutions financières bénéficient d’une couche IA évolutive, conforme aux régulateurs, pour la gestion de la fraude et la protection des clients."
+    },
+    "infrastructure": {
+      "title": "Infrastructure IA de lutte contre la fraude et de conformité",
+      "description": "Les banques, fintechs et plateformes d’échange intègrent le système via API pour renforcer la détection de fraude, la traçabilité des transactions et les réponses réglementaires. Le noyau basé sur Gemini fournit une évaluation contextuelle des risques pour les opérations fiat et crypto, améliorant la précision et réduisant les faux positifs.",
+      "accordion": {
+        "title": "Cas d’usage :",
+        "text": "• Détection d’anomalies en temps réel sur les réseaux de paiement<br>• Escalade automatisée des chaînes de transactions à haut risque<br>• Génération instantanée de rapports d’incident pour les équipes de conformité<br>• Support de l’automatisation des rétrofacturations et litiges via des API régulées"
+      },
+      "note": "Les institutions financières disposent d’une couche IA conforme aux régulateurs pour la lutte contre la fraude et la protection client."
+    },
+    "regulatory": {
+      "title": "Supervision transparente et traçabilité",
+      "description": "Pour les organismes de contrôle et auditeurs, la plateforme offre une vue neutre, pilotée par l’IA, des réseaux de transactions — avec raisonnement explicable, traces d’audit immuables et exports de données standardisés.",
+      "accordion": {
+        "title": "Cas d’usage :",
+        "text": "• Traçage inter-plateformes des mouvements de fonds suspects<br>• Détection automatisée d’anomalies AML/KYC<br>• Visualisation centralisée des flux financiers à l’échelle d’une institution<br>• Données d’audit disponibles à la demande avec métadonnées d’explicabilité"
+      },
+      "note": "Les régulateurs reçoivent une intelligence financière structurée, vérifiée et explicable, alignée sur les cadres de conformité mondiaux."
+    },
+    "connectivity": {
+      "title": "Connectivité unifiée de l’écosystème",
+      "description": "Grâce aux API ouvertes, le système se connecte aux infrastructures financières, blockchain et de conformité — permettant l’échange de données entre les couches individuelle, corporate et institutionnelle sans compromettre la confidentialité ni les limites réglementaires.",
+      "accordion": {
+        "title": "Intégrations possibles :",
+        "text": "• Banques de détail et commerciales<br>• Passerelles et acquéreurs de paiement<br>• Principales plateformes crypto et dépositaires<br>• Systèmes de gestion de la conformité<br>• Cellules gouvernementales de lutte anti-blanchiment et de renseignement financier"
+      }
+    },
+    "impact": {
+      "title": "Impact pour tous les acteurs",
+      "description": "En introduisant une IA explicable dans l’écosystème financier, la plateforme améliore la visibilité, réduit la fraude systémique et renforce l’efficacité de la conformité pour tous les participants.",
+      "accordion": {
+        "title": "Bénéfices partagés :",
+        "text": "• Cadre unifié de gestion du risque de fraude pour les écosystèmes fiat et crypto<br>• Actions de conformité automatisées selon une logique approuvée par les régulateurs<br>• Réduction des coûts opérationnels d’enquête et de reporting<br>• Renforcement de la confiance utilisateur grâce à la transparence et à la responsabilité"
+      }
+    }
+  },
   "contact": {
     "title": "Une technologie qui renforce l'intégrité financière",
     "subtitle": "Propulsée par Google Gemini. Conçue pour rendre l'écosystème financier mondial plus transparent, intelligent et responsable.",

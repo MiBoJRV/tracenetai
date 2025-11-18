@@ -133,6 +133,65 @@
       }
     }
   },
+  "solutions": {
+    "hero": {
+      "title": "Applications Across the Financial Ecosystem",
+      "description": "The platform's modular architecture allows it to operate across multiple layers of the financial landscape — from individual account monitoring to institutional compliance infrastructure.<br>Built on Gemini's AI framework, it interprets transaction data, evaluates behavioral risk, and acts through verified financial APIs.",
+      "summary": "Different users. One system of transparency."
+    },
+    "personal": {
+      "title": "Personal Financial Awareness and Protection",
+      "description": "For individual users, the system functions as a continuous monitoring environment that provides real-time visibility into every transaction. It identifies recurring charges, hidden subscriptions, and potential unauthorized activity—and, when required, initiates authorized refund or dispute requests through the user’s financial institution.",
+      "accordion": {
+        "title": "Use cases:",
+        "text": "• Detect recurring or duplicate payments<br>• Identify unauthorized transactions before they accumulate<br>• Receive structured reports with fraud scores and compliance context<br>• Automate chargeback or recall processes securely"
+      },
+      "note": "Individuals gain clarity over their digital finances and reduce losses from unnoticed activity or subscription leakage."
+    },
+    "corporate": {
+      "title": "Corporate Transaction Oversight",
+      "description": "For enterprises, the platform acts as a financial integrity layer—monitoring all outgoing and incoming transactions to ensure they align with internal policies, vendor agreements, and regional compliance standards.",
+      "accordion": {
+        "title": "Use cases:",
+        "text": "• Detect unapproved or duplicate vendor payments<br>• Analyze financial exposure across accounts and subsidiaries<br>• Generate automated compliance and audit reports<br>• Identify early indicators of account misuse or insider fraud"
+      },
+      "note": "Financial institutions gain a scalable, regulator-aligned AI layer for fraud management and customer protection."
+    },
+    "infrastructure": {
+      "title": "AI-Powered Fraud and Compliance Infrastructure",
+      "description": "Banks, fintech companies, and exchanges integrate the system through API to enhance their fraud detection, transaction traceability, and regulatory response capabilities. The Gemini-based core delivers contextual risk assessment for both fiat and crypto operations, improving precision and reducing false positives.",
+      "accordion": {
+        "title": "Use cases:",
+        "text": "• Real-time anomaly detection across payment networks<br>• Automated escalation of high-risk transaction chains<br>• Instant generation of incident reports for compliance teams<br>• Support for chargeback and dispute automation through regulated APIs"
+      },
+      "note": "Financial institutions gain a scalable, regulator-aligned AI layer for fraud management and customer protection."
+    },
+    "regulatory": {
+      "title": "Transparent Oversight and Traceability",
+      "description": "For supervisory bodies and regulatory auditors, the platform provides a neutral AI-driven view of transaction networks—with explainable reasoning, immutable audit trails, and standardized data export formats.",
+      "accordion": {
+        "title": "Use cases:",
+        "text": "• Cross-platform tracing of suspicious fund movement<br>• Automated AML/KYC anomaly detection<br>• Centralized visualization of institution-wide financial flows<br>• On-demand audit data with full explainability metadata"
+      },
+      "note": "Regulators receive structured, verified, and explainable financial intelligence aligned with global compliance frameworks."
+    },
+    "connectivity": {
+      "title": "Unified Ecosystem Connectivity",
+      "description": "Through open APIs, the system connects to financial, blockchain, and compliance infrastructures — enabling data exchange between individual, corporate, and institutional layers without compromising privacy or regulatory boundaries.",
+      "accordion": {
+        "title": "Integrations include:",
+        "text": "• Retail and commercial banks<br>• Payment gateways and acquirers<br>• Major crypto exchanges and custodians<br>• Compliance management systems<br>• Governmental AML & financial intelligence units"
+      }
+    },
+    "impact": {
+      "title": "Impact Across All Stakeholders",
+      "description": "By introducing explainable AI into the financial ecosystem, the platform improves visibility, reduces systemic fraud, and enhances compliance efficiency across all participants.",
+      "accordion": {
+        "title": "Shared benefits:",
+        "text": "• Unified fraud-risk framework across fiat and crypto ecosystems<br>• Automated compliance actions with regulator-approved logic<br>• Reduced operational costs for investigation and reporting<br>• Enhanced user trust through transparency and accountability"
+      }
+    }
+  },
   "contact": {
     "title": "Technology That Strengthens Financial Integrity",
     "subtitle": "Built on Google Gemini. Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
