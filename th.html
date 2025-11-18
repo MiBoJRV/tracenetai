@@ -29,14 +29,24 @@
                     <nav>
                         <div class="ul">
                             <div class="nav-list">
-                                <div class="li"><a href="technology.html">TECHNOLOGY</a></div>
-                                <div class="li"><a href="solutions.html">SOLUTIONS</a></div>
-                                <div class="li"><a href="compliance-security.html">COMPLIANCE & SECURITY</a></div>
-                                <div class="li"><a href="about-us.html">ABOUT US</a></div>
+                                <div class="li"><a data-i18n="nav.technology" href="technology.html">TECHNOLOGY</a></div>
+                                <div class="li"><a data-i18n="nav.solutions" href="solutions.html">SOLUTIONS</a></div>
+                                <div class="li"><a data-i18n="nav.compliance" href="compliance-security.html">COMPLIANCE & SECURITY</a></div>
+                                <div class="li"><a data-i18n="nav.about" href="about-us.html">ABOUT US</a></div>
                             </div>
                             <div class="nav-btn">
                                 <div class="button-survey li">
-                                    <a href="#contact-form-section">Contact us</a>
+                                    <a data-i18n="nav.contact" href="#contact-form-section">Contact us</a>
+                                </div>
+                            </div>
+                            <div class="language-switcher">
+                                <button class="language-switcher-toggle" aria-expanded="false" aria-haspopup="listbox" type="button">
+                                    <span data-current-language>EN</span>
+                                    <span class="language-switcher-icon"></span>
+                                </button>
+                                <div class="language-switcher-menu" role="listbox">
+                                    <button class="language-option" data-lang-option="en" role="option" type="button">EN</button>
+                                    <button class="language-option" data-lang-option="fr" role="option" type="button">FR</button>
                                 </div>
                             </div>
                         </div>
@@ -61,16 +71,26 @@
                 <div class="menu">
                     <nav>
                         <ul>
-                            <li><a href="technology.html">TECHNOLOGY</a></li>
-                            <li><a href="solutions.html">SOLUTIONS</a></li>
-                            <li><a href="compliance-security.html">COMPLIANCE & SECURITY</a></li>
-                            <li><a href="about-us.html">ABOUT US</a></li>
+                            <li><a data-i18n="nav.technology" href="technology.html">TECHNOLOGY</a></li>
+                            <li><a data-i18n="nav.solutions" href="solutions.html">SOLUTIONS</a></li>
+                            <li><a data-i18n="nav.compliance" href="compliance-security.html">COMPLIANCE & SECURITY</a></li>
+                            <li><a data-i18n="nav.about" href="about-us.html">ABOUT US</a></li>
                         </ul>
                     </nav>
                 </div>
+                <div class="language-switcher mobile">
+                    <button class="language-switcher-toggle" aria-expanded="false" aria-haspopup="listbox" type="button">
+                        <span data-current-language>EN</span>
+                        <span class="language-switcher-icon"></span>
+                    </button>
+                    <div class="language-switcher-menu" role="listbox">
+                        <button class="language-option" data-lang-option="en" role="option" type="button">EN</button>
+                        <button class="language-option" data-lang-option="fr" role="option" type="button">FR</button>
+                    </div>
+                </div>
             </div>
             <div class="button-survey">
-                <a href="#contact-form-section">Contact us</a>
+                <a data-i18n="nav.contact" href="#contact-form-section">Contact us</a>
             </div>
         </div>
     </header>
@@ -80,9 +100,9 @@
             <div class="quiz-form-wrapper">
                 <div class="quiz-form">
                     <div class="thank-you-content">
-                        <h2 class="thank-you-title">Thank you for your registration!</h2>
-                        <p class="thank-you-subtitle">Our colleague will contact you soon</p>
-                        <button type="button" class="btn btn-home" id="backToHome">Back to Home</button>
+                        <h2 class="thank-you-title" data-i18n="th.title">Thank you for your registration!</h2>
+                        <p class="thank-you-subtitle" data-i18n="th.subtitle">Our colleague will contact you soon</p>
+                        <button type="button" class="btn btn-home" id="backToHome" data-i18n="th.button">Back to Home</button>
                     </div>
                 </div>
             </div>
@@ -96,28 +116,28 @@
                     <div class="footer-logo">
                         <img src="images/footer-logo.svg" alt="traceNet AI Logo">
                     </div>
-                    <p class="footer-description">
+                    <p class="footer-description" data-i18n="footer.description" data-i18n-html="true">
                         Built on Google Gemini.<br>
                         Designed to make the global financial ecosystem more transparent, intelligent, and accountable.
                     </p>
-                    <a href="#contact-form-section" class="footer-contact-btn">Contact Us</a>
+                    <a href="#contact-form-section" class="footer-contact-btn" data-i18n="footer.contact">Contact Us</a>
                 </div>
                 <div class="footer-menu">
                     <nav class="footer-nav">
-                        <a href="technology.html" class="footer-nav-link">TECHNOLOGY</a>
-                        <a href="solutions.html" class="footer-nav-link">SOLUTIONS</a>
-                        <a href="compliance-security.html" class="footer-nav-link">COMPLIANCE & SECURITY</a>
-                        <a href="about-us.html" class="footer-nav-link">ABOUT US</a>
+                        <a href="technology.html" class="footer-nav-link" data-i18n="nav.technology">TECHNOLOGY</a>
+                        <a href="solutions.html" class="footer-nav-link" data-i18n="nav.solutions">SOLUTIONS</a>
+                        <a href="compliance-security.html" class="footer-nav-link" data-i18n="nav.compliance">COMPLIANCE & SECURITY</a>
+                        <a href="about-us.html" class="footer-nav-link" data-i18n="nav.about">ABOUT US</a>
                     </nav>
                 </div>
                 <div class="footer-sub-menu">
-                    <a href="privacy-policy.html" class="footer-sub-link">Privacy Policy</a>
-                    <a href="terms-of-use.html" class="footer-sub-link">Terms of Use</a>
-                    <a href="cookie-policy.html" class="footer-sub-link">Cookie Policy</a>
+                    <a href="privacy-policy.html" class="footer-sub-link" data-i18n="footer.privacy">Privacy Policy</a>
+                    <a href="terms-of-use.html" class="footer-sub-link" data-i18n="footer.terms">Terms of Use</a>
+                    <a href="cookie-policy.html" class="footer-sub-link" data-i18n="footer.cookie">Cookie Policy</a>
                 </div>
             </div>
             <div class="footer-legal">
-                <p>The analyses published within the scope of this service were prepared on behalf of Bridgewise Analytics Ltd (the "Company").</p>
+                <p data-i18n="footer.legal">The analyses published within the scope of this service were prepared on behalf of Bridgewise Analytics Ltd (the "Company").</p>
             </div>
         </div>
     </footer>
@@ -125,24 +145,25 @@
     <div class="cookie-banner" id="cookieBanner">
         <div class="cookie-banner-content">
             <div class="cookie-banner-text">
-                <h5>
+                <h5 data-i18n="cookie.title">
                     This website uses cookies to improve the user experience and analyze traffic.
                 </h5>
-                <p>
+                <p data-i18n="cookie.description">
                     By clicking the "Continue" button or by continuing to use the website, you consent to the use of
                     cookies in your browser. You can manage cookies at any time in your browser settings. For more
                     information, please read our Privacy Policy, Cookie Policy, and User Agreement.
                 </p>
             </div>
             <div class="cookie-banner-buttons">
-                <button class="cookie-banner-btn cookie-banner-btn-primary" id="closeCookies">Close</button>
-                <button class="cookie-banner-btn cookie-banner-btn-secondary" id="acceptAllCookies">Continue</button>
+                <button class="cookie-banner-btn cookie-banner-btn-primary" id="closeCookies" data-i18n="cookie.close">Close</button>
+                <button class="cookie-banner-btn cookie-banner-btn-secondary" id="acceptAllCookies" data-i18n="cookie.accept">Continue</button>
             </div>
         </div>
     </div>
 </div>
 
 <script src="scripts/main.js"></script>
+<script src="scripts/i18n.js"></script>
 <script>
     // Add functionality for the "Back to Home" button
     document.getElementById('backToHome').addEventListener('click', function() {

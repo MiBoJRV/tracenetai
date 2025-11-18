@@ -687,6 +687,11 @@
       }
     }
   },
+  "th": {
+    "title": "Merci pour votre inscription !",
+    "subtitle": "Un membre de notre équipe vous contactera prochainement",
+    "button": "Retour à l’accueil"
+  },
   "contact": {
     "title": "Une technologie qui renforce l'intégrité financière",
     "subtitle": "Propulsée par Google Gemini. Conçue pour rendre l'écosystème financier mondial plus transparent, intelligent et responsable.",

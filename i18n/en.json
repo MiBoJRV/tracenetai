@@ -687,6 +687,11 @@
       }
     }
   },
+  "th": {
+    "title": "Thank you for your registration!",
+    "subtitle": "Our colleague will contact you soon",
+    "button": "Back to Home"
+  },
   "contact": {
     "title": "Technology That Strengthens Financial Integrity",
     "subtitle": "Built on Google Gemini. Designed to make the global financial ecosystem more transparent, intelligent, and accountable.",
