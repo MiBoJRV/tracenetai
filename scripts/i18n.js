@@ -78,6 +78,40 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 
+    function getLanguageFromUrl() {
+        try {
+            const params = new URLSearchParams(window.location.search);
+            const languageParam = params.get('lang');
+            if (!languageParam) {
+                return null;
+            }
+            const normalized = languageParam.toLowerCase();
+            return supportedLanguages.includes(normalized) ? normalized : null;
+        } catch (error) {
+            return null;
+        }
+    }
+
+    function setLanguageInUrl(language) {
+        if (typeof window === 'undefined' || typeof history === 'undefined' || !history.replaceState) {
+            return;
+        }
+        try {
+            const url = new URL(window.location.href);
+            if (language === defaultLanguage) {
+                url.searchParams.delete('lang');
+            } else {
+                url.searchParams.set('lang', language);
+            }
+            const newUrl = url.toString();
+            if (newUrl !== window.location.href) {
+                history.replaceState(null, '', newUrl);
+            }
+        } catch (error) {
+            // Ignore URL update errors (e.g., unsupported environments)
+        }
+    }
+
     function getValueByKey(dictionary, key) {
         if (!dictionary || !key) {
             return undefined;
@@ -154,6 +188,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 localStorage.setItem(storageKey, language);
                 updateLanguageButtons(language);
                 closeAllLanguageDropdowns();
+                setLanguageInUrl(language);
             })
             .catch(() => {
                 if (language !== defaultLanguage) {
@@ -183,9 +218,12 @@ document.addEventListener('DOMContentLoaded', function () {
             currentLanguage = defaultLanguage;
             initLanguageSwitcher();
             initLanguageDropdowns();
+            const urlLanguage = getLanguageFromUrl();
             const savedLanguage = localStorage.getItem(storageKey);
-            const languageToLoad = savedLanguage && supportedLanguages.includes(savedLanguage) ? savedLanguage : defaultLanguage;
+            const storedLanguage = savedLanguage && supportedLanguages.includes(savedLanguage) ? savedLanguage : null;
+            const languageToLoad = urlLanguage || storedLanguage || defaultLanguage;
             updateLanguageButtons(languageToLoad);
+            setLanguageInUrl(languageToLoad);
             if (languageToLoad !== defaultLanguage) {
                 return loadAndApplyLanguage(languageToLoad);
             }
