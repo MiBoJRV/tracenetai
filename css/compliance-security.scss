@@ -639,7 +639,7 @@ main {
     border-radius: 20px;
     max-width: 273px;
     min-width: 273px;
-    height: 241px;
+    min-height: 241px;
   }
 
   .identity-access-card-counter {
@@ -762,6 +762,8 @@ main {
     font-weight: 700;
     font-size: 16px;
     line-height: 183%;
-    height: 40px;
+    //height: 40px;
+    text-align: center;
+    min-height: 40px;
   }
 }
