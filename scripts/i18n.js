@@ -15,18 +15,18 @@ document.addEventListener('DOMContentLoaded', function () {
         el: 'EL'
     };
     const languageFlags = {
-        en: '🇬🇧',
-        fr: '🇫🇷',
-        es: '🇪🇸',
-        pl: '🇵🇱',
-        hr: '🇭🇷',
-        cz: '🇨🇿',
-        it: '🇮🇹',
-        pt: '🇵🇹',
-        de: '🇩🇪',
-        ru: '🇷🇺',
-        tr: '🇹🇷',
-        el: '🇬🇷'
+        en: 'gb',
+        fr: 'fr',
+        es: 'es',
+        pl: 'pl',
+        hr: 'hr',
+        cz: 'cz',
+        it: 'it',
+        pt: 'pt',
+        de: 'de',
+        ru: 'ru',
+        tr: 'tr',
+        el: 'gr'
     };
     const defaultLanguage = 'en';
     const storageKey = 'siteLanguage';
@@ -161,7 +161,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function updateLanguageButtons(language) {
         const label = languageLabels[language] || language.toUpperCase();
-        const flag = languageFlags[language] || '';
+        const flag = languageFlags[language] || languageFlags[defaultLanguage];
         const buttons = document.querySelectorAll('[data-lang-option]');
         buttons.forEach((button) => {
             const isActive = button.getAttribute('data-lang-option') === language;
@@ -175,7 +175,10 @@ document.addEventListener('DOMContentLoaded', function () {
         });
         const currentFlags = document.querySelectorAll('[data-current-flag]');
         currentFlags.forEach((node) => {
-            node.textContent = flag;
+            if (flag) {
+                node.setAttribute('data-flag', flag);
+            }
+            node.textContent = '';
         });
     }
 
@@ -200,8 +203,21 @@ document.addEventListener('DOMContentLoaded', function () {
             });
     }
 
-    function initLanguageSwitcher() {
+    function syncLanguageOptionFlags() {
         const buttons = document.querySelectorAll('[data-lang-option]');
+        buttons.forEach((button) => {
+            const option = button.getAttribute('data-lang-option');
+            const flagNode = button.querySelector('.language-flag');
+            if (flagNode && option && languageFlags[option]) {
+                flagNode.setAttribute('data-flag', languageFlags[option]);
+                flagNode.textContent = '';
+            }
+        });
+        return buttons;
+    }
+
+    function initLanguageSwitcher() {
+        const buttons = syncLanguageOptionFlags();
         buttons.forEach((button) => {
             button.addEventListener('click', () => {
                 const selectedLanguage = button.getAttribute('data-lang-option');

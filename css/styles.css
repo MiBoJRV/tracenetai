@@ -261,8 +261,99 @@ body {
 }
 
 .language-flag {
-  font-size: 17px;
+  width: 20px;
+  height: 14px;
+  display: inline-block;
+  border-radius: 2px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 0;
+  color: transparent;
   line-height: 1;
+}
+.language-flag::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: inherit;
+  background: var(--language-flag-fallback, linear-gradient(135deg, #f4f4f4, #d6d6d6));
+}
+.language-flag[data-flag]::after {
+  background: none;
+}
+.language-flag[data-flag] {
+  position: relative;
+  overflow: hidden;
+}
+.language-flag[data-flag]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.language-flag[data-flag=gb]::before,
+.language-option[data-lang-option=en] .language-flag::before {
+  background-image: url("https://flagcdn.com/gb.svg");
+}
+
+.language-flag[data-flag=es]::before,
+.language-option[data-lang-option=es] .language-flag::before {
+  background-image: url("https://flagcdn.com/es.svg");
+}
+
+.language-flag[data-flag=pl]::before,
+.language-option[data-lang-option=pl] .language-flag::before {
+  background-image: url("https://flagcdn.com/pl.svg");
+}
+
+.language-flag[data-flag=fr]::before,
+.language-option[data-lang-option=fr] .language-flag::before {
+  background-image: url("https://flagcdn.com/fr.svg");
+}
+
+.language-flag[data-flag=hr]::before,
+.language-option[data-lang-option=hr] .language-flag::before {
+  background-image: url("https://flagcdn.com/hr.svg");
+}
+
+.language-flag[data-flag=cz]::before,
+.language-option[data-lang-option=cz] .language-flag::before {
+  background-image: url("https://flagcdn.com/cz.svg");
+}
+
+.language-flag[data-flag=it]::before,
+.language-option[data-lang-option=it] .language-flag::before {
+  background-image: url("https://flagcdn.com/it.svg");
+}
+
+.language-flag[data-flag=pt]::before,
+.language-option[data-lang-option=pt] .language-flag::before {
+  background-image: url("https://flagcdn.com/pt.svg");
+}
+
+.language-flag[data-flag=de]::before,
+.language-option[data-lang-option=de] .language-flag::before {
+  background-image: url("https://flagcdn.com/de.svg");
+}
+
+.language-flag[data-flag=ru]::before,
+.language-option[data-lang-option=ru] .language-flag::before {
+  background-image: url("https://flagcdn.com/ru.svg");
+}
+
+.language-flag[data-flag=tr]::before,
+.language-option[data-lang-option=tr] .language-flag::before {
+  background-image: url("https://flagcdn.com/tr.svg");
+}
+
+.language-flag[data-flag=gr]::before,
+.language-option[data-lang-option=el] .language-flag::before {
+  background-image: url("https://flagcdn.com/gr.svg");
 }
 
 .language-label {
