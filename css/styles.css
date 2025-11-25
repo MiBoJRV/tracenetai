@@ -169,6 +169,7 @@ body {
   line-height: 1;
   cursor: pointer;
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  width: 95px;
 }
 .language-switcher-toggle:focus-visible {
   outline: none;
