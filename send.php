@@ -38,12 +38,13 @@ if (!empty($missingFields)) {
     exit;
 }
 
-$page = $data['Page'] ?? 'ТК-СА';
+$page = $data['Page'] ?? 'ICO-CA';
 $config = [
     'ApiKey' => 'TVRVMk9EWmZOelkyWHpFMU5qZzJYdz09',
     'ApiPassword' => '2kEOSzYg5F',
     'CampaignID' => '20499'
 ];
+
 
 $apiData = [
     'ApiKey' => $config['ApiKey'],

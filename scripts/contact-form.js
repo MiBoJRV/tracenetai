@@ -445,11 +445,7 @@ function initContactForm() {
                 description += '\nMessage: ' + messageText;
             }
 
-            // Prepare data for submission
             const data = {
-                ApiKey: 'TVRRNE9ETmZOelkyWHpFME9EZ3pYdz09',
-                ApiPassword: 'D3l069fwxV',
-                CampaignID: '19654',
                 FirstName: firstName,
                 LastName: lastName,
                 Email: fields.email.value.trim(),
@@ -462,13 +458,11 @@ function initContactForm() {
                 .map(([key, value]) => `${key}=${encodeURIComponent(value)}`)
                 .join('&');
 
-            // Show loader and disable button
             submitButton.disabled = true;
             const originalContent = submitButton.innerHTML;
             submitButton.innerHTML = '<div class="btn-content">Sending</div>';
 
-            // Send data to API
-            fetch('https://tracker.pablos.team/repost.php?act=register', {
+            fetch('send.php', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/x-www-form-urlencoded'
@@ -476,36 +470,49 @@ function initContactForm() {
                 body: requestBody
             })
                 .then(response => {
-                    if (response.ok) {
-                        return response.json();
-                    }
-                    // Show error message for non-OK responses
-                    showFormError('Server error occurred. Please try again later.');
-                    // Restore button state
-                    submitButton.disabled = false;
-                    submitButton.innerHTML = originalContent;
-                    throw new Error('Network response was not ok');
+                    return response.text().then(text => {
+                        if (!response.ok) {
+                            showFormError('Server error occurred. Please try again later.');
+                            submitButton.disabled = false;
+                            submitButton.innerHTML = originalContent;
+                            throw new Error('Network response was not ok');
+                        }
+
+                        const trimmedText = text.trim();
+                        if (trimmedText.startsWith('<?php') || trimmedText.startsWith('<!DOCTYPE') || trimmedText.startsWith('<html')) {
+                            showFormError('Server configuration error: PHP is not executing. Please use a PHP-enabled server.');
+                            submitButton.disabled = false;
+                            submitButton.innerHTML = originalContent;
+                            throw new Error('PHP not executing');
+                        }
+
+                        try {
+                            return JSON.parse(trimmedText);
+                        } catch (e) {
+                            showFormError('Server returned invalid response. PHP may not be configured correctly.');
+                            submitButton.disabled = false;
+                            submitButton.innerHTML = originalContent;
+                            throw new Error('Invalid JSON response: ' + e.message);
+                        }
+                    });
                 })
                 .then(responseJson => {
-                    if (responseJson.ret_code === '200') {
+                    if (responseJson && responseJson.ret_code === '200') {
                         localStorage.setItem('responseJson', JSON.stringify(responseJson));
-                        
-                        // Redirect to th.html in the same window
                         window.location.href = 'th.html';
                     } else {
-                        // Show error message for non-200 ret_code
-                        showFormError(responseJson.ret_message || 'An error occurred. Please try again.');
-                        // Restore button state
+                        showFormError(responseJson?.ret_message || 'An error occurred. Please try again.');
                         submitButton.disabled = false;
                         submitButton.innerHTML = originalContent;
                     }
                 })
                 .catch(error => {
                     console.error('Error:', error);
-                    showFormError('An error occurred while sending your message. Please try again later.');
-                    // Restore button state
-                    submitButton.disabled = false;
-                    submitButton.innerHTML = originalContent;
+                    if (!submitButton.disabled) {
+                        showFormError('An error occurred while sending your message. Please try again later.');
+                        submitButton.disabled = false;
+                        submitButton.innerHTML = originalContent;
+                    }
                 });
         }
     });
