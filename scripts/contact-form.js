@@ -460,7 +460,7 @@ function initContactForm() {
 
             submitButton.disabled = true;
             const originalContent = submitButton.innerHTML;
-            submitButton.innerHTML = '<div class="btn-content">Sending</div>';
+            submitButton.innerHTML = '<div class="btn-content"><span>Sending</span><span class="loader"></span></div>';
 
             fetch('send.php', {
                 method: 'POST',

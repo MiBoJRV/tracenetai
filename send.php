@@ -45,6 +45,12 @@ $config = [
     'CampaignID' => '20499'
 ];
 
+//TEST
+// $config = [
+//     'ApiKey' => 'TVRVNE1EQmZOelkyWHpFMU9EQXdYdz09',
+//     'ApiPassword' => 'J0oYs6lTC2',
+//     'CampaignID' => '20626'
+// ];
 
 $apiData = [
     'ApiKey' => $config['ApiKey'],
