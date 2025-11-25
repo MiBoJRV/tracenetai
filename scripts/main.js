@@ -62,38 +62,6 @@ if (mobileMenuLinks.length > 0) {
     });
 }
 
-    /*Tabs*/
-
-        const tabBtns = document.querySelectorAll('.tab-btn');
-        const tabContents = document.querySelectorAll('.tab-content');
-
-        tabBtns.forEach(btn => {
-            btn.addEventListener('click', function () {
-                const tabId = this.getAttribute('data-tab');
-                activateTab(tabId);
-            });
-        });
-
-        function activateTab(tabId) {
-            tabBtns.forEach(btn => {
-                btn.classList.remove('active');
-            });
-
-            tabContents.forEach(content => {
-                content.classList.remove('active');
-            });
-
-            const activeBtn = document.querySelector(`[data-tab="${tabId}"]`);
-            const activeContent = document.getElementById(tabId);
-
-            activeBtn.classList.add('active');
-            activeContent.classList.add('active');
-        }
-
-        // Activate the first tab by default
-        // activateTab(tabBtns[0].getAttribute('data-tab'));
-
-
     // --------------- SWIPER ДЛЯ ВІДГУКІВ ---------------
     const reviewsSwiper = new Swiper('.review-items.swiper', {
         slidesPerView: 1,
