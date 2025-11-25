@@ -1,8 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
 
-    // Video loading functionality
-    initVideoLoading();
-
     // logo scrollers
     const scrollers = document.querySelectorAll(".scroller");
 
@@ -28,12 +25,6 @@ document.addEventListener('DOMContentLoaded', function () {
             });
         });
     }
-
-
-
-
-
-
 
 //mobile menu
 const buttonMobileMenu = document.querySelector('.button-mobile-menu');
@@ -102,44 +93,6 @@ if (mobileMenuLinks.length > 0) {
         // Activate the first tab by default
         // activateTab(tabBtns[0].getAttribute('data-tab'));
 
-
-    /*Accordion*/
-
-        const accordionItems = document.querySelectorAll('.accordion-item');
-
-        accordionItems.forEach(item => {
-            const header = item.querySelector('.accordion-header');
-            const content = item.querySelector('.accordion-content');
-            const icon = item.querySelector('.accordion_arr');
-
-            header.addEventListener('click', function () {
-                const isOpen = item.classList.contains('open');
-
-                // Закриття всіх інших відкритих секцій
-                accordionItems.forEach(otherItem => {
-                    if (otherItem !== item && otherItem.classList.contains('open')) {
-                        otherItem.classList.remove('open');
-                        otherItem.querySelector('.accordion-content').style.maxHeight = '0';
-                        // Зміна іконки плюса на мінус
-                        otherItem.querySelector('.accordion_arr').setAttribute('src', 'images/plus.svg');
-                    }
-                });
-
-                if (!isOpen) {
-                    // Відкриття поточної секції
-                    item.classList.add('open');
-                    content.style.maxHeight = content.scrollHeight + 'px';
-                    // Зміна іконки плюса на мінус
-                    icon.setAttribute('src', 'images/minus.svg');
-                } else {
-                    // Закриття поточної секції
-                    item.classList.remove('open');
-                    content.style.maxHeight = '0';
-                    // Зміна іконки мінуса на плюс
-                    icon.setAttribute('src', 'images/plus.svg');
-                }
-            });
-        });
 
     // --------------- SWIPER ДЛЯ ВІДГУКІВ ---------------
     const reviewsSwiper = new Swiper('.review-items.swiper', {
