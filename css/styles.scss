@@ -1625,7 +1625,7 @@ main {
 
   .transparency-box {
     position: relative;
-    width: 260px;
+    //width: 260px;
     height: 200px;
     padding: 20px;
     border-radius: 20px;
@@ -1635,7 +1635,7 @@ main {
 
     @media only screen and (max-width: 768px) {
       width: 100%;
-      max-width: 260px;
+      max-width: 300px;
       height: auto;
       min-height: 200px;
     }
