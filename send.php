@@ -38,11 +38,11 @@ if (!empty($missingFields)) {
     exit;
 }
 
-$page = $data['Page'] ?? 'ICO-CA';
+$page = $data['Page'] ?? 'TracenetAI';
 $config = [
-    'ApiKey' => 'TVRVMk9EWmZOelkyWHpFMU5qZzJYdz09',
-    'ApiPassword' => '2kEOSzYg5F',
-    'CampaignID' => '20499'
+    'ApiKey' => 'TVRVNE5qWmZOelkyWHpFMU9EWTJYdz09',
+    'ApiPassword' => '7mOR4Gy9f0',
+    'CampaignID' => '20701'
 ];
 
 //TEST

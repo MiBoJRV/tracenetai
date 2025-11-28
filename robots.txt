@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+Disallow: /th.html
+
+Disallow: /send.php
+
+Disallow: /i18n/cz.json
+Disallow: /i18n/de.json
+Disallow: /i18n/el.json
+Disallow: /i18n/es.json
+Disallow: /i18n/fr.json
+Disallow: /i18n/hr.json
+Disallow: /i18n/it.json
+Disallow: /i18n/pl.json
+Disallow: /i18n/pt.json
+Disallow: /i18n/ru.json
+Disallow: /i18n/tr.json
+
+Allow: /i18n/en.json
+
+
+Sitemap: https://tracenetai.com/sitemap.xml

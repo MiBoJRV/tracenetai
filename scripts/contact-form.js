@@ -450,7 +450,7 @@ function initContactForm() {
                 LastName: lastName,
                 Email: fields.email.value.trim(),
                 PhoneNumber: fullNumber.trim().replace(/\s+/g, ''),
-                Page: 'ICO-CA',
+                Page: 'TracenetAI',
                 Description: description
             };
 
